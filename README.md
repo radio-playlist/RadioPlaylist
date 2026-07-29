@@ -33,13 +33,13 @@ If you are using **RadioCatalog** on iOS, iPadOS, or macOS, tap any of the quick
 ├── .github/
 │   └── workflows/
 │       └── update_catalogs.yml   # Automatic weekly updater workflow
-├── output/                        # Build output (published to GitHub Pages)
-│   ├── countries/
-│   │   ├── json/
-│   │   └── m3u/
-│   └── genres/
-│       ├── json/
-│       └── m3u/
+├── countries/
+│   ├── json/                      # JSON catalogs for RadioCatalog
+│   └── m3u/                       # Standard M3U playlists
+├── genres/
+│   ├── json/
+│   └── m3u/
 ├── generate_catalogs.py           # Python generator script
 ├── .gitignore
 └── README.md
+```
