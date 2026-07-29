@@ -102,6 +102,38 @@ def process_category(category_type, value, api_url):
     save_json(formatted_stations, json_path)
     save_m3u(formatted_stations, m3u_path, f"RadioCatalog - {value.upper()}")
 
+def process_top200_without_ru(api_url):
+    print("🔍 Завантажуємо Global Top 200 (з фільтрацією)...")
+    raw_stations = fetch_json(api_url)
+    
+    if not raw_stations:
+        print("⚠️ Даних немає для Top 200")
+        return
+
+    filtered_raw = []
+    for s in raw_stations:
+        country_code = (s.get("countrycode") or "").upper()
+        country_name = (s.get("country") or "").lower()
+        
+        # Пропускаємо всі станції з Росії
+        if country_code == "RU" or "russia" in country_name:
+            continue
+            
+        filtered_raw.append(s)
+        
+        # Зупиняємося, коли зібрали чистих 200 станцій
+        if len(filtered_raw) == 200:
+            break
+
+    formatted_stations = convert_to_radiocatalog_format(filtered_raw)
+    print(f"✅ Згенеровано Top 200 без RU (відфільтровано {len(raw_stations) - len(filtered_raw)} станцій)")
+
+    json_path = os.path.join(OUTPUT_DIR, "global", "json", "top200.json")
+    m3u_path = os.path.join(OUTPUT_DIR, "global", "m3u", "top200.m3u")
+
+    save_json(formatted_stations, json_path)
+    save_m3u(formatted_stations, m3u_path, "RadioCatalog - GLOBAL TOP 200")
+
 def main():
     print("🚀 Старт генерації каталогів для GitHub...\n")
 
@@ -116,11 +148,11 @@ def main():
         url = f"https://de1.api.radio-browser.info/json/stations/bytagexact/{tag_encoded}?hidebroken=true&order=votes&reverse=true&limit=100"
         process_category("genres", tag, url)
 
-    # 3. Генерація світового топу (Топ-200 найпопулярніших станцій)
-    top_url = "https://de1.api.radio-browser.info/json/stations?hidebroken=true&order=votes&reverse=true&limit=200"
-    process_category("global", "top200", top_url)
+    # 3. Генерація світового топу (Запитуємо 300, щоб після відсіювання RU було рівно 200)
+    top_url = "https://de1.api.radio-browser.info/json/stations?hidebroken=true&order=votes&reverse=true&limit=300"
+    process_top200_without_ru(top_url)
 
     print(f"\n🎉 Готово! Усі файли збережено.")
-
+    
 if __name__ == "__main__":
     main()
