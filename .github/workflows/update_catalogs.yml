@@ -30,9 +30,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Більш безпечне додавання папок, якщо вони існують
+          # Додаємо згенеровані папки країн, жанрів та глобального топу
           [ -d "countries" ] && git add countries/
           [ -d "genres" ] && git add genres/
+          [ -d "global" ] && git add global/
           
           if git diff --staged --quiet; then
             echo "No changes in catalogs."
