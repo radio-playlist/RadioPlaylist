@@ -6,7 +6,7 @@ import os
 import re
 
 # Обов'язково вказуємо кастомний User-Agent для Radio-Browser API
-USER_AGENT = "RadioCatalog-Generator/1.0 (https://github.com/your-repo)"
+USER_AGENT = "RadioCatalog-Generator/1.0 (https://github.com/radio-playlist)"
 
 # Список країн для парсингу (ISO 2-letter codes)
 TARGET_COUNTRIES = ["UA", "PL", "DE", "US", "GB", "FR", "IT", "ES", "CA"]
@@ -14,7 +14,7 @@ TARGET_COUNTRIES = ["UA", "PL", "DE", "US", "GB", "FR", "IT", "ES", "CA"]
 # Список популярних тегів/стилів
 TARGET_TAGS = ["rock", "pop", "jazz", "classical", "ambient", "electronic", "news", "chillout", "metal", "retro"]
 
-# Папка для збереження готових файлів
+# Папка для збереження (зберігаємо прямо в корінь репозиторію)
 OUTPUT_DIR = "."
 
 def fetch_json(url):
@@ -34,7 +34,6 @@ def convert_to_radiocatalog_format(stations):
     """Форматує станції під модель RadioStation у RadioCatalog"""
     formatted = []
     for s in stations:
-        # Пропускаємо станції без битих лінків або назв
         if not s.get("url_resolved") or not s.get("name"):
             continue
             
@@ -60,13 +59,15 @@ def convert_to_radiocatalog_format(stations):
     return formatted
 
 def save_json(data, filepath):
+    os.makedirs(os.path.dirname(filepath), exist_ok=True)
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 def save_m3u(stations, filepath, playlist_title):
+    os.makedirs(os.path.dirname(filepath), exist_ok=True)
     with open(filepath, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
-        f.write(f"#EXTENC:UTF-8\n")
+        f.write("#EXTENC:UTF-8\n")
         f.write(f"#PLAYLIST:{playlist_title}\n\n")
         
         for s in stations:
@@ -84,27 +85,21 @@ def process_category(category_type, value, api_url):
     raw_stations = fetch_json(api_url)
     
     if not raw_stations:
-        print(f"⚠️  Даних немає для {value}")
+        print(f"⚠️ Даних немає для {value}")
         return
 
     formatted_stations = convert_to_radiocatalog_format(raw_stations)
     count = len(formatted_stations)
     print(f"✅ Знайдено {count} робочих станцій для {value}")
 
-    # Шляхи до папок
-    json_dir = os.path.join(OUTPUT_DIR, category_type, "json")
-    m3u_dir = os.path.join(OUTPUT_DIR, category_type, "m3u")
-    os.makedirs(json_dir, exist_ok=True)
-    os.makedirs(m3u_dir, exist_ok=True)
-
     filename_base = clean_filename(value)
 
-    # Збереження JSON
-    json_path = os.path.join(json_dir, f"{filename_base}.json")
-    save_json(formatted_stations, json_path)
+    # Динамічно будуємо шляхи (наприклад: ./countries/json/ua.json)
+    json_path = os.path.join(OUTPUT_DIR, category_type, "json", f"{filename_base}.json")
+    m3u_path = os.path.join(OUTPUT_DIR, category_type, "m3u", f"{filename_base}.m3u")
 
-    # Збереження M3U
-    m3u_path = os.path.join(m3u_dir, f"{filename_base}.m3u")
+    # Збереження
+    save_json(formatted_stations, json_path)
     save_m3u(formatted_stations, m3u_path, f"RadioCatalog - {value.upper()}")
 
 def main():
@@ -112,22 +107,20 @@ def main():
 
     # 1. Обробка країн
     for country in TARGET_COUNTRIES:
-        # Беремо топ 100 найпопулярніших робочих станцій країни
         url = f"https://de1.api.radio-browser.info/json/stations/bycountrycodeexact/{country.lower()}?hidebroken=true&order=votes&reverse=true&limit=100"
         process_category("countries", country, url)
 
     # 2. Обробка жанрів / тегів
     for tag in TARGET_TAGS:
-        # Беремо топ 100 найпопулярніших станцій за тегом
         tag_encoded = urllib.parse.quote(tag)
         url = f"https://de1.api.radio-browser.info/json/stations/bytagexact/{tag_encoded}?hidebroken=true&order=votes&reverse=true&limit=100"
         process_category("genres", tag, url)
-    
-    # 3. Генерація світового топу (Топ-200 світових станцій)
+
+    # 3. Генерація світового топу (Топ-200 найпопулярніших станцій)
     top_url = "https://de1.api.radio-browser.info/json/stations?hidebroken=true&order=votes&reverse=true&limit=200"
     process_category("global", "top200", top_url)
-    
-    print(f"\n🎉 Готово! Усі файли збережено в папку '{OUTPUT_DIR}/'")
+
+    print(f"\n🎉 Готово! Усі файли збережено.")
 
 if __name__ == "__main__":
     main()
