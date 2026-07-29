@@ -1,0 +1,304 @@
+#EXTM3U
+#EXTENC:UTF-8
+#PLAYLIST:RadioCatalog - GB
+
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s24948/images/logoq.jpg?t=1" group-title="GB",BBC World Service
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+
+#EXTINF:-1 tvg-logo="http://www.classicfm.com/assets_v4r/classic/img/favicon-196x196.png" group-title="GB",Classic FM UK
+http://ice-the.musicradio.com/ClassicFMMP3
+
+#EXTINF:-1 tvg-logo="http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="GB",LBC Radio
+http://media-sov.musicradio.com/LBC973MP3Low
+
+#EXTINF:-1 tvg-logo="http://www.radiocaroline.co.uk/favicon.ico" group-title="GB",Radio Caroline
+http://78.129.202.200:8040/;
+
+#EXTINF:-1 tvg-logo="" group-title="GB",talkSPORT
+http://radio.talksport.com/stream?aisGetOriginalStream=true
+
+#EXTINF:-1 tvg-logo="http://assets6.capitalfm.com/2016/11/capital-3d-network-logo-large-canvas-1458228638-herowidev4-0.jpg" group-title="GB",Capital FM London
+http://media-ice.musicradio.com/CapitalMP3
+
+#EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="GB",Heart 80s
+https://media-ssl.musicradio.com/Heart80sMP3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s2846/images/logoq.jpg" group-title="GB",Heart London 106.2 [MP3]
+http://ice-sov.musicradio.com/HeartLondonMP3
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s220687q.png" group-title="GB",LBC UK
+http://media-ice.musicradio.com/LBCUK
+
+#EXTINF:-1 tvg-logo="http://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="GB",Smooth Radio
+http://media-the.musicradio.com/SmoothEastMids
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s159857/images/logod.png" group-title="GB",TMM 1
+https://listen-msmn.sharp-stream.com/nme1.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Virgin Radio UK
+http://radio.virginradio.co.uk/stream
+
+#EXTINF:-1 tvg-logo="http://lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="GB",LBC London (National stream)
+http://media-ice.musicradio.com/LBCUKMP3Low
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Heart 70s
+https://media-ssl.musicradio.com/Heart70sMP3
+
+#EXTINF:-1 tvg-logo="https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="GB",Gold
+https://media-ssl.musicradio.com/GoldMP3
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s265666q.png" group-title="GB",talkRADIO
+http://radio.talkradio.co.uk/stream
+
+#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_world_service_colour.svg" group-title="GB",BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Retro Soul Radio
+http://46.28.49.164:7504/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Classic_FM_logo.svg/472px-Classic_FM_logo.svg.png" group-title="GB",Classic FM
+http://media-ice.musicradio.com/ClassicFMMP3
+
+#EXTINF:-1 tvg-logo="https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="GB",Smooth Chill
+https://media-ssl.musicradio.com/ChillMP3
+
+#EXTINF:-1 tvg-logo="https://www.jazzlondonradio.com/images/favicon.ico" group-title="GB",Jazz London Radio
+http://radio.canstream.co.uk:8075/live.mp3
+
+#EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="GB",Heart Dance
+https://media-ssl.musicradio.com/HeartDanceMP3
+
+#EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="GB",Heart 90s
+https://media-ssl.musicradio.com/Heart90sMP3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s155539/images/logod.png" group-title="GB",TMM 2
+https://listen-msmn.sharp-stream.com/nme2.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jehvybnq4jgc.png" group-title="GB",Times Radio UK
+http://timesradio.wireless.radio/stream
+
+#EXTINF:-1 tvg-logo="" group-title="GB",talkRADIO
+http://radio.talkradio.co.uk/stream-mobile?ref=rf
+
+#EXTINF:-1 tvg-logo="" group-title="GB",RadioX UK
+http://icecast.thisisdax.com/RadioXUKMP3
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61wHBPSryzL.png" group-title="GB",Classic FM Relax
+http://media-the.musicradio.com/ClassicFM-M-Relax
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Kane FM
+http://stream.kanefm.com:1037/;stream
+
+#EXTINF:-1 tvg-logo="http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="GB",LBC London (London stream) AAC
+http://media-sov.musicradio.com/LBCLondon
+
+#EXTINF:-1 tvg-logo="http://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="GB",Heart London 106.2 [AAC]
+http://media-ice.musicradio.com/HeartLondon
+
+#EXTINF:-1 tvg-logo="http://lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="GB",LBC London News
+http://media-ice.musicradio.com/LBC1152
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Classic FM UK
+http://media-the.musicradio.com/ClassicFM
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Heart UK
+http://media-ice.musicradio.com/HeartUKMP3
+
+#EXTINF:-1 tvg-logo="" group-title="GB",talkSPORT 2
+http://radio.talksport.com/stream2?awparams=platform:ts-web&amsparams=playerid:ts-web;
+
+#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/afrique/images/icons/icon-128x128.png" group-title="GB",BBC Afrique Radio
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_afrique_radio.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="GB",BBC Radio 4 (128k)
+http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="GB",BEST SMOOTH JAZZ - UK
+http://64.95.243.43:8002/stream
+
+#EXTINF:-1 tvg-logo="https://techno.fm/favicon.ico" group-title="GB",Techno.FM
+http://stream.techno.fm/radio.mp3
+
+#EXTINF:-1 tvg-logo="http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="GB",LBC London (London stream) MP3
+http://media-ice.musicradio.com/LBCLondonMP3Low
+
+#EXTINF:-1 tvg-logo="http://www.1mix.co.uk/favicon.ico" group-title="GB",1Mix Radio Trance
+http://fr2.1mix.co.uk:8000/192
+
+#EXTINF:-1 tvg-logo="http://www.differentdrumz.co.uk/wp-content/uploads/fbrfg/apple-touch-icon-114x114.png" group-title="GB",Different Drumz DnB Radio
+http://andromeda.shoutca.st:8031/
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logoq.jpg" group-title="GB",Capital UK
+http://vis.media-ice.musicradio.com/CapitalUK
+
+#EXTINF:-1 tvg-logo="http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png" group-title="GB",Radio X
+http://media-the.musicradio.com/RadioXUK
+
+#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/arabic/images/icons/icon-128x128.png" group-title="GB",BBC Arabic Radio
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png" group-title="GB",Radio X Manchester
+http://media-the.musicradio.com/RadioXManchester
+
+#EXTINF:-1 tvg-logo="" group-title="GB",LOVE.radio Only Love Songs 70s80s90s
+https://loveradio.streamingmedia.it/england
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Celtic Music Radio
+http://stream.celticmusicradio.net:8000/celticmusic.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/2560px-BBC_News_HD_Logo.svg.png" group-title="GB",BBC News HD (720P)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="GB",TalkSPORT
+https://radio.talksport.com/stream
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Classic FM at the Movies
+http://media-sov.musicradio.com/ClassicFM-M-Movies
+
+#EXTINF:-1 tvg-logo="" group-title="GB",GBNews
+http://listen-gbnews.sharp-stream.com/gbnews.mp3
+
+#EXTINF:-1 tvg-logo="https://danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="GB",DanceRadioUK - Dance UK
+http://uk2.internet-radio.com:8024/stream
+
+#EXTINF:-1 tvg-logo="http://heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="GB",Heart 80s
+http://media-ice.musicradio.com/Heart80sMP3
+
+#EXTINF:-1 tvg-logo="http://www.chilloutibizafm.com/favicon.ico" group-title="GB",Chillout Ibiza FM
+https://edge3.peta.live365.net/b05055_128mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24943q.png" group-title="GB",BBC Radio 5 Live (128k)
+http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linn.co.uk/" group-title="GB",Linn Jazz
+http://radio.linn.co.uk:8000/autodj
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24940q.png" group-title="GB",BBC Radio 2 (128k)
+http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
+http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="GB",BBC Radio 1
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="GB",talkSPORT
+http://radio.talksport.com/stream
+
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s310252/images/logod.png" group-title="GB",GB News
+http://listen-gbnews.sharp-stream.com/gbnews.mp3
+
+#EXTINF:-1 tvg-logo="https://small.linncdn.com/website/responsive/images/icons/linn-icon-x120.png" group-title="GB",Linn Classical
+http://radio.linn.co.uk:8004/autodj
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Exclusively Dire Straits
+https://streaming.exclusive.radio/er/direstraits/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="GB",BBC World Service
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.capitaldance.com/assets_v4r/capitaldance/img/favicon-196x196.png" group-title="GB",Capital Dance
+https://icecast.thisisdax.com/CapitalDanceMP3
+
+#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/FOKCcOpam5-0m4VfrxvfzMdDK6I=/10x0:610x400/1400x1400/filters:focal(10x0:610x400):format(jpeg)/cdn.vox-cdn.com/assets/958975/bbc_world_service.jpeg" group-title="GB",BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Virgin Radio Chilled
+https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Hard Rock Hell
+http://andromeda.shoutca.st:9254/stream
+
+#EXTINF:-1 tvg-logo="https://bbc.co.uk/favicon.ico" group-title="GB",BBC World Service for East Asia
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
+
+#EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="GB",Naim Jazz [320k aac]
+http://mscp3.live-streams.nl:8340/jazz-high.aac
+
+#EXTINF:-1 tvg-logo="http://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="GB",Gold AM 1548 London
+http://media-ice.musicradio.com/GoldMP3
+
+#EXTINF:-1 tvg-logo="https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="GB",Smooth Radio London 102.2
+http://media-the.musicradio.com/SmoothLondonMP3
+
+#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="GB",BBC World Service
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8
+
+#EXTINF:-1 tvg-logo="https://seva.ru/radio/radio.png" group-title="GB",Радио Сева (Radio Seva Novgorodsev)
+https://seva.ru/radio/stream
+
+#EXTINF:-1 tvg-logo="http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png" group-title="GB",Radio X London (MP3)
+http://media-the.musicradio.com/RadioXLondonMP3
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="GB",BBC Radio 3 (128k)
+http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6839q.png" group-title="GB",BBC Radio 4 Extra (128k)
+http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s264062d.png" group-title="GB",80s Soundtracks Radio
+http://uk5.internet-radio.com:8256/;
+
+#EXTINF:-1 tvg-logo="https://android2.blob.core.windows.net/castmyurl/WeymouthRocks400.png" group-title="GB",Weymouth Rocks (Medium Bitrate)
+http://cast1.asurahosting.com:8621/med
+
+#EXTINF:-1 tvg-logo="https://truckers.fm/favicon.ico" group-title="GB",TruckersFM
+http://radio.truckers.fm/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fbhlSLX.jpg" group-title="GB",Radio X
+http://icecast.thisisdax.com/RadioXUKMP3
+
+#EXTINF:-1 tvg-logo="https://www.celsoazevedo.com/files/2022/virgin-radio-uk.jpg" group-title="GB",Virgin Radio UK
+https://radio.virginradio.co.uk/stream
+
+#EXTINF:-1 tvg-logo="http://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="GB",Heart
+http://media-the.musicradio.com/HeartNorthLancsCumbria
+
+#EXTINF:-1 tvg-logo="http://worldwidefm.net/favicon.ico" group-title="GB",Worldwide FM
+http://worldwidefm.out.airtime.pro:8000/worldwidefm_a
+
+#EXTINF:-1 tvg-logo="https://www.danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="GB",Dance UK Radio danceradiouk
+http://51.89.148.171:8022/stream
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Radio Caroline
+http://sc6.radiocaroline.net:8040/;stream.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Deepvibes Radio
+http://88.208.218.19:8090/stream
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s155539/images/logod.png" group-title="GB",TMM 2 (HQ)
+https://listen-msmn.sharp-stream.com/nme2high.mp3
+
+#EXTINF:-1 tvg-logo="http://www.nts.live/favicon.ico" group-title="GB",NTS Radio 1
+http://stream-relay-geo.ntslive.net/stream
+
+#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/128x128/profile/7/2/7/6/9c02-6f66-46db-b02b-4664055549dc.png" group-title="GB",Chill
+http://media-ice.musicradio.com/ChillMP3
+
+#EXTINF:-1 tvg-logo="http://www.1mix.co.uk/favicon.ico" group-title="GB",1Mix EDM Radio
+http://fr1.1mix.co.uk:8060/
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s44491q.png" group-title="GB",BBC Radio 6 Music (128k)
+http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Exclusively Supertramp
+https://streaming.exclusive.radio/er/supertramp/icecast.audio
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/uy75Hwk.jpg" group-title="GB",talkSPORT
+http://radio.talksport.com/stream
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Radio Caroline Flashback
+http://sc2.radiocaroline.net:10558/;
+
+#EXTINF:-1 tvg-logo="https://www.nonstopplay.com/wp-content/uploads/2022/12/favicon.png" group-title="GB",NonStopPlay Dance Radio
+http://stream.nonstopplay.co.uk/nsp-192k-mp3
+
+#EXTINF:-1 tvg-logo="https://www.1mix.co.uk/forum/styles/acidtech/theme/images/site_logo.gif" group-title="GB",1Mix Radio - Trance (UK) 32kb aac+
+http://fr2.1mix.co.uk:9000/aacb
+
+#EXTINF:-1 tvg-logo="" group-title="GB",TrancePulse FM
+http://live.trance.ie:8000/stream
+
+#EXTINF:-1 tvg-logo="https://www.radiocaroline.co.uk/favicon.ico" group-title="GB",Radio Caroline AAC 96 kbps
+http://78.129.202.200:8030/;
+

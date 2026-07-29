@@ -1,0 +1,304 @@
+#EXTM3U
+#EXTENC:UTF-8
+#PLAYLIST:RadioCatalog - ES
+
+#EXTINF:-1 tvg-logo="https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png" group-title="ES",Cadena 100
+http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Ibiza Global Radio
+http://ibizaglobalradio.streaming-pro.com:8024/
+
+#EXTINF:-1 tvg-logo="https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png" group-title="ES",LOS 40 Principales España
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+
+#EXTINF:-1 tvg-logo="https://www.chocolatefm.com/__ovh/common/img/favicon.ico" group-title="ES",Chocolate FM
+http://streaming5.elitecomunicacion.es:8082/live.mp3
+
+#EXTINF:-1 tvg-logo="https://cadenaser00.epimg.net/favicon.png" group-title="ES",Cadena SER España
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",1000 HITS 80s
+http://c2.auracast.net:8048/stream
+
+#EXTINF:-1 tvg-logo="https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png" group-title="ES",Rock FM
+http://flucast31-h-cloud.flumotion.com/cope/rockfm-low.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",_80 EXITOS
+https://80sexitos.stream.laut.fm/80sexitos
+
+#EXTINF:-1 tvg-logo="https://los40es00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png" group-title="ES",Los 40 Urban
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+
+#EXTINF:-1 tvg-logo="https://recursosweb.prisaradio.com/fotos/original/010002753887.png" group-title="ES",Los 40 Dance
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC
+
+#EXTINF:-1 tvg-logo="" group-title="ES",esRadio
+http://livestreaming.esradio.fm/stream64.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Pure Ibiza Radio
+https://pureibizaradio.clubbingradios.com:9518/PureIbizaRadio
+
+#EXTINF:-1 tvg-logo="https://chocolatefm.com/radio-browser.png" group-title="ES",Chocolate FM [calidad móvil-low bandwidth]
+http://streaming5.elitecomunicacion.es:8082/live32.aac
+
+#EXTINF:-1 tvg-logo="https://www.cadenadial.com/wp-content/uploads/2024/03/cropped-512x512_favicon_dial-180x180.png" group-title="ES",Cadena Dial
+http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Radio Marca
+https://sonic.mediatelekom.net/9316/stream
+
+#EXTINF:-1 tvg-logo="https://cadenaser00.epimg.net/favicon.png" group-title="ES",Cadena SER Radio MADRID
+http://server7.20comunicacion.com:8040/
+
+#EXTINF:-1 tvg-logo="https://cafedelmar.com/apple-touch-icon.png" group-title="ES",Café del Mar
+https://streams.radio.co/se1a320b47/listen
+
+#EXTINF:-1 tvg-logo="http://www.costadelmar-radio.com/favicon.ico" group-title="ES",Costa Del Mar - Chillout (AAC 96kbps)
+http://stream.cdm-chillout.com:8020/stream-AAC-Chill
+
+#EXTINF:-1 tvg-logo="https://www.megastar.fm/estaticos/apple-touch-icon-192x192.png" group-title="ES",MegaStarFM
+http://flucast-bl05.flumotion.com/cope/megastar.mp3
+
+#EXTINF:-1 tvg-logo="http://e00-marca.uecdn.es/favicon.ico" group-title="ES",Radio Marca Barcelona
+http://radioweb.radiomarcabarcelona.com:9000/stream
+
+#EXTINF:-1 tvg-logo="http://www.absolutechillout.com/favicon.ico" group-title="ES",Absolute Chillout
+http://edge4.peta.live365.net/b05055_128mp3
+
+#EXTINF:-1 tvg-logo="https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png" group-title="ES",LOS40 Classic
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Radio Marca Madrid
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL_SC
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Loca FM Deep Techno
+http://s02.fjperezdj.com:8066/live
+
+#EXTINF:-1 tvg-logo="https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-120x120.png" group-title="ES",ElectroDanceWorld Radio
+http://stream.zeno.fm/s70bvdgqks8uv
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Cope Sevilla
+http://wecast-bl02.flumotion.com/copesedes/sevilla.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",KISS FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hp9JgkDT82.png" group-title="ES",Radiolé
+http://23613.live.streamtheworld.com/RADIOLEAAC_SC
+
+#EXTINF:-1 tvg-logo="" group-title="ES",esRadio Madrid
+http://livestreaming3.esradio.fm/stream64.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",ONDA CERO (España)
+https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.locafm.com/assets/img/favicon/apple-icon-120x120.png" group-title="ES",Loca FM live
+http://s3.we4stream.com:8045/liv
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Loca FM Urban
+http://locafm02.we4stream.com:8015/live
+
+#EXTINF:-1 tvg-logo="https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png" group-title="ES",RockFM 101.7
+http://flucast21-h-cloud.flumotion.com/cope/rockfm.aac
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Hit radio
+http://stm1.emiteonline.com:8004/hitelgrado
+
+#EXTINF:-1 tvg-logo="https://www.chocolatefm.com/apple-touch-icon.png" group-title="ES",Chocolate FM HD
+http://streaming5.elitecomunicacion.es:8030/live.mp3
+
+#EXTINF:-1 tvg-logo="https://perfect-radio.com/____impro/1/onewebmedia/Logo%20Perfect%20Deephouse.jpg?etag=W%2F%22847e5-619665ca%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=355%2B372&extract=0%2B0%2B354%2B372&quality=85" group-title="ES",Perfect Deep House
+https://stream.radiojar.com/asngk2sg798uv?1659885393
+
+#EXTINF:-1 tvg-logo="https://www.radiomaria.es/favicon.ico" group-title="ES",RADIO MARÍA ESPAÑA
+http://dreamsiteradiocp2.com:8006/stream
+
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/imagenes/directo-elecciones-cataluna/1504082563113.jpg" group-title="ES",24h RTVE Televisión
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Cafe Mambo Ibiza Radio
+http://streamer.radio.co/sd7b28e5f3/listen
+
+#EXTINF:-1 tvg-logo="" group-title="ES",RAC1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_1.mp3
+
+#EXTINF:-1 tvg-logo="https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg" group-title="ES",Onda Cero Madrid
+https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://statics.ccma.cat/img/favicons/catinfo-favicon-96x96.png" group-title="ES",Catalunya Informació (Catinfo)
+https://shoutcast.ccma.cat/ccma/catalunyainformacioHD.mp3
+
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/a/3893534/square/?h=320" group-title="ES",RNE - R1 --> Madrid
+https://d121.rndfnk.com/star/crtve/rne1/mad/mp3/128/stream.mp3?cid=01GEM7S23A9B744SKFN04XA893&sid=2HgEg5aD71G8EuEf67MKTba5AnL&token=n_qXJorii6EVsZ_IP-RSzQP8sRamUc8gqb1nDnqiNT8&tvf=HHgasgd8KBdkMTIxLnJuZGZuay5jb20
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Loca FM Twchno
+http://s02.fjperezdj.com:8050/live
+
+#EXTINF:-1 tvg-logo="https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png" group-title="ES",Rock FM
+http://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d8711_bcc75cdcd35f4f2a859c06910d746739%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/0d8711_bcc75cdcd35f4f2a859c06910d746739%7emv2.png" group-title="ES",Digital hits
+http://digitalhits.frilab.com:8000/digitalhits
+
+#EXTINF:-1 tvg-logo="https://grupovaughan.com/apple-icon-120x120.png" group-title="ES",Vaughan
+http://vaughanradioweb.streaming-pro.com:8057/;streamdemo_mp3.nsv
+
+#EXTINF:-1 tvg-logo="" group-title="ES",esRadio_AAC
+http://livestreaming9.esradio.fm/aaclive32
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Kiss FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3&lang=es
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/109189.v2.png" group-title="ES",Radio España
+https://stream-153.zeno.fm/7ywx2u45vv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3eXd4MnU0NXZ2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieDhqMFJsWDhRc2U3NTdRQnRhb05PQSIsImlhdCI6MTc2ODQ2MzE1MCwiZXhwIjoxNzY4NDYzMjEwfQ.V6vfsT3fVVsdtV9XIO6dbLIL9Vc7djnpI97Er62y-qU
+
+#EXTINF:-1 tvg-logo="http://www.radiomaria.es/favicon.ico" group-title="ES",Radio Maria Spain Espana
+http://dreamsiteradiocp.com:8060/;stream.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Remember the music FM 96.6
+https://eu1.lhdserver.es:9041/stream
+
+#EXTINF:-1 tvg-logo="https://punkirratia.net/punkirratia.jpg" group-title="ES",punk irratia
+https://punkirratia.net:8443/punk
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Hitz Latino FM
+http://stream.zeno.fm/aq899a53rs8uv
+
+#EXTINF:-1 tvg-logo="https://www.hitfm.es/wp-content/uploads/2019/06/cropped-favicon-192x192.png" group-title="ES",Hit FM
+https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbhitfm.kissfmradio.cires21.com/bbhitfm.mp3
+
+#EXTINF:-1 tvg-logo="https://img2.rtve.es/css//rtve.2021/i/rtve-logos/logos_cadenas/radio-5_color.svg" group-title="ES",Radio Nacional de España - Radio 5 Todo noticias
+https://d131.rndfnk.com/star/crtve/rne5/main/mp3/128/stream.mp3?aggregator=tunein&cid=01GEP4MW5CAHPYP1EXHVKWFJ8W&sid=2OeE42hivuba6dTGvjnMGjKByQe&token=cdczXcnimVx4AY4iamqYbTMdu3cK7oBxmS2UQN9cWc0&tvf=pdPcDBxuVxdkMTMxLnJuZGZuay5jb20
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Radio Planeta Costa del Sol
+https://radioplaneta.emitironline.com/radio
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Costa Del Mar Smooth Jazz
+https://radio4.cdm-radio.com:18024/stream-mp3-Smooth
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Catalunya Radio
+https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3
+
+#EXTINF:-1 tvg-logo="https://radiomarcavalladolid.com/wp-content/uploads/2021/08/cropped-unnamed-180x180.png" group-title="ES",Marca Valladolid
+https://radiomarcavalladolid.streaming-pro.com:6106/radiomarca.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",#1 Splash 90s Dance
+https://c6.auracast.net/radio/8090/radio.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",__80 EXITOS
+https://80sexitos.stream.laut.fm/80sexitos
+
+#EXTINF:-1 tvg-logo="https://cadenaser.com/pf/resources/img/favicon.png?d=320" group-title="ES",Cadena SER - Radio Valencia
+http://27833.live.streamtheworld.com:3690/SER_VALENCIA_SC
+
+#EXTINF:-1 tvg-logo="https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png" group-title="ES",Los 40
+https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
+
+#EXTINF:-1 tvg-logo="https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png" group-title="ES",COPE Albacete
+https://wecast-bl03.flumotion.com/copesedes/albacete.mp3
+
+#EXTINF:-1 tvg-logo="https://www.marca.com/apple-touch-icon-precomposed.png" group-title="ES",Radio Marca
+https://www.marca.com/radio/geoblock/getSrcApp.php?dial=Nacional&dist=radiomarcaweb
+
+#EXTINF:-1 tvg-logo="https://www.locafm.com/assets/img/favicon/apple-icon-120x120.png" group-title="ES",Loca FM 80s
+http://s02.fjperezdj.com:8075/live
+
+#EXTINF:-1 tvg-logo="https://static.ondacero.es/img/favicon.ico" group-title="ES",Onda Cero Gijón
+https://atres-live.ondacero.es/live/delegaciones/oc/gijon/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://flaixfm.cat/favicon.ico" group-title="ES",Flaix FM
+https://stream.flaixfm.cat/icecast
+
+#EXTINF:-1 tvg-logo="" group-title="ES",LOVE RADIO - LOVE.radio
+https://loveradio.streamingmedia.it/espana
+
+#EXTINF:-1 tvg-logo="https://intimidadradio.com/favicon.ico" group-title="ES",Intimidad Relax
+https://eu1.lhdserver.es:9121/stream
+
+#EXTINF:-1 tvg-logo="https://radionature.weebly.com/uploads/7/4/0/7/74072033/icon-players_orig.png" group-title="ES",Radio Nature
+https://stream.zeno.fm/3ac97ysh6f0uv.aac
+
+#EXTINF:-1 tvg-logo="https://s.libertaddigital.com/2024/08/20/1200/627/esradio/esradio-redes.jpg" group-title="ES",EsRadio Principal
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
+
+#EXTINF:-1 tvg-logo="https://www.rac1.cat/apple-touch-icon-120x120.png" group-title="ES",RAC1 +1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RAC_MES_1.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/emisora-org-es/funky-tracks.png" group-title="ES",FUNKY TRACKS RADIO Barcelona
+http://streaming2.elitecomunicacion.es:8134/stream
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Talk Radio Europe
+http://s3.yesstreaming.net:7014/stream
+
+#EXTINF:-1 tvg-logo="" group-title="ES",LOS 40 DANCE
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Loca FM chillout
+http://s02.fjperezdj.com:8006/live
+
+#EXTINF:-1 tvg-logo="" group-title="ES",LOCAFM REMEMBER
+http://s02.fjperezdj.com:8035/live
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRavP3o9NomPQlOwQeAFy2hJlFVhNAULQuBzg&usqp=CAU" group-title="ES",Radio Sevillanas
+http://radio.wesped.com:8000/stream
+
+#EXTINF:-1 tvg-logo="https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png" group-title="ES",Cadena 100
+https://cadena100-cope.flumotion.com/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://cadenaser00.epimg.net/favicon.png" group-title="ES",Cadena SER - Ràdio Barcelona
+https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3
+
+#EXTINF:-1 tvg-logo="https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-120x120.png" group-title="ES",Remember VIP Radio
+http://node-19.zeno.fm/471az1pu2nhvv?rj-ttl=5&aw_0_req_lsid=47ff91dffd57dbf75dd0fb53d70887a6&acu-uid=592123274268&bsw-uid=821f026b-0bba-437a-8608-4175e0f8681a&amb-uid=4433801850266558616&rj-tok=AAABgvsOIBIA01PqCt44uBvX-A&aw-uid=7d8ef8fede4e9d48810209d9211a4b12&dyn-uid=&dbm-uid=CAESEE2_JyH-nO_DIddQW1whFfI&mm-uid=ef936263-16b7-4900-8f84-e3367baa5653&triton-uid=cookie%3Ae618ff5c-77ba-49f3-ac6e-b9c6b093d00f&zs=l4i70_8iS4m6nNOBdKq6LA&an-uid=4758170041402249417
+
+#EXTINF:-1 tvg-logo="" group-title="ES",EsRadio Asturias
+http://server9.emitironline.com:8822/radio
+
+#EXTINF:-1 tvg-logo="" group-title="ES",LOS 40 URBAN
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",LOCA FM TechHouse
+http://s02.fjperezdj.com:8046/live
+
+#EXTINF:-1 tvg-logo="https://radiolibertad.es/wp-content/uploads/2022/08/Logo_RadioLibertad_300px.png" group-title="ES",Radio Libertad
+https://server9.emitironline.com:19482/stream?cb=1708722000350
+
+#EXTINF:-1 tvg-logo="https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png" group-title="ES",COPE Málaga
+http://flucast28-h-cloud.flumotion.com/cope/net1.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Loca Progressive House
+https://s02.fjperezdj.com:8056/live?listening-from-radio-garden=1647634146
+
+#EXTINF:-1 tvg-logo="http://holidaygym.es/favicon.ico" group-title="ES",Holiday Gym FM
+http://holidaygym.emitironline.com/
+
+#EXTINF:-1 tvg-logo="" group-title="ES",1 Slow-Radio - laut.fm
+https://1slowradio.stream.laut.fm/1_slowradio
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Mix80Radio
+https://stream.tunerplay.com/radio/8040/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://informaradio.edatv.news/fav-300x300.png" group-title="ES",INFORMA RADIO
+https://24x7.red:42045/informa
+
+#EXTINF:-1 tvg-logo="https://s.libertaddigital.com/2024/08/20/1200/627/esradio/esradio-redes.jpg" group-title="ES",EsRadio (MP3 HQ)
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3
+
+#EXTINF:-1 tvg-logo="https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png" group-title="ES",RadioBlues Flac
+https://streams.radiomast.io/radioblues-flac
+
+#EXTINF:-1 tvg-logo="" group-title="ES",C. DIAL Baladas
+https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Inselradio Mallorca
+http://addrad.io/445fxk9
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Emision moviles
+http://stream.produccionesdale.com:8899/moviles
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Euskadi irratia
+http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s48765q.png" group-title="ES",Qfm
+http://51.255.235.165:5092/;
+

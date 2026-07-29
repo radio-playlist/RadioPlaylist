@@ -1,0 +1,304 @@
+#EXTM3U
+#EXTENC:UTF-8
+#PLAYLIST:RadioCatalog - US
+
+#EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="US",Radio Paradise Main Mix (EU) 320k AAC
+http://stream-uk1.radioparadise.com/aac-320
+
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="US",Classic Vinyl HD
+https://icecast.walmradio.com:8443/classic
+
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/jazz.jpg" group-title="US",Adroit Jazz Underground
+https://icecast.walmradio.com:8443/jazz
+
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/christmas.png" group-title="US",Christmas Vinyl HD
+https://icecast.walmradio.com:8443/christmas
+
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/walm.jpg" group-title="US",WALM HD
+https://icecast.walmradio.com:8443/walm
+
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/otr.jpg" group-title="US",WALM - Old Time Radio
+https://icecast.walmradio.com:8443/otr
+
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/walm.jpg" group-title="US",WALM 2 HD
+https://icecast.walmradio.com:8443/walm2
+
+#EXTINF:-1 tvg-logo="http://101smoothjazz.com/favicon.ico" group-title="US",101 SMOOTH JAZZ
+http://jking.cdnstream1.com/b22139_128mp3
+
+#EXTINF:-1 tvg-logo="http://www.deephouselounge.com/wp-content/themes/maronpro/images/favicon.ico" group-title="US",Deep House Lounge
+http://198.15.94.34:8006/stream
+
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/jazz.jpg" group-title="US",Adroit Jazz Underground HD Opus
+https://icecast.walmradio.com:8443/jazz_opus
+
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/walm.jpg" group-title="US",WALM 2 HD Opus
+https://icecast.walmradio.com:8443/walm2_opus
+
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/christmas.jpg" group-title="US",Christmas Vinyl HD Opus
+https://icecast.walmradio.com:8443/christmas_opus
+
+#EXTINF:-1 tvg-logo="" group-title="US",CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie
+https://radiopanther.radiolebowski.com/play
+
+#EXTINF:-1 tvg-logo="http://www.yourclassical.org/apple-touch-icon.png" group-title="US",Your Classical - Relax
+http://relax.stream.publicradio.org/relax.mp3
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Old School HipHop/RnB
+http://listen.181fm.com/181-oldschool_128k.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",.977 80s
+http://17573.live.streamtheworld.com/977_80_SC
+
+#EXTINF:-1 tvg-logo="" group-title="US",.977 Hitz
+http://18863.live.streamtheworld.com/977_HITS_SC
+
+#EXTINF:-1 tvg-logo="" group-title="US",.977 Country
+http://26343.live.streamtheworld.com/977_COUNTRY_SC
+
+#EXTINF:-1 tvg-logo="" group-title="US",Ambient Sleeping Pill
+http://radio.stereoscenic.com/asp-h
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="US",Frisky
+http://stream2.friskyradio.com/frisky_mp3_hi
+
+#EXTINF:-1 tvg-logo="" group-title="US",Rockabilly-radio.net
+http://lin3.ash.fast-serv.com:6026/stream_96
+
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="US",Classic Vinyl HD Opus
+https://icecast.walmradio.com:8443/classic_opus
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="US",SomaFM Groove Salad (128k MP3)
+https://ice5.somafm.com/groovesalad-128-mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",.977 The Mix
+http://26343.live.streamtheworld.com:3690/977_MIX_SC
+
+#EXTINF:-1 tvg-logo="" group-title="US",Deep House Radio
+http://62.210.105.16:7000/stream
+
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="US",Classic Vinyl HD
+https://icecast.walmradio.com:8443/classic
+
+#EXTINF:-1 tvg-logo="http://www.bigrradio.com/image/favicon/apple-touch-icon.png" group-title="US",Big R Radio - 80s Metal FM
+http://bigrradio.cdnstream1.com/5186_128
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/secretagent-400.jpg" group-title="US",SomaFM Secret Agent (128k MP3)
+https://ice6.somafm.com/secretagent-128-mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",Hard Rock Heaven
+http://hydra.cdnstream.com/1521_128
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - The Beat (HipHop/R&B)
+http://listen.181fm.com/181-beat_128k.mp3
+
+#EXTINF:-1 tvg-logo="https://static-assets.npr.org/static/images/favicon/favicon-96x96.png" group-title="US",NPR 24 Hour Program Stream
+http://npr-ice.streamguys1.com/live.mp3
+
+#EXTINF:-1 tvg-logo="http://www.echoesofbluemars.org/images/favicon.ico" group-title="US",Cryosleep
+http://streams.echoesofbluemars.org:8000/cryosleep
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/u80s-400.png" group-title="US",SomaFM Underground 80s (128k MP3)
+https://ice6.somafm.com/u80s-128-mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",LOVE RADIO Only Love Songs 70s80s90s - www.love.radio
+http://shoutcast3.streamingmedia.it:3162/
+
+#EXTINF:-1 tvg-logo="" group-title="US",Infowars
+http://stream-mp3.infowars.com/
+
+#EXTINF:-1 tvg-logo="" group-title="US",The Big 80s Station
+http://158.69.114.190:8065/;
+
+#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/160x160/extaudio/8/5/8/a/f8e6-9555-4eb9-8005-1ec4dabd55ce.jpg" group-title="US",Bassdrive
+http://ice.bassdrive.net/stream
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/spacestation-400.png" group-title="US",SomaFM Space Station Soma (128k AAC)
+https://ice5.somafm.com/spacestation-128-aac
+
+#EXTINF:-1 tvg-logo="https://iscale.iheart.com/catalog/live/6043" group-title="US",NBC News Radio
+http://stream.revma.ihrhls.com/zc6043
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/poptron-400.png" group-title="US",SomaFM PopTron (128k MP3)
+https://ice2.somafm.com/poptron-128-mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",.977 Smooth Jazz
+http://14543.live.streamtheworld.com/977_SMOOJAZZ_SC
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/indiepop-400.jpg" group-title="US",SomaFM Indie Pop Rocks! (128k AAC)
+https://ice6.somafm.com/indiepop-128-aac
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Highway 181
+http://listen.181fm.com/181-highway_128k.mp3
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/seventies400.jpg" group-title="US",SomaFM Left Coast 70s (320k MP3)
+https://ice5.somafm.com/seventies-320-mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",FUNKY RADIO - Only Funk Music (60's 70's)
+https://funkyradio.streamingmedia.it/play.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",.977 Oldies
+http://27273.live.streamtheworld.com/977_OLDIES_SC
+
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/otr.jpg" group-title="US",WALM - Old Time Radio Opus
+https://icecast.walmradio.com:8443/otr_opus
+
+#EXTINF:-1 tvg-logo="https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico" group-title="US",Miami Beach Radio
+https://streaming.radiostreamlive.com/miamibeachradio_devices
+
+#EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="US",Radio Paradise Rock Mix 320k AAC
+http://stream.radioparadise.com/rock-320
+
+#EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/content/responsive/ocb/img/webapp/ico-128x128.png" group-title="US",Radio Marti
+https://ocb01.akacast.akamaistream.net/7/365/437903/v1/ibb.akacast.akamaistream.net/ocb01
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="US",SomaFM Lush (128k MP3)
+https://ice2.somafm.com/lush-128-mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",2000 FM - RnB & Hip-Hop
+http://bigrradio.cdnstream1.com/5105_128
+
+#EXTINF:-1 tvg-logo="https://www.cnn.com/media/sites/cnn/favicon.ico" group-title="US",CNN
+https://tunein.cdnstream1.com/2868_96.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s106474q.png" group-title="US",Soft Classic Rock Radio
+http://64.71.133.122:8000/;
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - 80's Country
+http://listen.181fm.com/181-80scountry_128k.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",VOA Chinese Radio
+http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="US",WEOW FM 92.7
+http://ice42.securenetsystems.net/WEOW
+
+#EXTINF:-1 tvg-logo="" group-title="US",Chilltrax
+http://server1.chilltrax.com:9000/
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s27943/images/logod.png" group-title="US",Z 92 (Miami) - 92.3 FM - WCMQ-FM - Spanish Broadcasting System - Miami, Florida
+https://liveaudio.lamusica.com/MIA_WCMQ_icy
+
+#EXTINF:-1 tvg-logo="" group-title="US",WNYC-FM 93.9 New York Public Radio
+https://fm939.wnyc.org/wnycfm
+
+#EXTINF:-1 tvg-logo="" group-title="US",The Jazz Groove - East
+http://east-mp3-128.streamthejazzgroove.com/stream
+
+#EXTINF:-1 tvg-logo="https://pwa.tunegenie.com/kyyaam/icon-192.png" group-title="US",98.1 KBEAR
+http://desertmountainbroadcasting.streamguys1.com/KYYA
+
+#EXTINF:-1 tvg-logo="" group-title="US",101 SMOOTH JAZZ MELLOW MIX
+http://streaming.live365.com/b48071_128mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",70s 80s Disco Funk ModernSoul Boogie
+https://discofunk.streamingmedia.it/usa
+
+#EXTINF:-1 tvg-logo="" group-title="US",181.FM - Kickin' Country
+http://listen.181fm.com/181-kickincountry_128k.mp3
+
+#EXTINF:-1 tvg-logo="https://static.foxnews.com/radio.foxnews.com/content/uploads/2017/10/default_logo-150x150.png" group-title="US",Fox News Radio
+https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc?source=fnr.web
+
+#EXTINF:-1 tvg-logo="https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/landingpages/fatcai/faviconcai.webp" group-title="US",Nostalgie New York
+http://c32.radioboss.fm:8139/stream
+
+#EXTINF:-1 tvg-logo="" group-title="US",metal rock radio
+https://kathy.torontocast.com:2800/;
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/metal-400.png" group-title="US",SomaFM Metal Detector (128k AAC)
+https://ice4.somafm.com/metal-128-aac
+
+#EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="US",Radio Paradise Mellow Mix 320k AAC
+http://stream.radioparadise.com/mellow-320
+
+#EXTINF:-1 tvg-logo="" group-title="US",.977 Comedy
+http://26433.live.streamtheworld.com/977_COMEDY_SC
+
+#EXTINF:-1 tvg-logo="" group-title="US",SMOOTH JAZZ 24/7
+http://jking.cdnstream1.com/b75154_128mp3
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - True Blues
+http://listen.181fm.com/181-blues_128k.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",1980s.FM
+http://hi5.1980s.fm/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="US",Frisky Deep
+http://deep.friskyradio.com/friskydeep_aachi
+
+#EXTINF:-1 tvg-logo="" group-title="US",Hot 108 JAMZ
+http://sc.hot108.com:4000/
+
+#EXTINF:-1 tvg-logo="https://www.smoothjazz.com/sites/default/files/theme/sj-circle-logo.png" group-title="US",SmoothJazz.com 128k mp3
+https://smoothjazz.cdnstream1.com/2585_128.mp3
+
+#EXTINF:-1 tvg-logo="http://www.voanews.com/content/responsive/voa/img/webapp/ico-128x128.png" group-title="US",VOA Learning English
+https://voa-ingest.akamaized.net/hls/live/2035234/160_342L/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="US",Radio Paradise Main Mix 128 AAC
+http://stream.radioparadise.com/aac-128
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Super 70s
+http://listen.181fm.com/181-70s_128k.mp3
+
+#EXTINF:-1 tvg-logo="https://musiclake.com/wp-content/uploads/cropped-musiclake-lg-180x180.png" group-title="US",Music Lake - Relaxation Music, Meditation, Focus, Chill, Nature Sounds
+http://nap.casthost.net:8626/stream
+
+#EXTINF:-1 tvg-logo="https://100hitz.com/favicon.ico" group-title="US",100hitz - Top 40
+http://pureplay.cdnstream1.com/6025_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1NTI4MSwiaXNzIjoidGlzcnYifQ.cUMfsrk262BNjQXnfXkKBefQOqoRn2nweLrx5obNPhM
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/fluid-400.jpg" group-title="US",SomaFM Fluid (128k MP3)
+https://ice4.somafm.com/fluid-128-mp3
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - 90's Country
+http://listen.181fm.com/181-90scountry_128k.mp3
+
+#EXTINF:-1 tvg-logo="https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/msnbc/all-other-sizes-PNG.ico/favicon-96x96.png" group-title="US",MSNBC
+https://tunein.cdnstream1.com/3511_96.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico" group-title="US",Radio Country Live New York
+https://streaming.radiostreamlive.com/radiocountrylive_devices
+
+#EXTINF:-1 tvg-logo="http://intranature.com/favicon.ico" group-title="US",intra Nature Radio - Meditation, Nature Sounds, Relaxation, Spa and Sleep Music
+http://nap.casthost.net:8793/stream
+
+#EXTINF:-1 tvg-logo="https://megarockradio.net/favicon.ico" group-title="US",Megarock Radio 320k
+https://stream3.megarockradio.net:80/
+
+#EXTINF:-1 tvg-logo="http://2000fm.net/images/logo.png" group-title="US",2000 FM - Country
+http://bigrradio.cdnstream1.com/5103_128
+
+#EXTINF:-1 tvg-logo="https://www.todayshotcountry.com/wp-content/uploads/2016/10/cropped-siteicon-180x180.png" group-title="US",Today's Hot Country
+http://ice.stream101.com:9016/stream
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/reggae400.jpg" group-title="US",SomaFM Heavyweight Reggae (256k MP3)
+https://ice6.somafm.com/reggae-256-mp3
+
+#EXTINF:-1 tvg-logo="https://radioyar.com/wp-content/uploads/2022/05/cropped-logo-black-2x-2-150x150.png" group-title="US",Radio Yar Live
+http://192.34.153.102:8000/RadioYAR.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",Bob's Ska Radio
+http://51.255.235.165:5528/stream
+
+#EXTINF:-1 tvg-logo="" group-title="US",KQED 88.5 San Francisco, CA
+http://streams.kqed.org/kqedradio.m3u
+
+#EXTINF:-1 tvg-logo="https://100hitz.com/favicon.ico" group-title="US",100hitz The Mix - 80s 90s & Today's Hits
+http://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1Nzc4NCwiaXNzIjoidGlzcnYifQ.pcgS3hF5YBvvbD9rJO3OMBWPgEGE037nPVwPu4hamPY%22
+
+#EXTINF:-1 tvg-logo="https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico" group-title="US",Radio Love Live New York
+https://streaming.radiostreamlive.com/radiolovelive_devices
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - The Eagle (Classic)
+http://listen.181fm.com/181-eagle_128k.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",My70sRadio
+http://usa14.fastcast4u.com:5132/stream
+
+#EXTINF:-1 tvg-logo="" group-title="US",PulseEDM Dance Music Radio
+http://pulseedm.cdnstream1.com:8124/1373_128
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - 80's HairBand
+http://listen.181fm.com/181-hairband_128k.mp3
+

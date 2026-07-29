@@ -1,0 +1,304 @@
+#EXTM3U
+#EXTENC:UTF-8
+#PLAYLIST:RadioCatalog - IT
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio 1
+http://icestreaming.rai.it/1.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Classic Rock
+http://icy.unitedradio.it/VirginRockClassics.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radio24.ilsole24ore.com/whitelabel/group-2420101401040528/img/apple-touch-icon.png" group-title="IT",Radio 24 il sole 24 ore
+http://shoutcast2.radio24.it:8000/;
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/01/105.png" group-title="IT",Radio 105 Network
+http://icecast.unitedradio.it/Radio105.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio 2
+http://icestreaming.rai.it/2.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio Stereocittà
+http://onair11.xdevel.com:8134/;stream.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio 3
+http://icestreaming.rai.it/3.mp3
+
+#EXTINF:-1 tvg-logo="https://armisa.it/assets/favicon/android-chrome-512x512.png" group-title="IT",Radio Armisa
+https://onair.armisa.it/listen/armisa/radio.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RMC Radio Monte Carlo
+http://icecast.unitedradio.it/RMC.mp3
+
+#EXTINF:-1 tvg-logo="http://www.virginradio.it/favicon_2.ico?v=1722509813651" group-title="IT",Virgin Radio Italia
+http://icecast.unitedradio.it/Virgin.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio 105 - Dance 90
+http://icy.unitedradio.it/105Dance90.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg" group-title="IT",Radio 80
+http://str01.fluidstream.net:7020/;stream.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",70 80 Hits HQ
+https://nr8.newradio.it:19574/stream
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rock '70
+http://icy.unitedradio.it/VirginRock70.mp3
+
+#EXTINF:-1 tvg-logo="https://studiopiu.net/offline/img/icona.png" group-title="IT",Radio Studio Più - HQ
+http://77.241.4.100:8020/;
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rock '80
+http://icy.unitedradio.it/VirginRock80.mp3
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s17518q.png" group-title="IT",Tele Radio Stereo
+http://trsw.inmystream.info:8068/;stream.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RMC 80
+http://edge.radiomontecarlo.net/rmcweb008
+
+#EXTINF:-1 tvg-logo="https://www.radioitalia.it/images/logo-radioitalia.png" group-title="IT",Radio Italia Solo Musica Italiana
+https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Hard Rock
+http://icy.unitedradio.it/VirginHardRock.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Centro Suono Sport
+http://streaming.centrosuono.com:8000/cssport.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio Kiss Kiss Napoli
+http://wma08.fluidstream.net:3612/;listen.pls
+
+#EXTINF:-1 tvg-logo="https://kisskissitalia.it/wp-content/uploads/2021/07/cropped-favicon-kisskissitalia-180x180.png" group-title="IT",Radio Kiss Kiss Italia
+http://wma06.fluidstream.net:3614/;listen.pls
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio Maria
+http://dreamsiteradiocp.com:8092/;
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rock Ballads
+http://icy.unitedradio.it/Virgin_06.mp3
+
+#EXTINF:-1 tvg-logo="http://www.r101.it/favicon_7.ico?v=1722509814243" group-title="IT",R101 FM
+http://icecast.unitedradio.it/r101
+
+#EXTINF:-1 tvg-logo="https://radioibiza.it/wp-content/uploads/2021/07/cropped-favicon-ibiza-180x180.png" group-title="IT",Radio Ibiza
+http://wma08.fluidstream.net:5010/;stream.aac
+
+#EXTINF:-1 tvg-logo="" group-title="IT",CLASSIC HITS RADIO Italia
+https://classichitsradio.streamingmedia.it/play
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s63968q.png" group-title="IT",Radio Viva FM
+http://stream2.vivafm.it:8002/stream
+
+#EXTINF:-1 tvg-logo="" group-title="IT",ITALIA Italia 70
+https://icy.unitedradio.it/um020.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio Radicale
+http://live.radioradicale.it/live.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio 105 - HipHop & RnB
+http://icy.unitedradio.it/105HipHopRnB.mp3
+
+#EXTINF:-1 tvg-logo="https://kisskiss.it/wp-content/uploads/2021/03/cropped-favicon-kisskiss-180x180.png" group-title="IT",Radio Kiss Kiss Hits
+http://ice08.fluidstream.net/kk_hits.aac
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RMC Buddha-Bar
+http://edge.radiomontecarlo.net/rmcweb002
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RMC Love Songs
+http://edge.radiomontecarlo.net/rmcweb006
+
+#EXTINF:-1 tvg-logo="https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png" group-title="IT",Radio Kiss Kiss
+http://wma08.fluidstream.net:4610/
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Rai Isoradio
+http://icestreaming.rai.it/6.mp3
+
+#EXTINF:-1 tvg-logo="http://www.italiadancemusic.com/it/themes/corporate_lite/favicon.ico" group-title="IT",Italia Dance Music
+http://sr2.inmystream.info:8032/stream
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio Classica Filodiffusione
+http://icestreaming.rai.it/5.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",ITALIA Italia 80
+https://icy.unitedradio.it/um016.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio 105 - Zoo Radio
+http://icy.unitedradio.it/105Zoo.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radiosportiva.com/wp-content/uploads/2021/09/logo-radiosportiva-white.svg" group-title="IT",Radio Sportiva
+https://sportiva.inmystream.it/stream/sportiva
+
+#EXTINF:-1 tvg-logo="" group-title="IT",MUSIC STAR Roger Waters - Pink Floyd
+http://icy.unitedradio.it/VirginRogerWaters.mp3
+
+#EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="IT",Radio Deejay
+http://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/play1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IT",NEW HITS RADIO Italia
+https://newhitsradio.streamingmedia.it/play
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Soccer_ball.svg/480px-Soccer_ball.svg.png" group-title="IT",Radio Sei (Italia)
+https://icecast.ithost.it/radiosei.ogg
+
+#EXTINF:-1 tvg-logo="" group-title="IT",R101 Made in Italy
+http://icy.unitedradio.it/R101MadeInItaly.aac
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio 1 Sport
+http://icestreaming.rai.it/13.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rock '90
+http://icy.unitedradio.it/Virgin_03.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RMC Disco Funk
+http://edge.radiomontecarlo.net/rmcweb025
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Soccer_ball.svg/480px-Soccer_ball.svg.png" group-title="IT",Retesport (Italia)
+https://icecast.ithost.it/retesport.ogg
+
+#EXTINF:-1 tvg-logo="https://rdsrelax.it/images/logo.png" group-title="IT",RDS relax
+http://icstream.rds.radio/rdsrelax
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio Manà Manà Sport Roma
+https://stream10.xdevel.com/audio2s975363-2142/stream/icecast.audio
+
+#EXTINF:-1 tvg-logo="http://www.radioitaliaanni60.it/templates/enar/images/favicon/apple-touch-icon-120x120.png" group-title="IT",Radio Italia Anni 60 - Trentino Alto Adige
+http://ice10.fluidstream.net/anni60tn.aac
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RMC VIP Lounge
+http://edge.radiomontecarlo.net/rmcweb020
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RAI 2
+https://icestreaming.rai.it/2.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rock Party
+http://icy.unitedradio.it/VirginRockParty.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio Popolare
+http://livex.radiopopolare.it/radiopop
+
+#EXTINF:-1 tvg-logo="https://cloud.rtl.it/assets/www.rtl.it/3.0.64/img/logo/favicon-96x96.png" group-title="IT",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio 80 - Forever Young
+http://nr11.newradio.it:9208/stream
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RDS 100% Grandi Successi
+https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Subasio Per un'ora d'amore
+http://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radio24.ilsole24ore.com/whitelabel/group-2420101401040528/img/apple-touch-icon.png" group-title="IT",Radio 24, Il Sole 24 Ore, AAC 48k
+http://shoutcast.radio24.it:8000/
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio 105 - Miami
+http://icy.unitedradio.it/105Miami.mp3
+
+#EXTINF:-1 tvg-logo="http://www.105.net/favicon_3.ico?v=1722509813759" group-title="IT",Radio 105 - Rap Italia
+http://icy.unitedradio.it/105RapItalia.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",MUSIC STAR Vasco
+http://icy.unitedradio.it/Vasco.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",ITALIAN RADIO - Only (romantic) Italian Music
+https://italianradio.streamingmedia.it/play
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio Subasio
+http://icy.unitedradio.it/Subasio.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RMC Italia
+http://edge.radiomontecarlo.net/rmcweb005
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio Popolare Milano
+http://livex.radiopopolare.it/radiopop2
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio M2O
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rockstar: Rolling Stones
+https://icy.unitedradio.it/VirginSpecialEvent.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RMC 90
+http://edge.radiomontecarlo.net/rmcweb009
+
+#EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="IT",Radio Deejay
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.raibz.rai.it/de/touch/square.png" group-title="IT",Rai Südtirol
+http://radiobzlive.rai.it/RAIBZ_Livestream
+
+#EXTINF:-1 tvg-logo="https://www.capital.it/wp-content/themes/network-capital/favicon.ico" group-title="IT",Radio Capital
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.onedance.fm/img/apple-touch-icon-114x114.png" group-title="IT",One Dance
+http://ice10.fluidstream.net/rn1_2.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Ritmo 80
+http://ice02.fluidstream.net/ritmo80.aac
+
+#EXTINF:-1 tvg-logo="http://www.lolliradio.net/wp-content/uploads/2016/02/logo_italia-150x150.jpg" group-title="IT",Lolli Radio Italia
+https://stream.lolliradio.net/lolli_italia.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio Italianissima
+http://onair15.xdevel.com:9100/
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Venice Classic Radio *LIVE
+http://116.202.241.212:8020/
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rock Hits
+http://icy.unitedradio.it/VirginRockHits.mp3
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s95186q.png" group-title="IT",Radio Blackout
+http://stream.radioblackout.org/blackout.mp3
+
+#EXTINF:-1 tvg-logo="https://radio-streaming.it/assets/image/radio/180/rairadio1logo.png" group-title="IT",Rai Radio 1
+http://icestreaming.rai.it/1.mp3
+
+#EXTINF:-1 tvg-logo="https://www.sorrriso.it/wp-content/uploads/2020/02/apple-icon-120x120-2.png?x69212" group-title="IT",Radio Sorrriso
+http://wma01.fluidstream.net/sorriso
+
+#EXTINF:-1 tvg-logo="https://musicajazz.it/wp-content/uploads/logo-120.png" group-title="IT",Musica Jazz Radio
+http://ice03.fluidstream.net/mjr.aac
+
+#EXTINF:-1 tvg-logo="" group-title="IT",70 80 Disco Funk ModernSoul e Boogie
+https://discofunk.streamingmedia.it/play
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio Tutta Italiana
+http://icestreaming.rai.it/4.mp3
+
+#EXTINF:-1 tvg-logo="https://www.lattemiele.com/wp-content/uploads/2020/07/cropped-logo-autore-lm-32x32.png" group-title="IT",Lattemiele
+https://sr15.inmystream.it:8000/stream
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RMC Nights Story
+http://edge.radiomontecarlo.net/rmcweb012
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rockstar: Pink Floyd
+http://icy.unitedradio.it/VirginRogerWaters.mp3
+
+#EXTINF:-1 tvg-logo="http://www.piterpan.it/favicon.ico" group-title="IT",Radio Piterpan
+http://wma01.fluidstream.net/piterpan
+
+#EXTINF:-1 tvg-logo="https://www.rai.it/cropgd/560x292/dl/img/2019/01/07/1280x720_1546854278675_conferenza%20radio1.jpg" group-title="IT",Radio Rai 1
+http://icestreaming.rai.it/1.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio Padova
+http://str01.fluidstream.net:6020/listen.pls
+
+#EXTINF:-1 tvg-logo="" group-title="IT",R101 Radio
+http://icecast.unitedradio.it/r101_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RDS Relax
+https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Venice Classic Radio
+https://uk2.streamingpulse.com/ssl/vcr1
+
+#EXTINF:-1 tvg-logo="" group-title="IT",LatteMiele Marche Abruzzo
+http://ice02.fluidstream.net/fluid016.aac
+
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/favicon_1.ico?v=1722509813463" group-title="IT",RMC Marine
+http://edge.radiomontecarlo.net/rmcweb010
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RMC Romantic Rock
+http://edge.radiomontecarlo.net/rmcweb015
+
