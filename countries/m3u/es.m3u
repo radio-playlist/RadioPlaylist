@@ -59,11 +59,11 @@ http://stream.cdm-chillout.com:8020/stream-AAC-Chill
 #EXTINF:-1 tvg-logo="https://www.megastar.fm/estaticos/apple-touch-icon-192x192.png" group-title="ES",MegaStarFM
 http://flucast-bl05.flumotion.com/cope/megastar.mp3
 
-#EXTINF:-1 tvg-logo="http://e00-marca.uecdn.es/favicon.ico" group-title="ES",Radio Marca Barcelona
-http://radioweb.radiomarcabarcelona.com:9000/stream
-
 #EXTINF:-1 tvg-logo="http://www.absolutechillout.com/favicon.ico" group-title="ES",Absolute Chillout
 http://edge4.peta.live365.net/b05055_128mp3
+
+#EXTINF:-1 tvg-logo="http://e00-marca.uecdn.es/favicon.ico" group-title="ES",Radio Marca Barcelona
+http://radioweb.radiomarcabarcelona.com:9000/stream
 
 #EXTINF:-1 tvg-logo="https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png" group-title="ES",LOS40 Classic
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3

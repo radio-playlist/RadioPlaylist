@@ -179,11 +179,11 @@ http://stream.regenbogen2.de/metal/mp3-128
 #EXTINF:-1 tvg-logo="https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png" group-title="DE",Rock Antenne Gothic
 https://s6-webradio.rockantenne.de/gothic/stream/mp3
 
-#EXTINF:-1 tvg-logo="" group-title="DE",RADIO BOB! BOBs Mittelalter Rock
-http://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-heavymetal_600x600.jpg" group-title="DE",- 0 N - Heavy Metal on Radio
 https://0n-heavymetal.radionetz.de/0n-heavymetal.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="DE",RADIO BOB! BOBs Mittelalter Rock
+http://streams.radiobob.de/mittelalter/mp3-192/streams.radiobob.de/
 
 #EXTINF:-1 tvg-logo="" group-title="DE",DrGnu - Death Metal
 http://streams.radiobob.de/deathmetal/mp3-192/mediaplayer/

@@ -206,11 +206,11 @@ https://stream.technolovers.fm/edm?ref=radiobrowser
 #EXTINF:-1 tvg-logo="" group-title="DE",Acid Jazz Radio
 http://stream.laut.fm/acidjazz
 
-#EXTINF:-1 tvg-logo="" group-title="DE",Antenne Bayern - Oldies but Goldies
-http://mp3channels.webradio.antenne.de/oldies-but-goldies
-
 #EXTINF:-1 tvg-logo="http://www.104.6rtl.com/assets/icons/icon-152x152.png" group-title="DE",104.6 RTL
 http://stream.104.6rtl.com/rtl-live/mp3-192/radio-browser.info/
+
+#EXTINF:-1 tvg-logo="" group-title="DE",Antenne Bayern - Oldies but Goldies
+http://mp3channels.webradio.antenne.de/oldies-but-goldies
 
 #EXTINF:-1 tvg-logo="http://www.gayfm.de/favicon.png" group-title="DE",GAYFM
 http://stream.gayfm.de/

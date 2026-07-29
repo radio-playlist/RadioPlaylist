@@ -293,11 +293,11 @@ http://direct.francebleu.fr/live/fbroussillon-midfi.mp3
 #EXTINF:-1 tvg-logo="https://www.europe1.fr/build/e1/images/favicon-120x120.png" group-title="FR",Europe1
 http://stream.europe1.fr/europe1.aac
 
-#EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="FR",FIP Musiques du monde
-http://icecast.radiofrance.fr/fipworld-hifi.aac
-
 #EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_reggaeton1.png" group-title="FR",Generations Reggaeton
 http://generations-rgton.ice.infomaniak.ch/generations-rgton.mp3
+
+#EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="FR",FIP Musiques du monde
+http://icecast.radiofrance.fr/fipworld-hifi.aac
 
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="FR",France Bleu Paris
 http://direct.francebleu.fr/live/fb1071-midfi.mp3
