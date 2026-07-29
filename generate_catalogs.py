@@ -122,7 +122,11 @@ def main():
         tag_encoded = urllib.parse.quote(tag)
         url = f"https://de1.api.radio-browser.info/json/stations/bytagexact/{tag_encoded}?hidebroken=true&order=votes&reverse=true&limit=100"
         process_category("genres", tag, url)
-
+    
+    # 3. Генерація світового топу (Топ-200 світових станцій)
+    top_url = "https://de1.api.radio-browser.info/json/stations?hidebroken=true&order=votes&reverse=true&limit=200"
+    process_category("global", "top200", top_url)
+    
     print(f"\n🎉 Готово! Усі файли збережено в папку '{OUTPUT_DIR}/'")
 
 if __name__ == "__main__":
