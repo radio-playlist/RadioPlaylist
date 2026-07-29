@@ -1,0 +1,13 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Virtual Environments
+venv/
+env/
+.venv/
