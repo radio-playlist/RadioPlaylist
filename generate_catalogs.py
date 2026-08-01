@@ -15,7 +15,11 @@ TARGET_COUNTRIES = [
 ]
 
 # Список популярних тегів/стилів
-TARGET_TAGS = ["rock", "pop", "jazz", "classical", "ambient", "electronic", "news", "chillout", "metal", "retro"]
+TARGET_TAGS = [
+    "rock", "pop", "jazz", "classical", "ambient", "electronic", "news", 
+    "chillout", "metal", "retro", "disco", "house", "techno", "blues", 
+    "country", "reggae", "hiphop", "lofi", "funk", "latin"
+]
 
 # Папка для збереження (зберігаємо прямо в корінь репозиторію)
 OUTPUT_DIR = "."
