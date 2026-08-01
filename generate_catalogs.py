@@ -8,8 +8,11 @@ import re
 # Обов'язково вказуємо кастомний User-Agent для Radio-Browser API
 USER_AGENT = "RadioCatalog-Generator/1.0 (https://github.com/radio-playlist)"
 
-# Список країн для парсингу (ISO 2-letter codes)
-TARGET_COUNTRIES = ["UA", "PL", "DE", "US", "GB", "FR", "IT", "ES", "CA"]
+# Розширений список країн (18 країн)
+TARGET_COUNTRIES = [
+    "UA", "PL", "DE", "US", "GB", "FR", "IT", "ES", "CA",
+    "CZ", "SK", "NL", "RO", "AT", "CH", "AU", "BR", "JP"
+]
 
 # Список популярних тегів/стилів
 TARGET_TAGS = ["rock", "pop", "jazz", "classical", "ambient", "electronic", "news", "chillout", "metal", "retro"]
