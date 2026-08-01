@@ -149,11 +149,11 @@ http://oceanwaves.radio.mynoise.net/
 #EXTINF:-1 tvg-logo="" group-title="RU",Enigmatic Immersion
 http://radio.enigmatic.su:8040/radio
 
-#EXTINF:-1 tvg-logo="https://lounge-radio-ibiza.com/favicon.ico" group-title="DE",Lounge Radio Ibiza
-https://stream.laut.fm/lounge-radio-ibiza
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R2FqgKq/Pan-Flute.jpg" group-title="DE",EPIC CLASSICAL - Classical Pan Flute
 https://stream.epic-classical.com/classical-pan-flute?ref=liveradio
+
+#EXTINF:-1 tvg-logo="https://lounge-radio-ibiza.com/favicon.ico" group-title="DE",Lounge Radio Ibiza
+https://stream.laut.fm/lounge-radio-ibiza
 
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/97/65/31354/c175.png" group-title="NZ",Sleep Radio
 http://65.109.81.84:9851/stream
@@ -203,14 +203,14 @@ http://synthesizergreatest.stream.laut.fm/synthesizergreatest?pl=m3u&t302=2026-0
 #EXTINF:-1 tvg-logo="" group-title="DE",EPIC CLASSICAL - Classical Coffee Bar
 https://stream.epic-classical.com/classical-coffee-bar
 
+#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-chillout_600x600.jpg" group-title="DE",- 1 A - Chillout von 1A Radio
+https://1a-chillout.radionetz.de/1a-chillout.mp3
+
 #EXTINF:-1 tvg-logo="" group-title="DE",EPIC CLASSICAL - Classical Guitar
 https://stream.epic-classical.com/classical-guitar
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DkDPhcZ/Violin.jpg" group-title="DE",EPIC CLASSICAL - Classical Violin
 https://stream.epic-classical.com/classical-violin
-
-#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-chillout_600x600.jpg" group-title="DE",- 1 A - Chillout von 1A Radio
-https://1a-chillout.radionetz.de/1a-chillout.mp3
 
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice Industrial/Dark/Ritual Ambient
 http://79.120.39.202:8002/darkambient
@@ -254,11 +254,11 @@ https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3
 #EXTINF:-1 tvg-logo="https://www.radio.de/300/schizoidchillout.png?version=be7061f2a2c3158557ce771b7370382f" group-title="IN",Radio Schizoid - Chillout/Ambient
 http://94.130.113.214:8000/chill
 
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-lounge_600x600.jpg" group-title="DE",- 0 N - Lounge on Radio
-https://0n-lounge.radionetz.de/0n-lounge.mp3
-
 #EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="BE",MyNoise Zen Garden
 http://zengarden.radio.mynoise.net/
+
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-lounge_600x600.jpg" group-title="DE",- 0 N - Lounge on Radio
+https://0n-lounge.radionetz.de/0n-lounge.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",Culture Failure
 http://culturefailure.com:8000/;
@@ -287,6 +287,9 @@ https://stream.zeno.fm/cpnv07rjvp0vv
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s247230/images/logoq.jpg" group-title="GR",Radio Art - Spa
 http://air-tunein.radioart.com/fSpa.mp3
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPkfdprq/rb-Ibiza.png" group-title="DE",IBIZA CHILLOUT LOUNGE - Ambient, Deep House, Balearic, Smooth Jazz, Acoustic, Chill House, Lo-Fi, Chillwave, Dream Pop, Electro, Tropical House, Sunset Chill, Café del Mar, Soft Electronica, Slow House, Ambient, Relax, Easy Listening, Beach Vibes, Summer
+https://0nlineradio.radioho.st/lounge-ibiza-chillout-lounge?ref=rb26
+
 #EXTINF:-1 tvg-logo="" group-title="DE",RPR1. Yoga Sounds
 http://streams.rpr1.de/rpr-entspannung-128-aac?usid=0-0-H-A-D-20
 
@@ -295,9 +298,6 @@ http://air-tunein.radioart.com/fHealing.mp3
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/dronezone-400.jpg" group-title="US",SomaFM Drone Zone (32k AAC)
 https://ice6.somafm.com/dronezone-32-aac
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jPkfdprq/rb-Ibiza.png" group-title="DE",IBIZA CHILLOUT LOUNGE - Ambient, Deep House, Balearic, Smooth Jazz, Acoustic, Chill House, Lo-Fi, Chillwave, Dream Pop, Electro, Tropical House, Sunset Chill, Café del Mar, Soft Electronica, Slow House, Ambient, Relax, Easy Listening, Beach Vibes, Summer
-https://0nlineradio.radioho.st/lounge-ibiza-chillout-lounge?ref=rb26
 
 #EXTINF:-1 tvg-logo="https://manager.uber.radio/static/uploads/station/3176fe92-b3c4-4c03-a69b-85712502e83c.png" group-title="AE",Positively Sleep Classical -om
 https://nl4.mystreaming.net/pr/sleepclassical/icecast.audio

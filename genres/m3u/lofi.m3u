@@ -1,0 +1,148 @@
+#EXTM3U
+#EXTENC:UTF-8
+#PLAYLIST:RadioCatalog - LOFI
+
+#EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png" group-title="FR",france info (lofi)
+http://direct.franceinfo.fr/live/franceinfo-lofi.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",Lofi 24/7
+http://usa9.fastcast4u.com/proxy/jamz?mp=/1
+
+#EXTINF:-1 tvg-logo="" group-title="JP",Nightwave Plaza OPUS 96
+http://radio.plaza.one/opus
+
+#EXTINF:-1 tvg-logo="" group-title="GB",MoE Lofi
+http://stream.zeno.fm/3u1qndyk8rhvv
+
+#EXTINF:-1 tvg-logo="http://reyfm.de/_nuxt/icons/icon_64x64.88ab9f.png" group-title="DE",REYFM -#LOFI
+https://listen.reyfm.de/lofi_320kbps.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NC",NIA Radio Lo-Fi
+https://radio.nia.nc/radio/8020/lofi-hq-stream.aac
+
+#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FzZe3OLAP0usX0Z0Q53XrrFuLKaNHO50zZ0gS3s8578k%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzc1MTZmNTdlLTQ3ZTctNDQ1My1hYzFkLWRkNDliZGE5OWExZS9pbWFnZS8_dXBkYXRlZD0xNjk4NzExMzA2MDAw.webp&w=1920&q=100" group-title="US",LoFi Afrobeats Radio
+https://stream.zeno.fm/34vsiqt1kaktv
+
+#EXTINF:-1 tvg-logo="https://radio.digitalmalayali.in/static/uploads/album_art.1688135987.jpg" group-title="IN",Radio Digital Malayali
+https://radio.digitalmalayali.in/listen/stream/radio.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="RU",lofi
+https://pub0202.101.ru:8443/stream/pro/aac/64/358?
+
+#EXTINF:-1 tvg-logo="" group-title="DE",Epic Lounge - WORKDAY LOUNGE
+https://stream.epic-lounge.com/workday-lounge?ref=radiobrowser
+
+#EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio LO-FI
+https://stream.0nlineradio.com/lo-fi?ref=radiobrowser
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v6hT16qV/LOFI.png" group-title="DE",0R - LO-FI || LoFi, Chill, Study, Hip Hop, Relax, Background, Calm, Instrumental, Smooth, Beats, Coffee, Work, Focus, Soft, Chillhop
+https://0nlineradio.radioho.st/0r-lo-fi?ref=radio-browser26
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png" group-title="FR",ISEKOI Radio | Chill Zone
+https://public.isekoi-radio.com/listen/chill/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://www.reyfm.de/_nuxt/icons/icon_64x64.88ab9f.png" group-title="DE",REYFM - #lofi
+https://listen.reyfm.de/lofi_64kbps.mp3
+
+#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Lo-Fi [1]
+http://79.111.14.76:8002/lo-fi
+
+#EXTINF:-1 tvg-logo="" group-title="DE",[laut.fm] lofi
+https://stream.laut.fm/lofi
+
+#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Lo-Fi [2]
+http://79.111.14.76:8000/lo-fi
+
+#EXTINF:-1 tvg-logo="https://radcap.ru/graf2/rclogo.png" group-title="RU",Radio Caprice - Lo-Fi [2]
+http://79.111.14.76:8004/lo-fi
+
+#EXTINF:-1 tvg-logo="" group-title="RU",Nightwave Plaza
+https://radio.plaza.one/ogg
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png" group-title="FR",ISEKOI Radio | Chill Zone
+https://public.isekoi-radio.com/listen/chill/radio.flac
+
+#EXTINF:-1 tvg-logo="https://www.reyfm.de/_nuxt/icons/icon_64x64.88ab9f.png" group-title="DE",REYFM - #lofi
+https://listen.reyfm.de/lofi_128kbps.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="BR",Nigthwave plaza
+http://radio.plaza.one/mp3
+
+#EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Lo-Fi [3]
+http://79.111.14.76:8004/lo-fi
+
+#EXTINF:-1 tvg-logo="https://cdn.hunter.fm/image/thumb/station/lo-fi-third/400x400ht.jpg" group-title="BR",Hunter.FM Lo-Fi
+https://live.hunter.fm/lofi_normal
+
+#EXTINF:-1 tvg-logo="https://discord.do/wp-content/uploads/2023/08/Neverland-Fandub.jpg" group-title="AR",neverland
+https://stream-166.zeno.fm/oaqigxpfjzqvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvYXFpZ3hwZmp6cXZ2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjFnRWVwSWpIUXJXVElZSU1pLVlrenciLCJpYXQiOjE3NDgxMzU4OTUsImV4cCI6MTc0ODEzNTk1NX0.b4Llu6iAJk1NPa2U9OhIjm_3CZQyLuRJZWiNecQWBdY
+
+#EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/6b67891f-ca25-461d-868f-664944bffac0.png" group-title="US",LITT Live - Lofi - Chill & Instrumental Jazz Beats
+https://das-sa39.cdnstream1.com/5582_128
+
+#EXTINF:-1 tvg-logo="https://radio.sutekihost.com/static/uploads/album_art.1743805787.jpg" group-title="US",BGMVibes
+https://radio.sutekihost.com/listen/bgmvibes/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://b3ck.com/uploadz/uploads/b3cks-radio.png" group-title="US",b3cks-radio
+https://radio.b3ck.com/listen/b3cks-radio/radio.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="DE",Retro Lofi Chiptune Radio
+https://a5.asurahosting.com:8150/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://mugenradio.com/cover-mugen-3000.png" group-title="XX",MUGEN Radio
+https://mugenradio.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.live365.com/download/0f7908ae-7a6e-449a-bcb7-4a92b39fd1cb.png/400/image.webp" group-title="US",No AC/DC
+https://das-edge12-live365-dal02.cdnstream.com/a52726
+
+#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-lo-fi-en-mp3.jpg" group-title="FR",Hotmix Lo-Fi
+https://streaming.hotmixradio.com/hotmix-lofi-en-mp3?provider=radiobrowser
+
+#EXTINF:-1 tvg-logo="https://image.live365.com/download/ee7c8c6a-0e70-431e-94c8-6903a10e21cc.png/400/image.webp" group-title="US",Untidy Radio
+https://das-edge17-live365-dal02.cdnstream.com/a14325
+
+#EXTINF:-1 tvg-logo="" group-title="KR",ARA FM
+http://141.164.38.238/listen/ara_fm/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://broadcaster.live365.com/static/assets/logos/default.jpg" group-title="US",Osage Orange Radio
+https://das-edge62-live365-dal03.cdnstream.com/a08442
+
+#EXTINF:-1 tvg-logo="https://slsdigitalmusic.com/assets/logo7.png" group-title="US",SLS Digital Music
+https://slsdigitalradio.com:8000/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/9721c8d3b2da107f0341ce2e5c01bc9a?t=_120x120" group-title="DE",Zocker-FM
+https://zockerfm.stream.laut.fm/zockerfm?t302=2026-03-24_21-33-02&uuid=6eac6792-303d-4e5d-ad71-01368a022035
+
+#EXTINF:-1 tvg-logo="" group-title="FR",hotmix LoFi
+https://streaming.hotmixradio.com/hotmix-lofi-en-mp3
+
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/a32f99500d9bc3864c7b619152c8e6e9?t=_120x120" group-title="DE",Special-Radio
+https://special-radio.stream.laut.fm/special-radio?t302=2026-03-24_22-09-25&uuid=bbf6c4db-2005-4024-9674-9ccb3a4d3d90
+
+#EXTINF:-1 tvg-logo="" group-title="BR",Midnight station
+http://129.146.164.81:8181/listen/midnight_station/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://fmvfitradio.webicdp.com/favicon.png" group-title="RO",FMV FIT Radio Focus
+https://radio.webicdp.com/listen/fmvfitradiofocus/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://hunter.fm/favicon.ico" group-title="BR",Hunter.fm O Canal Lo-Fi (High)
+https://live.hunter.fm/lofi_high
+
+#EXTINF:-1 tvg-logo="https://mugenradio.com/cover-mugen-300.png" group-title="FR",MUGEN Radio
+https://mugenradio.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="AR",Steady State Radio
+https://radio.steadystateradio.com/listen/steady_state/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://mugenradio.com/cover-mugen-3000.png" group-title="FR",MUGEN Radio
+https://mugenradio.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.live365.com/download/cb22e857-3ee0-49f0-90c8-3f9c3e3012f1.png/400/image.webp" group-title="US",PAX LO-FI
+https://das-edge16-live365-dal02.cdnstream.com/a24494
+
+#EXTINF:-1 tvg-logo="" group-title="FR",MUGEN Radio
+https://mugenradio.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://irvess.com/assets/img/icon-512.png" group-title="TR",irvess
+https://irvess.com/stream/irvess
+

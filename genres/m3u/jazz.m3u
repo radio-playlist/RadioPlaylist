@@ -107,11 +107,11 @@ http://live-radio01.mediahubaustralia.com/JAZW/aac/
 #EXTINF:-1 tvg-logo="" group-title="Global",Program 3 (Trójka)
 http://mp3.polskieradio.pl:8904/;.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="FR",Alternative Radio
-https://www.radioking.com/play/alternative-radio-1
-
 #EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line Jazz Radio
 http://mediaserv38.live-streams.nl:8006/
+
+#EXTINF:-1 tvg-logo="" group-title="FR",Alternative Radio
+https://www.radioking.com/play/alternative-radio-1
 
 #EXTINF:-1 tvg-logo="" group-title="LT",Easy FM
 https://netradio.ziniur.lt/easyfm.mp3
@@ -173,11 +173,11 @@ http://strm112.1.fm/ajazz_mobile_mp3
 #EXTINF:-1 tvg-logo="http://www.radioswissjazz.ch/favicon.ico" group-title="CH",Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/aacp_96
 
-#EXTINF:-1 tvg-logo="" group-title="NL",The Great American Songbook
-http://tgas.dyndns.org:8001/;
-
 #EXTINF:-1 tvg-logo="http://www.costadelmar-radio.com/favicon.ico" group-title="Global",Costa del Mar - Smooth Sax
 http://stream.cdm-smoothsax.com:8024/stream-mp3-Smooth
+
+#EXTINF:-1 tvg-logo="" group-title="NL",The Great American Songbook
+http://tgas.dyndns.org:8001/;
 
 #EXTINF:-1 tvg-logo="https://jazzradio.net/wp-content/uploads/2023/06/jr-disc-10k-black.png" group-title="DE",JazzRadio 106.8 Berlin
 https://streaming.radio.co/s774887f7b/listen
@@ -272,17 +272,17 @@ http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3
 #EXTINF:-1 tvg-logo="" group-title="US",The Jazz Groove
 http://mp3-128.streamthejazzgroove.com/;stream.mp3?_ga=2.244100037.1386788109.1513293582-596706204.1513293582
 
-#EXTINF:-1 tvg-logo="https://www.ubuntu.fm/sites/default/files//favicons/apple-touch-icon.png" group-title="ZA",UbuntuFM
-https://streaming.coollective.nl:8443/UbuntuFM
-
 #EXTINF:-1 tvg-logo="https://jazzy.hu/apple-icon-180x180.png" group-title="HU",Jazzy
 https://radio.musorok.org/listen/jazzy/jazzy.mp3
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_2722a2a63db342f0901576a0168f2571~mv2.jpg" group-title="CA",# 100 GREATEST JAZZ LOUNGE BAR
-https://cast1.torontocast.com:4640/stream
+#EXTINF:-1 tvg-logo="https://www.ubuntu.fm/sites/default/files//favicons/apple-touch-icon.png" group-title="ZA",UbuntuFM
+https://streaming.coollective.nl:8443/UbuntuFM
 
 #EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line Radio - Jazz
 http://mediaserv38.live-streams.nl:8006/live
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_2722a2a63db342f0901576a0168f2571~mv2.jpg" group-title="CA",# 100 GREATEST JAZZ LOUNGE BAR
+https://cast1.torontocast.com:4640/stream
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8f2aad_93ae56d1764947358ca5524a248f789e~mv2.png" group-title="FR",Le Bon Mix HiFi Flac 1411 Kbps
 https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio

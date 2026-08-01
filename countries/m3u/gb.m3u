@@ -296,9 +296,9 @@ http://stream.nonstopplay.co.uk/nsp-192k-mp3
 #EXTINF:-1 tvg-logo="https://www.1mix.co.uk/forum/styles/acidtech/theme/images/site_logo.gif" group-title="GB",1Mix Radio - Trance (UK) 32kb aac+
 http://fr2.1mix.co.uk:9000/aacb
 
-#EXTINF:-1 tvg-logo="" group-title="GB",TrancePulse FM
-http://live.trance.ie:8000/stream
-
 #EXTINF:-1 tvg-logo="https://www.radiocaroline.co.uk/favicon.ico" group-title="GB",Radio Caroline AAC 96 kbps
 http://78.129.202.200:8030/;
+
+#EXTINF:-1 tvg-logo="" group-title="GB",TrancePulse FM
+http://live.trance.ie:8000/stream
 

@@ -35,11 +35,11 @@ https://maggie.torontocast.com:2020/stream/100greatestofthe80s
 #EXTINF:-1 tvg-logo="http://www.ctvnews.ca/pf/resources/images/ctvnews/favicon.ico?d=111" group-title="CA",CTV News Audio Channel
 http://18183.live.streamtheworld.com/TV_CTV_NEWSAAC_SC
 
-#EXTINF:-1 tvg-logo="" group-title="CA",Nature Radio Rain
-https://maggie.torontocast.com:2020/stream/natureradiorain
-
 #EXTINF:-1 tvg-logo="" group-title="CA",70 80 90 Vibrazioni Rock Radio
 https://maggie.torontocast.com:2020/stream/vibrazionirockradio
+
+#EXTINF:-1 tvg-logo="" group-title="CA",Nature Radio Rain
+https://maggie.torontocast.com:2020/stream/natureradiorain
 
 #EXTINF:-1 tvg-logo="" group-title="CA",Ancient FM
 https://mediaserv73.live-streams.nl:18058/stream
@@ -266,11 +266,11 @@ https://rogers-hls.leanstream.co/rogers/tor680.stream/icy?environment=tunein&arg
 #EXTINF:-1 tvg-logo="https://www.cbc.ca/favicon.ico" group-title="CA",CBC Radio 1 Toronto 99.1 FM
 https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/adaptive_128/chunklist_ao.m3u8
 
-#EXTINF:-1 tvg-logo="https://edge.ca/wp-content/uploads/sites/5/2017/12/cropped-fm-logos_512x512_edge.png?w=180" group-title="CA",CFNY 102.1 "The Edge" Toronto, ON (MP3)
-http://live.leanstream.co/CFNYFM-MP3
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/3/3b/20210720194227%21CBC_logo.svg" group-title="CA",CBC Radio 1 Vancouver
 https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://edge.ca/wp-content/uploads/sites/5/2017/12/cropped-fm-logos_512x512_edge.png?w=180" group-title="CA",CFNY 102.1 "The Edge" Toronto, ON (MP3)
+http://live.leanstream.co/CFNYFM-MP3
 
 #EXTINF:-1 tvg-logo="https://www.grittyrockradio.com/apple-touch-icon.png" group-title="CA",Gritty Rock Radio
 https://listen.radioking.com/radio/10713/stream/21674

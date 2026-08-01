@@ -1,0 +1,304 @@
+#EXTM3U
+#EXTENC:UTF-8
+#PLAYLIST:RadioCatalog - CZ
+
+#EXTINF:-1 tvg-logo="http://www.radiofarda.com//Content/responsive/RFE/img/webApp/favicon.ico" group-title="CZ",RFE/RL Radio Farda
+http://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21
+
+#EXTINF:-1 tvg-logo="http://www.svoboda.org/Content/responsive/RFE/img/top_logo_news.png" group-title="CZ",Радио Свобода (Radio Svoboda, RFE/RL Russian, ch. 4)
+http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04.m3u
+
+#EXTINF:-1 tvg-logo="http://www.countryradio.cz/assets/favicon/apple-touch-icon.png" group-title="CZ",Country Radio
+http://icecast2.play.cz:8000/country128aac
+
+#EXTINF:-1 tvg-logo="https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="CZ",Радио Свобода
+https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Kiss 98 FM
+http://icecast2.play.cz:8000/kiss128aac
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Radio Beat
+http://icecast2.play.cz/radiobeat128.mp3
+
+#EXTINF:-1 tvg-logo="https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002=" group-title="CZ",Radio Čas Rock
+http://icecast6.play.cz/casrock128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Rádio Blaník živé
+http://ice.abradio.cz/blanikfm128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",ČRo Radiožurnál
+http://icecast8.play.cz/cro1-128.mp3
+
+#EXTINF:-1 tvg-logo="https://radia.cz/static/favicon.ico" group-title="CZ",Radio Humor
+http://mp3stream4.abradio.cz:8000/humor128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Radio ROCK
+http://ice.abradio.cz/rockradio128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Kiss Hady
+http://icecast8.play.cz/kisshady128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Rádio Blaník CZ Webové rádio
+http://ice.abradio.cz/blanikcz128.mp3
+
+#EXTINF:-1 tvg-logo="https://dvojka.rozhlas.cz/sites/default/files/favicon_dvojka.ico" group-title="CZ",ČRo Dvojka
+http://icecast6.play.cz/cro2-128.mp3
+
+#EXTINF:-1 tvg-logo="https://1gr.cz/u/favicon/apple-touch-icon/impuls.png" group-title="CZ",Impuls Ráááádio
+http://icecast5.play.cz/impuls128.mp3
+
+#EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/thumb_492_images_w200.png" group-title="CZ",Hitrádio Devadesátka
+http://ice.abradio.cz/hit90128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Radio Kiss
+http://icecast4.play.cz/kiss128.mp3
+
+#EXTINF:-1 tvg-logo="https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="CZ",Свобода
+https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.freeradio.cz/img/ico_vcelka_32_32_6.png" group-title="CZ",Free Rádio 107,0 FM Brno
+http://icecast8.play.cz/freeradio128.mp3
+
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/4pn6k2gnfueh.jpg" group-title="CZ",Český Impuls
+http://icecast6.play.cz/cesky-impuls.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",HIT Rádio Orion
+http://ice.abradio.cz/orion128.mp3
+
+#EXTINF:-1 tvg-logo="https://www.fajnradio.cz/favicon.ico" group-title="CZ",Fajn Rádio
+http://ice.abradio.cz/fajn128.mp3
+
+#EXTINF:-1 tvg-logo="http://www.oldiesradio.cz/favicon.ico" group-title="CZ",Oldies Rádio
+http://ice.abradio.cz/oldiesradio128.mp3
+
+#EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/thumb_490_images_w200.png" group-title="CZ",Hitrádio Osmdesátka
+http://ice.abradio.cz/hit80128.mp3
+
+#EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/thumb_25_images_w200.png" group-title="CZ",Rádio pohádka
+http://ice3.abradio.cz/pohadka128.mp3
+
+#EXTINF:-1 tvg-logo="https://www.danceradio.cz/favicons/apple-touch-icon.png" group-title="CZ",Dance Radio
+http://ice.actve.net/dance-radio320.mp3
+
+#EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/thumb_65_images_w200.png" group-title="CZ",Metalománie
+http://ice.abradio.cz/metalomanie128.mp3
+
+#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/cro3.png" group-title="CZ",ČRo Vltava
+http://icecast5.play.cz/cro3-128.mp3
+
+#EXTINF:-1 tvg-logo="https://css.actve.net/frekvence1/img/favicons/mstile-150x150.png?v=jw63ApEelG" group-title="CZ",Frekvence 1
+http://ice.actve.net/fm-frekvence1-aac
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Rock Rádio Šumava
+http://ice.abradio.cz/sumava128.mp3
+
+#EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/thumb_246_images_w200.png" group-title="CZ",Radio Depeche Mode
+http://mp3stream4.abradio.cz/depeche128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Metal Heart
+http://fr.radio-streamhosting.com:8000/metalheartradio64aac
+
+#EXTINF:-1 tvg-logo="http://krokodyl.cz/www/upload/favicons/144/20210218010709604.png" group-title="CZ",Radio Krokodyl
+http://icecast-u2.play.cz:8000/krokodyl128.mp3
+
+#EXTINF:-1 tvg-logo="https://radia.cz/static/favicon.ico" group-title="CZ",Hitrádio FM
+http://ice.abradio.cz/hitradiofm128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",povídka
+https://ice3.abradio.cz/povidka128.mp3
+
+#EXTINF:-1 tvg-logo="https://plus.rozhlas.cz/sites/default/files/favicon_plus.ico" group-title="CZ",ČRo Plus
+http://amp.cesnet.cz:8000/cro-plus-256.ogg
+
+#EXTINF:-1 tvg-logo="https://www.funkstar.eu/favicon.ico" group-title="CZ",Funkstar Radio
+https://funkstar.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Kiss Radio
+http://icecast4.play.cz/kiss128.mp3
+
+#EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/thumb_442_images_w200.png" group-title="CZ",Helax 93,7
+http://ice.abradio.cz/helax128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Country Radio
+http://icecast4.play.cz/country128.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radiobeat.cz/img/logo@2x.png" group-title="CZ",Rádio Beat (128 AAC)
+https://icecast2.play.cz/beat128aac
+
+#EXTINF:-1 tvg-logo="https://rockovyradio.cz/design/img/logo.svg" group-title="CZ",Rock Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Radio Blaník Morava a Slezsko
+https://ice.abradio.cz/blanikmorava128.mp3?gdpr=1&gdpr_consent=Q084aEUyaE84aEUyaEFjQUJCRU5BX0NnQVBfQUFIX0FBQVlnRjVvQmhEeEVCU0ZDQUdKb1lOa2dBQUFXeHdBQUFDQUNBQUFBb0FBQUFCb0FBQVFBQUFBQUFBQWdCQUFBQUJJQUlBSUFBQUJBR0VBQUFBQUFBQUFBQUFBQUFFQUFBQUFBSVFBQUFBQUFBQ0JBQUFBQUFBQUFBQUFBQUFBQVFBQUFnWG5BZUFBV0FCVUFDNEFIQUFRQUFxQUJvQURrQUlnQVRBQW5nQlZBQzRBRjhBTVFBaElCRUFFVUFLVUFXSUF5d0Jtd0R1QU84QWhBQkZnQzBnRjFBTUNBYXdCTm9DOHdBQUFBLllBQUFBQUFBQUFBQQ==
+
+#EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/thumb_69_images_w200.png" group-title="CZ",Rocková zábava
+http://ice.abradio.cz/rockzabava128.mp3
+
+#EXTINF:-1 tvg-logo="https://radia.cz/static/favicon.ico" group-title="CZ",ABradio Chillout
+http://mp3stream4.abradio.cz/chillout128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",RADIO 1
+http://icecast2.play.cz/radio1.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Signál Rádio
+http://icecast1.play.cz/signal128.mp3
+
+#EXTINF:-1 tvg-logo="https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="CZ",Radio Svoboda Rus
+http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Queenradio.net
+http://stream.radiojar.com/4gw72qm8u68uv
+
+#EXTINF:-1 tvg-logo="https://casradio.cz/wp-content/themes/frontheme_woo/assets/img/logos/radio-cas5.png" group-title="CZ",Radio Čas
+http://icecast6.play.cz/casradio128.mp3
+
+#EXTINF:-1 tvg-logo="https://svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="CZ",Radio Svoboda (ru) (official stream)
+https://stream.radiojar.com/hcrb063nn3quv
+
+#EXTINF:-1 tvg-logo="http://www.rockzone.cz/favicon.ico" group-title="CZ",Rockzone
+http://icecast5.play.cz/rockzone128.mp3
+
+#EXTINF:-1 tvg-logo="https://www.expresfm.cz/app/mu-plugins/expresfm/assets/favicons/apple-touch-icon.png" group-title="CZ",Express FM
+http://icecast8.play.cz/expres128mp3
+
+#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/radiodechovka.png" group-title="CZ",Radio Dechovka 1233 Stredni Vlny
+http://icecast5.play.cz/dechovka128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Rádio Blaník
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3
+
+#EXTINF:-1 tvg-logo="https://radia.cz/favicon.ico" group-title="CZ",Radia CZ - Depeche Mode
+http://mp3stream4.abradio.cz/depeche128.mp3
+
+#EXTINF:-1 tvg-logo="http://www.classicpraha.cz/static/images/favicon.ico" group-title="CZ",Classic Praha
+http://icecast8.play.cz/classic128.mp3
+
+#EXTINF:-1 tvg-logo="https://radiocolor.cz/image/color_logo500x500.jpg" group-title="CZ",Color Music Radio
+http://sc.ipip.cz:8206/;stream
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Rádio Samson
+http://icecast8.play.cz/samsonfm128.mp3
+
+#EXTINF:-1 tvg-logo="https://radia.cz/favicon.ico" group-title="CZ",Dance Club Radio
+https://ice4.abradio.cz/dance128.mp3
+
+#EXTINF:-1 tvg-logo="http://hitradiocity.cz/design/favicons/apple-icon-120x120.png" group-title="CZ",hitradio City zona Lasky
+http://ice.abradio.cz/cityzl128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Comedy Club R@dio DIANA
+https://westradio.cz/radio/8010/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MPpLH6b/6067b0e51f4e27fc0549b36ac5c01f91.jpg" group-title="CZ",Evropa 2 - Radio
+https://ice.actve.net/fm-evropa2-128
+
+#EXTINF:-1 tvg-logo="https://www.mujrozhlas.cz/themes/mr_frontend/img/favicons/favicon.ico" group-title="CZ",Cesky Rozhlas Jazz Lossless FLAC Stream
+http://amp.cesnet.cz:8000/cro-jazz.flac
+
+#EXTINF:-1 tvg-logo="https://www.kiss.cz/assets/favicon/apple-touch-icon.png" group-title="CZ",Kiss Radio - 128MP3
+https://icecast1.play.cz/kissdelta128.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radiobonton.cz/favicons/apple-touch-icon.png" group-title="CZ",Rádio Bonton
+http://ice.actve.net/fm-bonton-128
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",svobodne-radio
+http://svobodneradio.radioca.st:8859/stream
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",ČRo D-dur FLAC
+http://amp.cesnet.cz:8000/cro-d-dur.flac
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Svobodný vysílač
+http://stream.svobodny-vysilac.cz:8000/live.ogg
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Rádio humor 2
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac
+
+#EXTINF:-1 tvg-logo="https://d-dur.rozhlas.cz/favicon.ico" group-title="CZ",Cesky Rozhlas Classical Lossless FLAC Stream
+http://amp.cesnet.cz:8000/cro-d-dur.flac
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Radio Proglas
+http://icecast2.play.cz/proglas128
+
+#EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-152x152.png" group-title="CZ",PHONK RADIO
+https://stream-43.zeno.fm/90fvpb27u18uv?zs=vRvgZYxuSUWsgBGCbKMLnA
+
+#EXTINF:-1 tvg-logo="https://www.netroliferadio.cz/files/resize/128/128/netro-favicon-top-0.png" group-title="CZ",Netro Life Radio 100,8 FM
+https://icecast9.play.cz/netro-life-radio.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Fed's Trap Radio
+https://backend.fedstrapradio.com:8000/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://radiozurnal.rozhlas.cz/sites/default/files/favicon_radiozurnal.ico" group-title="CZ",CRo Radiozurnal
+https://rozhlas.stream/radiozurnal_aac_128.aac
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",ROCK MAX
+http://ice.abradio.cz/rockmax256.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Radio City FM
+http://ice.abradio.cz/cityfm128.mp3
+
+#EXTINF:-1 tvg-logo="http://heyradio.cz/favicon.ico" group-title="CZ",HEY rádio
+http://icecast3.play.cz/hey-radio128.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png" group-title="CZ",Evropa 2 - Actve
+https://ice.actve.net/fm-evropa2-128
+
+#EXTINF:-1 tvg-logo="https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130" group-title="CZ",Frekvence 1 - Youradio Osmdesátky
+http://ice.actve.net/web-80
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Svobodný vysílač
+http://stream.svobodny-vysilac.cz:8000/live.mp3
+
+#EXTINF:-1 tvg-logo="https://jazz.rozhlas.cz/sites/default/files/favicon_jazz.ico" group-title="CZ",ČRo Jazz
+http://amp.cesnet.cz:8000/cro-jazz.flac
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s10545/images/logog.jpg" group-title="CZ",Hitrádio Faktor
+https://ice.abradio.cz/faktor128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Rádio Jih
+http://icecast6.play.cz/jih128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",ČRO Radiožurnál Sport
+https://rozhlas.stream/radiozurnal_sport_high.aac
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Pigy.cz – Pohádky
+http://ice.actve.net/web-pg-pohadky
+
+#EXTINF:-1 tvg-logo="http://hitradiocitybrno.cz/design/favicons/apple-icon-120x120.png" group-title="CZ",Hitrádio City Brno
+http://ice.abradio.cz/magicbrno128.mp3
+
+#EXTINF:-1 tvg-logo="http://hitradiovysocina.cz/design/favicons/favicon-32x32.png" group-title="CZ",Hitrádio Vysočina
+http://ice5.abradio.cz/hitvysocina128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",WeHouseRadio
+https://icecast9.play.cz/zun192.mp3
+
+#EXTINF:-1 tvg-logo="https://radioblanik.cz/design/favicons/apple-icon-180x180.png" group-title="CZ",Rádio BLANÍK
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac?gdpr=0
+
+#EXTINF:-1 tvg-logo="https://www.countryradio.cz/assets/favicon/apple-touch-icon.png" group-title="CZ",County
+http://icecast4.play.cz/country128.mp3
+
+#EXTINF:-1 tvg-logo="https://m.actve.net/e2/favicon/apple-touch-icon.png" group-title="CZ",Evropa2 Youradio Flashbacky
+https://ice.actve.net/web-e2-flashback
+
+#EXTINF:-1 tvg-logo="https://wave.rozhlas.cz/sites/default/files/favicon_wave.ico" group-title="CZ",ČRo Radio Wave
+http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Kiss Publikum
+http://icecast1.play.cz:8000/kisspublikum128aac
+
+#EXTINF:-1 tvg-logo="https://www.radio1.cz/favicon.ico" group-title="CZ",RADIO1
+http://icecast2.play.cz/radio1-64.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Signál Rádio Brno
+http://icecast6.play.cz/signal-brno128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",We House Radio (AAC+ High)
+https://stream.zunradio.cz/zun1.aac
+
+#EXTINF:-1 tvg-logo="http://plus.rozhlas.cz/favicon.ico" group-title="CZ",ČRo Plus
+https://rozhlas.stream/plus_mp3_128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Hitrádio FM Crystal
+http://ice.abradio.cz/crystal128.mp3
+

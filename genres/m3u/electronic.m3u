@@ -287,14 +287,14 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3
 #EXTINF:-1 tvg-logo="" group-title="DE",Best Of Techno
 http://stream.laut.fm/best-of-techno
 
-#EXTINF:-1 tvg-logo="" group-title="DE",Technolovers - BASS HOUSE
-https://stream.technolovers.fm/bass-house?ref=radiobrowser
+#EXTINF:-1 tvg-logo="" group-title="ES",LOCA FM TechHouse
+http://s02.fjperezdj.com:8046/live
 
 #EXTINF:-1 tvg-logo="" group-title="US",CHICAGO HOUSE
 https://stream.radio.co/sae989fe39/listen
 
-#EXTINF:-1 tvg-logo="" group-title="ES",LOCA FM TechHouse
-http://s02.fjperezdj.com:8046/live
+#EXTINF:-1 tvg-logo="" group-title="DE",Technolovers - BASS HOUSE
+https://stream.technolovers.fm/bass-house?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="https://d2f0ora2gkri0g.cloudfront.net/e3/34/e3349467-8202-41e1-9d8b-32c65faa943a.png" group-title="Global",C-Dance
 http://198.100.145.187:18304/;

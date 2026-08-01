@@ -296,9 +296,9 @@ https://uk2.streamingpulse.com/ssl/vcr1
 #EXTINF:-1 tvg-logo="" group-title="IT",LatteMiele Marche Abruzzo
 http://ice02.fluidstream.net/fluid016.aac
 
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/favicon_1.ico?v=1722509813463" group-title="IT",RMC Marine
-http://edge.radiomontecarlo.net/rmcweb010
-
 #EXTINF:-1 tvg-logo="" group-title="IT",RMC Romantic Rock
 http://edge.radiomontecarlo.net/rmcweb015
+
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/favicon_1.ico?v=1722509813463" group-title="IT",RMC Marine
+http://edge.radiomontecarlo.net/rmcweb010
 

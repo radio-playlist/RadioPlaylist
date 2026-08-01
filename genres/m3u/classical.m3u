@@ -152,11 +152,11 @@ https://streaming.tdiradio.com/radiolola.mp3
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="DE",WDR 3
 http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="US",Whisperings Solo Piano Radio
-http://pianosolo.streamguys.net/live
-
 #EXTINF:-1 tvg-logo="" group-title="EG",اذاعة القرآن الكريم
 http://stream.radiojar.com/0tpy1h0kxtzuv
+
+#EXTINF:-1 tvg-logo="" group-title="US",Whisperings Solo Piano Radio
+http://pianosolo.streamguys.net/live
 
 #EXTINF:-1 tvg-logo="" group-title="TN",قراءات متنوعة
 https://qurango.net/radio/mix

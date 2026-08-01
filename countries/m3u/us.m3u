@@ -47,14 +47,14 @@ http://relax.stream.publicradio.org/relax.mp3
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Old School HipHop/RnB
 http://listen.181fm.com/181-oldschool_128k.mp3
 
+#EXTINF:-1 tvg-logo="" group-title="US",.977 Country
+http://26343.live.streamtheworld.com/977_COUNTRY_SC
+
 #EXTINF:-1 tvg-logo="" group-title="US",.977 80s
 http://17573.live.streamtheworld.com/977_80_SC
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Hitz
 http://18863.live.streamtheworld.com/977_HITS_SC
-
-#EXTINF:-1 tvg-logo="" group-title="US",.977 Country
-http://26343.live.streamtheworld.com/977_COUNTRY_SC
 
 #EXTINF:-1 tvg-logo="" group-title="US",Ambient Sleeping Pill
 http://radio.stereoscenic.com/asp-h
@@ -137,11 +137,11 @@ https://ice5.somafm.com/seventies-320-mp3
 #EXTINF:-1 tvg-logo="" group-title="US",FUNKY RADIO - Only Funk Music (60's 70's)
 https://funkyradio.streamingmedia.it/play.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="US",.977 Oldies
-http://27273.live.streamtheworld.com/977_OLDIES_SC
-
 #EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/otr.jpg" group-title="US",WALM - Old Time Radio Opus
 https://icecast.walmradio.com:8443/otr_opus
+
+#EXTINF:-1 tvg-logo="" group-title="US",.977 Oldies
+http://27273.live.streamtheworld.com/977_OLDIES_SC
 
 #EXTINF:-1 tvg-logo="https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico" group-title="US",Miami Beach Radio
 https://streaming.radiostreamlive.com/miamibeachradio_devices
@@ -155,11 +155,11 @@ https://ocb01.akacast.akamaistream.net/7/365/437903/v1/ibb.akacast.akamaistream.
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="US",SomaFM Lush (128k MP3)
 https://ice2.somafm.com/lush-128-mp3
 
-#EXTINF:-1 tvg-logo="" group-title="US",2000 FM - RnB & Hip-Hop
-http://bigrradio.cdnstream1.com/5105_128
-
 #EXTINF:-1 tvg-logo="https://www.cnn.com/media/sites/cnn/favicon.ico" group-title="US",CNN
 https://tunein.cdnstream1.com/2868_96.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",2000 FM - RnB & Hip-Hop
+http://bigrradio.cdnstream1.com/5105_128
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s106474q.png" group-title="US",Soft Classic Rock Radio
 http://64.71.133.122:8000/;
@@ -191,11 +191,11 @@ http://desertmountainbroadcasting.streamguys1.com/KYYA
 #EXTINF:-1 tvg-logo="" group-title="US",101 SMOOTH JAZZ MELLOW MIX
 http://streaming.live365.com/b48071_128mp3
 
-#EXTINF:-1 tvg-logo="" group-title="US",70s 80s Disco Funk ModernSoul Boogie
-https://discofunk.streamingmedia.it/usa
-
 #EXTINF:-1 tvg-logo="" group-title="US",181.FM - Kickin' Country
 http://listen.181fm.com/181-kickincountry_128k.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",70s 80s Disco Funk ModernSoul Boogie
+https://discofunk.streamingmedia.it/usa
 
 #EXTINF:-1 tvg-logo="https://static.foxnews.com/radio.foxnews.com/content/uploads/2017/10/default_logo-150x150.png" group-title="US",Fox News Radio
 https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc?source=fnr.web
@@ -239,11 +239,11 @@ https://voa-ingest.akamaized.net/hls/live/2035234/160_342L/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="US",Radio Paradise Main Mix 128 AAC
 http://stream.radioparadise.com/aac-128
 
-#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Super 70s
-http://listen.181fm.com/181-70s_128k.mp3
-
 #EXTINF:-1 tvg-logo="https://musiclake.com/wp-content/uploads/cropped-musiclake-lg-180x180.png" group-title="US",Music Lake - Relaxation Music, Meditation, Focus, Chill, Nature Sounds
 http://nap.casthost.net:8626/stream
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Super 70s
+http://listen.181fm.com/181-70s_128k.mp3
 
 #EXTINF:-1 tvg-logo="https://100hitz.com/favicon.ico" group-title="US",100hitz - Top 40
 http://pureplay.cdnstream1.com/6025_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1NTI4MSwiaXNzIjoidGlzcnYifQ.cUMfsrk262BNjQXnfXkKBefQOqoRn2nweLrx5obNPhM

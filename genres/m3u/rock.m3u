@@ -230,11 +230,11 @@ http://streams.radiobob.de/bob-bestofrock/mp3-192/streams.radiobob.de/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi57hSIBiIVp-4lzSM_9nOl4PjUHNS1EHv9g&usqp=CAU" group-title="ID",RADIO CAKRA 90.5 FM
 https://stream.zeno.fm/yoengdcdzyauv
 
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="AE",Exclusively U2
-https://nl4.mystreaming.net/er/u2/icecast.audio
-
 #EXTINF:-1 tvg-logo="" group-title="CA",70 80 90 Vibrazioni Rock Radio
 https://maggie.torontocast.com:2020/stream/vibrazionirockradio
+
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="AE",Exclusively U2
+https://nl4.mystreaming.net/er/u2/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg" group-title="FR",FIP Rock
 http://icecast.radiofrance.fr/fiprock-hifi.aac
@@ -251,11 +251,11 @@ https://streaming.exclusive.radio/er/gunsnroses/icecast.audio
 #EXTINF:-1 tvg-logo="https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png" group-title="DE",ROCKANTENNE Heavy Metal (64 kbps AAC)
 http://mp3channels.webradio.rockantenne.de/heavy-metal.aac
 
-#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/drkZNBUn6W.png" group-title="PT",Rádio Comercial
-https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://oxygenmusic.hu/logo192.png" group-title="HU",Oxygen Classic Rock
 https://oxygenmusic.hu:8443/oxygenclassicrock
+
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/drkZNBUn6W.png" group-title="PT",Rádio Comercial
+https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
@@ -299,6 +299,6 @@ https://stream.radioparadise.com/rock-flac
 #EXTINF:-1 tvg-logo="" group-title="RS",naxi radio - rock
 http://naxidigital-rock128.streaming.rs:8180/;stream.nsv
 
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/seventies400.jpg" group-title="US",SomaFM Left Coast 70s (128k MP3)
-https://ice2.somafm.com/seventies-128-mp3
+#EXTINF:-1 tvg-logo="" group-title="GR",REBEL 105.2
+http://netradio.live24.gr/rebel1052
 

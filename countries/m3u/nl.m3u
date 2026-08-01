@@ -1,0 +1,304 @@
+#EXTM3U
+#EXTENC:UTF-8
+#PLAYLIST:RadioCatalog - NL
+
+#EXTINF:-1 tvg-logo="https://www.intenseradio.net/wp-content/uploads/fbrfg/apple-touch-icon.png?v=gaek7lvrgd" group-title="NL",Intense Radio - We love Dance #HQ# FLAC
+http://secure.live-streams.nl/flac.ogg
+
+#EXTINF:-1 tvg-logo="https://www.intenseradio.net/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="NL",Intense Radio - We love Dance 256k
+http://intenseradio.live-streams.nl:8000/main
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/NPO_Radio_1_logo_2014.svg/640px-NPO_Radio_1_logo_2014.svg.png" group-title="NL",NPO Radio 1
+http://icecast.omroep.nl/radio1-bb-mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/NPO_Radio_2_logo.svg/640px-NPO_Radio_2_logo.svg.png" group-title="NL",NPO Radio 2
+http://icecast.omroep.nl/radio2-bb-mp3
+
+#EXTINF:-1 tvg-logo="https://www.arrow.nl/wp-content/themes/bones-master/library/images/apple-touch-icon.png" group-title="NL",Arrow Classic Rock
+http://stream.gal.io/arrow
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXQ3C4MdB2iKNRXVmQSy-fl3MBqAi-SX2JU3p-ZeLSiLCVbDw&s" group-title="NL",Radio 10
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3
+
+#EXTINF:-1 tvg-logo="https://player.arrow.nl/tmp/images/default.jpg" group-title="NL",Arrow Classic Rock
+https://stream.player.arrow.nl/arrowcr
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line Lounge Radio
+http://mediaserv33.live-streams.nl:8036/live
+
+#EXTINF:-1 tvg-logo="https://www.nporadio5.nl/apple-touch-icon.png" group-title="NL",NPO Radio 5
+https://icecast.omroep.nl/radio5-bb-mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",NPO Radio 2 Soul & Jazz
+http://icecast.omroep.nl/radio6-bb-mp3
+
+#EXTINF:-1 tvg-logo="http://www.skyradio.nl/favicon.ico" group-title="NL",Sky Radio 80's Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3
+
+#EXTINF:-1 tvg-logo="https://www.slam.nl/favicon.ico" group-title="NL",SLAM!
+http://stream.slam.nl/slam
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Concertzender Baroque
+http://streams.greenhost.nl:8080/barok
+
+#EXTINF:-1 tvg-logo="https://qmusic.nl/favicon.ico" group-title="NL",Qmusic
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3
+
+#EXTINF:-1 tvg-logo="https://jplayer-generator.live-streams.nl/upload/96142657.jpg" group-title="NL",Fantasy Italo Dance 90s radio
+https://mscp2.live-streams.nl:8152/italodance
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line Jazz Radio
+http://mediaserv38.live-streams.nl:8006/
+
+#EXTINF:-1 tvg-logo="" group-title="NL",C-Dance RETRO
+http://s45.myradiostream.com:18304/
+
+#EXTINF:-1 tvg-logo="" group-title="NL",NPO Radio 4
+http://icecast.omroep.nl/radio4-bb-mp3
+
+#EXTINF:-1 tvg-logo="https://www.3fm.nl/apple-touch-icon.png" group-title="NL",NPO 3FM Serious Radio
+http://icecast.omroep.nl/3fm-bb-mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Radio Continu
+http://stream.radiocontinu.nl/radiocontinu
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line World Radio
+http://mediaserv38.live-streams.nl:8027/live
+
+#EXTINF:-1 tvg-logo="https://www.skyradio.nl/favicon.ico" group-title="NL",Sky Radio Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA
+
+#EXTINF:-1 tvg-logo="https://www.hardcoreradio.nl/wp-content/themes/hardcore-radio/static/images/favicon/apple-touch-icon.png" group-title="NL",Hardcore Radio
+http://shoutcast1.hardcoreradio.nl/
+
+#EXTINF:-1 tvg-logo="https://pinguinradio.com/dist/images/content/p-radio.jpg" group-title="NL",Pinguin Radio
+http://pr320.pinguinradio.com/
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Grolloo Radio
+https://uk1.streamingpulse.com/ssl/grollooradio
+
+#EXTINF:-1 tvg-logo="https://www.radio10.nl/favicon.ico" group-title="NL",Radio 10 60's & 70's Hits
+http://22333.live.streamtheworld.com:3690/TLPSTR18_SC
+
+#EXTINF:-1 tvg-logo="http://www.skyradio.nl/favicon.ico" group-title="NL",Sky Radio Christmas
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3
+
+#EXTINF:-1 tvg-logo="https://www.slam.nl/favicon.ico" group-title="NL",SLAM! Non Stop
+http://stream.radiocorp.nl/web10_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",100% NL
+http://stream.100p.nl/100pctnl.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Concertzender_Logo.svg/1200px-Concertzender_Logo.svg.png" group-title="NL",Concertzender Oude Muziek
+http://streams.greenhost.nl:8080/oudemuziek
+
+#EXTINF:-1 tvg-logo="https://www.bnr.nl/favicon.ico" group-title="NL",BNR Nieuwsradio
+https://stream.bnr.nl/bnr_aac_96_20
+
+#EXTINF:-1 tvg-logo="https://www.italopower.com/assets/img/apple-touch-icon.png" group-title="NL",Italo Power
+http://stream.radioitalopower.com:10018/italopower
+
+#EXTINF:-1 tvg-logo="" group-title="NL",The Great American Songbook
+http://tgas.dyndns.org:8001/;
+
+#EXTINF:-1 tvg-logo="https://www.funx.nl/apple-touch-icon.png" group-title="NL",NPO Funx Arab
+http://icecast.omroep.nl/funx-arabfb-bb-mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Deep Radio
+http://stream.deep.radio/hd
+
+#EXTINF:-1 tvg-logo="https://www.nashvilletv.nl/wp-content/uploads/2016/04/cropped-nashvilletv-logo-favicon-180x180.png" group-title="NL",Nashville FM
+http://server-10.stream-server.nl:8300/
+
+#EXTINF:-1 tvg-logo="https://www.jazzdeville.com/favicon/jazzdeville/apple-touch-icon.png" group-title="NL",Jazz de Ville - Chill
+https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://kink.nl/static/apple-touch-icon.png" group-title="NL",KINK
+https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Radio Stad Den Haag
+http://94.228.133.3/
+
+#EXTINF:-1 tvg-logo="https://www.funx.nl/apple-touch-icon.png" group-title="NL",NPO FunX Hip Hop
+http://icecast.omroep.nl/funx-hiphopfb-bb-mp3
+
+#EXTINF:-1 tvg-logo="https://s.regiogroei.cloud/img/favicons/rijnmond/apple-touch-icon.png?v=1689602147266" group-title="NL",Radio Rijnmond
+http://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
+
+#EXTINF:-1 tvg-logo="http://www.skyradio.nl/favicon.ico" group-title="NL",Sky Radio 101 FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Sjeffm
+https://caster05.streampakket.com/proxy/8112/stream
+
+#EXTINF:-1 tvg-logo="http://radio1.nl/apple-touch-icon.png" group-title="NL",NPO Radio 1
+http://icecast.omroep.nl/radio1-sb-aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NPO_Klassiek_logo.svg/1200px-NPO_Klassiek_logo.svg.png" group-title="NL",NPO Klassiek
+https://icecast.omroep.nl/radio4-bb-mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",192 Radio (HQ)
+http://server-27.stream-server.nl:8192/stream
+
+#EXTINF:-1 tvg-logo="https://www.538.nl/favicon.ico" group-title="NL",Radio 538
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
+
+#EXTINF:-1 tvg-logo="https://alloldieschannel.com/wp-content/uploads/2020/01/cropped-backgroundalloldieschannel-180x180.png" group-title="NL",All Oldies Channel
+http://radio.alloldieschannel.com:8000/stream
+
+#EXTINF:-1 tvg-logo="http://www.skyradio.nl/favicon.ico" group-title="NL",Sky Radio 90's Hits
+http://22343.live.streamtheworld.com:80/SRGSTR05.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Real Hardstyle Radio
+https://stream.realhardstyle.nl/
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Concertzender Geen dag zonder Bach
+http://streams.greenhost.nl:8080/bach
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Sublime - Live
+http://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3?
+
+#EXTINF:-1 tvg-logo="https://www.funx.nl/apple-touch-icon.png" group-title="NL",NPO FunX Reggae
+http://icecast.omroep.nl/funx-reggaefb-bb-mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Pinguin Blues
+https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line Radio - Jazz
+http://mediaserv38.live-streams.nl:8006/live
+
+#EXTINF:-1 tvg-logo="https://www.slam.nl/favicon.ico" group-title="NL",Slam! Mixmarathon
+http://stream.radiocorp.nl/web13_mp3
+
+#EXTINF:-1 tvg-logo="https://pinguinradio.com/dist/images/content/p-radio.jpg" group-title="NL",Pinguin Radio
+http://streams.pinguinradio.com/PinguinRadio320.mp3
+
+#EXTINF:-1 tvg-logo="https://www.skyradio.nl/favicon.ico" group-title="NL",Sky Radio
+https://www.mp3streams.nl/zender/skyradio/stream/8-mp3-128
+
+#EXTINF:-1 tvg-logo="https://pinguinradio.com/assets/icons/icon-72x72.png" group-title="NL",Pinguin Indie
+http://streams.pinguinradio.com/PinguinRadio192.mp3
+
+#EXTINF:-1 tvg-logo="https://www.538.nl/favicon.ico" group-title="NL",538 Dance Departmetn
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Golden Oldies Radio
+https://sonic.magicdragon.nl/8034/stream
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Joe 70s & 80s
+https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac
+
+#EXTINF:-1 tvg-logo="http://www.radio5.nl/apple-touch-icon.png" group-title="NL",NPO Radio 5
+http://icecast.omroep.nl/radio5-bb-mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",NPO Radio 4 - Concerten
+http://icecast.omroep.nl/radio4-eigentijds-mp3
+
+#EXTINF:-1 tvg-logo="https://www.jazzdeville.com/favicon/jazzdeville/apple-touch-icon.png" group-title="NL",Jazz de Ville - Groove
+https://onair22.xdevel.com/proxy/xautocloud_1kha_423?mp=/stream
+
+#EXTINF:-1 tvg-logo="" group-title="NL",3FM
+http://icecast.omroep.nl/3fm-bb-mp3
+
+#EXTINF:-1 tvg-logo="https://en.slowradio.com/img/favicons/apple-touch-icon.png" group-title="NL",Slow Radio Gold
+https://stream11.slowradio.com/
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pkhqkus8dmde.jpg" group-title="NL",JOE
+https://stream.joe.nl/joe/aachigh
+
+#EXTINF:-1 tvg-logo="https://s.regiogroei.cloud/img/favicons/l1/apple-touch-icon.png?v=1709566299847" group-title="NL",L1 Radio
+http://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line Latin Radio
+http://mediaserv33.live-streams.nl:8034/
+
+#EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="NL",Radio 538 Ibiza
+http://22323.live.streamtheworld.com/TLPSTR19_SC
+
+#EXTINF:-1 tvg-logo="https://www.pureloungeradio.com/images/Pureloungeradio-achtergrond.jpg" group-title="NL",Pure Lounge Radio FLAC
+https://mscp4.live-streams.nl:8142/lounge.ogg
+
+#EXTINF:-1 tvg-logo="https://www.arrow.nl/wp-content/uploads/2020/08/logo.png" group-title="NL",Arrow Classic Rock
+http://stream.gal.io/arrow
+
+#EXTINF:-1 tvg-logo="http://www.allradio.nl/uploaded/logo/soul-radio-groot.jpg" group-title="NL",SoulRadio
+https://22323.live.streamtheworld.com/SOULRADIOAAC_SC
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Radio 538 Nonstop
+http://25303.live.streamtheworld.com/TLPSTR09_SC
+
+#EXTINF:-1 tvg-logo="https://perfectmoods.nl/favicon.ico" group-title="NL",PerfectMoods – 24/7 Quality Lounge
+https://www.radioking.com/play/perfectmoods/104227
+
+#EXTINF:-1 tvg-logo="https://www.npo3fm.nl/apple-touch-icon.png" group-title="NL",NPO 3FM
+http://icecast.omroep.nl/3fm-bb-aac
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s122234q.png" group-title="NL",JAMM FM
+http://stream.jammfm.nl:8221/
+
+#EXTINF:-1 tvg-logo="https://jungletrain.net/jth-inc/images/jtlogo.png" group-title="NL",jungletrain.net - 24/7 drum and bass
+https://chat.jungletrain.net/streamtest/;stream/1
+
+#EXTINF:-1 tvg-logo="https://static.bnr.nl/assets/bnr-next/logo.png" group-title="NL",BNR Nieuwsradio
+https://stream.bnr.nl/bnr_mp3_128_20
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pkhqkus8dmde.jpg" group-title="NL",JOE
+https://stream.joe.nl/joe/aachigh
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Radio Veronica
+http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC.aac
+
+#EXTINF:-1 tvg-logo="https://www.jazzdeville.com/favicon/jazzdeville/apple-touch-icon.png" group-title="NL",Jazz de Ville - Jazz
+https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://www.npo3fm.nl/apple-touch-icon.png" group-title="NL",NPO 3FM
+https://icecast.omroep.nl/3fm-bb-mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Concertzender Gregoriaans
+http://streams.greenhost.nl:8080/gregoriaans
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Q-Dance Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg" group-title="NL",Qmusic Het Foute Uur
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3
+
+#EXTINF:-1 tvg-logo="http://www.skyradio.nl/favicon.ico" group-title="NL",Sky Radio 101 FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC.aac
+
+#EXTINF:-1 tvg-logo="" group-title="NL",ISKC Rock Radio
+http://mediaserv68.live-streams.nl:8012/RockRadio
+
+#EXTINF:-1 tvg-logo="http://www.baarsclassicrock.nl/favicon.ico" group-title="NL",Baars classic Rock
+http://server-66.stream-server.nl:8840/
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Oude Piraten Hits
+http://server-67.stream-server.nl:8910/stream
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/iskcrocks.com/wp-content/uploads/2019/09/blues-cafe-740.jpg?w=720&ssl=1" group-title="NL",ISKC Blues Cafe
+http://mediaserv68.live-streams.nl:8012/BluesCafe
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Tukker FM
+https://stream.tukkerfm.nl/tukkerfm
+
+#EXTINF:-1 tvg-logo="https://www.538.nl/favicon.ico" group-title="NL",Radio 538 Party
+http://28973.live.streamtheworld.com/TLPSTR16_SC
+
+#EXTINF:-1 tvg-logo="https://danceradio.nl/wp-content/uploads/2023/10/cropped-faviconpng-180x180.png" group-title="NL",Dance Radio Amsterdam
+http://stream.danceradio.nl:9920/
+
+#EXTINF:-1 tvg-logo="https://kink.nl/static/icon.png" group-title="NL",KINK80s
+http://25343.live.streamtheworld.com/KINK_DNA_SC
+
+#EXTINF:-1 tvg-logo="http://www.skyradio.nl/favicon.ico" group-title="NL",Sky Radio Lovesongs
+http://22323.live.streamtheworld.com:3690/SRGSTR03AAC_SC
+
+#EXTINF:-1 tvg-logo="https://www.jazzdeville.com/favicon/jazzdeville/apple-touch-icon.png" group-title="NL",Jazz de Ville - Dance
+https://onair22.xdevel.com/proxy/xautocloud_6cqz_422?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://www.funx.nl/apple-touch-icon.png" group-title="NL",NPO FunX Latin
+http://icecast.omroep.nl/funx-latinfb-bb-mp3
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s206043/images/logod.png?t=637460687100000000" group-title="NL",PureClassix #Flac
+http://mscp4.live-streams.nl:8140/flac.ogg
+

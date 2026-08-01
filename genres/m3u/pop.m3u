@@ -119,11 +119,11 @@ http://play.global.audio/nrj128
 #EXTINF:-1 tvg-logo="" group-title="CZ",Kiss 98 FM
 http://icecast2.play.cz:8000/kiss128aac
 
-#EXTINF:-1 tvg-logo="" group-title="HU",Petőfi Rádió
-http://mr-stream.mediaconnect.hu/4737/mr2.aac
-
 #EXTINF:-1 tvg-logo="https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817" group-title="TR",Power POP
 https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HU",Petőfi Rádió
+http://mr-stream.mediaconnect.hu/4737/mr2.aac
 
 #EXTINF:-1 tvg-logo="" group-title="GR",KISS FM 100.6
 http://live.radiokiss.gr/kissfm1006hq.mp3
@@ -221,14 +221,14 @@ http://mp3.ffh.de/radioffh/hqlivestream.mp3
 #EXTINF:-1 tvg-logo="" group-title="RO",Virgin Radio Romania
 http://astreaming.virginradio.ro:8000/virgin_aacp_64k
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200" group-title="PE",Radio Oxígeno
-https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="CO",La Mega (Medellín) 92.9 FM
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632cb48f613bac0856b931ab
 
 #EXTINF:-1 tvg-logo="https://www.radioplay.bg/assets/logos/bgestrada.png" group-title="BG",BG Estrada
 https://play.global.audio/bgestrada
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200" group-title="PE",Radio Oxígeno
+https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef0ca067ec97a064f3322c9" group-title="MX",ALFA 91.3 (Ciudad de México) - 91.3 FM - XHFAJ-FM - Grupo Radio Centro - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FMAAC.aac
