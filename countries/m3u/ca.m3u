@@ -170,11 +170,11 @@ http://900.cloudrad.io:8138/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ICI_Radio-Canada_Premi%C3%A8re.svg/200px-ICI_Radio-Canada_Premi%C3%A8re.svg.png" group-title="CA",Radio Canada Ici Première - Montréal, QC
 https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="CA",Calm Radio - Vivaldi
-http://streams.calmradio.com:8928/stream
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_cf8747dc2b804de09c56359c324dd1f5~mv2.jpg" group-title="CA",100 BEST IBIZA DEEP HOUSE
 https://stream.zeno.fm/lwv6zqgtv1dtv
+
+#EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="CA",Calm Radio - Vivaldi
+http://streams.calmradio.com:8928/stream
 
 #EXTINF:-1 tvg-logo="https://calmradio.com/images/logo/Calm-LOGO%202015.png" group-title="CA",Calm Radio - Flute
 http://streams.calmradio.com:4828/;
@@ -197,20 +197,20 @@ http://stream.rpgamers.net:8000/rpgn
 #EXTINF:-1 tvg-logo="" group-title="CA",CKYC 93.7 "Country 93" Owen Sound, ON
 http://bayshore.leanstream.co/CKYCFM
 
-#EXTINF:-1 tvg-logo="" group-title="CA",RDMIX LOVE SONGS
-http://maggie.torontocast.com:8022/stream
-
 #EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2024-10-25/f83dbfeda4fbcf3399eb5afd0949c4b1.ico.png" group-title="CA",100% ACID JAZZ
 https://mpc1.mediacp.eu:8356/stream
+
+#EXTINF:-1 tvg-logo="" group-title="CA",RDMIX LOVE SONGS
+http://maggie.torontocast.com:8022/stream
 
 #EXTINF:-1 tvg-logo="https://media.bpmsports.ca/2023/08/cropped-android-chrome-512x512-1-180x180.png" group-title="CA",BPM sports 91.9
 http://icecast-cklx.rncm.ca/cklx.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CA",Prog Frog
-http://eagle.streemlion.com:4040/stream
-
 #EXTINF:-1 tvg-logo="" group-title="CA",Soundstorm Radio
 http://stream.soundstorm-radio.com:8000/
+
+#EXTINF:-1 tvg-logo="" group-title="CA",Prog Frog
+http://eagle.streemlion.com:4040/stream
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s281642/images/logoq.jpg" group-title="CA",THE LYNX CLASSIC ROCK
 http://rock-lynxradio.radioca.st/stream
@@ -290,11 +290,11 @@ https://listen.radioking.com/radio/228241/stream/271810
 #EXTINF:-1 tvg-logo="https://media.bpmsports.ca/2023/08/cropped-android-chrome-512x512-1-180x180.png" group-title="CA",CKLX "91.9 Sports" Montreal, QC
 http://icecast-cklx.rncm.ca/cklx.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CA",RadioSky Music Jazz
-http://jazz.radioskymusic.com:7006/live
-
 #EXTINF:-1 tvg-logo="https://www.radiopakistanfm.com/favicon.ico" group-title="CA",Radio Pakistan Toronto
 https://s3.radio.co/s3b10a57ef/listen
+
+#EXTINF:-1 tvg-logo="" group-title="CA",RadioSky Music Jazz
+http://jazz.radioskymusic.com:7006/live
 
 #EXTINF:-1 tvg-logo="" group-title="CA",CBC Radio One Montréal
 https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8

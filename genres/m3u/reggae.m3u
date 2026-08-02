@@ -203,11 +203,11 @@ https://tls-chrome.live24.gr/3253?http://78.129.132.7:35663/
 #EXTINF:-1 tvg-logo="" group-title="RO",Black Rhino Radio
 https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
 
-#EXTINF:-1 tvg-logo="" group-title="LC",REV-UP SLU
-https://caribspy.com/proxy/revupslu/stream
-
 #EXTINF:-1 tvg-logo="https://starcomnetwork.net/wp-content/uploads/2024/01/HOTT-953-FM-LOGO-full-colour-wide-3-1536x840.png" group-title="BB",HOTT 95.3FM
 https://ice64.securenetsystems.net/HOTT953
+
+#EXTINF:-1 tvg-logo="" group-title="LC",REV-UP SLU
+https://caribspy.com/proxy/revupslu/stream
 
 #EXTINF:-1 tvg-logo="" group-title="PA",Fabulosa Estéreo 100.5 FM
 https://www.streaming507.net:8130/stream
@@ -236,11 +236,11 @@ https://netilradio.out.airtime.pro/netilradio_a
 #EXTINF:-1 tvg-logo="https://bootboyradio.net/wp-content/uploads/2021/02/cropped-900logosquare-192x192.jpg" group-title="GB",Boot Boy Radio
 https://streaming04.liveboxstream.uk/proxy/dwain?mp=/stream
 
-#EXTINF:-1 tvg-logo="https://www.byte.fm/static/favicon/favicon-96x96.png?v=2023.10.06.3159-4afa829" group-title="DE",ByteFM | HH-UKW
-http://bytefm-hamburg.cast.addradio.de/bytefm/hamburg/mp3/mid
-
 #EXTINF:-1 tvg-logo="https://www.c-lab.fr/apple-icon-120x120.png" group-title="FR",C Lab
 http://stream.c-lab.fr:8001/c-lab
+
+#EXTINF:-1 tvg-logo="https://www.byte.fm/static/favicon/favicon-96x96.png?v=2023.10.06.3159-4afa829" group-title="DE",ByteFM | HH-UKW
+http://bytefm-hamburg.cast.addradio.de/bytefm/hamburg/mp3/mid
 
 #EXTINF:-1 tvg-logo="https://stylzfm.com/sites/default/files/favicon.ico" group-title="JM",Stylz FM
 https://stream.zeno.fm/0d1hpcmqqy5tv

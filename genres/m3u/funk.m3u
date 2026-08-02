@@ -278,11 +278,11 @@ https://broadcast.miami/proxy/columbia?mp=/stream/;
 #EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Funk
 http://traxx016.ice.infomaniak.ch/traxx016-low.mp3
 
-#EXTINF:-1 tvg-logo="https://www.afc.fm/wp-content/uploads/2023/12/afcfm.png" group-title="NL",Amsterdam Funk Channel (AFC)
-https://stream.afc.fm/
-
 #EXTINF:-1 tvg-logo="https://uk.radio.net/300/nudiscofunkradio.jpeg?version=b5b29e74fa5bb43b3b8a3e9d27349a94" group-title="GB",Nu Disco Funk Radio
 https://my.radiolize.com/radio/8090/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://www.afc.fm/wp-content/uploads/2023/12/afcfm.png" group-title="NL",Amsterdam Funk Channel (AFC)
+https://stream.afc.fm/
 
 #EXTINF:-1 tvg-logo="" group-title="FR",FM 80 FUNKY MUSIC
 https://listen.radioking.com/radio/467555/stream/523739

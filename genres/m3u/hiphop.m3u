@@ -125,11 +125,11 @@ http://n0a.radiojar.com/tkeve70hqd0uv?rj-ttl=5&rj-tok=AAABeL0yWmwArvLu3hf9O3iTGQ
 #EXTINF:-1 tvg-logo="https://www.ubuntu.fm/sites/default/files//favicons/apple-touch-icon.png" group-title="ZA",UbuntuFM
 https://streaming.coollective.nl:8443/UbuntuFM
 
-#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__DEUTSCHRAP CHARTS__ by rautemusik (rm.fm)
-https://deutschrap-charts-high.rautemusik.fm/?ref=radiobrowser
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.urbano106.com/wp-content/uploads/2018/10/LOGO-PARA-WEBS.png" group-title="CR",Urbano 106 - 105.9 FM - San José, Costa Rica
 https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1
+
+#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__DEUTSCHRAP CHARTS__ by rautemusik (rm.fm)
+https://deutschrap-charts-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__TRAP__ by rautemusik (rm.fm)
 https://trap-high.rautemusik.fm/?ref=radiobrowser

@@ -74,11 +74,11 @@ http://stream.zeno.fm/s70bvdgqks8uv
 #EXTINF:-1 tvg-logo="" group-title="LV",European Hit Radio - Dance
 http://stream.europeanhitradio.com:8000/Stream_24.aac
 
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Retrowave
-http://79.120.39.202:9125/
-
 #EXTINF:-1 tvg-logo="" group-title="Global",naxi radio - house
 http://naxidigital-house128.streaming.rs:8000/;stream.nsv
+
+#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Retrowave
+http://79.120.39.202:9125/
 
 #EXTINF:-1 tvg-logo="" group-title="GR",Galaxy 92
 http://netradio.live24.gr/galaxy9292
@@ -107,11 +107,11 @@ https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts
 #EXTINF:-1 tvg-logo="" group-title="DE",Sunshine Live - Festival
 http://stream.sunshine-live.de/festival/mp3-192/stream.sunshine-live.de/
 
-#EXTINF:-1 tvg-logo="" group-title="RU",101.ru - Deep House
-https://pub0202.101.ru:8000/stream/trust/mp3/128/173
-
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c769b2fe7770a23546c3d7f" group-title="MX",90s Dance by Mix (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR11_s01AAC.aac
+
+#EXTINF:-1 tvg-logo="" group-title="RU",101.ru - Deep House
+https://pub0202.101.ru:8000/stream/trust/mp3/128/173
 
 #EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
@@ -170,17 +170,17 @@ http://79.111.14.76:9139/
 #EXTINF:-1 tvg-logo="" group-title="US",Thegooshradio Deep House
 http://eu2.fastcast4u.com:3732/stream/1/
 
-#EXTINF:-1 tvg-logo="" group-title="DE",Laut.fm Housebomb
-http://housebomb-fn.stream.laut.fm/housebomb-fn?t302=2018-02-10_16-10-52&uuid=bff87322-9a02-49f3-9ac6-a2c1457286dc
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mtCKLC/aktHits.jpg" group-title="DE",# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
 https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
 
-#EXTINF:-1 tvg-logo="" group-title="GR",Best Radio 92.6
-http://netradio.live24.gr/best1222
+#EXTINF:-1 tvg-logo="" group-title="DE",Laut.fm Housebomb
+http://housebomb-fn.stream.laut.fm/housebomb-fn?t302=2018-02-10_16-10-52&uuid=bff87322-9a02-49f3-9ac6-a2c1457286dc
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-electro_600x600.jpg" group-title="DE",- 0 N - Electro on Radio
 https://0n-electro.radionetz.de/0n-electro.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="GR",Best Radio 92.6
+http://netradio.live24.gr/best1222
 
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Progressive House
 http://79.111.119.111:9021/

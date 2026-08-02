@@ -146,11 +146,11 @@ http://streams.radiobob.de/symphmetal/mp3-192/mediaplayer/
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Stoner Metal
 http://79.120.77.11:9089/
 
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-rock_600x600.jpg" group-title="DE",- 0 N - Rock on Radio
-https://0n-rock.radionetz.de/0n-rock.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CL",Distorsión FM
 https://tunein.radiomaniacos.cl/distorsion.mp3
+
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-rock_600x600.jpg" group-title="DE",- 0 N - Rock on Radio
+https://0n-rock.radionetz.de/0n-rock.mp3
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png" group-title="RU",Radio Caprice - Melodic Death Metal
 http://79.120.77.11:8000/melodicdeath

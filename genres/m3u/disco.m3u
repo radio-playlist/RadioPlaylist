@@ -239,11 +239,11 @@ https://0n-disco.radionetz.de/0n-disco.aac
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/55175.v7.png" group-title="ES",Ondamar80
 https://antares.dribbcast.com/proxy/ondamar80?mp=/live
 
-#EXTINF:-1 tvg-logo="" group-title="DE",54house.fm Clubstream
-http://62.138.2.128:8003/stream
-
 #EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FMU0aBy8KKuZnbUuKncqrOoOX2-YWodaubyqbIZa1qfI%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2NiNGY2ZTk1LTQyNGEtNDU0NS1hZGVlLWEzYTJlNzVjMTI0Mi9pbWFnZS8_dXBkYXRlZD0xNjc1MTM5NDI0MDAw.webp&w=1080&q=100" group-title="PH",iMix Radio
 https://stream.zeno.fm/sbmi7cx5z8buv
+
+#EXTINF:-1 tvg-logo="" group-title="DE",54house.fm Clubstream
+http://62.138.2.128:8003/stream
 
 #EXTINF:-1 tvg-logo="" group-title="UA",FM Disco Melody
 https://online.melodiafm.ua/MelodiaFM_Disco

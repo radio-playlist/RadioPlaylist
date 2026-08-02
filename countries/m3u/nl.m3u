@@ -137,11 +137,11 @@ http://icecast.omroep.nl/radio1-sb-aac
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NPO_Klassiek_logo.svg/1200px-NPO_Klassiek_logo.svg.png" group-title="NL",NPO Klassiek
 https://icecast.omroep.nl/radio4-bb-mp3
 
-#EXTINF:-1 tvg-logo="" group-title="NL",192 Radio (HQ)
-http://server-27.stream-server.nl:8192/stream
-
 #EXTINF:-1 tvg-logo="https://www.538.nl/favicon.ico" group-title="NL",Radio 538
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",192 Radio (HQ)
+http://server-27.stream-server.nl:8192/stream
 
 #EXTINF:-1 tvg-logo="https://alloldieschannel.com/wp-content/uploads/2020/01/cropped-backgroundalloldieschannel-180x180.png" group-title="NL",All Oldies Channel
 http://radio.alloldieschannel.com:8000/stream

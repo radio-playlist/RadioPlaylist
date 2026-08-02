@@ -128,11 +128,11 @@ http://eu2.fastcast4u.com:3732/stream/1/
 #EXTINF:-1 tvg-logo="" group-title="NL",Deep Radio
 http://stream.deep.radio/hd
 
-#EXTINF:-1 tvg-logo="" group-title="DE",Laut.fm Housebomb
-http://housebomb-fn.stream.laut.fm/housebomb-fn?t302=2018-02-10_16-10-52&uuid=bff87322-9a02-49f3-9ac6-a2c1457286dc
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mtCKLC/aktHits.jpg" group-title="DE",# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
 https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
+
+#EXTINF:-1 tvg-logo="" group-title="DE",Laut.fm Housebomb
+http://housebomb-fn.stream.laut.fm/housebomb-fn?t302=2018-02-10_16-10-52&uuid=bff87322-9a02-49f3-9ac6-a2c1457286dc
 
 #EXTINF:-1 tvg-logo="https://www.danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="GB",Dance UK Radio danceradiouk
 http://51.89.148.171:8022/stream

@@ -26,11 +26,11 @@ http://live02.rfi.fr/rfimonde-64.mp3
 #EXTINF:-1 tvg-logo="" group-title="FR",RFI-Afrique
 http://live02.rfi.fr/rfiafrique-96k.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="FR",France Inter
-http://direct.franceinter.fr/live/franceinter-midfi.mp3
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png" group-title="FR",France Culture
 http://icecast.radiofrance.fr/franceculture-hifi.aac
+
+#EXTINF:-1 tvg-logo="" group-title="FR",France Inter
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="FR",RTL
 http://streaming.radio.rtl.fr/rtl-1-44-128

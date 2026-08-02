@@ -137,11 +137,11 @@ https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
 #EXTINF:-1 tvg-logo="" group-title="DE",Epic Lounge - CHILLOUT LOUNGE
 https://stream.epic-lounge.com/chillout-lounge?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="https://www.nts.live/apple-touch-icon.png?v=47re43rrzb" group-title="GB",Slow Focus | NTS
-https://stream-mixtape-geo.ntslive.net/mixtape
-
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice Industrial/Dark/Ritual Ambient
 http://79.120.39.202:9095/
+
+#EXTINF:-1 tvg-logo="https://www.nts.live/apple-touch-icon.png?v=47re43rrzb" group-title="GB",Slow Focus | NTS
+https://stream-mixtape-geo.ntslive.net/mixtape
 
 #EXTINF:-1 tvg-logo="" group-title="BE",MyNoise Ocean Waves
 http://oceanwaves.radio.mynoise.net/
@@ -203,14 +203,14 @@ http://synthesizergreatest.stream.laut.fm/synthesizergreatest?pl=m3u&t302=2026-0
 #EXTINF:-1 tvg-logo="" group-title="DE",EPIC CLASSICAL - Classical Coffee Bar
 https://stream.epic-classical.com/classical-coffee-bar
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DkDPhcZ/Violin.jpg" group-title="DE",EPIC CLASSICAL - Classical Violin
+https://stream.epic-classical.com/classical-violin
+
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-chillout_600x600.jpg" group-title="DE",- 1 A - Chillout von 1A Radio
 https://1a-chillout.radionetz.de/1a-chillout.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="DE",EPIC CLASSICAL - Classical Guitar
 https://stream.epic-classical.com/classical-guitar
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DkDPhcZ/Violin.jpg" group-title="DE",EPIC CLASSICAL - Classical Violin
-https://stream.epic-classical.com/classical-violin
 
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice Industrial/Dark/Ritual Ambient
 http://79.120.39.202:8002/darkambient
@@ -239,11 +239,11 @@ http://lounge-high.rautemusik.fm/
 #EXTINF:-1 tvg-logo="" group-title="DE",Hirschmilch Radio
 https://hirschmilch.de:7001/chillout.mp3
 
-#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="BE",MyNoise Drone Zone
-http://dronezone-mynoise.radioca.st/stream
-
 #EXTINF:-1 tvg-logo="" group-title="DE",Epic Lounge - COFFEE BAR LOUNGE
 https://stream.epic-lounge.com/coffee-bar-lounge?ref=radiobrowser
+
+#EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="BE",MyNoise Drone Zone
+http://dronezone-mynoise.radioca.st/stream
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/dronezone-400.jpg" group-title="US",SomaFM Drone Zone (64k AAC)
 https://ice6.somafm.com/dronezone-64-aac
@@ -251,11 +251,11 @@ https://ice6.somafm.com/dronezone-64-aac
 #EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2025-03-01/fb714c8d8238b02673a9ee2b018528af.ico.png" group-title="IT",NATURE RADIO SLEEP
 https://az1.mediacp.eu/listen/natureradiosleep/radio.mp3
 
-#EXTINF:-1 tvg-logo="https://www.radio.de/300/schizoidchillout.png?version=be7061f2a2c3158557ce771b7370382f" group-title="IN",Radio Schizoid - Chillout/Ambient
-http://94.130.113.214:8000/chill
-
 #EXTINF:-1 tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="BE",MyNoise Zen Garden
 http://zengarden.radio.mynoise.net/
+
+#EXTINF:-1 tvg-logo="https://www.radio.de/300/schizoidchillout.png?version=be7061f2a2c3158557ce771b7370382f" group-title="IN",Radio Schizoid - Chillout/Ambient
+http://94.130.113.214:8000/chill
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-lounge_600x600.jpg" group-title="DE",- 0 N - Lounge on Radio
 https://0n-lounge.radionetz.de/0n-lounge.mp3
@@ -284,11 +284,11 @@ https://stream.epic-classical.com/classical-chillout?ref=liveradio
 #EXTINF:-1 tvg-logo="https://werave.com.br/wp-content/uploads/2020/09/vinyl.png" group-title="US",WeRave Music Radio 02 - Study and Chillout
 https://stream.zeno.fm/cpnv07rjvp0vv
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s247230/images/logoq.jpg" group-title="GR",Radio Art - Spa
-http://air-tunein.radioart.com/fSpa.mp3
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPkfdprq/rb-Ibiza.png" group-title="DE",IBIZA CHILLOUT LOUNGE - Ambient, Deep House, Balearic, Smooth Jazz, Acoustic, Chill House, Lo-Fi, Chillwave, Dream Pop, Electro, Tropical House, Sunset Chill, Café del Mar, Soft Electronica, Slow House, Ambient, Relax, Easy Listening, Beach Vibes, Summer
 https://0nlineradio.radioho.st/lounge-ibiza-chillout-lounge?ref=rb26
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s247230/images/logoq.jpg" group-title="GR",Radio Art - Spa
+http://air-tunein.radioart.com/fSpa.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="DE",RPR1. Yoga Sounds
 http://streams.rpr1.de/rpr-entspannung-128-aac?usid=0-0-H-A-D-20

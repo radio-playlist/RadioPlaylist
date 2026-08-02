@@ -203,14 +203,14 @@ http://live-radio01.mediahubaustralia.com/5LRW/aac/
 #EXTINF:-1 tvg-logo="https://live-production.wcms.abc-cdn.net.au/34bb5853530db865de5b5ed93c44bc54" group-title="AU",ABC Radio Australia
 https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/themes/3aw/assets/img/favicon/apple-touch-icon.png" group-title="AU",3AW - Melbourne - 693 AM (MP3)
+http://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/da30f8_ab7658c641924b3cbe4870ae11a3e5df%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/da30f8_ab7658c641924b3cbe4870ae11a3e5df%7emv2.png" group-title="AU",Central Coast Radio.com
 https://s4.radio.co/scf2280c01/listen
 
 #EXTINF:-1 tvg-logo="" group-title="AU",Pure Hits Australian Made
 http://stream10.as.amplifystreaming.com/radio/8000/amm_128.mp3
-
-#EXTINF:-1 tvg-logo="https://www.3aw.com.au/wp-content/themes/3aw/assets/img/favicon/apple-touch-icon.png" group-title="AU",3AW - Melbourne - 693 AM (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="AU",Voice of Islam
 http://voiceofislam.appsunder.com:8000/voiceofislam.mp3

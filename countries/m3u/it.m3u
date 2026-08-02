@@ -263,11 +263,11 @@ http://ice03.fluidstream.net/mjr.aac
 #EXTINF:-1 tvg-logo="" group-title="IT",70 80 Disco Funk ModernSoul e Boogie
 https://discofunk.streamingmedia.it/play
 
-#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio Tutta Italiana
-http://icestreaming.rai.it/4.mp3
-
 #EXTINF:-1 tvg-logo="https://www.lattemiele.com/wp-content/uploads/2020/07/cropped-logo-autore-lm-32x32.png" group-title="IT",Lattemiele
 https://sr15.inmystream.it:8000/stream
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio Tutta Italiana
+http://icestreaming.rai.it/4.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="IT",RMC Nights Story
 http://edge.radiomontecarlo.net/rmcweb012
@@ -281,11 +281,11 @@ http://wma01.fluidstream.net/piterpan
 #EXTINF:-1 tvg-logo="https://www.rai.it/cropgd/560x292/dl/img/2019/01/07/1280x720_1546854278675_conferenza%20radio1.jpg" group-title="IT",Radio Rai 1
 http://icestreaming.rai.it/1.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="IT",Radio Padova
-http://str01.fluidstream.net:6020/listen.pls
-
 #EXTINF:-1 tvg-logo="" group-title="IT",R101 Radio
 http://icecast.unitedradio.it/r101_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio Padova
+http://str01.fluidstream.net:6020/listen.pls
 
 #EXTINF:-1 tvg-logo="" group-title="IT",RDS Relax
 https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8

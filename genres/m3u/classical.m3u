@@ -170,11 +170,11 @@ http://live.medi1.com/Classique
 #EXTINF:-1 tvg-logo="" group-title="DZ",.مختصر السيرة
 https://qurango.net/radio/almukhtasar_fi_alsiyra
 
-#EXTINF:-1 tvg-logo="" group-title="IQ",.. مختصر التفسير
-https://qurango.net/radio/mukhtasartafsir
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Otto's Baroque Music Radio
 http://strm112.1.fm/baroque_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IQ",.. مختصر التفسير
+https://qurango.net/radio/mukhtasartafsir
 
 #EXTINF:-1 tvg-logo="" group-title="RU",РАДИО ДЛЯ ВЗРОСЛЫХ
 http://listen6.myradio24.com:9000/alex542888
@@ -224,11 +224,11 @@ https://qurango.net/radio/mukhtasartafsir
 #EXTINF:-1 tvg-logo="" group-title="SA",تفسير القرآن الكريم
 https://qurango.net/radio/tafseer
 
-#EXTINF:-1 tvg-logo="https://small.linncdn.com/website/responsive/images/icons/linn-icon-x120.png" group-title="GB",Linn Classical
-http://radio.linn.co.uk:8004/autodj
-
 #EXTINF:-1 tvg-logo="" group-title="SA",القارئ علي الحذيفي رواية قالون
 https://qurango.net/radio/ali_alhuthaifi_qalon
+
+#EXTINF:-1 tvg-logo="https://small.linncdn.com/website/responsive/images/icons/linn-icon-x120.png" group-title="GB",Linn Classical
+http://radio.linn.co.uk:8004/autodj
 
 #EXTINF:-1 tvg-logo="" group-title="EG",.. مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir

@@ -134,11 +134,11 @@ https://stream.radioplus.mu:8000/radio.mp3
 #EXTINF:-1 tvg-logo="" group-title="RU",Вести FM (AAC)
 https://icecast-vgtrk.cdnvideo.ru/vestifm_aac_32kbps
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jehvybnq4jgc.png" group-title="GB",Times Radio UK
-http://timesradio.wireless.radio/stream
-
 #EXTINF:-1 tvg-logo="http://telegram.org/img/apple-touch-icon.png" group-title="RU",Соловьёв FM
 https://solovievfm.hostingradio.ru/solovievfm32.aacp
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jehvybnq4jgc.png" group-title="GB",Times Radio UK
+http://timesradio.wireless.radio/stream
 
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/ce6ef23e-2cdd-44a2-b139-c2b08f9365e3?ops=fit(240%2C240)" group-title="MX",88.9 Noticias - 88.9 FM - XHM-FM - Grupo ACIR - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC.aac

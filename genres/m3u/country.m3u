@@ -137,11 +137,11 @@ http://strm112.1.fm/acountry_mobile_mp3
 #EXTINF:-1 tvg-logo="" group-title="MA",MRC:-Hip Hop Soul Radio 	Radio Music
 https://stream.zeno.fm/k7cdrm450s8uv
 
-#EXTINF:-1 tvg-logo="" group-title="TR",lokum fm
-http://37.247.98.9/stream/493/?/;stream.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="IN",Vividh Bharati 102.8 FM in Hyderabad
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TR",lokum fm
+http://37.247.98.9/stream/493/?/;stream.mp3
 
 #EXTINF:-1 tvg-logo="https://media.ruralradio.co/nrr/uploads/sites/12/2021/02/cropped-ktmx-2-180x180.png" group-title="US",104.9 Max Country
 https://ais-sa1.streamon.fm/7246_48k.aac
@@ -206,11 +206,11 @@ http://ec4.yesstreaming.net:3790/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qmK33Rk/country.jpg" group-title="DE",0nlineradio COUNTRY
 https://stream.0nlineradio.com/country?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="AE",Exclusively Shania Twain
-https://streaming.exclusive.radio/er/shaniatwain/icecast.audio
-
 #EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2025-04-26/7358e7e8c2649a65c1a9d821887e32e3.ico.png" group-title="CA",A MISSISSIPPI BLUES
 https://cast1.torontocast.com:4450/;?type=http&nocache=1745625391
+
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="AE",Exclusively Shania Twain
+https://streaming.exclusive.radio/er/shaniatwain/icecast.audio
 
 #EXTINF:-1 tvg-logo="" group-title="AE",Exclusively The Eagles
 https://streaming.exclusive.radio/er/eagles/icecast.audio

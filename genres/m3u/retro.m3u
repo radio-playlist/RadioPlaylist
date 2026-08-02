@@ -119,11 +119,11 @@ http://stream.zeno.fm/72k4a597rs8uv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/NOW_70s.png" group-title="GB",Now 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Global",TOP FM oldies
-http://live.topfm.hu:8000/oldies.mp3
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_ea9b293c1b80488d97f24981e7c6c1d3~mv2.jpg" group-title="IT",50s 60s RETRO HITS
 https://stream.zeno.fm/pxzwykxbluitv
+
+#EXTINF:-1 tvg-logo="" group-title="Global",TOP FM oldies
+http://live.topfm.hu:8000/oldies.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="MX",LA OCTAVA (Ciudad de México) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AM_SC
@@ -221,11 +221,11 @@ https://streamingcwsradio30.com:7032/stream
 #EXTINF:-1 tvg-logo="" group-title="MX",UNIVERSAL Ciudad de México - 1110 AM - XERED-AM - Grupo Radio Centro - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s306609/images/logod.png" group-title="MX",FM Globo Guadalajara - 98.7 FM - XHLC-FM - MVS Radio - Guadalajara, JC
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFM_SC
-
 #EXTINF:-1 tvg-logo="https://disco-radio.ru/logo-se512.jpg" group-title="RU",Радио Советская эстрада
 https://evcast.mediacp.eu:2075/stream
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s306609/images/logod.png" group-title="MX",FM Globo Guadalajara - 98.7 FM - XHLC-FM - MVS Radio - Guadalajara, JC
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFM_SC
 
 #EXTINF:-1 tvg-logo="" group-title="RO",Retró Rádió Csíkszereda
 http://online.radioretro.ro:8002/RetroRadio.mp3
@@ -272,11 +272,11 @@ https://stream-154.zeno.fm/5mqdcrn07pkuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI
 #EXTINF:-1 tvg-logo="https://big-radio.net/uploads/posts/2024-04/cafe-romantico-radio-001.webp" group-title="MX",Café Romántico RADIO (Monterrey) - Online - www.caferomanticoradio.com - Grupo Digital Radioland - Monterrey, Nuevo León
 https://panel.retrolandigital.com/radio/8110/listen
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio232214_1699645003.jpg" group-title="MO",Radio Top 80 Macau 強電台 - 89.9 FM
-http://live.top80.fm:8086/;
-
 #EXTINF:-1 tvg-logo="null" group-title="RU",90-е Россия
 https://stream02.pcradio.biz/nineties_rus_pcradio-hi
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio232214_1699645003.jpg" group-title="MO",Radio Top 80 Macau 強電台 - 89.9 FM
+http://live.top80.fm:8086/;
 
 #EXTINF:-1 tvg-logo="" group-title="MX",Señal 90 - 90.7 FM - XHOY-FM - Grupo Unidifusión - Guadalajara, Jalisco
 https://s2.yesstreaming.net:17042/stream

@@ -203,11 +203,11 @@ https://wecast-bl03.flumotion.com/copesedes/albacete.mp3
 #EXTINF:-1 tvg-logo="https://www.locafm.com/assets/img/favicon/apple-icon-120x120.png" group-title="ES",Loca FM 80s
 http://s02.fjperezdj.com:8075/live
 
-#EXTINF:-1 tvg-logo="https://static.ondacero.es/img/favicon.ico" group-title="ES",Onda Cero Gijón
-https://atres-live.ondacero.es/live/delegaciones/oc/gijon/bitrate_1.m3u8
-
 #EXTINF:-1 tvg-logo="https://flaixfm.cat/favicon.ico" group-title="ES",Flaix FM
 https://stream.flaixfm.cat/icecast
+
+#EXTINF:-1 tvg-logo="https://static.ondacero.es/img/favicon.ico" group-title="ES",Onda Cero Gijón
+https://atres-live.ondacero.es/live/delegaciones/oc/gijon/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ES",LOVE RADIO - LOVE.radio
 https://loveradio.streamingmedia.it/espana

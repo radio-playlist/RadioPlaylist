@@ -14,8 +14,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 89859,
-    "clickcount": 565
+    "votes": 89897,
+    "clickcount": 495
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "africa,news",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 86471,
-    "clickcount": 110
+    "votes": 86494,
+    "clickcount": 97
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "france,info,sport,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 73954,
-    "clickcount": 243
+    "votes": 73980,
+    "clickcount": 223
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "blues,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 63666,
-    "clickcount": 140
+    "votes": 63689,
+    "clickcount": 126
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 59646,
-    "clickcount": 83
+    "votes": 59658,
+    "clickcount": 73
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "aac,information,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 59498,
-    "clickcount": 284
+    "votes": 59520,
+    "clickcount": 280
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "news,world music",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 56763,
-    "clickcount": 66
+    "votes": 56775,
+    "clickcount": 70
   },
   {
     "id": null,
@@ -140,26 +140,8 @@
     "tags": "france médias monde,information,public radio,world news",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 54675,
-    "clickcount": 25
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "d9fc29b8-b152-11e8-afe1-52543be04c81",
-    "name": "France Inter",
-    "url": "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
-    "url_resolved": "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
-    "homepage": "https://www.franceinter.fr/",
-    "favicon": "",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 54562,
-    "clickcount": 41
+    "votes": 54683,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -176,8 +158,26 @@
     "tags": "aac,culture,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 54559,
-    "clickcount": 171
+    "votes": 54578,
+    "clickcount": 165
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "d9fc29b8-b152-11e8-afe1-52543be04c81",
+    "name": "France Inter",
+    "url": "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
+    "url_resolved": "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
+    "homepage": "https://www.franceinter.fr/",
+    "favicon": "",
+    "countrycode": "FR",
+    "state": "",
+    "language": "french",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 54576,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -195,7 +195,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 54016,
-    "clickcount": 34
+    "clickcount": 29
   },
   {
     "id": null,
@@ -212,8 +212,8 @@
     "tags": "rap",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 53177,
-    "clickcount": 180
+    "votes": 53201,
+    "clickcount": 193
   },
   {
     "id": null,
@@ -230,8 +230,8 @@
     "tags": "jazz,soul",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 49681,
-    "clickcount": 127
+    "votes": 49693,
+    "clickcount": 129
   },
   {
     "id": null,
@@ -248,8 +248,8 @@
     "tags": "aac,music,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 42808,
-    "clickcount": 142
+    "votes": 42815,
+    "clickcount": 146
   },
   {
     "id": null,
@@ -266,8 +266,8 @@
     "tags": "dancefloor,electronic dance music,eurodance,pop dance,pop music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 41753,
-    "clickcount": 121
+    "votes": 41776,
+    "clickcount": 138
   },
   {
     "id": null,
@@ -285,7 +285,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 39177,
-    "clickcount": 68
+    "clickcount": 53
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "80s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 34133,
-    "clickcount": 97
+    "votes": 34159,
+    "clickcount": 94
   },
   {
     "id": null,
@@ -320,8 +320,8 @@
     "tags": "music,reggae",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 30505,
-    "clickcount": 58
+    "votes": 30517,
+    "clickcount": 85
   },
   {
     "id": null,
@@ -338,8 +338,8 @@
     "tags": "electronic,funk,music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 30463,
-    "clickcount": 43
+    "votes": 30472,
+    "clickcount": 41
   },
   {
     "id": null,
@@ -356,8 +356,8 @@
     "tags": "alternative,pop,world music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 29470,
-    "clickcount": 64
+    "votes": 29485,
+    "clickcount": 61
   },
   {
     "id": null,
@@ -374,7 +374,7 @@
     "tags": "classical,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 27615,
+    "votes": 27627,
     "clickcount": 51
   },
   {
@@ -392,8 +392,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 25887,
-    "clickcount": 39
+    "votes": 25900,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -410,8 +410,8 @@
     "tags": "conservative,info,mp3,news,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 25727,
-    "clickcount": 58
+    "votes": 25745,
+    "clickcount": 55
   },
   {
     "id": null,
@@ -446,8 +446,8 @@
     "tags": "classical,jazz,music,public radio,radio france",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 21718,
-    "clickcount": 50
+    "votes": 21725,
+    "clickcount": 72
   },
   {
     "id": null,
@@ -464,8 +464,8 @@
     "tags": "information,news",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 21378,
-    "clickcount": 38
+    "votes": 21388,
+    "clickcount": 43
   },
   {
     "id": null,
@@ -482,8 +482,8 @@
     "tags": "news talk",
     "codec": "MP3",
     "bitrate": 32,
-    "votes": 21357,
-    "clickcount": 12
+    "votes": 21366,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -500,8 +500,8 @@
     "tags": "latin",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 21292,
-    "clickcount": 15
+    "votes": 21301,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -518,8 +518,8 @@
     "tags": "aac,news,talk",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 20414,
-    "clickcount": 386
+    "votes": 20431,
+    "clickcount": 324
   },
   {
     "id": null,
@@ -536,8 +536,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 19196,
-    "clickcount": 7
+    "votes": 19203,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -554,8 +554,8 @@
     "tags": "funk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 17460,
-    "clickcount": 17
+    "votes": 17466,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -573,7 +573,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 16366,
-    "clickcount": 28
+    "clickcount": 29
   },
   {
     "id": null,
@@ -590,8 +590,8 @@
     "tags": "80s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 16065,
-    "clickcount": 62
+    "votes": 16077,
+    "clickcount": 70
   },
   {
     "id": null,
@@ -608,7 +608,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 15376,
+    "votes": 15383,
     "clickcount": 3
   },
   {
@@ -626,8 +626,8 @@
     "tags": "metal,music",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 13920,
-    "clickcount": 5
+    "votes": 13924,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -645,7 +645,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 12951,
-    "clickcount": 44
+    "clickcount": 38
   },
   {
     "id": null,
@@ -662,8 +662,8 @@
     "tags": "aac,musique,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 12682,
-    "clickcount": 29
+    "votes": 12684,
+    "clickcount": 43
   },
   {
     "id": null,
@@ -680,8 +680,8 @@
     "tags": "latin,reggaeton",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11714,
-    "clickcount": 18
+    "votes": 11722,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -698,8 +698,8 @@
     "tags": "aac,jazz,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 10656,
-    "clickcount": 33
+    "votes": 10659,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -716,8 +716,8 @@
     "tags": "jazz,women",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 9379,
-    "clickcount": 2
+    "votes": 9381,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -735,7 +735,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 9248,
-    "clickcount": 149
+    "clickcount": 163
   },
   {
     "id": null,
@@ -752,8 +752,8 @@
     "tags": "",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 9129,
-    "clickcount": 298
+    "votes": 9133,
+    "clickcount": 272
   },
   {
     "id": null,
@@ -770,8 +770,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8172,
-    "clickcount": 258
+    "votes": 8179,
+    "clickcount": 273
   },
   {
     "id": null,
@@ -788,8 +788,8 @@
     "tags": "meditation,spiritual,yoga,zen",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7696,
-    "clickcount": 24
+    "votes": 7700,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -806,8 +806,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 7644,
-    "clickcount": 36
+    "votes": 7650,
+    "clickcount": 40
   },
   {
     "id": null,
@@ -824,8 +824,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7572,
-    "clickcount": 4
+    "votes": 7576,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -842,8 +842,8 @@
     "tags": "classic,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7172,
-    "clickcount": 6
+    "votes": 7173,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -860,8 +860,8 @@
     "tags": "aac,classical,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 6481,
-    "clickcount": 33
+    "votes": 6483,
+    "clickcount": 31
   },
   {
     "id": null,
@@ -878,8 +878,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6112,
-    "clickcount": 6
+    "votes": 6117,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -896,8 +896,8 @@
     "tags": "electro,jazz,swing",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5887,
-    "clickcount": 16
+    "votes": 5890,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -914,8 +914,8 @@
     "tags": "sports news",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5728,
-    "clickcount": 71
+    "votes": 5732,
+    "clickcount": 66
   },
   {
     "id": null,
@@ -932,8 +932,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 5364,
-    "clickcount": 1
+    "votes": 5370,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -950,8 +950,8 @@
     "tags": "soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5270,
-    "clickcount": 11
+    "votes": 5273,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -968,8 +968,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4993,
-    "clickcount": 4
+    "votes": 4994,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -986,8 +986,8 @@
     "tags": "aac,public radio,radio france,reggae",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 4872,
-    "clickcount": 18
+    "votes": 4873,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -1004,8 +1004,8 @@
     "tags": "info,lofi,radio france",
     "codec": "MP3",
     "bitrate": 32,
-    "votes": 4808,
-    "clickcount": 16
+    "votes": 4809,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1022,8 +1022,8 @@
     "tags": "latin",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4751,
-    "clickcount": 10
+    "votes": 4756,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -1040,8 +1040,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4640,
-    "clickcount": 92
+    "votes": 4642,
+    "clickcount": 94
   },
   {
     "id": null,
@@ -1058,8 +1058,8 @@
     "tags": "jazz,piano",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4517,
-    "clickcount": 7
+    "votes": 4519,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1076,8 +1076,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 4337,
-    "clickcount": 23
+    "votes": 4342,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -1094,8 +1094,8 @@
     "tags": "pop rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4318,
-    "clickcount": 140
+    "votes": 4322,
+    "clickcount": 141
   },
   {
     "id": null,
@@ -1112,8 +1112,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4057,
-    "clickcount": 6
+    "votes": 4059,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1130,8 +1130,8 @@
     "tags": "progressive rock",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 4039,
-    "clickcount": 4
+    "votes": 4042,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1149,7 +1149,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 3905,
-    "clickcount": 13
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1166,8 +1166,8 @@
     "tags": "jazz,latin,latin jazz,latino",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3805,
-    "clickcount": 9
+    "votes": 3807,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1184,8 +1184,8 @@
     "tags": "aac,general,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 3751,
-    "clickcount": 92
+    "votes": 3752,
+    "clickcount": 94
   },
   {
     "id": null,
@@ -1202,8 +1202,8 @@
     "tags": "aac,electro,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 3737,
-    "clickcount": 6
+    "votes": 3738,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1221,7 +1221,7 @@
     "codec": "AAC",
     "bitrate": 128,
     "votes": 3666,
-    "clickcount": 4
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1238,8 +1238,8 @@
     "tags": "dance,deep house",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3510,
-    "clickcount": 10
+    "votes": 3513,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1257,7 +1257,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 3397,
-    "clickcount": 43
+    "clickcount": 53
   },
   {
     "id": null,
@@ -1274,8 +1274,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3356,
-    "clickcount": 3
+    "votes": 3357,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1292,8 +1292,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 3353,
-    "clickcount": 59
+    "votes": 3356,
+    "clickcount": 48
   },
   {
     "id": null,
@@ -1311,7 +1311,7 @@
     "codec": "AAC",
     "bitrate": 192,
     "votes": 3306,
-    "clickcount": 13
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1328,8 +1328,8 @@
     "tags": "60s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3252,
-    "clickcount": 8
+    "votes": 3254,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1346,8 +1346,8 @@
     "tags": "hip-hop and rap oldies",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 3168,
-    "clickcount": 50
+    "votes": 3171,
+    "clickcount": 68
   },
   {
     "id": null,
@@ -1365,7 +1365,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 3135,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1382,8 +1382,8 @@
     "tags": "classic,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3121,
-    "clickcount": 1
+    "votes": 3122,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1401,7 +1401,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 3116,
-    "clickcount": 9
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1418,7 +1418,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3105,
+    "votes": 3108,
     "clickcount": 0
   },
   {
@@ -1436,8 +1436,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3087,
-    "clickcount": 11
+    "votes": 3088,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1455,7 +1455,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 3073,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1473,7 +1473,7 @@
     "codec": "MP3",
     "bitrate": 64,
     "votes": 3020,
-    "clickcount": 3
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1491,7 +1491,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 3004,
-    "clickcount": 12
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1508,8 +1508,8 @@
     "tags": "music,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2993,
-    "clickcount": 2
+    "votes": 2995,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1526,8 +1526,8 @@
     "tags": "lounge",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2934,
-    "clickcount": 7
+    "votes": 2938,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1562,8 +1562,8 @@
     "tags": "chansons françaises",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 2608,
-    "clickcount": 5
+    "votes": 2609,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1581,7 +1581,7 @@
     "codec": "AAC",
     "bitrate": 192,
     "votes": 2606,
-    "clickcount": 25
+    "clickcount": 19
   },
   {
     "id": null,
@@ -1598,8 +1598,8 @@
     "tags": "dub,reggae",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2583,
-    "clickcount": 24
+    "votes": 2588,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -1617,7 +1617,7 @@
     "codec": "MP3",
     "bitrate": 64,
     "votes": 2453,
-    "clickcount": 3
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1634,7 +1634,7 @@
     "tags": "dance classics,disco funk,funk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2395,
+    "votes": 2398,
     "clickcount": 5
   },
   {
@@ -1652,7 +1652,7 @@
     "tags": "informations",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 2355,
+    "votes": 2356,
     "clickcount": 23
   },
   {
@@ -1670,8 +1670,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2348,
-    "clickcount": 3
+    "votes": 2349,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1689,7 +1689,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2284,
-    "clickcount": 4
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1707,7 +1707,7 @@
     "codec": "MP3",
     "bitrate": 32,
     "votes": 2230,
-    "clickcount": 4
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1724,8 +1724,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2157,
-    "clickcount": 2
+    "votes": 2159,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1743,7 +1743,7 @@
     "codec": "AAC",
     "bitrate": 128,
     "votes": 2137,
-    "clickcount": 10
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1761,7 +1761,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2043,
-    "clickcount": 4
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1779,7 +1779,7 @@
     "codec": "AAC",
     "bitrate": 192,
     "votes": 2042,
-    "clickcount": 11
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1796,7 +1796,7 @@
     "tags": "france bleu,public radio,radio france,regional",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2040,
-    "clickcount": 14
+    "votes": 2041,
+    "clickcount": 12
   }
 ]

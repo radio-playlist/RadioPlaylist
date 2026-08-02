@@ -212,11 +212,11 @@ https://play.radiofest.pl:8443/fest
 #EXTINF:-1 tvg-logo="" group-title="PL",Radio RMF24.PL
 https://rs201-krk.rmfstream.pl/RMF24
 
-#EXTINF:-1 tvg-logo="http://radiokampus.waw.pl/logo192.png" group-title="PL",Radio Kampus
-http://193.0.98.66:8005/
-
 #EXTINF:-1 tvg-logo="http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3" group-title="PL",Radio RMF FM
 https://rs202-krk.rmfstream.pl/rmf_fm
+
+#EXTINF:-1 tvg-logo="http://radiokampus.waw.pl/logo192.png" group-title="PL",Radio Kampus
+http://193.0.98.66:8005/
 
 #EXTINF:-1 tvg-logo="https://gfx.radiopogoda.pl/extension/radiopogoda/design/standard/images/favicon/apple-touch-icon.png" group-title="PL",Radio Pogoda Poznań
 http://stream30.radiostream.pl/tuba138-1.mp3
@@ -296,9 +296,9 @@ http://31.192.216.7/CELTIC
 #EXTINF:-1 tvg-logo="" group-title="PL",Radio Złote Przeboje Wrocław
 https://radiostream.pl/tuba9-1.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="PL",Radio Mirage - Italo Dance
-https://ssl-1.radiohost.pl:9569/stream
-
 #EXTINF:-1 tvg-logo="" group-title="PL",ESKA - Summer City
 https://waw.ic.smcdn.pl/6120-1.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="PL",Radio Mirage - Italo Dance
+https://ssl-1.radiohost.pl:9569/stream
 

@@ -47,11 +47,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP
 #EXTINF:-1 tvg-logo="" group-title="BR",Rádio Bandeirantes - São Paulo
 https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="BR",Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac
-
 #EXTINF:-1 tvg-logo="" group-title="BR",Super Radio Tupi 96.5
 https://8923.brasilstream.com.br/stream
+
+#EXTINF:-1 tvg-logo="" group-title="BR",Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac
 
 #EXTINF:-1 tvg-logo="https://www.vip-radios.fm/favicon.ico" group-title="BR",Smooth Jazz Lounge
 https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge
@@ -185,11 +185,11 @@ http://live2.livemus.com.br:27400/live
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio13176_1628168105.png" group-title="BR",Rádio Gaúcha 93.7 FM
 https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/220246/mobileicon/10d0f66b1d0576ddfe366c6c13cdcb45x192.png" group-title="BR",Rádio Stereo Mix
-https://servidor24.brlogic.com:7134/live
-
 #EXTINF:-1 tvg-logo="" group-title="BR",Fay Só Forró das Antigas
 https://ssl.xcast.com.br:7132/stremig
+
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/220246/mobileicon/10d0f66b1d0576ddfe366c6c13cdcb45x192.png" group-title="BR",Rádio Stereo Mix
+https://servidor24.brlogic.com:7134/live
 
 #EXTINF:-1 tvg-logo="" group-title="BR",Rádio Buteco Sertanejo
 https://stream.zeno.fm/6kumndewqbruv
@@ -206,11 +206,11 @@ http://stm4.voxhd.com.br:7086/
 #EXTINF:-1 tvg-logo="" group-title="BR",Radio Motel
 https://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream3#.mp3
 
-#EXTINF:-1 tvg-logo="http://www.alvoradafm.com.br/assets/application/img/favicon/favicon_64.png" group-title="BR",Radio Alvorada 94.9 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac
-
 #EXTINF:-1 tvg-logo="https://metropolitanafm.com.br/wp-content/themes/metro/assets/imgs/favicon/favicon-96x96-2.png" group-title="BR",Rádio Metropolitana 98.5 FM Pop
 https://ice.fabricahost.com.br/metrosppop
+
+#EXTINF:-1 tvg-logo="http://www.alvoradafm.com.br/assets/application/img/favicon/favicon_64.png" group-title="BR",Radio Alvorada 94.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac
 
 #EXTINF:-1 tvg-logo="http://www.umbertovettori.com/images/layout/logo-novo_1542311908.jpg" group-title="BR",Jazz Medley Webradio
 http://server01.ouvir.radio.br:8006/stream
@@ -293,11 +293,11 @@ https://8062.brasilstream.com.br/stream?origem=task_site
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8829_1708517690.png" group-title="BR",Rádio Jovem Pan 100.9 FM
 https://stream.zeno.fm/c45wbq2us3buv
 
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio112934_1562066435.png" group-title="BR",Rádio Joli MPB
-https://stream-163.zeno.fm/mrutsyhkc3quv
-
 #EXTINF:-1 tvg-logo="https://melodia.com.br/favicon.ico" group-title="BR",Melodia FM 97.5
 https://server01.ouvir.radio.br:8033/stream
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio112934_1562066435.png" group-title="BR",Rádio Joli MPB
+https://stream-163.zeno.fm/mrutsyhkc3quv
 
 #EXTINF:-1 tvg-logo="" group-title="BR",105 FM - SP
 http://www.appradio.app:8010//live

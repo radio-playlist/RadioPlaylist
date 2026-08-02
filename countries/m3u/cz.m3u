@@ -185,11 +185,11 @@ https://ice4.abradio.cz/dance128.mp3
 #EXTINF:-1 tvg-logo="http://hitradiocity.cz/design/favicons/apple-icon-120x120.png" group-title="CZ",hitradio City zona Lasky
 http://ice.abradio.cz/cityzl128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CZ",Comedy Club R@dio DIANA
-https://westradio.cz/radio/8010/radio.mp3
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MPpLH6b/6067b0e51f4e27fc0549b36ac5c01f91.jpg" group-title="CZ",Evropa 2 - Radio
 https://ice.actve.net/fm-evropa2-128
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Comedy Club R@dio DIANA
+https://westradio.cz/radio/8010/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://www.mujrozhlas.cz/themes/mr_frontend/img/favicons/favicon.ico" group-title="CZ",Cesky Rozhlas Jazz Lossless FLAC Stream
 http://amp.cesnet.cz:8000/cro-jazz.flac

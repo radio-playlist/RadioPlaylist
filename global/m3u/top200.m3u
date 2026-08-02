@@ -116,17 +116,17 @@ http://live02.rfi.fr/rfiafrique-96k.mp3
 #EXTINF:-1 tvg-logo="http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3" group-title="PL",RMF FM
 http://195.150.20.9/RMFFM48
 
-#EXTINF:-1 tvg-logo="" group-title="FR",France Inter
-http://direct.franceinter.fr/live/franceinter-midfi.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png" group-title="FR",France Culture
+http://icecast.radiofrance.fr/franceculture-hifi.aac
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Country
 http://26343.live.streamtheworld.com/977_COUNTRY_SC
 
+#EXTINF:-1 tvg-logo="" group-title="FR",France Inter
+http://direct.franceinter.fr/live/franceinter-midfi.mp3
+
 #EXTINF:-1 tvg-logo="" group-title="US",.977 80s
 http://17573.live.streamtheworld.com/977_80_SC
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/France_Culture_-_2008.svg/1024px-France_Culture_-_2008.svg.png" group-title="FR",France Culture
-http://icecast.radiofrance.fr/franceculture-hifi.aac
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Hitz
 http://18863.live.streamtheworld.com/977_HITS_SC
@@ -269,11 +269,11 @@ http://hydra.cdnstream.com/1521_128
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s2846/images/logoq.jpg" group-title="GB",Heart London 106.2 [MP3]
 http://ice-sov.musicradio.com/HeartLondonMP3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/01/105.png" group-title="IT",Radio 105 Network
-http://icecast.unitedradio.it/Radio105.mp3
-
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s25629q.png" group-title="Global",rfi
 http://live02.rfi.fr/rfimonde-32.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/01/105.png" group-title="IT",Radio 105 Network
+http://icecast.unitedradio.it/Radio105.mp3
 
 #EXTINF:-1 tvg-logo="http://humorfm.by/apple-touch-icon.png" group-title="BY",Юмор FM
 http://live.humorfm.by:8000/veseloeradio
@@ -545,11 +545,11 @@ http://100radio-hit.ice.infomaniak.ch/100radio-hit-128.mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Amsterdam Trance Radio
 http://strm112.1.fm/atr_mobile_mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Deep House Radio
-http://strm112.1.fm/deephouse_mobile_mp3
-
 #EXTINF:-1 tvg-logo="" group-title="YE",Noor Al-Eman
 http://edge.mixlr.com/channel/boaht
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Deep House Radio
+http://strm112.1.fm/deephouse_mobile_mp3
 
 #EXTINF:-1 tvg-logo="http://lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="GB",LBC London (National stream)
 http://media-ice.musicradio.com/LBCUKMP3Low
