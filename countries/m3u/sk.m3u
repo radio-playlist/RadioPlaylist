@@ -107,11 +107,11 @@ http://stream.rusyn.fm/rusyny-low.mp3
 #EXTINF:-1 tvg-logo="" group-title="SK",Radio Viva Metropol
 http://stream.sepia.sk:8000/viva128.mp3
 
-#EXTINF:-1 tvg-logo="https://www.beta.sk/wp-content/uploads/2020/08/cropped-beta-radio-logo-512-180x180.png" group-title="SK",Rádio Beta
-http://109.71.67.102:8000/beta_live_high.mp3
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j51rcUO.png" group-title="SK",FUN RÁDIO DANCE
 http://stream.funradio.sk:8000/dance128.mp3
+
+#EXTINF:-1 tvg-logo="https://www.beta.sk/wp-content/uploads/2020/08/cropped-beta-radio-logo-512-180x180.png" group-title="SK",Rádio Beta
+http://109.71.67.102:8000/beta_live_high.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kz8TUOr.png" group-title="SK",FUN RÁDIO 80-90
 http://stream.funradio.sk:8000/80-90-128.mp3
@@ -137,26 +137,26 @@ https://stream.bauermedia.sk/europa2.mp3
 #EXTINF:-1 tvg-logo="http://www.zahorackeradio.sk/templates/zahorrad/img/favicon.ico" group-title="SK",Záhorácke Rádio
 http://live.zahorackeradio.sk:8080/zr128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="SK",FRESH rádio
-https://icecast2.radionet.sk/freshradio.sk
-
 #EXTINF:-1 tvg-logo="https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=2023-10-09-10-40" group-title="SK",Rádio Vlna Oldies Party
 https://stream.radiovlna.sk/party-hi.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="SK",FRESH rádio
+https://icecast2.radionet.sk/freshradio.sk
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XIRnWa2.png" group-title="SK",RÁDIO VLNA 60-70
 https://stream.radiovlna.sk/gold-hi.mp3
 
-#EXTINF:-1 tvg-logo="https://jankohrasko.sk/wp-content/uploads/2022/01/cropped-janko-hrasko-180x180.png" group-title="SK",Rádio Janko Hraško
-http://78.24.9.110:31088/;
-
 #EXTINF:-1 tvg-logo="" group-title="SK",SRo1 Rádio Slovensko
 http://live.slovakradio.sk:8000/Slovensko_128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="SK",SRo9 Rádio Junior (256k)
-http://live.slovakradio.sk:8000/Junior_256.mp3
+#EXTINF:-1 tvg-logo="https://jankohrasko.sk/wp-content/uploads/2022/01/cropped-janko-hrasko-180x180.png" group-title="SK",Rádio Janko Hraško
+http://78.24.9.110:31088/;
 
 #EXTINF:-1 tvg-logo="" group-title="SK",Radio 7
 https://play.radio7.sk/128
+
+#EXTINF:-1 tvg-logo="" group-title="SK",SRo9 Rádio Junior (256k)
+http://live.slovakradio.sk:8000/Junior_256.mp3
 
 #EXTINF:-1 tvg-logo="https://www.rusyn.fm/favicon.ico" group-title="SK",Rusyn FM
 https://stream.rusyn.fm/rusyny.mp3
@@ -170,14 +170,14 @@ http://109.71.67.102:8000/beta_80a90.mp3
 #EXTINF:-1 tvg-logo="" group-title="SK",SRo6 Radio Slovakia International
 http://icecast.stv.livebox.sk/rsi_128.mp3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TtT79Kd.png" group-title="SK",RÁDIO VLNA OLDIES PARTY
+https://stream.radiovlna.sk/party-hi.mp3
+
 #EXTINF:-1 tvg-logo="https://slobodnyvysielac.b-cdn.net/wp-content/uploads/2015/10/cropped-fav-150x150.png" group-title="SK",Slobodný vysielač
 http://vysielanie.online/radio/8020/SV128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="SK",Fit family Radio
 https://solid67.streamupsolutions.com/proxy/reqsithw/stream
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TtT79Kd.png" group-title="SK",RÁDIO VLNA OLDIES PARTY
-https://stream.radiovlna.sk/party-hi.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="SK",House Radio
 http://stream.zeno.fm/qm8e21gta18uv
@@ -197,11 +197,11 @@ https://listen.radioking.com/radio/263218/stream/308365
 #EXTINF:-1 tvg-logo="" group-title="SK",Rádio BestFM
 https://stream3.bestfm.sk:8000/128.mp3
 
-#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.gItQZStw2mHIGhvJGp8aFwAAAA%26pid%3DApi&f=1&ipt=698c390e95f6a2d64349aa8e80bd8f925a2cc5c8d3b1f4f21070cdeaa2118d2d&ipo=images" group-title="SK",RÁDIO SLOVENSKO
-https://icecast.stv.livebox.sk/slovensko_128.mp3
-
 #EXTINF:-1 tvg-logo="https://radiorock.sk/favicon.ico" group-title="SK",Rádio ROCK
 https://stream.bauermedia.sk/rock-hi.mp3
+
+#EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.gItQZStw2mHIGhvJGp8aFwAAAA%26pid%3DApi&f=1&ipt=698c390e95f6a2d64349aa8e80bd8f925a2cc5c8d3b1f4f21070cdeaa2118d2d&ipo=images" group-title="SK",RÁDIO SLOVENSKO
+https://icecast.stv.livebox.sk/slovensko_128.mp3
 
 #EXTINF:-1 tvg-logo="https://www.radioparada.sk/favicon.ico" group-title="SK",Rádio Paráda
 https://extra.mediacp.eu/stream/RadioParada,o.z.
@@ -218,11 +218,11 @@ http://stream.expres.sk/128.mp3
 #EXTINF:-1 tvg-logo="https://radiorock.sk/favicon.ico" group-title="SK",Rock Radio
 https://stream.bauermedia.sk/rock-hi.mp3
 
-#EXTINF:-1 tvg-logo="https://radiojazz.sk/favicon.ico" group-title="SK",Rádio Jazz
-http://stream.sepia.sk:8000/jazz128.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="SK",Československé radio
 http://live.topradio.cz:8000/csradio128
+
+#EXTINF:-1 tvg-logo="https://radiojazz.sk/favicon.ico" group-title="SK",Rádio Jazz
+http://stream.sepia.sk:8000/jazz128.mp3
 
 #EXTINF:-1 tvg-logo="https://cdn.websupport.eu/odin/custom_error_pages/images/favicon.png" group-title="SK",Radio Dychovka
 https://epanel.mediacp.eu:7661/stream
@@ -245,11 +245,11 @@ https://stream.bauermedia.sk/rock-hi.mp3
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.E65vroGDtTyTMl18lUuGuwHaHa%26pid%3DApi&f=1&ipt=8e1260db0157c0b572b4326122c7511e15bc8c6afb4e0423cd1b9bb620cf57f2&ipo=images" group-title="SK",Fun Radio  Chill
 https://stream.funradio.sk:8000/chill128.mp3
 
-#EXTINF:-1 tvg-logo="https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=2024-03-04-1100" group-title="SK",RÁDIO VLNA Classic Rock
-http://stream.radiovlna.sk:8000/rock-hi.mp3
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bdLTNsg/radio-slovensko-w.png" group-title="SK",Rádio Slovensko
 https://icecast.stv.livebox.sk/slovensko_128.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=2024-03-04-1100" group-title="SK",RÁDIO VLNA Classic Rock
+http://stream.radiovlna.sk:8000/rock-hi.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="SK",Hitrádio Slovakia
 https://hitradioslovakia.stream.laut.fm/hitradioslovakia
@@ -263,11 +263,11 @@ http://radiobiblia.online:8000/stream.ogg
 #EXTINF:-1 tvg-logo="" group-title="SK",Rádio Viva
 http://stream.sepia.sk:8000/viva128.mp3
 
-#EXTINF:-1 tvg-logo="https://www.radiokiks.sk/favicon.ico" group-title="SK",Rádio KIKS - Big 80s
-https://online.radiokiks.sk:8000/kiks_big80s.mp3
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Ni2bGP.png" group-title="SK",RÁDIO VLNA
 http://stream.radiovlna.sk/vlna-hi.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radiokiks.sk/favicon.ico" group-title="SK",Rádio KIKS - Big 80s
+https://online.radiokiks.sk:8000/kiks_big80s.mp3
 
 #EXTINF:-1 tvg-logo="https://cdn.radiovlna.sk/img/Radio_Vlna_Logo.png" group-title="SK",RÁDIO VLNA 60-70
 https://stream.radiovlna.sk/gold-hi.mp3
@@ -290,15 +290,15 @@ http://stream.aetter.sk:8000/aetter
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qs142Tk.png" group-title="SK",RÁDIO VLNA Oldies Party
 https://stream.radiovlna.sk/party-hi.mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ty0Rjzh.png" group-title="SK",RÁDIO BEST FM
-https://stream3.bestfm.sk:8000/128.mp3
+#EXTINF:-1 tvg-logo="https://www.radiomelody.sk/wp-content/uploads/2023/01/cropped-radio-melody-favicon-1-256x256.png?w=256&h=256" group-title="SK",Radio Melody
+https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid=melody_web_mobile
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVXJoSN.png" group-title="SK",RÁDIO BETA
 http://109.71.67.102:8000/beta_live_high.mp3
 
-#EXTINF:-1 tvg-logo="https://www.radiomelody.sk/wp-content/uploads/2023/01/cropped-radio-melody-favicon-1-256x256.png?w=256&h=256" group-title="SK",Radio Melody
-https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid=melody_web_mobile
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ty0Rjzh.png" group-title="SK",RÁDIO BEST FM
+https://stream3.bestfm.sk:8000/128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="SK",Rádio FM
-https://icecast.stv.livebox.sk/fm_128.mp3
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/jCttHdwPJLWrfXbk6" group-title="SK",Jubilanti
+http://109.71.67.102:8000/beta_jubilanti.mp3
 

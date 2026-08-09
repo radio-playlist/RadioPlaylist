@@ -158,11 +158,11 @@ https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
 #EXTINF:-1 tvg-logo="" group-title="US",Chill Lounge Florida (USA) 128k mp3
 https://vip2.fastcast4u.com/proxy/chillfla?mp=/1
 
-#EXTINF:-1 tvg-logo="https://radia.cz/static/favicon.ico" group-title="CZ",ABradio Chillout
-http://mp3stream4.abradio.cz/chillout128.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="US",Lofi 24/7
 http://usa9.fastcast4u.com/proxy/jamz?mp=/1
+
+#EXTINF:-1 tvg-logo="https://radia.cz/static/favicon.ico" group-title="CZ",ABradio Chillout
+http://mp3stream4.abradio.cz/chillout128.mp3
 
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="FR",Allzic Radio Chill Out
 http://allzic53.ice.infomaniak.ch/allzic53.mp3
@@ -221,11 +221,11 @@ https://ice6.somafm.com/beatblender-128-aac
 #EXTINF:-1 tvg-logo="" group-title="GR",Disco Cafe
 https://azuracast.streams.ovh:8260/radio.mp3
 
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s25028q.png" group-title="DE",Klassik Radio - Healing
-http://stream.klassikradio.de/healing/mp3-128/
-
 #EXTINF:-1 tvg-logo="https://perfectmoods.nl/favicon.ico" group-title="NL",PerfectMoods – 24/7 Quality Lounge
 https://www.radioking.com/play/perfectmoods/104227
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s25028q.png" group-title="DE",Klassik Radio - Healing
+http://stream.klassikradio.de/healing/mp3-128/
 
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Chilled Out
 http://listen.181fm.com/181-chilled_128k.mp3
@@ -278,10 +278,10 @@ http://188.40.109.122:8000/ices2
 #EXTINF:-1 tvg-logo="" group-title="DE",Epic Lounge - NATURE SOUNDS
 https://stream.epic-lounge.com/nature-sounds?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="https://loungefm.com.ua/img/logo.png" group-title="UA",Lounge FM Chill Out
+#EXTINF:-1 tvg-logo="https://loungefm.com.ua/img/icon-144x144.png" group-title="UA",LoungeFm Chill Out
 https://cast.mediaonline.net.ua/chillout320
 
-#EXTINF:-1 tvg-logo="https://loungefm.com.ua/img/icon-144x144.png" group-title="UA",LoungeFm Chill Out
+#EXTINF:-1 tvg-logo="https://loungefm.com.ua/img/logo.png" group-title="UA",Lounge FM Chill Out
 https://cast.mediaonline.net.ua/chillout320
 
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-chillout_600x600.jpg" group-title="DE",- 1 A - Chillout von 1A Radio
@@ -296,9 +296,9 @@ http://185.64.76.49:8000/128
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HT2ucrf6Yvsfvt1yHz0TxD7JlMcj7-RhF4k6mkDISMesN0_rWv26av2NdURuakftH2U" group-title="US",The River Of Calm
 https://listen.radioking.com/radio/49831/stream/86743
 
-#EXTINF:-1 tvg-logo="" group-title="DE",Epic Lounge - SOFT HOUSE LOUNGE
-https://stream.epic-lounge.com/soft-house-lounge?ref=radiobrowser
-
 #EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Chillout
 http://31.192.216.8/CHILLOUT
+
+#EXTINF:-1 tvg-logo="" group-title="DE",Epic Lounge - SOFT HOUSE LOUNGE
+https://stream.epic-lounge.com/soft-house-lounge?ref=radiobrowser
 

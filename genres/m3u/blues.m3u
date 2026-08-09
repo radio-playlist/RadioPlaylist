@@ -59,11 +59,11 @@ http://wwoz-sc.streamguys.com/wwoz-hi.mp3
 #EXTINF:-1 tvg-logo="" group-title="Global",Texas Blues - Radio Caprice
 http://79.111.14.76:8004/texasblues
 
-#EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Harmonica Blues
-http://79.120.39.202:9081/
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/bluesradio.gr/wp-content/uploads/2021/06/cropped-24-7bug.png?fit=180%2c180&#038;ssl=1" group-title="GR",Blues Radio Greece
 http://cast3.radiohost.ovh:8352/
+
+#EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Harmonica Blues
+http://79.120.39.202:9081/
 
 #EXTINF:-1 tvg-logo="" group-title="JM",GGFM 90.1 Discovery Bay
 http://usa14.fastcast4u.com:5192/;
@@ -83,11 +83,11 @@ http://allzic09.ice.infomaniak.ch/allzic09.mp3
 #EXTINF:-1 tvg-logo="" group-title="DE",Laut.FM The Jazz of Wiesbaden
 http://stream.laut.fm/thejazzofwiesbaden
 
-#EXTINF:-1 tvg-logo="http://i.ibb.co/KsSqLP3/chicagoblues2.jpg" group-title="RU",Radio Caprice - Chicago blues
-http://79.111.14.76:8000/chicagoblues
-
 #EXTINF:-1 tvg-logo="" group-title="TR",Radyo A (Radyo Anadolu Üniversitesi)
 http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/KsSqLP3/chicagoblues2.jpg" group-title="RU",Radio Caprice - Chicago blues
+http://79.111.14.76:8000/chicagoblues
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/77516.v2.png" group-title="HU",Poptarisznya Blues24
 http://adas.poptarisznya.hu:8200/blues.mp3
@@ -140,14 +140,14 @@ http://icy.unitedradio.it/Zucchero.mp3
 #EXTINF:-1 tvg-logo="" group-title="DE",Bluesclub
 http://stream.laut.fm/bluesclub
 
+#EXTINF:-1 tvg-logo="" group-title="FR",Radio Eure du Blues
+http://euredublues.ddns.net:8000/euredublues.ogg
+
 #EXTINF:-1 tvg-logo="https://www.jointil.com/broadcast/images/joint.radio350X350.png" group-title="IL",#joint radio Blues Rock
 https://jointil.com/stream-blues
 
 #EXTINF:-1 tvg-logo="http://www.xpn.org/favicon.ico" group-title="US",WXPN 88.5 Philadelphia, PA
 https://wxpnhi.xpn.org/xpnhi
-
-#EXTINF:-1 tvg-logo="" group-title="FR",Radio Eure du Blues
-http://euredublues.ddns.net:8000/euredublues.ogg
 
 #EXTINF:-1 tvg-logo="https://image.atsw.de/atsw/production/2024-05/rockfm_rolling_stones_600x600.jpg" group-title="DE",ROCK FM ROLLING STONES
 http://stream.regenbogen2.de/rollingstones/mp3-128
@@ -188,14 +188,14 @@ http://khpr-ice.streamguys1.com/khpr2
 #EXTINF:-1 tvg-logo="" group-title="CN",民谣·蓝调
 http://play-radio-stream3.hndt.com/now/XWfN89gh/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.rockfm.ro/apple-touch-icon.png" group-title="RO",Rock Fm Blues
+https://live.rockfm.ro/blues
+
 #EXTINF:-1 tvg-logo="" group-title="US",Texas Rebel Radio
 https://ice41.securenetsystems.net/KNAF?playSessionID=6CC4A665-B891-1B7E-1922BD6BD5D4109F
 
 #EXTINF:-1 tvg-logo="https://www.cbc.ca/listen/static/icons/asset-cbc-listen-icon-ico-beta.ico" group-title="CA",CBC Radio 1 Calgary (CBR - 1010 AM, 99.1 FM)
 https://cbcradiolive.akamaized.net/hls/live/2041039/ES_R1MCG/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rockfm.ro/apple-touch-icon.png" group-title="RO",Rock Fm Blues
-https://live.rockfm.ro/blues
 
 #EXTINF:-1 tvg-logo="https://www.rtbf.be/favicon.ico" group-title="BE",RTBF Classic 21 - Live
 https://radios.rtbf.be/wr-c21-live-128.mp3
@@ -287,14 +287,14 @@ http://31.192.216.10/BLUESF
 #EXTINF:-1 tvg-logo="" group-title="BR",Lightness of Rock
 https://stream.zeno.fm/n0dt87vrnd0uv
 
+#EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/favicon.ico" group-title="CA",Radio Canada Ici Musique  - Québec City, QC
+https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="SI",Radio Zica
 http://live.1chi.si/zica
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Blues Club - Laut.FM
 http://stream.laut.fm/bluesclub
-
-#EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/favicon.ico" group-title="CA",Radio Canada Ici Musique  - Québec City, QC
-https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JWwdL32.jpg" group-title="GR",Blues Radio
 http://cast3.radiohost.ovh:8352/

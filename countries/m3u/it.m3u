@@ -161,29 +161,29 @@ http://icstream.rds.radio/rdsrelax
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Manà Manà Sport Roma
 https://stream10.xdevel.com/audio2s975363-2142/stream/icecast.audio
 
-#EXTINF:-1 tvg-logo="http://www.radioitaliaanni60.it/templates/enar/images/favicon/apple-touch-icon-120x120.png" group-title="IT",Radio Italia Anni 60 - Trentino Alto Adige
-http://ice10.fluidstream.net/anni60tn.aac
-
 #EXTINF:-1 tvg-logo="" group-title="IT",RMC VIP Lounge
 http://edge.radiomontecarlo.net/rmcweb020
 
-#EXTINF:-1 tvg-logo="" group-title="IT",RAI 2
-https://icestreaming.rai.it/2.mp3
+#EXTINF:-1 tvg-logo="http://www.radioitaliaanni60.it/templates/enar/images/favicon/apple-touch-icon-120x120.png" group-title="IT",Radio Italia Anni 60 - Trentino Alto Adige
+http://ice10.fluidstream.net/anni60tn.aac
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rock Party
 http://icy.unitedradio.it/VirginRockParty.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="IT",Radio Popolare
-http://livex.radiopopolare.it/radiopop
+#EXTINF:-1 tvg-logo="" group-title="IT",RAI 2
+https://icestreaming.rai.it/2.mp3
 
 #EXTINF:-1 tvg-logo="https://cloud.rtl.it/assets/www.rtl.it/3.0.64/img/logo/favicon-96x96.png" group-title="IT",RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IT",Radio 80 - Forever Young
-http://nr11.newradio.it:9208/stream
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio Popolare
+http://livex.radiopopolare.it/radiopop
 
 #EXTINF:-1 tvg-logo="" group-title="IT",RDS 100% Grandi Successi
 https://stream.rds.radio/audio/rds.stream_aac64/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio 80 - Forever Young
+http://nr11.newradio.it:9208/stream
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Subasio Per un'ora d'amore
 http://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3
@@ -218,11 +218,11 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m
 #EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rockstar: Rolling Stones
 https://icy.unitedradio.it/VirginSpecialEvent.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="IT",RMC 90
-http://edge.radiomontecarlo.net/rmcweb009
-
 #EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="IT",Radio Deejay
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RMC 90
+http://edge.radiomontecarlo.net/rmcweb009
 
 #EXTINF:-1 tvg-logo="http://www.raibz.rai.it/de/touch/square.png" group-title="IT",Rai Südtirol
 http://radiobzlive.rai.it/RAIBZ_Livestream
@@ -293,12 +293,12 @@ https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="IT",Venice Classic Radio
 https://uk2.streamingpulse.com/ssl/vcr1
 
+#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/favicon_1.ico?v=1722509813463" group-title="IT",RMC Marine
+http://edge.radiomontecarlo.net/rmcweb010
+
 #EXTINF:-1 tvg-logo="" group-title="IT",LatteMiele Marche Abruzzo
 http://ice02.fluidstream.net/fluid016.aac
 
 #EXTINF:-1 tvg-logo="" group-title="IT",RMC Romantic Rock
 http://edge.radiomontecarlo.net/rmcweb015
-
-#EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/favicon_1.ico?v=1722509813463" group-title="IT",RMC Marine
-http://edge.radiomontecarlo.net/rmcweb010
 

@@ -95,14 +95,17 @@ https://mugenradio.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://image.live365.com/download/0f7908ae-7a6e-449a-bcb7-4a92b39fd1cb.png/400/image.webp" group-title="US",No AC/DC
 https://das-edge12-live365-dal02.cdnstream.com/a52726
 
+#EXTINF:-1 tvg-logo="" group-title="KR",ARA FM
+http://141.164.38.238/listen/ara_fm/radio.mp3
+
 #EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-lo-fi-en-mp3.jpg" group-title="FR",Hotmix Lo-Fi
 https://streaming.hotmixradio.com/hotmix-lofi-en-mp3?provider=radiobrowser
 
 #EXTINF:-1 tvg-logo="https://image.live365.com/download/ee7c8c6a-0e70-431e-94c8-6903a10e21cc.png/400/image.webp" group-title="US",Untidy Radio
 https://das-edge17-live365-dal02.cdnstream.com/a14325
 
-#EXTINF:-1 tvg-logo="" group-title="KR",ARA FM
-http://141.164.38.238/listen/ara_fm/radio.mp3
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/a32f99500d9bc3864c7b619152c8e6e9?t=_120x120" group-title="DE",Special-Radio
+https://special-radio.stream.laut.fm/special-radio?t302=2026-03-24_22-09-25&uuid=bbf6c4db-2005-4024-9674-9ccb3a4d3d90
 
 #EXTINF:-1 tvg-logo="https://broadcaster.live365.com/static/assets/logos/default.jpg" group-title="US",Osage Orange Radio
 https://das-edge62-live365-dal03.cdnstream.com/a08442
@@ -116,9 +119,6 @@ https://zockerfm.stream.laut.fm/zockerfm?t302=2026-03-24_21-33-02&uuid=6eac6792-
 #EXTINF:-1 tvg-logo="" group-title="FR",hotmix LoFi
 https://streaming.hotmixradio.com/hotmix-lofi-en-mp3
 
-#EXTINF:-1 tvg-logo="https://assets.laut.fm/a32f99500d9bc3864c7b619152c8e6e9?t=_120x120" group-title="DE",Special-Radio
-https://special-radio.stream.laut.fm/special-radio?t302=2026-03-24_22-09-25&uuid=bbf6c4db-2005-4024-9674-9ccb3a4d3d90
-
 #EXTINF:-1 tvg-logo="" group-title="BR",Midnight station
 http://129.146.164.81:8181/listen/midnight_station/radio.mp3
 
@@ -127,6 +127,9 @@ https://radio.webicdp.com/listen/fmvfitradiofocus/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://hunter.fm/favicon.ico" group-title="BR",Hunter.fm O Canal Lo-Fi (High)
 https://live.hunter.fm/lofi_high
+
+#EXTINF:-1 tvg-logo="https://kafka.icu/icon-256.png" group-title="GB",Kafka Chill
+http://kafka.icu:8181/stream
 
 #EXTINF:-1 tvg-logo="https://mugenradio.com/cover-mugen-300.png" group-title="FR",MUGEN Radio
 https://mugenradio.com/hls/live.m3u8

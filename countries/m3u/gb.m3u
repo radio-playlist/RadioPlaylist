@@ -173,11 +173,11 @@ http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bb
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24940q.png" group-title="GB",BBC Radio 2 (128k)
 http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.linn.co.uk/" group-title="GB",Linn Jazz
-http://radio.linn.co.uk:8000/autodj
-
 #EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linn.co.uk/" group-title="GB",Linn Jazz
+http://radio.linn.co.uk:8000/autodj
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="GB",BBC Radio 1
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8
@@ -197,11 +197,11 @@ https://streaming.exclusive.radio/er/direstraits/icecast.audio
 #EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="GB",BBC World Service
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.capitaldance.com/assets_v4r/capitaldance/img/favicon-196x196.png" group-title="GB",Capital Dance
-https://icecast.thisisdax.com/CapitalDanceMP3
-
 #EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/FOKCcOpam5-0m4VfrxvfzMdDK6I=/10x0:610x400/1400x1400/filters:focal(10x0:610x400):format(jpeg)/cdn.vox-cdn.com/assets/958975/bbc_world_service.jpeg" group-title="GB",BBC World Service
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
+
+#EXTINF:-1 tvg-logo="https://www.capitaldance.com/assets_v4r/capitaldance/img/favicon-196x196.png" group-title="GB",Capital Dance
+https://icecast.thisisdax.com/CapitalDanceMP3
 
 #EXTINF:-1 tvg-logo="" group-title="GB",Virgin Radio Chilled
 https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web
@@ -239,11 +239,11 @@ http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/b
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s264062d.png" group-title="GB",80s Soundtracks Radio
 http://uk5.internet-radio.com:8256/;
 
-#EXTINF:-1 tvg-logo="https://android2.blob.core.windows.net/castmyurl/WeymouthRocks400.png" group-title="GB",Weymouth Rocks (Medium Bitrate)
-http://cast1.asurahosting.com:8621/med
-
 #EXTINF:-1 tvg-logo="https://truckers.fm/favicon.ico" group-title="GB",TruckersFM
 http://radio.truckers.fm/
+
+#EXTINF:-1 tvg-logo="https://android2.blob.core.windows.net/castmyurl/WeymouthRocks400.png" group-title="GB",Weymouth Rocks (Medium Bitrate)
+http://cast1.asurahosting.com:8621/med
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fbhlSLX.jpg" group-title="GB",Radio X
 http://icecast.thisisdax.com/RadioXUKMP3
@@ -263,11 +263,11 @@ http://51.89.148.171:8022/stream
 #EXTINF:-1 tvg-logo="" group-title="GB",Radio Caroline
 http://sc6.radiocaroline.net:8040/;stream.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="GB",Deepvibes Radio
-http://88.208.218.19:8090/stream
-
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s155539/images/logod.png" group-title="GB",TMM 2 (HQ)
 https://listen-msmn.sharp-stream.com/nme2high.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Deepvibes Radio
+http://88.208.218.19:8090/stream
 
 #EXTINF:-1 tvg-logo="http://www.nts.live/favicon.ico" group-title="GB",NTS Radio 1
 http://stream-relay-geo.ntslive.net/stream
@@ -275,11 +275,11 @@ http://stream-relay-geo.ntslive.net/stream
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/128x128/profile/7/2/7/6/9c02-6f66-46db-b02b-4664055549dc.png" group-title="GB",Chill
 http://media-ice.musicradio.com/ChillMP3
 
-#EXTINF:-1 tvg-logo="http://www.1mix.co.uk/favicon.ico" group-title="GB",1Mix EDM Radio
-http://fr1.1mix.co.uk:8060/
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s44491q.png" group-title="GB",BBC Radio 6 Music (128k)
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.1mix.co.uk/favicon.ico" group-title="GB",1Mix EDM Radio
+http://fr1.1mix.co.uk:8060/
 
 #EXTINF:-1 tvg-logo="" group-title="GB",Exclusively Supertramp
 https://streaming.exclusive.radio/er/supertramp/icecast.audio
@@ -293,11 +293,11 @@ http://sc2.radiocaroline.net:10558/;
 #EXTINF:-1 tvg-logo="https://www.nonstopplay.com/wp-content/uploads/2022/12/favicon.png" group-title="GB",NonStopPlay Dance Radio
 http://stream.nonstopplay.co.uk/nsp-192k-mp3
 
-#EXTINF:-1 tvg-logo="https://www.1mix.co.uk/forum/styles/acidtech/theme/images/site_logo.gif" group-title="GB",1Mix Radio - Trance (UK) 32kb aac+
-http://fr2.1mix.co.uk:9000/aacb
-
 #EXTINF:-1 tvg-logo="https://www.radiocaroline.co.uk/favicon.ico" group-title="GB",Radio Caroline AAC 96 kbps
 http://78.129.202.200:8030/;
+
+#EXTINF:-1 tvg-logo="https://www.1mix.co.uk/forum/styles/acidtech/theme/images/site_logo.gif" group-title="GB",1Mix Radio - Trance (UK) 32kb aac+
+http://fr2.1mix.co.uk:9000/aacb
 
 #EXTINF:-1 tvg-logo="" group-title="GB",TrancePulse FM
 http://live.trance.ie:8000/stream

@@ -170,11 +170,11 @@ https://lhttp.qtfm.cn/live/15318317/64k.mp3
 #EXTINF:-1 tvg-logo="" group-title="MZ",Rádio Moçambique Antena Nacional
 https://node.stream-africa.com:8443/AntenaNacional
 
-#EXTINF:-1 tvg-logo="https://radiokp.ru/modules/custom/dna_kpradio/modules/kp_favicon/img/favicon-194x194.png?v=1.1" group-title="RU",Комсомольская правда
-https://kpradio.hostingradio.ru:8000/64
-
 #EXTINF:-1 tvg-logo="" group-title="ID",elshinta  jakarta
 https://stream-ssl.arenastreaming.com:8000/jakarta
+
+#EXTINF:-1 tvg-logo="https://radiokp.ru/modules/custom/dna_kpradio/modules/kp_favicon/img/favicon-194x194.png?v=1.1" group-title="RU",Комсомольская правда
+https://kpradio.hostingradio.ru:8000/64
 
 #EXTINF:-1 tvg-logo="" group-title="FO",Kringvarp Føroya (KVF)
 http://netvarp.kringvarp.fo:443/uvhm
@@ -224,11 +224,11 @@ http://streams.br.de/b5aktuell_2.m3u
 #EXTINF:-1 tvg-logo="https://emisorasunidas.com/favicon.ico" group-title="GT",Emisoras Unidas 89.7
 https://stream.zenolive.com/z96sq8tndseuv
 
-#EXTINF:-1 tvg-logo="https://www.aljazeera.net/favicon.ico" group-title="QA",Al Jazeera - Arabic
-http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.klubradio.hu/static/frontend/imgs/KR-clean-logo.png" group-title="HU",Klubrádió 95,3
 https://a7.asurahosting.com:8160/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://www.aljazeera.net/favicon.ico" group-title="QA",Al Jazeera - Arabic
+http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png" group-title="BE",RTBF La Première
 https://radios.rtbf.be/laprem1ere-64.aac
@@ -245,11 +245,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aa
 #EXTINF:-1 tvg-logo="http://lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="GB",LBC London News
 http://media-ice.musicradio.com/LBC1152
 
-#EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="DE",WDR 2 Rheinland
-http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
-
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/sso/48/1678171152584_a6BwhQSVz.png" group-title="CN",国际新闻
 https://lhttp.qtfm.cn/live/20500172/64k.mp3
+
+#EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="DE",WDR 2 Rheinland
+http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
 
 #EXTINF:-1 tvg-logo="http://www.parapolitikaradio.gr/favicon.ico" group-title="GR",Παραπολιτικά FM 90.1
 http://netradio.live24.gr/athinaradio
@@ -275,11 +275,11 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low
 #EXTINF:-1 tvg-logo="" group-title="SA",Al Arabiya FM
 https://fm.alarabiya.net/fm/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RW",Radio 1
-http://80.241.215.175:5000/;
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="GB",BBC Radio 4 (128k)
 http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="RW",Radio 1
+http://80.241.215.175:5000/;
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Звезда
 https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128

@@ -191,11 +191,11 @@ http://web.radio.antennevorarlberg.at/av-80er?aggregator=surfmusik
 #EXTINF:-1 tvg-logo="" group-title="AT",Freies Radio Österreich
 http://www.fro.at:8008/fro64.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="AT",Radio Harmonie
-http://host6.cartwall.at:9630/
-
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png" group-title="AT",Antenne Vorarlberg Dance Radio
 https://web.radio.antennevorarlberg.at/av-dance
+
+#EXTINF:-1 tvg-logo="" group-title="AT",Radio Harmonie
+http://host6.cartwall.at:9630/
 
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/wp-content/uploads//2021/03/70er-1000x1000-Slogan-runde-Ecken-144x144.png" group-title="AT",Antenne Vorarlberg 70er Hits
 https://web.radio.antennevorarlberg.at/av-70er
@@ -269,11 +269,11 @@ http://live.helsinki.at:8088/live160.mp3
 #EXTINF:-1 tvg-logo="https://radio.gamesboro.org/static/uploads/browser_icon/original.1693066595.png" group-title="AT",Gamesboro Radio - Video Game Music 24/7
 https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3
 
-#EXTINF:-1 tvg-logo="https://orfodon.org/system/accounts/avatars/111/374/434/334/698/982/original/aad9486c4d8e92f2.png" group-title="AT",ORF Radio Niederösterreich
-https://orf-live.ors-shoutcast.at/noe-q1a
-
 #EXTINF:-1 tvg-logo="https://orfodon.org/system/accounts/avatars/111/374/508/091/321/480/original/185d67318d45fbd9.png" group-title="AT",ORF Radio Salzburg HQ
 https://orf-live.ors-shoutcast.at/sbg-q2a
+
+#EXTINF:-1 tvg-logo="https://orfodon.org/system/accounts/avatars/111/374/434/334/698/982/original/aad9486c4d8e92f2.png" group-title="AT",ORF Radio Niederösterreich
+https://orf-live.ors-shoutcast.at/noe-q1a
 
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png" group-title="AT",Antenne Vorarlberg Musica Italiana
 https://web.radio.antennevorarlberg.at/av-italiana

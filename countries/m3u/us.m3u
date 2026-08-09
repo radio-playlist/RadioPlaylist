@@ -47,11 +47,11 @@ http://relax.stream.publicradio.org/relax.mp3
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Old School HipHop/RnB
 http://listen.181fm.com/181-oldschool_128k.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="US",.977 Country
-http://26343.live.streamtheworld.com/977_COUNTRY_SC
-
 #EXTINF:-1 tvg-logo="" group-title="US",.977 80s
 http://17573.live.streamtheworld.com/977_80_SC
+
+#EXTINF:-1 tvg-logo="" group-title="US",.977 Country
+http://26343.live.streamtheworld.com/977_COUNTRY_SC
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Hitz
 http://18863.live.streamtheworld.com/977_HITS_SC
@@ -98,11 +98,11 @@ http://npr-ice.streamguys1.com/live.mp3
 #EXTINF:-1 tvg-logo="http://www.echoesofbluemars.org/images/favicon.ico" group-title="US",Cryosleep
 http://streams.echoesofbluemars.org:8000/cryosleep
 
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/u80s-400.png" group-title="US",SomaFM Underground 80s (128k MP3)
-https://ice6.somafm.com/u80s-128-mp3
-
 #EXTINF:-1 tvg-logo="" group-title="US",LOVE RADIO Only Love Songs 70s80s90s - www.love.radio
 http://shoutcast3.streamingmedia.it:3162/
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/u80s-400.png" group-title="US",SomaFM Underground 80s (128k MP3)
+https://ice6.somafm.com/u80s-128-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",Infowars
 http://stream-mp3.infowars.com/
@@ -185,11 +185,11 @@ https://fm939.wnyc.org/wnycfm
 #EXTINF:-1 tvg-logo="" group-title="US",The Jazz Groove - East
 http://east-mp3-128.streamthejazzgroove.com/stream
 
-#EXTINF:-1 tvg-logo="https://pwa.tunegenie.com/kyyaam/icon-192.png" group-title="US",98.1 KBEAR
-http://desertmountainbroadcasting.streamguys1.com/KYYA
-
 #EXTINF:-1 tvg-logo="" group-title="US",101 SMOOTH JAZZ MELLOW MIX
 http://streaming.live365.com/b48071_128mp3
+
+#EXTINF:-1 tvg-logo="https://pwa.tunegenie.com/kyyaam/icon-192.png" group-title="US",98.1 KBEAR
+http://desertmountainbroadcasting.streamguys1.com/KYYA
 
 #EXTINF:-1 tvg-logo="" group-title="US",181.FM - Kickin' Country
 http://listen.181fm.com/181-kickincountry_128k.mp3
@@ -290,11 +290,11 @@ http://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&
 #EXTINF:-1 tvg-logo="https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico" group-title="US",Radio Love Live New York
 https://streaming.radiostreamlive.com/radiolovelive_devices
 
-#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - The Eagle (Classic)
-http://listen.181fm.com/181-eagle_128k.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="US",My70sRadio
 http://usa14.fastcast4u.com:5132/stream
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - The Eagle (Classic)
+http://listen.181fm.com/181-eagle_128k.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",PulseEDM Dance Music Radio
 http://pulseedm.cdnstream1.com:8124/1373_128

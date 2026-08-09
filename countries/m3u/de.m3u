@@ -110,11 +110,11 @@ http://stream.laut.fm/total-instrumental
 #EXTINF:-1 tvg-logo="" group-title="DE",Hit Radio FFH - 80er
 http://mp3.ffh.de/ffhchannels/hq80er.mp3
 
-#EXTINF:-1 tvg-logo="https://cdn.mdr.de/resources/global/img/mdrde/favicons/apple-icon-120x120.png" group-title="DE",MDR Aktuell
-http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
-
 #EXTINF:-1 tvg-logo="https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png" group-title="DE",80s80s Radio
 http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=69687n9o%230%23r30o443r1929r059s085628511796n57%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1768454811
+
+#EXTINF:-1 tvg-logo="https://cdn.mdr.de/resources/global/img/mdrde/favicons/apple-icon-120x120.png" group-title="DE",MDR Aktuell
+http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="DE",90s90s Techno HQ
 http://streams.90s90s.de/techno/mp3-192/radiode/
@@ -164,17 +164,17 @@ http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="DE",80s80s Love
 http://streams.80s80s.de/love/mp3-192/streams.80s80s.de/
 
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-chillout_600x600.jpg" group-title="DE",- 0 N - Chillout on Radio
-https://0n-chillout.radionetz.de/0n-chillout.aac
-
 #EXTINF:-1 tvg-logo="" group-title="DE",RADIO BOB! BOBs Alternative Rock
 http://streams.radiobob.de/bob-alternative/mp3-192/streams.radiobob.de/
 
-#EXTINF:-1 tvg-logo="https://www.ndr.de/apple-touch-icon-120x120.png" group-title="DE",NDR Info (Hamburg)
-http://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-chillout_600x600.jpg" group-title="DE",- 0 N - Chillout on Radio
+https://0n-chillout.radionetz.de/0n-chillout.aac
 
 #EXTINF:-1 tvg-logo="https://upload.kissfm.de/production/static/1699276434696/icons/icon_64.be8y2280000.png" group-title="DE",98.8 Kiss FM
 http://stream.kissfm.de/kissfm/mp3-128/internetradio/
+
+#EXTINF:-1 tvg-logo="https://www.ndr.de/apple-touch-icon-120x120.png" group-title="DE",NDR Info (Hamburg)
+http://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
 
 #EXTINF:-1 tvg-logo="http://www.ndr.de/favicon.ico" group-title="DE",NDR Info (Schleswig-Holstein)
 http://icecast.ndr.de/ndr/ndrinfo/schleswigholstein/mp3/128/stream.mp3
@@ -269,11 +269,11 @@ https://1000goldschlager.stream.laut.fm/1000goldschlager
 #EXTINF:-1 tvg-logo="http://www.antenne.de/logos/antenne-bayern/apple-touch-icon.png" group-title="DE",Antenne Bayern - 80er Kulthits
 http://stream.antenne.de/80er-kulthits
 
-#EXTINF:-1 tvg-logo="https://www1.wdr.de/radio/1live-diggi/resources-v5.122.3/img/favicon/apple-touch-icon.png" group-title="DE",WDR 1Live Diggi
-http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jMmvLjz/TOP100-DJ-CHARTS-RADIO.png" group-title="DE",# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts
+
+#EXTINF:-1 tvg-logo="https://www1.wdr.de/radio/1live-diggi/resources-v5.122.3/img/favicon/apple-touch-icon.png" group-title="DE",WDR 1Live Diggi
+http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="DE",90s90s Dance
 http://streams.90s90s.de/eurodance/mp3-128/radiode/

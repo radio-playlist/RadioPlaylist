@@ -173,11 +173,11 @@ https://radiorecord.hostingradio.ru/discofunk96.aacp
 #EXTINF:-1 tvg-logo="https://radiombox.pl/MboxKwadr120x120.png" group-title="PL",Radio Mbox - Disco Polo
 http://s3.slotex.pl:7222/stream
 
-#EXTINF:-1 tvg-logo="http://674.fm/favicon.ico" group-title="DE",674FM
-http://audio.674.fm/stream
-
 #EXTINF:-1 tvg-logo="" group-title="IT",Funky Corner Radio
 http://andromeda.shoutca.st:8411/stream
+
+#EXTINF:-1 tvg-logo="http://674.fm/favicon.ico" group-title="DE",674FM
+http://audio.674.fm/stream
 
 #EXTINF:-1 tvg-logo="" group-title="US",__1 oldies
 https://80sexitos.stream.laut.fm/80sexitos
@@ -188,11 +188,11 @@ https://radiodd.cloud/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6b8adb31-5021-4e82-ad27-8f176caf9e91.jpg" group-title="AE",Exclusively ABBA
 https://2.mystreaming.net/er/abba/icecast.audio
 
-#EXTINF:-1 tvg-logo="" group-title="GB",FUNK2DISCO
-http://stream.laut.fm/funk2disco
-
 #EXTINF:-1 tvg-logo="" group-title="DE",RADIO BOB - 70er Rock [mp3 | 192 kbps]
 https://streams.radiobob.de/70errock/mp3-192/streams.radiobob.de/
+
+#EXTINF:-1 tvg-logo="" group-title="GB",FUNK2DISCO
+http://stream.laut.fm/funk2disco
 
 #EXTINF:-1 tvg-logo="https://cdn2.101.ru/proxy/vardata/modules/channel/dynamics/personal/178/1785788.jpg?w=300&h=300&pos=center&t=1681310271" group-title="RU",ABBA Radio
 https://pub0102.101.ru:8443/stream/personal/aacp/64/1785788
@@ -224,11 +224,11 @@ https://radio.pejpal.cloud/stream
 #EXTINF:-1 tvg-logo="" group-title="NL",Coastline
 http://81.169.223.8/
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_66f56cd8d2f44aed871cfd62bf70af65~mv2.jpg" group-title="IT",# 100 NU-DISCO CENTRAL RADIO
-https://stream.zeno.fm/jqhhzffjynbuv
-
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__SCHLAGERRADIO.FM__ by rautemusik (rm.fm)
 https://schlager-high.rautemusik.fm/?ref=radiobrowser
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_66f56cd8d2f44aed871cfd62bf70af65~mv2.jpg" group-title="IT",# 100 NU-DISCO CENTRAL RADIO
+https://stream.zeno.fm/jqhhzffjynbuv
 
 #EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF 80s Disco + FAKTY
 http://195.150.20.9/80SDISCOF
@@ -284,11 +284,11 @@ https://stream.zeno.fm/5a1utt11fkhvv
 #EXTINF:-1 tvg-logo="" group-title="NL",i-turn radio
 http://live.i-turnradio.nl/live
 
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Disco- Caprice Radio
-http://79.120.77.11:8000/disco
-
 #EXTINF:-1 tvg-logo="http://www.todaydanceradio.com/_media/img/thumb/tdr-today-dance-radio-icon.png" group-title="IT",Today Dance Radio
 http://protostar.shoutca.st:8390/;
+
+#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Disco- Caprice Radio
+http://79.120.77.11:8000/disco
 
 #EXTINF:-1 tvg-logo="https://www.only80sradio.nl/favicon.ico" group-title="NL",Only 80's Radio
 https://server-28.stream-server.nl:8850/stream
@@ -296,9 +296,9 @@ https://server-28.stream-server.nl:8850/stream
 #EXTINF:-1 tvg-logo="https://www.guliayradio.ua/favicon.ico" group-title="UA",Гуляй Радіо
 https://online.radioplayer.ua/GuliayRadio
 
-#EXTINF:-1 tvg-logo="" group-title="US",Radio T.K. Disco
-https://broadcast.miami/proxy/tkdisco?mp=/stream/;
-
 #EXTINF:-1 tvg-logo="http://topfm.hu/favicon.ico" group-title="Global",TOP FM base
 http://live.topfm.hu:8000/base.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",Radio T.K. Disco
+https://broadcast.miami/proxy/tkdisco?mp=/stream/;
 

@@ -59,11 +59,11 @@ http://s2.audiostream.hu:8091/bdpstrock_FLAC
 #EXTINF:-1 tvg-logo="https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png" group-title="DE",Rock Antenne Heavy Metal
 https://stream.rockantenne.de/heavy-metal/stream/aacp
 
-#EXTINF:-1 tvg-logo="" group-title="US",Best Net Radio - 80s Metal
-http://bigrradio-edge1.cdnstream.com/5146_128
-
 #EXTINF:-1 tvg-logo="https://www.badrockradio.net/wp-content/uploads/2024/06/960x0-100x100.webp" group-title="BG",BadRock Hard & Heavy
 https://play-radio0.jump.bg:7049/live
+
+#EXTINF:-1 tvg-logo="" group-title="US",Best Net Radio - 80s Metal
+http://bigrradio-edge1.cdnstream.com/5146_128
 
 #EXTINF:-1 tvg-logo="https://cdn.khz.se/images/161x80/63808dd23f61e6193a9007a927189e13.png" group-title="SE",Bandit Rock
 http://fm02-ice.stream.khz.se/fm02_mp3
@@ -272,11 +272,11 @@ http://wackenradio-high.rautemusik.fm/
 #EXTINF:-1 tvg-logo="https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",Radio RMF Hard and Heavy
 http://31.192.216.10/HARDHEAVY
 
-#EXTINF:-1 tvg-logo="" group-title="DE",laut.fm Fantasyradio
-http://stream.laut.fm/fantasyradio
-
 #EXTINF:-1 tvg-logo="" group-title="Global",Radio Caprice - Funeral Doom Metal
 http://79.120.77.11:8000/funeraldoom
+
+#EXTINF:-1 tvg-logo="" group-title="DE",laut.fm Fantasyradio
+http://stream.laut.fm/fantasyradio
 
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__ROCK__ by rautemusik (rm.fm)
 https://rock-high.rautemusik.fm/?ref=radiobrowser
@@ -287,11 +287,11 @@ https://radio.1055rock.gr:31056/live
 #EXTINF:-1 tvg-logo="" group-title="Global",Polygon.FM - Loud Russian (fastcast)
 https://eu6.fastcast4u.com/proxy/lrm?mp=/stream
 
-#EXTINF:-1 tvg-logo="" group-title="DE",DrGnu - Classic Rock
-http://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-heavymetal_600x600.jpg" group-title="DE",- 0 N - Heavy Metal on Radio
 https://0n-heavymetal.radionetz.de/0n-heavymetal.aac
+
+#EXTINF:-1 tvg-logo="" group-title="DE",DrGnu - Classic Rock
+http://streams.radiobob.de/bob-classicrock/mp3-192/mediaplayer
 
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/dist/favicons/logo-120.png" group-title="FR",Fip : Metal
 https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8

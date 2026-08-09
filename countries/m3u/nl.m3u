@@ -92,11 +92,11 @@ http://stream.100p.nl/100pctnl.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Concertzender_Logo.svg/1200px-Concertzender_Logo.svg.png" group-title="NL",Concertzender Oude Muziek
 http://streams.greenhost.nl:8080/oudemuziek
 
-#EXTINF:-1 tvg-logo="https://www.bnr.nl/favicon.ico" group-title="NL",BNR Nieuwsradio
-https://stream.bnr.nl/bnr_aac_96_20
-
 #EXTINF:-1 tvg-logo="https://www.italopower.com/assets/img/apple-touch-icon.png" group-title="NL",Italo Power
 http://stream.radioitalopower.com:10018/italopower
+
+#EXTINF:-1 tvg-logo="https://www.bnr.nl/favicon.ico" group-title="NL",BNR Nieuwsradio
+https://stream.bnr.nl/bnr_aac_96_20
 
 #EXTINF:-1 tvg-logo="" group-title="NL",The Great American Songbook
 http://tgas.dyndns.org:8001/;
@@ -161,11 +161,11 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3?
 #EXTINF:-1 tvg-logo="https://www.funx.nl/apple-touch-icon.png" group-title="NL",NPO FunX Reggae
 http://icecast.omroep.nl/funx-reggaefb-bb-mp3
 
-#EXTINF:-1 tvg-logo="" group-title="NL",Pinguin Blues
-https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006
-
 #EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line Radio - Jazz
 http://mediaserv38.live-streams.nl:8006/live
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Pinguin Blues
+https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006
 
 #EXTINF:-1 tvg-logo="https://www.slam.nl/favicon.ico" group-title="NL",Slam! Mixmarathon
 http://stream.radiocorp.nl/web13_mp3
@@ -191,11 +191,11 @@ https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac
 #EXTINF:-1 tvg-logo="http://www.radio5.nl/apple-touch-icon.png" group-title="NL",NPO Radio 5
 http://icecast.omroep.nl/radio5-bb-mp3
 
-#EXTINF:-1 tvg-logo="" group-title="NL",NPO Radio 4 - Concerten
-http://icecast.omroep.nl/radio4-eigentijds-mp3
-
 #EXTINF:-1 tvg-logo="https://www.jazzdeville.com/favicon/jazzdeville/apple-touch-icon.png" group-title="NL",Jazz de Ville - Groove
 https://onair22.xdevel.com/proxy/xautocloud_1kha_423?mp=/stream
+
+#EXTINF:-1 tvg-logo="" group-title="NL",NPO Radio 4 - Concerten
+http://icecast.omroep.nl/radio4-eigentijds-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="NL",3FM
 http://icecast.omroep.nl/3fm-bb-mp3
@@ -215,20 +215,20 @@ http://mediaserv33.live-streams.nl:8034/
 #EXTINF:-1 tvg-logo="https://www.538.nl/icons/apple-icon-120x120.png" group-title="NL",Radio 538 Ibiza
 http://22323.live.streamtheworld.com/TLPSTR19_SC
 
-#EXTINF:-1 tvg-logo="https://www.pureloungeradio.com/images/Pureloungeradio-achtergrond.jpg" group-title="NL",Pure Lounge Radio FLAC
-https://mscp4.live-streams.nl:8142/lounge.ogg
-
 #EXTINF:-1 tvg-logo="https://www.arrow.nl/wp-content/uploads/2020/08/logo.png" group-title="NL",Arrow Classic Rock
 http://stream.gal.io/arrow
+
+#EXTINF:-1 tvg-logo="https://www.pureloungeradio.com/images/Pureloungeradio-achtergrond.jpg" group-title="NL",Pure Lounge Radio FLAC
+https://mscp4.live-streams.nl:8142/lounge.ogg
 
 #EXTINF:-1 tvg-logo="http://www.allradio.nl/uploaded/logo/soul-radio-groot.jpg" group-title="NL",SoulRadio
 https://22323.live.streamtheworld.com/SOULRADIOAAC_SC
 
-#EXTINF:-1 tvg-logo="" group-title="NL",Radio 538 Nonstop
-http://25303.live.streamtheworld.com/TLPSTR09_SC
-
 #EXTINF:-1 tvg-logo="https://perfectmoods.nl/favicon.ico" group-title="NL",PerfectMoods – 24/7 Quality Lounge
 https://www.radioking.com/play/perfectmoods/104227
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Radio 538 Nonstop
+http://25303.live.streamtheworld.com/TLPSTR09_SC
 
 #EXTINF:-1 tvg-logo="https://www.npo3fm.nl/apple-touch-icon.png" group-title="NL",NPO 3FM
 http://icecast.omroep.nl/3fm-bb-aac
@@ -248,17 +248,17 @@ https://stream.joe.nl/joe/aachigh
 #EXTINF:-1 tvg-logo="" group-title="NL",Radio Veronica
 http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC.aac
 
-#EXTINF:-1 tvg-logo="https://www.jazzdeville.com/favicon/jazzdeville/apple-touch-icon.png" group-title="NL",Jazz de Ville - Jazz
-https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream
-
 #EXTINF:-1 tvg-logo="https://www.npo3fm.nl/apple-touch-icon.png" group-title="NL",NPO 3FM
 https://icecast.omroep.nl/3fm-bb-mp3
 
-#EXTINF:-1 tvg-logo="" group-title="NL",Concertzender Gregoriaans
-http://streams.greenhost.nl:8080/gregoriaans
+#EXTINF:-1 tvg-logo="https://www.jazzdeville.com/favicon/jazzdeville/apple-touch-icon.png" group-title="NL",Jazz de Ville - Jazz
+https://onair22.xdevel.com/proxy/xautocloud_kkyb_420?mp=/stream
 
 #EXTINF:-1 tvg-logo="" group-title="NL",Q-Dance Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Concertzender Gregoriaans
+http://streams.greenhost.nl:8080/gregoriaans
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg" group-title="NL",Qmusic Het Foute Uur
 https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3

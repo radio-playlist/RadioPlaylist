@@ -20,11 +20,11 @@ http://listen.trancebase.fm/tunein-aac-hd-pls
 #EXTINF:-1 tvg-logo="" group-title="DE",Sunshine Live - Techno
 http://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/
 
-#EXTINF:-1 tvg-logo="" group-title="PT",ORBITAL
-http://centova.radios.pt:8401/;listen.pls
-
 #EXTINF:-1 tvg-logo="" group-title="UA",KissFm Deep
 http://online.kissfm.ua/KissFM_Deep_Live
+
+#EXTINF:-1 tvg-logo="" group-title="PT",ORBITAL
+http://centova.radios.pt:8401/;listen.pls
 
 #EXTINF:-1 tvg-logo="http://www.mixadance.fm/apple-touch-icon.png" group-title="RU",Mixadance FM
 https://stream.mixadance.fm/mixadance
@@ -137,11 +137,11 @@ http://air.radioart.com/fChillout.mp3
 #EXTINF:-1 tvg-logo="http://somafm.com/img3/deepspaceone-400.jpg" group-title="US",SomaFM Deep Space One (32k AAC)
 https://ice2.somafm.com/deepspaceone-32-aac
 
-#EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio REMIX
-https://stream.0nlineradio.com/remix?ref=radiobrowser
-
 #EXTINF:-1 tvg-logo="" group-title="RU",Best Deep FM
 http://myradio24.org/5129_320
+
+#EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio REMIX
+https://stream.0nlineradio.com/remix?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sP4q4Wh/breakz-fm-logo-fav.png" group-title="DE",_DEEJAY REMIXE_ Your Radio for finest House, EDM, Electro, Dance, Mashup, Hypertechno, Techno, Bootleg, Charts, Top40, Chillout, Lounge, HipHop, Urban & Latin Party DJ Remixes!
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio
@@ -149,11 +149,11 @@ https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio
 #EXTINF:-1 tvg-logo="https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png" group-title="AT",FM4 | ORF
 https://orf-live.ors-shoutcast.at/fm4-q1a
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="US",Frisky Chill
-http://chill.friskyradio.com/friskychill_mp3_high
-
 #EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Tech Minimal
 http://traxx020.ice.infomaniak.ch/traxx020-low.mp3
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="US",Frisky Chill
+http://chill.friskyradio.com/friskychill_mp3_high
 
 #EXTINF:-1 tvg-logo="" group-title="MX",BEAT 100.9 FM - XHSON-FM - NRM Comunicaciones - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC.aac
@@ -182,11 +182,11 @@ https://0n-electro.radionetz.de/0n-electro.mp3
 #EXTINF:-1 tvg-logo="" group-title="GR",Best Radio 92.6
 http://netradio.live24.gr/best1222
 
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Progressive House
-http://79.111.119.111:9021/
-
 #EXTINF:-1 tvg-logo="" group-title="US",Deeper Shades Of House
 http://andromeda.housejunkie.ca:8000/radio.mp3
+
+#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Progressive House
+http://79.111.119.111:9021/
 
 #EXTINF:-1 tvg-logo="" group-title="Global",HappyHardcore.com
 https://www.happyhardcore.com/livestreams/p/u9/
@@ -257,11 +257,11 @@ http://listen.trancebase.fm/tunein-aacisdn-pls
 #EXTINF:-1 tvg-logo="https://radia.cz/static/favicon.ico" group-title="CZ",ABradio Chillout
 http://mp3stream4.abradio.cz/chillout128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="ES",LOCAFM REMEMBER
-http://s02.fjperezdj.com:8035/live
-
 #EXTINF:-1 tvg-logo="https://nrj.ua/images/NRJ.png" group-title="UA",NRJ Ukraine
 https://cast.mediaonline.net.ua/nrj320
+
+#EXTINF:-1 tvg-logo="" group-title="ES",LOCAFM REMEMBER
+http://s02.fjperezdj.com:8035/live
 
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="FR",Allzic Radio Chill Out
 http://allzic53.ice.infomaniak.ch/allzic53.mp3
@@ -281,14 +281,14 @@ http://stream.zeno.fm/rw6ckefezs8uv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sunshine_live_Logo_2022.svg/640px-Sunshine_live_Logo_2022.svg.png" group-title="DE",Sunshine Live
 http://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-4434053?sABC=6557p1o3%230%236080533n48sp2nrq0o4389q6o67o3qps%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1700250035
 
+#EXTINF:-1 tvg-logo="" group-title="ES",LOCA FM TechHouse
+http://s02.fjperezdj.com:8046/live
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25987/images/logog.jpg" group-title="AR",Metro 95.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Best Of Techno
 http://stream.laut.fm/best-of-techno
-
-#EXTINF:-1 tvg-logo="" group-title="ES",LOCA FM TechHouse
-http://s02.fjperezdj.com:8046/live
 
 #EXTINF:-1 tvg-logo="" group-title="US",CHICAGO HOUSE
 https://stream.radio.co/sae989fe39/listen

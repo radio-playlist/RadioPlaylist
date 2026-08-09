@@ -125,11 +125,11 @@ http://streams.radiomast.io/radioblues-flac
 #EXTINF:-1 tvg-logo="" group-title="FR",Jazzradio.fr Jazz & Classique
 https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
 
-#EXTINF:-1 tvg-logo="https://www.linn.co.uk/" group-title="GB",Linn Jazz
-http://radio.linn.co.uk:8000/autodj
-
 #EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.linn.co.uk/" group-title="GB",Linn Jazz
+http://radio.linn.co.uk:8000/autodj
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/secretagent-400.jpg" group-title="US",SomaFM Secret Agent (32k AAC)
 https://ice6.somafm.com/secretagent-32-aac
@@ -200,11 +200,11 @@ http://stream.zeno.fm/pkza99xshkhvv
 #EXTINF:-1 tvg-logo="https://www.jazzdeville.com/favicon/jazzdeville/apple-touch-icon.png" group-title="NL",Jazz de Ville - Chill
 https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream
 
-#EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Black Music
-http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3
-
 #EXTINF:-1 tvg-logo="https://musicajazz.it/wp-content/uploads/logo-120.png" group-title="IT",Musica Jazz Radio
 http://ice03.fluidstream.net/mjr.aac
+
+#EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Black Music
+http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Radio_Swiss_Jazz_Logo_2018.svg/2048px-Radio_Swiss_Jazz_Logo_2018.svg.png" group-title="CH",Radio Swiss Jazz
 http://stream.srg-ssr.ch/srgssr/rsj/aac/96
@@ -269,14 +269,14 @@ http://79.111.119.111:9009/;
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Contemporary Jazz
 http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="US",The Jazz Groove
-http://mp3-128.streamthejazzgroove.com/;stream.mp3?_ga=2.244100037.1386788109.1513293582-596706204.1513293582
-
 #EXTINF:-1 tvg-logo="https://jazzy.hu/apple-icon-180x180.png" group-title="HU",Jazzy
 https://radio.musorok.org/listen/jazzy/jazzy.mp3
 
 #EXTINF:-1 tvg-logo="https://www.ubuntu.fm/sites/default/files//favicons/apple-touch-icon.png" group-title="ZA",UbuntuFM
 https://streaming.coollective.nl:8443/UbuntuFM
+
+#EXTINF:-1 tvg-logo="" group-title="US",The Jazz Groove
+http://mp3-128.streamthejazzgroove.com/;stream.mp3?_ga=2.244100037.1386788109.1513293582-596706204.1513293582
 
 #EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line Radio - Jazz
 http://mediaserv38.live-streams.nl:8006/live

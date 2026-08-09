@@ -113,11 +113,11 @@ http://strm112.1.fm/trance_mobile_mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Radio_Swiss_Pop_Logo_2018.svg/2048px-Radio_Swiss_Pop_Logo_2018.svg.png" group-title="CH",Radio Swiss Pop
 http://stream.srg-ssr.ch/srgssr/rsp/aac/96
 
-#EXTINF:-1 tvg-logo="" group-title="CH",Radio Swiss Jazz
-http://stream.srg-ssr.ch/srgssr/rsj/aac/48
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Love Classics Radio
 http://strm112.1.fm/loveclassics_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CH",Radio Swiss Jazz
+http://stream.srg-ssr.ch/srgssr/rsj/aac/48
 
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="CH",1.FM - Absolute Pop Latino Radio
 http://strm112.1.fm/latino_mobile_mp3
@@ -185,11 +185,11 @@ http://strm112.1.fm/sax4ever_mobile_mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Golden Oldies
 http://traxx023.ice.infomaniak.ch/traxx023-1.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Club 1 Radio
-http://strm112.1.fm/club_mobile_mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Absolute 70's Pop Radio
 http://strm112.1.fm/70s_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Club 1 Radio
+http://strm112.1.fm/club_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.fm Otto's Classical music
 https://strm112.1.fm/classical_mobile_aac
@@ -200,23 +200,23 @@ https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Couleur_3_logo.svg/1200px-Couleur_3_logo.svg.png" group-title="CH",Couleur3
 http://stream.srg-ssr.ch/m/couleur3/aacp_96
 
-#EXTINF:-1 tvg-logo="" group-title="CH",my105 - DJ Mixes
-http://stream01.my105.ch/my105djnights.mp3
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s266086d.png" group-title="CH",Ambi Nature Radio
 https://nature-rex.radioca.st/stream
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Slow Jamz Radio
-http://strm112.1.fm/slowjamz_mobile_mp3
+#EXTINF:-1 tvg-logo="" group-title="CH",my105 - DJ Mixes
+http://stream01.my105.ch/my105djnights.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Absolute 90s Party Zone Radio
 http://strm112.1.fm/partyzone90s_mobile_mp3
 
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6a/58/1366/2/c175.png" group-title="CH",1.fm Otto's Baroque music
-http://strm112.1.fm/baroque_mobile_aac
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Slow Jamz Radio
+http://strm112.1.fm/slowjamz_mobile_mp3
 
 #EXTINF:-1 tvg-logo="https://www.lfm.ch/wp-content/uploads/2021/07/cropped-radio-lausanne-fm-sa-icone-du-site-180x180.png" group-title="CH",LFM
 http://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3
+
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6a/58/1366/2/c175.png" group-title="CH",1.fm Otto's Baroque music
+http://strm112.1.fm/baroque_mobile_aac
 
 #EXTINF:-1 tvg-logo="" group-title="CH",SRF 1
 http://stream.srg-ssr.ch/m/drs1/mp3_128
@@ -239,11 +239,11 @@ http://stream.laut.fm/rock-the-blues
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Radio Gaia
 http://strm112.1.fm/radiogaia_mobile_mp3
 
-#EXTINF:-1 tvg-logo="https://radiochablais.ch/images/xradiochablais1.png.pagespeed.ic.p3soqp385z.png" group-title="CH",Vibration Soft Hits
-http://vibration.stream2net.eu:8350/;stream/1
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Magic 80 Radio
 http://strm112.1.fm/magic80_mobile_mp3
+
+#EXTINF:-1 tvg-logo="https://radiochablais.ch/images/xradiochablais1.png.pagespeed.ic.p3soqp385z.png" group-title="CH",Vibration Soft Hits
+http://vibration.stream2net.eu:8350/;stream/1
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Samba Hits Brazil Radio
 http://strm112.1.fm/samba_mobile_mp3
@@ -266,11 +266,11 @@ http://strm112.1.fm/80s_90s_mobile_mp3
 #EXTINF:-1 tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",Radio SRF 3
 https://stream.srg-ssr.ch/m/drs3/aacp_32
 
-#EXTINF:-1 tvg-logo="" group-title="CH",ip music 320
-http://live7.avf.ch:8000/ipmusic320
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Afterbeat Electronica Radio
 http://strm112.1.fm/electronica_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CH",ip music 320
+http://live7.avf.ch:8000/ipmusic320
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Spoon Radio - Classic Rock
 https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac
@@ -296,9 +296,9 @@ http://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",Spoon Radio - Rock Ballads
 https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
 
-#EXTINF:-1 tvg-logo="https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png" group-title="CH",RSR La Premiere
-http://stream.srg-ssr.ch/srgssr/la-1ere/aac/48
-
 #EXTINF:-1 tvg-logo="http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",Radio Suisse Classique
 https://stream.srg-ssr.ch/m/rsc_fr/mp3_128
+
+#EXTINF:-1 tvg-logo="https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png" group-title="CH",RSR La Premiere
+http://stream.srg-ssr.ch/srgssr/la-1ere/aac/48
 

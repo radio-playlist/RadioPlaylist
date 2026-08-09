@@ -83,11 +83,11 @@ http://stream128.retro-radio.dk/retro
 #EXTINF:-1 tvg-logo="" group-title="RU",Радио Юность
 http://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps
 
-#EXTINF:-1 tvg-logo="" group-title="RU",Ретро FM — Вечеринка
-https://hls-01-retro-vecherinka.emgsound.ru/20/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="GT",Clásica 102.5 Guatemala
 https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac
+
+#EXTINF:-1 tvg-logo="" group-title="RU",Ретро FM — Вечеринка
+https://hls-01-retro-vecherinka.emgsound.ru/20/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Старое радио - Музыка
 http://195.91.237.50:8000/music128
@@ -215,17 +215,17 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFMAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="DK",Classic Rock Danmark
 https://netradio.classicfm.dk/classicrock
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/XHENS_LaZETA88.9_logo.png" group-title="MX",La Zeta (Navojoa) - 88.9 FM - XHENS-FM - Uniradio - Navojoa, SO
-https://streamingcwsradio30.com:7032/stream
-
 #EXTINF:-1 tvg-logo="" group-title="MX",UNIVERSAL Ciudad de México - 1110 AM - XERED-AM - Grupo Radio Centro - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://disco-radio.ru/logo-se512.jpg" group-title="RU",Радио Советская эстрада
-https://evcast.mediacp.eu:2075/stream
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/98/XHENS_LaZETA88.9_logo.png" group-title="MX",La Zeta (Navojoa) - 88.9 FM - XHENS-FM - Uniradio - Navojoa, SO
+https://streamingcwsradio30.com:7032/stream
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s306609/images/logod.png" group-title="MX",FM Globo Guadalajara - 98.7 FM - XHLC-FM - MVS Radio - Guadalajara, JC
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHLCFM_SC
+
+#EXTINF:-1 tvg-logo="https://disco-radio.ru/logo-se512.jpg" group-title="RU",Радио Советская эстрада
+https://evcast.mediacp.eu:2075/stream
 
 #EXTINF:-1 tvg-logo="" group-title="RO",Retró Rádió Csíkszereda
 http://online.radioretro.ro:8002/RetroRadio.mp3
@@ -233,17 +233,17 @@ http://online.radioretro.ro:8002/RetroRadio.mp3
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240625_152306245.jpg?alt=media&token=6566258f-ebdc-4bea-b3a4-21c740004c11" group-title="RU",Ретро ФМ Вологда 99.6 FM
 http://emgregion.hostingradio.ru:8064/vologda.retrofm.mp3
 
-#EXTINF:-1 tvg-logo="http://abcnoticias.mx/u/plantillas/p/abc-noticias/imgs/favicons//apple-touch-icon.png" group-title="MX",ABC NOTICIAS - 1310 AM - XEVB-AM - Grupo Radio Alegría - Monterrey, Nuevo León
-https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AMAAC.aac
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MkhwYrRM/Piano-Jazz-Lounge.png" group-title="DE",0R - PIANO JAZZ LOUNGE || Jazz, Piano, Lounge, Smooth, Chill, Relax, Soft, Acoustic, Instrumental, Evening, Romantic, Background, Coffee, Mellow, Elegant
 https://0nlineradio.radioho.st/lounge-piano-jazz-bar?ref=radio-browser26
 
-#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-italo-disco.png" group-title="IT",Italo Disco
-https://italo-disco.stream.laut.fm/italo-disco
+#EXTINF:-1 tvg-logo="http://abcnoticias.mx/u/plantillas/p/abc-noticias/imgs/favicons//apple-touch-icon.png" group-title="MX",ABC NOTICIAS - 1310 AM - XEVB-AM - Grupo Radio Alegría - Monterrey, Nuevo León
+https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AMAAC.aac
 
 #EXTINF:-1 tvg-logo="" group-title="MX",Radio Felicidad (CDMX) - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac
+
+#EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-italo-disco.png" group-title="IT",Italo Disco
+https://italo-disco.stream.laut.fm/italo-disco
 
 #EXTINF:-1 tvg-logo="null" group-title="RU",нафталин fm
 https://radiorecord.hostingradio.ru/naft96.aacp
@@ -257,20 +257,20 @@ http://rs24.stream24.net/italohits
 #EXTINF:-1 tvg-logo="" group-title="HN",Estereo Clásica
 https://streaming.radio.co/s0c06b7076/listen
 
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5ed68bfa0eb90d6134a362ef" group-title="MX",Sounds Of Yesterday (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR30_s01AAC.aac
+
 #EXTINF:-1 tvg-logo="" group-title="DK",Retro-Radio Millennium
 http://tx-2.retro-radio.dk/TX-2
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5ed68bfa0eb90d6134a362ef" group-title="MX",Sounds Of Yesterday (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
-https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR30_s01AAC.aac
+#EXTINF:-1 tvg-logo="https://big-radio.net/uploads/posts/2024-04/cafe-romantico-radio-001.webp" group-title="MX",Café Romántico RADIO (Monterrey) - Online - www.caferomanticoradio.com - Grupo Digital Radioland - Monterrey, Nuevo León
+https://panel.retrolandigital.com/radio/8110/listen
 
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/6hRGTNI71WD1Kg-RhvPEetC1oLoN9cVEDRmQLekLJe4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjU4OTVhY2YtZmNlOC00MjYzLTk1OTktZjhmOGZhNzE4MTU4L2ltYWdlLz91PTE3MjYwMTI0NTcwMDA.webp" group-title="CO",Viejitas Pero Bonitas Radio
 https://stream.zeno.fm/t4pj1qaktrwtv
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEin9v2oVnnUGmMGRYHFjIxE5Pvjv3LeCObKb6EvycT1wGIgQnJ1VwLvvLJrhYeIar9vxgaChhQbyM-oRL_f_mknk4GKP6ucBJFuz-_dAymEViRjVkksj5wx2LqQgRoXzQHfl0pRCieMDX2XyOo-bHVCfpSsqpvv-La9JsnpT4Up7tih5ojOMKJfHSwQogVB=w800" group-title="CO",Mas Baladas Stereo
 https://stream-154.zeno.fm/5mqdcrn07pkuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1bXFkY3JuMDdwa3V2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiVmRyaGE1eGhUQ09qLXJOSTd5QlE2USIsImlhdCI6MTc2ODQ2NjE4NSwiZXhwIjoxNzY4NDY2MjQ1fQ.-f1k9Zqut0cHB6iWVjGm5xUE1fY7GIrd0Yq3SdoOPUs
-
-#EXTINF:-1 tvg-logo="https://big-radio.net/uploads/posts/2024-04/cafe-romantico-radio-001.webp" group-title="MX",Café Romántico RADIO (Monterrey) - Online - www.caferomanticoradio.com - Grupo Digital Radioland - Monterrey, Nuevo León
-https://panel.retrolandigital.com/radio/8110/listen
 
 #EXTINF:-1 tvg-logo="null" group-title="RU",90-е Россия
 https://stream02.pcradio.biz/nineties_rus_pcradio-hi
@@ -287,18 +287,18 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHRCFMAAC.aac
 #EXTINF:-1 tvg-logo="" group-title="NZ",Retro Hit Radio
 https://riphel02.radioca.st/stream
 
-#EXTINF:-1 tvg-logo="https://www.topradio.be/favicons/favicon-196x196.png" group-title="BE",Topradio TopRetroArena
-https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzm8qNPq/Retro-107-5.jpg" group-title="MX",Retro 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones - Guadalajara, Jalisco
 https://ss1.audiorama.com.mx:6574/vibefm
 
-#EXTINF:-1 tvg-logo="" group-title="US",Retro Album Rock
-http://ais-edge07-live365-dal02.cdnstream.com/a89824
+#EXTINF:-1 tvg-logo="https://www.topradio.be/favicons/favicon-196x196.png" group-title="BE",Topradio TopRetroArena
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOPRETROAAC.aac
 
 #EXTINF:-1 tvg-logo="https://top-radio.ru/assets/image/radio/180/logo_rfm_90.png" group-title="RU",Ретро FM 90e
 http://retro90.hostingradio.ru:8025/retro90-128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="MX",La Poderosa (Mexicali) - 96.9 FM / 1050 AM - XHMUG-FM / XED-AM - Radiorama - Mexicali, Baja California
-https://sg.centrocibernetico.com/poderosa969
+#EXTINF:-1 tvg-logo="" group-title="US",Retro Album Rock
+http://ais-edge07-live365-dal02.cdnstream.com/a89824
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTEgMNqkVCNBGDARuAE4be8mGlscPwjK77g8uT0KaiBPN5E8_aQ6IVHLsaaOsuxE_JqXrxy8cxTv_Xs7WlHVl6CfJDxHz7EKE_3Lu42rn_-izSYbSRw29DLfcidL0q0dpHqh7y_OjazWP9dg_pFlfbQBShNGqWc5cIxuhyjv2JiQmwixUiZIpo2Bx6Q6U/w400-h400/LogoLaOchenteraFINAL-01.png" group-title="CC",LA OCHENTERA 91.9 FM
+https://tupanel.info:8018/stream
 

@@ -149,11 +149,11 @@ https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="RS",Radio Lola - Domaca
 https://streaming.tdiradio.com/radiolola.mp3
 
-#EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="DE",WDR 3
-http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="EG",اذاعة القرآن الكريم
 http://stream.radiojar.com/0tpy1h0kxtzuv
+
+#EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="DE",WDR 3
+http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",Whisperings Solo Piano Radio
 http://pianosolo.streamguys.net/live
@@ -281,11 +281,11 @@ https://qurango.net/radio/mukhtasartafsir
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg" group-title="BE",Klara
 http://icecast.vrtcdn.be/klara-high.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="RO",Radio România Muzical
-http://stream2.srr.ro:8022/
-
 #EXTINF:-1 tvg-logo="" group-title="DZ",al quran radio
 https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+
+#EXTINF:-1 tvg-logo="" group-title="RO",Radio România Muzical
+http://stream2.srr.ro:8022/
 
 #EXTINF:-1 tvg-logo="" group-title="LY",تفسير بن عثيمين
 https://qurango.net/radio/tafseer
