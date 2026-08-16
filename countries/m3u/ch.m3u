@@ -125,17 +125,17 @@ http://strm112.1.fm/latino_mobile_mp3
 #EXTINF:-1 tvg-logo="https://www.80sforever.radio/favicon.ico" group-title="CH",80s Forever - We Keep The 80s Alive
 https://premium.shoutcastsolutions.com/radio/8050/256.mp3
 
+#EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Tech Minimal
+http://traxx020.ice.infomaniak.ch/traxx020-low.mp3
+
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Movie Soundtrack
 http://strm112.1.fm/moviesoundtracks_mobile_mp3
-
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Bossa Nova Hits
-http://strm112.1.fm/bossanova_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",RTS Couleur 3
 http://stream.srg-ssr.ch/m/couleur3/mp3_128
 
-#EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Tech Minimal
-http://traxx020.ice.infomaniak.ch/traxx020-low.mp3
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Bossa Nova Hits
+http://strm112.1.fm/bossanova_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Radio Swiss Classic
 http://stream.srg-ssr.ch/srgssr/rsc_de/aac/96
@@ -143,11 +143,11 @@ http://stream.srg-ssr.ch/srgssr/rsc_de/aac/96
 #EXTINF:-1 tvg-logo="" group-title="CH",electroradio.fm
 http://n05.radiojar.com/fkyxx4q35k0uv
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Adore Jazz Radio
-http://strm112.1.fm/ajazz_mobile_mp3
-
 #EXTINF:-1 tvg-logo="http://www.radioswissjazz.ch/favicon.ico" group-title="CH",Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/aacp_96
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Adore Jazz Radio
+http://strm112.1.fm/ajazz_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Kontrafunk
 https://s5.radio.co/sca4082ebb/listen
@@ -197,11 +197,11 @@ https://strm112.1.fm/classical_mobile_aac
 #EXTINF:-1 tvg-logo="" group-title="CH",Kontrafunk (MP3 192)
 https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Couleur_3_logo.svg/1200px-Couleur_3_logo.svg.png" group-title="CH",Couleur3
-http://stream.srg-ssr.ch/m/couleur3/aacp_96
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s266086d.png" group-title="CH",Ambi Nature Radio
 https://nature-rex.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Couleur_3_logo.svg/1200px-Couleur_3_logo.svg.png" group-title="CH",Couleur3
+http://stream.srg-ssr.ch/m/couleur3/aacp_96
 
 #EXTINF:-1 tvg-logo="" group-title="CH",my105 - DJ Mixes
 http://stream01.my105.ch/my105djnights.mp3
@@ -239,11 +239,11 @@ http://stream.laut.fm/rock-the-blues
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Radio Gaia
 http://strm112.1.fm/radiogaia_mobile_mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Magic 80 Radio
-http://strm112.1.fm/magic80_mobile_mp3
-
 #EXTINF:-1 tvg-logo="https://radiochablais.ch/images/xradiochablais1.png.pagespeed.ic.p3soqp385z.png" group-title="CH",Vibration Soft Hits
 http://vibration.stream2net.eu:8350/;stream/1
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Magic 80 Radio
+http://strm112.1.fm/magic80_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Samba Hits Brazil Radio
 http://strm112.1.fm/samba_mobile_mp3
@@ -266,11 +266,11 @@ http://strm112.1.fm/80s_90s_mobile_mp3
 #EXTINF:-1 tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",Radio SRF 3
 https://stream.srg-ssr.ch/m/drs3/aacp_32
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Afterbeat Electronica Radio
-http://strm112.1.fm/electronica_mobile_mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",ip music 320
 http://live7.avf.ch:8000/ipmusic320
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Afterbeat Electronica Radio
+http://strm112.1.fm/electronica_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Spoon Radio - Classic Rock
 https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac

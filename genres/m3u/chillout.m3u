@@ -146,11 +146,11 @@ https://stream.epic-lounge.com/ibiza-chillout-lounge?ref=radiobrowser
 #EXTINF:-1 tvg-logo="" group-title="DE",CHILLOUT PIANO by Epic Piano
 https://stream.epic-piano.com/chillout-piano?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="US",SomaFM Groove Salad (HLS FLAC)
-https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_cf8747dc2b804de09c56359c324dd1f5~mv2.jpg" group-title="CA",#100 BEST IBIZA DEEP HOUSE
 https://stream.zeno.fm/lwv6zqgtv1dtv
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="US",SomaFM Groove Salad (HLS FLAC)
+https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-smooth-jazz_600x600.jpg" group-title="DE",- 0 N - Smooth Jazz on Radio
 https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
@@ -218,11 +218,11 @@ http://strm112.1.fm/costadelmarchillout_mobile_mp3
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/beatblender-400.jpg" group-title="US",SomaFM Beat Blender (128k AAC)
 https://ice6.somafm.com/beatblender-128-aac
 
-#EXTINF:-1 tvg-logo="" group-title="GR",Disco Cafe
-https://azuracast.streams.ovh:8260/radio.mp3
-
 #EXTINF:-1 tvg-logo="https://perfectmoods.nl/favicon.ico" group-title="NL",PerfectMoods – 24/7 Quality Lounge
 https://www.radioking.com/play/perfectmoods/104227
+
+#EXTINF:-1 tvg-logo="" group-title="GR",Disco Cafe
+https://azuracast.streams.ovh:8260/radio.mp3
 
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s25028q.png" group-title="DE",Klassik Radio - Healing
 http://stream.klassikradio.de/healing/mp3-128/
@@ -293,12 +293,12 @@ https://ice2.somafm.com/groovesalad-64-aac
 #EXTINF:-1 tvg-logo="" group-title="RU",Atmosfera 128
 http://185.64.76.49:8000/128
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HT2ucrf6Yvsfvt1yHz0TxD7JlMcj7-RhF4k6mkDISMesN0_rWv26av2NdURuakftH2U" group-title="US",The River Of Calm
-https://listen.radioking.com/radio/49831/stream/86743
+#EXTINF:-1 tvg-logo="" group-title="DE",Epic Lounge - SOFT HOUSE LOUNGE
+https://stream.epic-lounge.com/soft-house-lounge?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Chillout
 http://31.192.216.8/CHILLOUT
 
-#EXTINF:-1 tvg-logo="" group-title="DE",Epic Lounge - SOFT HOUSE LOUNGE
-https://stream.epic-lounge.com/soft-house-lounge?ref=radiobrowser
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HT2ucrf6Yvsfvt1yHz0TxD7JlMcj7-RhF4k6mkDISMesN0_rWv26av2NdURuakftH2U" group-title="US",The River Of Calm
+https://listen.radioking.com/radio/49831/stream/86743
 

@@ -20,11 +20,11 @@ http://icestreaming.rai.it/2.mp3
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Stereocittà
 http://onair11.xdevel.com:8134/;stream.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio 3
-http://icestreaming.rai.it/3.mp3
-
 #EXTINF:-1 tvg-logo="https://armisa.it/assets/favicon/android-chrome-512x512.png" group-title="IT",Radio Armisa
 https://onair.armisa.it/listen/armisa/radio.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio 3
+http://icestreaming.rai.it/3.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="IT",RMC Radio Monte Carlo
 http://icecast.unitedradio.it/RMC.mp3
@@ -35,20 +35,20 @@ http://icecast.unitedradio.it/Virgin.mp3
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio 105 - Dance 90
 http://icy.unitedradio.it/105Dance90.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg" group-title="IT",Radio 80
-http://str01.fluidstream.net:7020/;stream.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="IT",70 80 Hits HQ
 https://nr8.newradio.it:19574/stream
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg" group-title="IT",Radio 80
+http://str01.fluidstream.net:7020/;stream.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rock '70
 http://icy.unitedradio.it/VirginRock70.mp3
 
-#EXTINF:-1 tvg-logo="https://studiopiu.net/offline/img/icona.png" group-title="IT",Radio Studio Più - HQ
-http://77.241.4.100:8020/;
-
 #EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rock '80
 http://icy.unitedradio.it/VirginRock80.mp3
+
+#EXTINF:-1 tvg-logo="https://studiopiu.net/offline/img/icona.png" group-title="IT",Radio Studio Più - HQ
+http://77.241.4.100:8020/;
 
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s17518q.png" group-title="IT",Tele Radio Stereo
 http://trsw.inmystream.info:8068/;stream.mp3
@@ -152,11 +152,11 @@ http://icy.unitedradio.it/Virgin_03.mp3
 #EXTINF:-1 tvg-logo="" group-title="IT",RMC Disco Funk
 http://edge.radiomontecarlo.net/rmcweb025
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Soccer_ball.svg/480px-Soccer_ball.svg.png" group-title="IT",Retesport (Italia)
-https://icecast.ithost.it/retesport.ogg
-
 #EXTINF:-1 tvg-logo="https://rdsrelax.it/images/logo.png" group-title="IT",RDS relax
 http://icstream.rds.radio/rdsrelax
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Soccer_ball.svg/480px-Soccer_ball.svg.png" group-title="IT",Retesport (Italia)
+https://icecast.ithost.it/retesport.ogg
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Manà Manà Sport Roma
 https://stream10.xdevel.com/audio2s975363-2142/stream/icecast.audio
@@ -167,14 +167,14 @@ http://edge.radiomontecarlo.net/rmcweb020
 #EXTINF:-1 tvg-logo="http://www.radioitaliaanni60.it/templates/enar/images/favicon/apple-touch-icon-120x120.png" group-title="IT",Radio Italia Anni 60 - Trentino Alto Adige
 http://ice10.fluidstream.net/anni60tn.aac
 
+#EXTINF:-1 tvg-logo="https://cloud.rtl.it/assets/www.rtl.it/3.0.64/img/logo/favicon-96x96.png" group-title="IT",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rock Party
 http://icy.unitedradio.it/VirginRockParty.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="IT",RAI 2
 https://icestreaming.rai.it/2.mp3
-
-#EXTINF:-1 tvg-logo="https://cloud.rtl.it/assets/www.rtl.it/3.0.64/img/logo/favicon-96x96.png" group-title="IT",RTL 102.5
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Popolare
 http://livex.radiopopolare.it/radiopop
@@ -239,11 +239,11 @@ http://ice02.fluidstream.net/ritmo80.aac
 #EXTINF:-1 tvg-logo="http://www.lolliradio.net/wp-content/uploads/2016/02/logo_italia-150x150.jpg" group-title="IT",Lolli Radio Italia
 https://stream.lolliradio.net/lolli_italia.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="IT",Radio Italianissima
-http://onair15.xdevel.com:9100/
-
 #EXTINF:-1 tvg-logo="" group-title="IT",Venice Classic Radio *LIVE
 http://116.202.241.212:8020/
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio Italianissima
+http://onair15.xdevel.com:9100/
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rock Hits
 http://icy.unitedradio.it/VirginRockHits.mp3
@@ -275,11 +275,11 @@ http://edge.radiomontecarlo.net/rmcweb012
 #EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rockstar: Pink Floyd
 http://icy.unitedradio.it/VirginRogerWaters.mp3
 
-#EXTINF:-1 tvg-logo="http://www.piterpan.it/favicon.ico" group-title="IT",Radio Piterpan
-http://wma01.fluidstream.net/piterpan
-
 #EXTINF:-1 tvg-logo="https://www.rai.it/cropgd/560x292/dl/img/2019/01/07/1280x720_1546854278675_conferenza%20radio1.jpg" group-title="IT",Radio Rai 1
 http://icestreaming.rai.it/1.mp3
+
+#EXTINF:-1 tvg-logo="http://www.piterpan.it/favicon.ico" group-title="IT",Radio Piterpan
+http://wma01.fluidstream.net/piterpan
 
 #EXTINF:-1 tvg-logo="" group-title="IT",R101 Radio
 http://icecast.unitedradio.it/r101_mp3
@@ -296,9 +296,9 @@ https://uk2.streamingpulse.com/ssl/vcr1
 #EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/favicon_1.ico?v=1722509813463" group-title="IT",RMC Marine
 http://edge.radiomontecarlo.net/rmcweb010
 
-#EXTINF:-1 tvg-logo="" group-title="IT",LatteMiele Marche Abruzzo
-http://ice02.fluidstream.net/fluid016.aac
-
 #EXTINF:-1 tvg-logo="" group-title="IT",RMC Romantic Rock
 http://edge.radiomontecarlo.net/rmcweb015
+
+#EXTINF:-1 tvg-logo="" group-title="IT",LatteMiele Marche Abruzzo
+http://ice02.fluidstream.net/fluid016.aac
 

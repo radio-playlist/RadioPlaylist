@@ -95,14 +95,14 @@ http://88.198.70.25:8894/;
 #EXTINF:-1 tvg-logo="" group-title="RO",Radio România Muzical
 http://stream2.srr.ro:8026/
 
+#EXTINF:-1 tvg-logo="https://www.onefm.ro/img/onefm-logo.png" group-title="RO",One FM Dance
+https://live.onefm.ro/onefm.aacp
+
 #EXTINF:-1 tvg-logo="" group-title="RO",Radio Timișoara
 http://89.238.227.6:8354/
 
 #EXTINF:-1 tvg-logo="" group-title="RO",Radio România Muzical
 http://stream2.srr.ro:8022/
-
-#EXTINF:-1 tvg-logo="https://www.onefm.ro/img/onefm-logo.png" group-title="RO",One FM Dance
-https://live.onefm.ro/onefm.aacp
 
 #EXTINF:-1 tvg-logo="https://www.digi24.ro/static/theme-repo/apple-touch-icon.png" group-title="RO",Digi24FM
 https://edge76.rcs-rds.ro/digifm/digi24fm.mp3
@@ -146,11 +146,11 @@ http://89.43.138.116:8000/radiodoina.mp3
 #EXTINF:-1 tvg-logo="" group-title="RO",Super FM
 https://live.superfm.ro/stream.mp3
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/radiodeea.ro/wp-content/uploads/2017/07/cropped-fav2.jpg?fit=180%2c180&#038;ssl=1" group-title="RO",DeeaRadio
-http://radiocdn.nxthost.com/radio-deea
-
 #EXTINF:-1 tvg-logo="" group-title="RO",DJ Radio Romania
 https://stream.djradio.ro/radio/8000/stream.mp3
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/radiodeea.ro/wp-content/uploads/2017/07/cropped-fav2.jpg?fit=180%2c180&#038;ssl=1" group-title="RO",DeeaRadio
+http://radiocdn.nxthost.com/radio-deea
 
 #EXTINF:-1 tvg-logo="" group-title="RO",Radio Vocea Evangheliei RVE Sibiu
 https://c13.radioboss.fm:18286/stream
@@ -164,11 +164,11 @@ https://live.magicfm.ro/magic.party.mix
 #EXTINF:-1 tvg-logo="https://www.dancefm.ro/static/theme-repo/apple-touch-icon.png?cache=rel-20221003-07-3" group-title="RO",Dance FM
 https://edge126.rcs-rds.ro/profm/dancefm.mp3
 
-#EXTINF:-1 tvg-logo="http://darkedge.ro/favicon-32x32.png" group-title="RO",Dark Edge Radio
-http://stream.darkedge.ro:8000/
-
 #EXTINF:-1 tvg-logo="" group-title="RO",Rock Fm Ballads
 https://live.rockfm.ro/ballads.rock
+
+#EXTINF:-1 tvg-logo="http://darkedge.ro/favicon-32x32.png" group-title="RO",Dark Edge Radio
+http://stream.darkedge.ro:8000/
 
 #EXTINF:-1 tvg-logo="" group-title="RO",Radio Tequila Manele
 http://live.radiotequila.ro:7000/;
@@ -197,11 +197,11 @@ http://rlive.doxologia.ro/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="RO",MusicFM
 http://edge126.rdsnet.ro:84/profm/music-fm.mp3
 
-#EXTINF:-1 tvg-logo="https://www.rockfm.ro/apple-touch-icon.png" group-title="RO",RockFM
-https://live.rockfm.ro/rockfm.aacp
-
 #EXTINF:-1 tvg-logo="https://brokenbeats.net/favicon.ico" group-title="RO",Atmospheric dnb s0urce
 https://brokenbeats.net/stream/aac
+
+#EXTINF:-1 tvg-logo="https://www.rockfm.ro/apple-touch-icon.png" group-title="RO",RockFM
+https://live.rockfm.ro/rockfm.aacp
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/radiodeea.ro/wp-content/uploads/2017/07/cropped-fav2.jpg?fit=180%2c180&#038;ssl=1" group-title="RO",Radio DEEA
 http://radiocdn.nxthost.com/radio-deea
@@ -239,20 +239,20 @@ https://live.radioflomanele.ro/8084/stream
 #EXTINF:-1 tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-manele/play_250_250.jpg" group-title="RO",Radio MANELE
 https://play.wrhradios.com/8044/stream
 
-#EXTINF:-1 tvg-logo="https://www.kissfm.ro/apple-touch-icon.png" group-title="RO",Kiss Fm
-https://live.kissfm.ro/kissfm.aacp
-
 #EXTINF:-1 tvg-logo="https://radiokokoms.ro/images/radiokoko-logo.png" group-title="RO",Rádió KoKo
 https://az10.yesstreaming.net:8210/radiokoko.mp3
+
+#EXTINF:-1 tvg-logo="https://www.kissfm.ro/apple-touch-icon.png" group-title="RO",Kiss Fm
+https://live.kissfm.ro/kissfm.aacp
 
 #EXTINF:-1 tvg-logo="" group-title="RO",Radio 7 Bucuresti Romania
 http://80.86.106.32:8000/radio7.mp3
 
-#EXTINF:-1 tvg-logo="https://fmradiomanele.ro/favicon.ico" group-title="RO",RADIO MANELE PETRECERE
-https://ssl.servereradio.ro/8123/stream
-
 #EXTINF:-1 tvg-logo="" group-title="RO",Radio Pro Manele
 http://radiopromanele.zapto.org:8000/stream
+
+#EXTINF:-1 tvg-logo="https://fmradiomanele.ro/favicon.ico" group-title="RO",RADIO MANELE PETRECERE
+https://ssl.servereradio.ro/8123/stream
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/64518.v16.png" group-title="RO",Radio Manele Romania
 http://petrecere.fmradiomanele.ro:8123/;stream.nsv

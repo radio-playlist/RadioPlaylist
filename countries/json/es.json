@@ -14,8 +14,8 @@
     "tags": "music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 42527,
-    "clickcount": 208
+    "votes": 42645,
+    "clickcount": 186
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "dance,electronic,house",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 37037,
-    "clickcount": 41
+    "votes": 37126,
+    "clickcount": 66
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "music,pop,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 33565,
-    "clickcount": 174
+    "votes": 33678,
+    "clickcount": 207
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "chr,dance,español,latin,latin music,latino,pop,pop latino,reggaeton,top 40,trap",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 31717,
-    "clickcount": 32
+    "votes": 31790,
+    "clickcount": 50
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "cultural news,live,news,news talk,spanish,sports news",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 29309,
-    "clickcount": 173
+    "votes": 29391,
+    "clickcount": 175
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "70s,80s,90s,italo,italo dance,italo disco,oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 26745,
-    "clickcount": 62
+    "votes": 26825,
+    "clickcount": 56
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 23836,
-    "clickcount": 80
+    "votes": 23909,
+    "clickcount": 74
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "70s,80s,90s,dance,disco,musica romantica",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 19634,
-    "clickcount": 43
+    "votes": 19671,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "dance,music,pop,urban",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 16881,
-    "clickcount": 60
+    "votes": 16934,
+    "clickcount": 59
   },
   {
     "id": null,
@@ -176,8 +176,8 @@
     "tags": "dance,dance music,edm,electro,electronic,house",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 15044,
-    "clickcount": 75
+    "votes": 15098,
+    "clickcount": 76
   },
   {
     "id": null,
@@ -194,8 +194,8 @@
     "tags": "news,talk",
     "codec": "MP3",
     "bitrate": 56,
-    "votes": 14956,
-    "clickcount": 121
+    "votes": 14991,
+    "clickcount": 142
   },
   {
     "id": null,
@@ -212,8 +212,8 @@
     "tags": "dance,electronic music,ibiza club",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 12835,
-    "clickcount": 23
+    "votes": 12875,
+    "clickcount": 37
   },
   {
     "id": null,
@@ -230,8 +230,8 @@
     "tags": "chr,dance,español,latin,latin music,latino,low bandwidth,pop,pop latino,reggaeton,top 40,trap",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 12128,
-    "clickcount": 9
+    "votes": 12170,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -248,8 +248,8 @@
     "tags": "música en español",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11968,
-    "clickcount": 95
+    "votes": 12040,
+    "clickcount": 91
   },
   {
     "id": null,
@@ -266,8 +266,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11893,
-    "clickcount": 5
+    "votes": 11919,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -284,8 +284,8 @@
     "tags": "cultural,local,news,talk",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 8935,
-    "clickcount": 10
+    "votes": 8951,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "chillout,ibiza,lounge",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 8536,
-    "clickcount": 50
+    "votes": 8562,
+    "clickcount": 66
   },
   {
     "id": null,
@@ -320,8 +320,8 @@
     "tags": "chill,chillout",
     "codec": "AAC",
     "bitrate": 96,
-    "votes": 8500,
-    "clickcount": 21
+    "votes": 8522,
+    "clickcount": 29
   },
   {
     "id": null,
@@ -338,8 +338,8 @@
     "tags": "pop,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7888,
-    "clickcount": 14
+    "votes": 7915,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -356,26 +356,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7887,
-    "clickcount": 27
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "963e6e4a-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Marca Barcelona",
-    "url": "http://radioweb.radiomarcabarcelona.com:9000/stream.m3u",
-    "url_resolved": "http://radioweb.radiomarcabarcelona.com:9000/stream",
-    "homepage": "http://marca.com/radio.html",
-    "favicon": "http://e00-marca.uecdn.es/favicon.ico",
-    "countrycode": "ES",
-    "state": "",
-    "language": "spanish",
-    "tags": "sports news",
-    "codec": "MP3",
-    "bitrate": 96,
-    "votes": 7868,
-    "clickcount": 15
+    "votes": 7912,
+    "clickcount": 43
   },
   {
     "id": null,
@@ -392,8 +374,26 @@
     "tags": "pop rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7832,
-    "clickcount": 44
+    "votes": 7900,
+    "clickcount": 72
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "963e6e4a-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Marca Barcelona",
+    "url": "http://radioweb.radiomarcabarcelona.com:9000/stream.m3u",
+    "url_resolved": "http://radioweb.radiomarcabarcelona.com:9000/stream",
+    "homepage": "http://marca.com/radio.html",
+    "favicon": "http://e00-marca.uecdn.es/favicon.ico",
+    "countrycode": "ES",
+    "state": "",
+    "language": "spanish",
+    "tags": "sports news",
+    "codec": "MP3",
+    "bitrate": 96,
+    "votes": 7882,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -410,7 +410,7 @@
     "tags": "sports",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6485,
+    "votes": 6501,
     "clickcount": 10
   },
   {
@@ -428,7 +428,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5850,
+    "votes": 5873,
     "clickcount": 11
   },
   {
@@ -446,8 +446,8 @@
     "tags": "big room,club house,dance,deep house,drum and bass,dubstep,dutch house,edm,electro house,electronic,future house,hardstyle,melbourne bounce,progressive house,remember,tech house,techno,trance,tropical house",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 5394,
-    "clickcount": 20
+    "votes": 5410,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -464,8 +464,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 4437,
-    "clickcount": 3
+    "votes": 4443,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -482,8 +482,8 @@
     "tags": "2000s,80's,80s,90's,90s,music,musica,música,pop music,spanish,spanish pop",
     "codec": "MP3",
     "bitrate": 56,
-    "votes": 4388,
-    "clickcount": 121
+    "votes": 4424,
+    "clickcount": 116
   },
   {
     "id": null,
@@ -500,8 +500,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 4059,
-    "clickcount": 28
+    "votes": 4095,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -518,8 +518,8 @@
     "tags": "noticias y música",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 4024,
-    "clickcount": 69
+    "votes": 4062,
+    "clickcount": 63
   },
   {
     "id": null,
@@ -536,8 +536,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 56,
-    "votes": 3987,
-    "clickcount": 16
+    "votes": 3997,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -554,8 +554,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 160,
-    "votes": 3964,
-    "clickcount": 10
+    "votes": 3995,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -572,8 +572,8 @@
     "tags": "latin music,latin pop,latin urban,latino,latino urbano,musica latina,música urbana,pop latino,reggaeton,reggaetón,urban,urbana,urbano",
     "codec": "MP3",
     "bitrate": 160,
-    "votes": 3799,
-    "clickcount": 19
+    "votes": 3826,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -590,8 +590,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 3688,
-    "clickcount": 5
+    "votes": 3704,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -608,8 +608,8 @@
     "tags": "musica popular,noticias",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 3517,
-    "clickcount": 8
+    "votes": 3529,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -626,8 +626,8 @@
     "tags": "chr,dance,español,hd,latin,latin music,latino,pop,pop latino,reggaeton,top 40,trap",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3500,
-    "clickcount": 17
+    "votes": 3513,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -644,8 +644,8 @@
     "tags": "deep house,house,tropical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3428,
-    "clickcount": 15
+    "votes": 3439,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -662,8 +662,8 @@
     "tags": "catholic,christian,radio maria,talk",
     "codec": "MP3",
     "bitrate": 32,
-    "votes": 3233,
-    "clickcount": 18
+    "votes": 3243,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -680,8 +680,8 @@
     "tags": "",
     "codec": "AAC,H.264",
     "bitrate": 3012,
-    "votes": 3180,
-    "clickcount": 22
+    "votes": 3197,
+    "clickcount": 31
   },
   {
     "id": null,
@@ -698,8 +698,8 @@
     "tags": "dj sets,ibiza",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3047,
-    "clickcount": 3
+    "votes": 3070,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -716,26 +716,8 @@
     "tags": "culture,humour,local news,news,sports",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3001,
-    "clickcount": 48
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ad534068-9b96-4ece-a015-a310832b1453",
-    "name": "Onda Cero Madrid",
-    "url": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
-    "url_resolved": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
-    "homepage": "https://www.ondacero.es/",
-    "favicon": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
-    "countrycode": "ES",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "AAC",
-    "bitrate": 128,
-    "votes": 2936,
-    "clickcount": 19
+    "votes": 3024,
+    "clickcount": 68
   },
   {
     "id": null,
@@ -752,8 +734,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2926,
-    "clickcount": 38
+    "votes": 2972,
+    "clickcount": 55
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "ad534068-9b96-4ece-a015-a310832b1453",
+    "name": "Onda Cero Madrid",
+    "url": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
+    "url_resolved": "https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8",
+    "homepage": "https://www.ondacero.es/",
+    "favicon": "https://statics.atresmedia.com/ondacero/webapp/static/logotipo.svg",
+    "countrycode": "ES",
+    "state": "",
+    "language": "",
+    "tags": "",
+    "codec": "AAC",
+    "bitrate": 128,
+    "votes": 2951,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -770,8 +770,8 @@
     "tags": "local news,news,news talk,talk",
     "codec": "AAC",
     "bitrate": 56,
-    "votes": 2894,
-    "clickcount": 33
+    "votes": 2905,
+    "clickcount": 43
   },
   {
     "id": null,
@@ -788,8 +788,8 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2849,
-    "clickcount": 0
+    "votes": 2862,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -806,8 +806,8 @@
     "tags": "m3u8,rock",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 2809,
-    "clickcount": 27
+    "votes": 2818,
+    "clickcount": 34
   },
   {
     "id": null,
@@ -842,8 +842,8 @@
     "tags": "learn,learn english,learn language",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2359,
-    "clickcount": 5
+    "votes": 2361,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -860,8 +860,8 @@
     "tags": "news,talk",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 2330,
-    "clickcount": 4
+    "votes": 2331,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -878,8 +878,8 @@
     "tags": "1980s,1990s,2000s,80s,90s,music",
     "codec": "MP3",
     "bitrate": 56,
-    "votes": 2261,
-    "clickcount": 23
+    "votes": 2262,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -896,8 +896,8 @@
     "tags": "información,information,news,noticias,variado,variety",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2193,
-    "clickcount": 11
+    "votes": 2206,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -914,8 +914,8 @@
     "tags": "catholic,religion",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 1973,
-    "clickcount": 5
+    "votes": 1978,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -932,8 +932,8 @@
     "tags": "00s,80s,90s,dj mixes,electronica,retro electronica",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1953,
-    "clickcount": 9
+    "votes": 1963,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -950,8 +950,8 @@
     "tags": "hardcore,punk",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1893,
-    "clickcount": 5
+    "votes": 1903,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -968,8 +968,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1854,
-    "clickcount": 6
+    "votes": 1857,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -986,8 +986,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 56,
-    "votes": 1844,
-    "clickcount": 12
+    "votes": 1855,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1004,8 +1004,8 @@
     "tags": "news,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1749,
-    "clickcount": 62
+    "votes": 1760,
+    "clickcount": 79
   },
   {
     "id": null,
@@ -1022,8 +1022,8 @@
     "tags": "dance,house,pop,r&b",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1692,
-    "clickcount": 13
+    "votes": 1695,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1040,8 +1040,8 @@
     "tags": "smooth jazz,smooth lounge",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 1669,
-    "clickcount": 12
+    "votes": 1679,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1058,8 +1058,8 @@
     "tags": "talk & speech",
     "codec": "AAC",
     "bitrate": 56,
-    "votes": 1662,
-    "clickcount": 16
+    "votes": 1672,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1076,8 +1076,8 @@
     "tags": "deportes",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 1630,
-    "clickcount": 4
+    "votes": 1640,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1094,8 +1094,8 @@
     "tags": "1990s,90's,90er,90s,90s dance,90s y más,dance,pop dance,splash",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1584,
-    "clickcount": 12
+    "votes": 1590,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1112,8 +1112,8 @@
     "tags": "00s,70s,80s,90s,pop,rock,romantic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1526,
-    "clickcount": 20
+    "votes": 1533,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1130,26 +1130,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1485,
-    "clickcount": 11
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "bf09733e-0e88-11e9-a80b-52543be04c81",
-    "name": "Cadena SER - Radio Valencia",
-    "url": "http://provisioning.streamtheworld.com/pls/SER_VALENCIA.pls",
-    "url_resolved": "http://27833.live.streamtheworld.com:3690/SER_VALENCIA_SC",
-    "homepage": "https://cadenaser.com/ser/emisoras/",
-    "favicon": "https://cadenaser.com/pf/resources/img/favicon.png?d=320",
-    "countrycode": "ES",
-    "state": "Valencia",
-    "language": "spanish",
-    "tags": "local news,news,news talk,talk",
-    "codec": "MP3",
-    "bitrate": 96,
-    "votes": 1485,
-    "clickcount": 13
+    "votes": 1502,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1166,8 +1148,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1480,
+    "votes": 1493,
     "clickcount": 28
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "bf09733e-0e88-11e9-a80b-52543be04c81",
+    "name": "Cadena SER - Radio Valencia",
+    "url": "http://provisioning.streamtheworld.com/pls/SER_VALENCIA.pls",
+    "url_resolved": "http://27833.live.streamtheworld.com:3690/SER_VALENCIA_SC",
+    "homepage": "https://cadenaser.com/ser/emisoras/",
+    "favicon": "https://cadenaser.com/pf/resources/img/favicon.png?d=320",
+    "countrycode": "ES",
+    "state": "Valencia",
+    "language": "spanish",
+    "tags": "local news,news,news talk,talk",
+    "codec": "MP3",
+    "bitrate": 96,
+    "votes": 1488,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1185,7 +1185,7 @@
     "codec": "MP3",
     "bitrate": 96,
     "votes": 1460,
-    "clickcount": 1
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1202,8 +1202,8 @@
     "tags": "dance,house,latin,reggaeton,urban",
     "codec": "AAC",
     "bitrate": 125,
-    "votes": 1438,
-    "clickcount": 14
+    "votes": 1459,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1220,8 +1220,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1430,
-    "clickcount": 1
+    "votes": 1438,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1238,7 +1238,7 @@
     "tags": "",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 1411,
+    "votes": 1413,
     "clickcount": 4
   },
   {
@@ -1256,8 +1256,8 @@
     "tags": "amor sólo música romántica,love,love songs,lovesongs,musica romantica,romantic",
     "codec": "AAC+",
     "bitrate": 192,
-    "votes": 1384,
-    "clickcount": 1
+    "votes": 1385,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1274,7 +1274,7 @@
     "tags": "relax",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1372,
+    "votes": 1377,
     "clickcount": 3
   },
   {
@@ -1292,8 +1292,8 @@
     "tags": "ambient and relaxation music,meditation,sounds of nature",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1370,
-    "clickcount": 2
+    "votes": 1373,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1310,8 +1310,8 @@
     "tags": "magazines,news",
     "codec": "MP3",
     "bitrate": 56,
-    "votes": 1345,
-    "clickcount": 27
+    "votes": 1362,
+    "clickcount": 35
   },
   {
     "id": null,
@@ -1328,8 +1328,8 @@
     "tags": "cultural,live sports,local news,news,sports,sports news",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 1313,
-    "clickcount": 32
+    "votes": 1321,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -1347,7 +1347,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 1300,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1365,7 +1365,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1277,
-    "clickcount": 4
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1382,7 +1382,7 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1265,
+    "votes": 1269,
     "clickcount": 1
   },
   {
@@ -1400,8 +1400,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1248,
-    "clickcount": 2
+    "votes": 1250,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1418,8 +1418,8 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1194,
-    "clickcount": 1
+    "votes": 1200,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1436,8 +1436,8 @@
     "tags": "flamenco",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1185,
-    "clickcount": 4
+    "votes": 1189,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1454,8 +1454,8 @@
     "tags": "entertainment,news",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1159,
-    "clickcount": 20
+    "votes": 1172,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1472,8 +1472,8 @@
     "tags": "pop",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 1151,
-    "clickcount": 32
+    "votes": 1167,
+    "clickcount": 30
   },
   {
     "id": null,
@@ -1491,25 +1491,7 @@
     "codec": "AAC",
     "bitrate": 0,
     "votes": 1136,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "eeed2483-9eb5-432f-a710-5daa0d686c64",
-    "name": "EsRadio Asturias",
-    "url": "http://server9.emitironline.com:8822/radio",
-    "url_resolved": "http://server9.emitironline.com:8822/radio",
-    "homepage": "https://www.esradioasturias.fm/",
-    "favicon": "",
-    "countrycode": "ES",
-    "state": "Asturias",
-    "language": "spanish",
-    "tags": "información",
-    "codec": "MP3",
-    "bitrate": 48,
-    "votes": 1081,
-    "clickcount": 1
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1526,8 +1508,62 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1079,
+    "votes": 1095,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9584da46-3ab4-11e9-9b4e-52543be04c81",
+    "name": "COPE Málaga",
+    "url": "http://net1.cope.stream.flumotion.com/cope/net1.mp3.m3u",
+    "url_resolved": "http://flucast28-h-cloud.flumotion.com/cope/net1.mp3",
+    "homepage": "https://www.cope.es/directos/malaga",
+    "favicon": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
+    "countrycode": "ES",
+    "state": "Málaga",
+    "language": "",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "votes": 1087,
+    "clickcount": 28
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "eeed2483-9eb5-432f-a710-5daa0d686c64",
+    "name": "EsRadio Asturias",
+    "url": "http://server9.emitironline.com:8822/radio",
+    "url_resolved": "http://server9.emitironline.com:8822/radio",
+    "homepage": "https://www.esradioasturias.fm/",
+    "favicon": "",
+    "countrycode": "ES",
+    "state": "Asturias",
+    "language": "spanish",
+    "tags": "información",
+    "codec": "MP3",
+    "bitrate": 48,
+    "votes": 1084,
     "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "80275338-f9c4-418c-a142-28acf902ef5c",
+    "name": "Radio Libertad",
+    "url": "https://server9.emitironline.com:19482/stream?cb=1708722000350",
+    "url_resolved": "https://server9.emitironline.com:19482/stream?cb=1708722000350",
+    "homepage": "https://radiolibertad.es/",
+    "favicon": "https://radiolibertad.es/wp-content/uploads/2022/08/Logo_RadioLibertad_300px.png",
+    "countrycode": "ES",
+    "state": "Madrid",
+    "language": "español internacional",
+    "tags": "",
+    "codec": "AAC",
+    "bitrate": 64,
+    "votes": 1066,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1545,60 +1581,6 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1066,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9584da46-3ab4-11e9-9b4e-52543be04c81",
-    "name": "COPE Málaga",
-    "url": "http://net1.cope.stream.flumotion.com/cope/net1.mp3.m3u",
-    "url_resolved": "http://flucast28-h-cloud.flumotion.com/cope/net1.mp3",
-    "homepage": "https://www.cope.es/directos/malaga",
-    "favicon": "https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png",
-    "countrycode": "ES",
-    "state": "Málaga",
-    "language": "",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 96,
-    "votes": 1062,
-    "clickcount": 26
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "80275338-f9c4-418c-a142-28acf902ef5c",
-    "name": "Radio Libertad",
-    "url": "https://server9.emitironline.com:19482/stream?cb=1708722000350",
-    "url_resolved": "https://server9.emitironline.com:19482/stream?cb=1708722000350",
-    "homepage": "https://radiolibertad.es/",
-    "favicon": "https://radiolibertad.es/wp-content/uploads/2022/08/Logo_RadioLibertad_300px.png",
-    "countrycode": "ES",
-    "state": "Madrid",
-    "language": "español internacional",
-    "tags": "",
-    "codec": "AAC",
-    "bitrate": 64,
-    "votes": 1054,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "962a9b64-0601-11e8-ae97-52543be04c81",
-    "name": "Holiday Gym FM",
-    "url": "http://holidaygym.emitironline.com/",
-    "url_resolved": "http://holidaygym.emitironline.com/",
-    "homepage": "http://holidaygym.es/",
-    "favicon": "http://holidaygym.es/favicon.ico",
-    "countrycode": "ES",
-    "state": "",
-    "language": "spanish",
-    "tags": "dance",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1020,
     "clickcount": 3
   },
   {
@@ -1616,8 +1598,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1019,
-    "clickcount": 2
+    "votes": 1023,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "962a9b64-0601-11e8-ae97-52543be04c81",
+    "name": "Holiday Gym FM",
+    "url": "http://holidaygym.emitironline.com/",
+    "url_resolved": "http://holidaygym.emitironline.com/",
+    "homepage": "http://holidaygym.es/",
+    "favicon": "http://holidaygym.es/favicon.ico",
+    "countrycode": "ES",
+    "state": "",
+    "language": "spanish",
+    "tags": "dance",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1021,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1634,8 +1634,8 @@
     "tags": "60er,70er,80er,90er,easy listening,lovesongs,oldies,schlager,slow",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1004,
-    "clickcount": 0
+    "votes": 1006,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1652,8 +1652,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 985,
-    "clickcount": 0
+    "votes": 986,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1670,8 +1670,8 @@
     "tags": "albacete,almería,andalucía,aragon,bilbao,cadiz,castilla y león,catalunya,conservative,conservative talk,cordoba,cultura,cultural,cultural news,cultural reports,culture,economia,economic,economic news,economics,españa,español,galicia,historia,historico,history,internacional,leon,liberal,madrid,murcia,nacional,news,news talk,noticias,noticias en español,noticias locales,noticias nacionales e internacionales,noticias y comentarios,noticieros,patriot,patriots,political,political talk,politics,politics & current affairs,pontevedra,sevilla,spanish,spanish broadcasting system,spanish christian,talk,talk radio,toledo,world news,world radio,zamora",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 968,
-    "clickcount": 8
+    "votes": 974,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1688,8 +1688,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 56,
-    "votes": 909,
-    "clickcount": 4
+    "votes": 913,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1706,8 +1706,8 @@
     "tags": "",
     "codec": "OGG",
     "bitrate": 1500,
-    "votes": 901,
-    "clickcount": 8
+    "votes": 906,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1724,8 +1724,8 @@
     "tags": "misc",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 885,
-    "clickcount": 4
+    "votes": 889,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1742,8 +1742,8 @@
     "tags": "pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 862,
-    "clickcount": 10
+    "votes": 866,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1778,8 +1778,8 @@
     "tags": "m3u8,pop",
     "codec": "MP3",
     "bitrate": 125,
-    "votes": 828,
-    "clickcount": 10
+    "votes": 830,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1797,6 +1797,6 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 804,
-    "clickcount": 2
+    "clickcount": 0
   }
 ]

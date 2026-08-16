@@ -14,8 +14,8 @@
     "tags": "info,lofi,radio france",
     "codec": "MP3",
     "bitrate": 32,
-    "votes": 4821,
-    "clickcount": 15
+    "votes": 4830,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "chillout,lofi",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1203,
-    "clickcount": 106
+    "votes": 1213,
+    "clickcount": 92
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "aesthetic,chillwave,futurefunk,lofi,vaporwave",
     "codec": "OGG",
     "bitrate": 128,
-    "votes": 1020,
-    "clickcount": 7
+    "votes": 1023,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -68,7 +68,7 @@
     "tags": "chillout,lofi,lofi beats,lofi hip hop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 602,
+    "votes": 603,
     "clickcount": 6
   },
   {
@@ -87,7 +87,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 415,
-    "clickcount": 4
+    "clickcount": 3
   },
   {
     "id": null,
@@ -105,7 +105,7 @@
     "codec": "AAC",
     "bitrate": 128,
     "votes": 293,
-    "clickcount": 1
+    "clickcount": 5
   },
   {
     "id": null,
@@ -123,7 +123,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 280,
-    "clickcount": 3
+    "clickcount": 11
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "bollywood,hindi,indian,kollywood,lo-fi,lofi,malayalam,mollywood,tamil",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 178,
-    "clickcount": 10
+    "votes": 179,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "lofi",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 136,
-    "clickcount": 3
+    "votes": 137,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -177,7 +177,25 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 128,
-    "clickcount": 2
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "49902d2d-672d-4130-b42a-90592d0460c5",
+    "name": "0R - LO-FI || LoFi, Chill, Study, Hip Hop, Relax, Background, Calm, Instrumental, Smooth, Beats, Coffee, Work, Focus, Soft, Chillhop",
+    "url": "https://0nlineradio.radioho.st/0r-lo-fi?ref=radio-browser26",
+    "url_resolved": "https://0nlineradio.radioho.st/0r-lo-fi?ref=radio-browser26",
+    "homepage": "https://plus.rm.fm/",
+    "favicon": "https://i.ibb.co/v6hT16qV/LOFI.png",
+    "countrycode": "DE",
+    "state": "Berlin",
+    "language": "german",
+    "tags": "calm,chill,easy listening,easy music,learn,lo-fi,lofi,lofi hip hop,lofi study beats,smooth,student",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 105,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -195,25 +213,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 102,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "49902d2d-672d-4130-b42a-90592d0460c5",
-    "name": "0R - LO-FI || LoFi, Chill, Study, Hip Hop, Relax, Background, Calm, Instrumental, Smooth, Beats, Coffee, Work, Focus, Soft, Chillhop",
-    "url": "https://0nlineradio.radioho.st/0r-lo-fi?ref=radio-browser26",
-    "url_resolved": "https://0nlineradio.radioho.st/0r-lo-fi?ref=radio-browser26",
-    "homepage": "https://plus.rm.fm/",
-    "favicon": "https://i.ibb.co/v6hT16qV/LOFI.png",
-    "countrycode": "DE",
-    "state": "Berlin",
-    "language": "german",
-    "tags": "calm,chill,easy listening,easy music,learn,lo-fi,lofi,lofi hip hop,lofi study beats,smooth,student",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 100,
-    "clickcount": 22
+    "clickcount": 7
   },
   {
     "id": null,
@@ -231,7 +231,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 78,
-    "clickcount": 35
+    "clickcount": 15
   },
   {
     "id": null,
@@ -267,7 +267,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 76,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -284,8 +284,8 @@
     "tags": "hiphop,instrumental,instrumental music,lofi",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 62,
-    "clickcount": 1
+    "votes": 63,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -303,7 +303,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 53,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -321,7 +321,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 50,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -338,8 +338,26 @@
     "tags": "ambient,chillwave,citypop,disco,electronic,elevatormusic,futurefunk,japanesedisco,lofi,mallsoft,plunderphonics,retrowave,signalwave,slowed,synthwave,vaporwave",
     "codec": "OGG",
     "bitrate": 128,
-    "votes": 44,
-    "clickcount": 6
+    "votes": 45,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "02338a64-da59-4db6-a1c1-639fdc74d65b",
+    "name": "REYFM - #lofi",
+    "url": "https://listen.reyfm.de/lofi_128kbps.mp3",
+    "url_resolved": "https://listen.reyfm.de/lofi_128kbps.mp3",
+    "homepage": "https://www.reyfm.de/",
+    "favicon": "https://www.reyfm.de/_nuxt/icons/icon_64x64.88ab9f.png",
+    "countrycode": "DE",
+    "state": "",
+    "language": "",
+    "tags": "lo-fi,lofi",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 41,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -357,25 +375,7 @@
     "codec": "OGG",
     "bitrate": 0,
     "votes": 41,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "02338a64-da59-4db6-a1c1-639fdc74d65b",
-    "name": "REYFM - #lofi",
-    "url": "https://listen.reyfm.de/lofi_128kbps.mp3",
-    "url_resolved": "https://listen.reyfm.de/lofi_128kbps.mp3",
-    "homepage": "https://www.reyfm.de/",
-    "favicon": "https://www.reyfm.de/_nuxt/icons/icon_64x64.88ab9f.png",
-    "countrycode": "DE",
-    "state": "",
-    "language": "",
-    "tags": "lo-fi,lofi",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 40,
-    "clickcount": 0
+    "clickcount": 5
   },
   {
     "id": null,
@@ -392,8 +392,8 @@
     "tags": "jazz,lofi,radio,sigthwave,vaporwave",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 38,
-    "clickcount": 6
+    "votes": 39,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -447,7 +447,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 30,
-    "clickcount": 12
+    "clickcount": 5
   },
   {
     "id": null,
@@ -464,8 +464,8 @@
     "tags": "lo-fi,lofi,lofi beats",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 19,
-    "clickcount": 2
+    "votes": 20,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -483,24 +483,6 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 15,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "29395552-1f19-4442-84d5-4242e9d98305",
-    "name": "b3cks-radio",
-    "url": "https://radio.b3ck.com/listen/b3cks-radio/radio.mp3",
-    "url_resolved": "https://radio.b3ck.com/listen/b3cks-radio/radio.mp3",
-    "homepage": "https://radio.b3ck.com/public/b3cks-radio",
-    "favicon": "https://b3ck.com/uploadz/uploads/b3cks-radio.png",
-    "countrycode": "US",
-    "state": "Minnesota",
-    "language": "american english",
-    "tags": "beats,chillhop,lofi,relax,study",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 10,
     "clickcount": 0
   },
   {
@@ -518,8 +500,44 @@
     "tags": "16-bit,8-bit,background music,chiptune,jrpg,lofi,pixel music,relaxing,retro game music,video game music",
     "codec": "MP3",
     "bitrate": 0,
+    "votes": 11,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "29395552-1f19-4442-84d5-4242e9d98305",
+    "name": "b3cks-radio",
+    "url": "https://radio.b3ck.com/listen/b3cks-radio/radio.mp3",
+    "url_resolved": "https://radio.b3ck.com/listen/b3cks-radio/radio.mp3",
+    "homepage": "https://radio.b3ck.com/public/b3cks-radio",
+    "favicon": "https://b3ck.com/uploadz/uploads/b3cks-radio.png",
+    "countrycode": "US",
+    "state": "Minnesota",
+    "language": "american english",
+    "tags": "beats,chillhop,lofi,relax,study",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 11,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "427da114-be59-4272-9372-9af9e84a7f39",
+    "name": "ARA FM",
+    "url": "http://141.164.38.238/listen/ara_fm/radio.mp3",
+    "url_resolved": "http://141.164.38.238/listen/ara_fm/radio.mp3",
+    "homepage": "http://141.164.38.238/public/ara_fm",
+    "favicon": "",
+    "countrycode": "KR",
+    "state": "",
+    "language": "chinese,english,japanese,korean",
+    "tags": "ambient,dance pop,indie pop,k-pop,lofi,pop",
+    "codec": "MP3",
+    "bitrate": 192,
     "votes": 7,
-    "clickcount": 10
+    "clickcount": 12
   },
   {
     "id": null,
@@ -537,7 +555,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 5,
-    "clickcount": 2
+    "clickcount": 10
   },
   {
     "id": null,
@@ -560,24 +578,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "427da114-be59-4272-9372-9af9e84a7f39",
-    "name": "ARA FM",
-    "url": "http://141.164.38.238/listen/ara_fm/radio.mp3",
-    "url_resolved": "http://141.164.38.238/listen/ara_fm/radio.mp3",
-    "homepage": "http://141.164.38.238/public/ara_fm",
-    "favicon": "",
-    "countrycode": "KR",
-    "state": "",
-    "language": "chinese,english,japanese,korean",
-    "tags": "ambient,dance pop,indie pop,k-pop,lofi,pop",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 4,
-    "clickcount": 12
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "658d23e7-8a2e-4221-a8f0-cb4b7e406b8f",
     "name": "Hotmix Lo-Fi",
     "url": "https://streaming.hotmixradio.com/hotmix-lofi-en-mp3?provider=radiobrowser",
@@ -591,7 +591,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 3,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -609,7 +609,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 3,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -627,7 +627,25 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 3,
-    "clickcount": 0
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "49aedf08-6425-4491-a96c-f598e29aaf00",
+    "name": "CLIAMP Lofi Hip Hop Radio",
+    "url": "https://radio.cliamp.stream/lofi/stream.pls",
+    "url_resolved": "http://radio.cliamp.stream/lofi/stream",
+    "homepage": "https://www.cliamp.stream/",
+    "favicon": "https://www.cliamp.stream/favicon.svg",
+    "countrycode": "NO",
+    "state": "",
+    "language": "",
+    "tags": "lofi,lofi hip hop",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 3,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -663,7 +681,7 @@
     "codec": "AAC",
     "bitrate": 64,
     "votes": 2,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -735,7 +753,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 1,
-    "clickcount": 0
+    "clickcount": 5
   },
   {
     "id": null,
@@ -771,7 +789,7 @@
     "codec": "MP3",
     "bitrate": 256,
     "votes": 1,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -789,7 +807,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 1,
-    "clickcount": 0
+    "clickcount": 2
   },
   {
     "id": null,
@@ -861,7 +879,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 0,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -879,6 +897,6 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 0,
-    "clickcount": 4
+    "clickcount": 5
   }
 ]

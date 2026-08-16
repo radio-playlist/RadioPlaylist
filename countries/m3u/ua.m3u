@@ -74,11 +74,11 @@ http://online.radioroks.ua/RadioROKS_HD
 #EXTINF:-1 tvg-logo="https://lux.fm/assets/img/browser-icons/apple-touch-icon-120x120.png" group-title="UA",Lux FM
 http://lux.radio.tvstitch.com/kyiv/lux_adv_sd
 
-#EXTINF:-1 tvg-logo="http://brokenbeats.net/favicon.ico" group-title="UA",Brokenbeats
-https://stream.brokenbeats.net/tune
-
 #EXTINF:-1 tvg-logo="" group-title="UA",Kiss FM Digital HD
 https://online.kissfm.ua/KissFM_Digital_HD
+
+#EXTINF:-1 tvg-logo="http://brokenbeats.net/favicon.ico" group-title="UA",Brokenbeats
+https://stream.brokenbeats.net/tune
 
 #EXTINF:-1 tvg-logo="http://zakarpattyafm.com.ua/wp-content/themes/zakfm/ico.png" group-title="UA",Закарпаття FM
 http://195.234.148.51:8000/;
@@ -182,11 +182,11 @@ https://online.radioroks.ua/RadioROKS_ClassicRock_HD
 #EXTINF:-1 tvg-logo="https://perec.fm/wp-content/themes/perecfm/img/logo.png" group-title="UA",Перець FM
 https://radio.perec.fm/radio-stilnoe
 
-#EXTINF:-1 tvg-logo="" group-title="UA",Radio Maria Ukraine
-http://dreamsiteradiocp.com:8022/stream
-
 #EXTINF:-1 tvg-logo="" group-title="UA",Kiss FM Digital HD
 https://online.kissfm.ua/KissFM_Digital_HD
+
+#EXTINF:-1 tvg-logo="" group-title="UA",Radio Maria Ukraine
+http://dreamsiteradiocp.com:8022/stream
 
 #EXTINF:-1 tvg-logo="https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png" group-title="UA",Хіт ФМ Найбільші хіти
 http://online.hitfm.ua/HitFM_Best_Live
@@ -233,11 +233,11 @@ http://7rays.stream.laut.fm/7rays
 #EXTINF:-1 tvg-logo="" group-title="UA",Blues & Rock Radio
 http://stream.laut.fm/bluesrock
 
-#EXTINF:-1 tvg-logo="" group-title="UA",Radio Jazz FM Ukraine
-http://online.radiojazz.ua/RadioJazz
-
 #EXTINF:-1 tvg-logo="https://loungefm.com.ua/img/icon-144x144.png" group-title="UA",LoungeFm Chill Out
 https://cast.mediaonline.net.ua/chillout320
+
+#EXTINF:-1 tvg-logo="" group-title="UA",Radio Jazz FM Ukraine
+http://online.radiojazz.ua/RadioJazz
 
 #EXTINF:-1 tvg-logo="https://loungefm.com.ua/img/logo.png" group-title="UA",Lounge FM Chill Out
 https://cast.mediaonline.net.ua/chillout320
@@ -248,11 +248,11 @@ https://s5.radioforge.com:7908/live?n=77357
 #EXTINF:-1 tvg-logo="" group-title="UA",Radio NV
 https://online-radio.nv.ua/radionv.mp3
 
-#EXTINF:-1 tvg-logo="https://mjoy.ua/radio/rzk/favicons/apple-touch-icon-120x120.png" group-title="UA",RZK
-http://stream.mjoy.ua:8000/rzk-aac
-
 #EXTINF:-1 tvg-logo="" group-title="UA",Radio Rocks
 http://195.95.206.13:8000/RadioROKS
+
+#EXTINF:-1 tvg-logo="https://mjoy.ua/radio/rzk/favicons/apple-touch-icon-120x120.png" group-title="UA",RZK
+http://stream.mjoy.ua:8000/rzk-aac
 
 #EXTINF:-1 tvg-logo="" group-title="UA",УХ-Радіо
 http://193.169.80.7:8001/efir

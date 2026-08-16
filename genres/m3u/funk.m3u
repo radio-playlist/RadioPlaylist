@@ -158,11 +158,11 @@ http://79.111.119.111:8004/neurofunk
 #EXTINF:-1 tvg-logo="" group-title="GB",FUNK2DISCO
 http://stream.laut.fm/funk2disco
 
-#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg" group-title="DE",- 1 A - 60er von 1A Radio
-https://1a-60er.radionetz.de/1a-60er.mp3
-
 #EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_funk.png" group-title="FR",Generations Funk
 http://gene-wr05.ice.infomaniak.ch/gene-wr05.aac
+
+#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg" group-title="DE",- 1 A - 60er von 1A Radio
+https://1a-60er.radionetz.de/1a-60er.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Party Groove
 http://stream15.top-ix.org/partygroove
@@ -179,14 +179,14 @@ http://www.play4.fr/play4-club.mp3
 #EXTINF:-1 tvg-logo="https://artofmusic.fm/resources/apple-touch-icon.png" group-title="IT",Art Of Music
 http://sr6.inmystream.info:8024/stream
 
-#EXTINF:-1 tvg-logo="" group-title="DE",80s80s Funk & Soul
-http://regiocast.streamabc.net/regc-80s80ssoul8277002-mp3-192-1187403?sABC=65493326%230%236080533n48sp2nrq0o4389q6o67o3qps%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1699296038
+#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="RU",Radio Caprice LIQUID FUNK / INTELLIGENT / ATMOSPHERIC DRUM'n'BASS
+http://79.111.119.111:8000/liquidfunk
 
 #EXTINF:-1 tvg-logo="https://cache.wefunkradio.com/images-small/apple-touch-icon.png" group-title="CA",WEFUNK
 https://s-17.wefunkradio.com:8443/wefunk64.mp3
 
-#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="RU",Radio Caprice LIQUID FUNK / INTELLIGENT / ATMOSPHERIC DRUM'n'BASS
-http://79.111.119.111:8000/liquidfunk
+#EXTINF:-1 tvg-logo="" group-title="DE",80s80s Funk & Soul
+http://regiocast.streamabc.net/regc-80s80ssoul8277002-mp3-192-1187403?sABC=65493326%230%236080533n48sp2nrq0o4389q6o67o3qps%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1699296038
 
 #EXTINF:-1 tvg-logo="http://radionula.com/favicon.png" group-title="SI",Radio Nula Classics
 http://streaming.radionula.com:8800/classics
@@ -251,20 +251,23 @@ http://live.i-turnradio.nl/live
 #EXTINF:-1 tvg-logo="http://www.size-radio.com/favicon.ico" group-title="FR",Size Radio
 http://n11.radiojar.com/atr1e8aswa5tv
 
-#EXTINF:-1 tvg-logo="https://www.laradiosympa.com/favicon.ico" group-title="FR",Radio Sympa
-https://radio11.pro-fhi.net/flux-aryfnfye2/stream
-
 #EXTINF:-1 tvg-logo="https://ibb.co/jZsV775" group-title="DE",#TOP 100 - DJ CHARTS & REMIX RADIO @ TikTok PROMO Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, Moombahton, Reggaeton, HipHop, Funk, Club & Party Radio - & SUMMER TUNES - 2024 / 2025
 https://stream.breakz.fm/?ref=top100radiobrowser
+
+#EXTINF:-1 tvg-logo="https://www.laradiosympa.com/favicon.ico" group-title="FR",Radio Sympa
+https://radio11.pro-fhi.net/flux-aryfnfye2/stream
 
 #EXTINF:-1 tvg-logo="https://www.capital.it/wp-content/themes/network-capital/favicon.ico" group-title="IT",GEDI - Radio Capital Funky Town
 https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8
 
+#EXTINF:-1 tvg-logo="https://funky.radio/wp-content/uploads/2023/10/7080discofunk_logo_600.png" group-title="IT",70s 80s Disco Funk ModernSoul Boogie
+http://my.streamingmedia.it:8020/play
+
 #EXTINF:-1 tvg-logo="https://www.newmorning.com/images/apple-touch-icon-114x114.png" group-title="FR",New Morning Radio
 http://listen.radioking.com/radio/605/stream/2195
 
-#EXTINF:-1 tvg-logo="https://funky.radio/wp-content/uploads/2023/10/7080discofunk_logo_600.png" group-title="IT",70s 80s Disco Funk ModernSoul Boogie
-http://my.streamingmedia.it:8020/play
+#EXTINF:-1 tvg-logo="https://uk.radio.net/300/nudiscofunkradio.jpeg?version=b5b29e74fa5bb43b3b8a3e9d27349a94" group-title="GB",Nu Disco Funk Radio
+https://my.radiolize.com/radio/8090/radio.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="FR",COMALA Radio
 http://www.radioking.com/play/supag
@@ -277,9 +280,6 @@ https://broadcast.miami/proxy/columbia?mp=/stream/;
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Funk
 http://traxx016.ice.infomaniak.ch/traxx016-low.mp3
-
-#EXTINF:-1 tvg-logo="https://uk.radio.net/300/nudiscofunkradio.jpeg?version=b5b29e74fa5bb43b3b8a3e9d27349a94" group-title="GB",Nu Disco Funk Radio
-https://my.radiolize.com/radio/8090/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://www.afc.fm/wp-content/uploads/2023/12/afcfm.png" group-title="NL",Amsterdam Funk Channel (AFC)
 https://stream.afc.fm/

@@ -122,11 +122,11 @@ http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3
 #EXTINF:-1 tvg-logo="https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png" group-title="CA",Radio BluesFlac
 http://streams.radiomast.io/radioblues-flac
 
-#EXTINF:-1 tvg-logo="" group-title="FR",Jazzradio.fr Jazz & Classique
-https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
-
 #EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FR",Jazzradio.fr Jazz & Classique
+https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
 
 #EXTINF:-1 tvg-logo="https://www.linn.co.uk/" group-title="GB",Linn Jazz
 http://radio.linn.co.uk:8000/autodj
@@ -164,14 +164,14 @@ http://radio.studiob.rs:8004/
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Erotic
 http://79.120.39.202:8000/erotic
 
+#EXTINF:-1 tvg-logo="http://www.radioswissjazz.ch/favicon.ico" group-title="CH",Radio Swiss Jazz
+http://stream.srg-ssr.ch/m/rsj/aacp_96
+
 #EXTINF:-1 tvg-logo="" group-title="US",The 1920s Radio Network (MP3)
 http://tess.fast-serv.com:8570/
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Adore Jazz Radio
 http://strm112.1.fm/ajazz_mobile_mp3
-
-#EXTINF:-1 tvg-logo="http://www.radioswissjazz.ch/favicon.ico" group-title="CH",Radio Swiss Jazz
-http://stream.srg-ssr.ch/m/rsj/aacp_96
 
 #EXTINF:-1 tvg-logo="http://www.costadelmar-radio.com/favicon.ico" group-title="Global",Costa del Mar - Smooth Sax
 http://stream.cdm-smoothsax.com:8024/stream-mp3-Smooth
@@ -194,11 +194,11 @@ http://live-radio01.mediahubaustralia.com/JAZW/mp3/
 #EXTINF:-1 tvg-logo="https://radiojazzfm.ru/favicons/apple-touch-icon.png" group-title="RU",Радио Джаз 89,1FM
 http://jazz.streamr.ru/jazz-128.mp3
 
-#EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="NG",MajorFM
-http://stream.zeno.fm/pkza99xshkhvv
-
 #EXTINF:-1 tvg-logo="https://www.jazzdeville.com/favicon/jazzdeville/apple-touch-icon.png" group-title="NL",Jazz de Ville - Chill
 https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="NG",MajorFM
+http://stream.zeno.fm/pkza99xshkhvv
 
 #EXTINF:-1 tvg-logo="https://musicajazz.it/wp-content/uploads/logo-120.png" group-title="IT",Musica Jazz Radio
 http://ice03.fluidstream.net/mjr.aac

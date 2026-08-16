@@ -56,11 +56,11 @@ http://178.33.135.244:20095/;?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJ
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg" group-title="DZ",إذاعة القرآن الكريم
 https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
 
-#EXTINF:-1 tvg-logo="https://radiobandeirantesgoiania.com.br/wp-content/uploads/2022/11/cropped-favcon-band-180x180.png" group-title="AF",radio Bandeirantes goiania
-http://suaradio2.dyndns.ws:13633/stream
-
 #EXTINF:-1 tvg-logo="https://drive.google.com/file/d/14pqOm4XzVJvRZa9oV3Iq9GeTPlIVhxdV/view?usp=drivesdk" group-title="IR",RadioSimorgh Authentic Iranian music
 https://stream.zeno.fm/9svfnobkrxrvv
+
+#EXTINF:-1 tvg-logo="https://radiobandeirantesgoiania.com.br/wp-content/uploads/2022/11/cropped-favcon-band-180x180.png" group-title="AF",radio Bandeirantes goiania
+http://suaradio2.dyndns.ws:13633/stream
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Radio Swiss Classic German
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
@@ -128,11 +128,11 @@ https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2
 #EXTINF:-1 tvg-logo="" group-title="TN",radio coran
 http://n0b.radiojar.com/0tpy1h0kxtzuv?
 
-#EXTINF:-1 tvg-logo="" group-title="GE",Radio Amra
-https://streamer.radio.co/s34b5469e0/listen
-
 #EXTINF:-1 tvg-logo="" group-title="TN",إذاعة القرآن الكريم
 http://stream.radiojar.com/0tpy1h0kxtzuv
+
+#EXTINF:-1 tvg-logo="" group-title="GE",Radio Amra
+https://streamer.radio.co/s34b5469e0/listen
 
 #EXTINF:-1 tvg-logo="" group-title="DZ",. إذاعة ماهر المعيقلي
 https://backup.qurango.net/radio/maher
@@ -164,17 +164,17 @@ https://qurango.net/radio/mix
 #EXTINF:-1 tvg-logo="" group-title="DZ",..مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
 
-#EXTINF:-1 tvg-logo="https://www.medi1.com/favicon.ico" group-title="MA",Medi 1 Classique
-http://live.medi1.com/Classique
-
 #EXTINF:-1 tvg-logo="" group-title="DZ",.مختصر السيرة
 https://qurango.net/radio/almukhtasar_fi_alsiyra
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Otto's Baroque Music Radio
-http://strm112.1.fm/baroque_mobile_mp3
+#EXTINF:-1 tvg-logo="https://www.medi1.com/favicon.ico" group-title="MA",Medi 1 Classique
+http://live.medi1.com/Classique
 
 #EXTINF:-1 tvg-logo="" group-title="IQ",.. مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Otto's Baroque Music Radio
+http://strm112.1.fm/baroque_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="RU",РАДИО ДЛЯ ВЗРОСЛЫХ
 http://listen6.myradio24.com:9000/alex542888
@@ -182,23 +182,23 @@ http://listen6.myradio24.com:9000/alex542888
 #EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDFCFM.png" group-title="US",Classical KDFC
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac
 
-#EXTINF:-1 tvg-logo="" group-title="LY",إذاعة القرآن الكريم
-http://stream.radiojar.com/0tpy1h0kxtzuv
-
 #EXTINF:-1 tvg-logo="" group-title="IQ",. القارئ محمد أيوب
 https://qurango.net/radio/mohammed_ayyub
 
-#EXTINF:-1 tvg-logo="http://www.klassikradio.de/img/ms-mediumtile.png" group-title="DE",Klassik Radio - Pure Mozart
-http://stream.klassikradio.de/mozart/mp3-128/vtuner/
+#EXTINF:-1 tvg-logo="" group-title="LY",إذاعة القرآن الكريم
+http://stream.radiojar.com/0tpy1h0kxtzuv
 
 #EXTINF:-1 tvg-logo="https://klassikradio.de/img/ms-mediumtile.png" group-title="DE",Klassik Radio - Live
 https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3
 
-#EXTINF:-1 tvg-logo="https://www.klassik1.de/favicon.png" group-title="DE",KLASSIK 1
-http://icepool.silvacast.com/KLASSIK1.mp3
+#EXTINF:-1 tvg-logo="http://www.klassikradio.de/img/ms-mediumtile.png" group-title="DE",Klassik Radio - Pure Mozart
+http://stream.klassikradio.de/mozart/mp3-128/vtuner/
 
 #EXTINF:-1 tvg-logo="" group-title="CA",Ancient FM
 https://mediaserv73.live-streams.nl:18058/stream
+
+#EXTINF:-1 tvg-logo="https://www.klassik1.de/favicon.png" group-title="DE",KLASSIK 1
+http://icepool.silvacast.com/KLASSIK1.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="RO",Radio Trinitas
 http://81.196.25.70:8000/
@@ -215,11 +215,11 @@ http://immortalharmony.out.airtime.pro:8000/immortalharmony_a
 #EXTINF:-1 tvg-logo="" group-title="HU",Rádió 1
 https://icast.connectmedia.hu/5201/live.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="US",Your Classical - Peaceful Piano
-http://peacefulpiano.stream.publicradio.org/peacefulpiano.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="TN",المختصر في التفسير
 https://qurango.net/radio/mukhtasartafsir
+
+#EXTINF:-1 tvg-logo="" group-title="US",Your Classical - Peaceful Piano
+http://peacefulpiano.stream.publicradio.org/peacefulpiano.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="SA",تفسير القرآن الكريم
 https://qurango.net/radio/tafseer
@@ -233,10 +233,10 @@ http://radio.linn.co.uk:8004/autodj
 #EXTINF:-1 tvg-logo="" group-title="EG",.. مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
 
-#EXTINF:-1 tvg-logo="" group-title="MA",اذاعة القرآن الكريم
+#EXTINF:-1 tvg-logo="" group-title="DZ",اذاعة القرآن الكريم
 http://stream.radiojar.com/0tpy1h0kxtzuv
 
-#EXTINF:-1 tvg-logo="" group-title="DZ",اذاعة القرآن الكريم
+#EXTINF:-1 tvg-logo="" group-title="MA",اذاعة القرآن الكريم
 http://stream.radiojar.com/0tpy1h0kxtzuv
 
 #EXTINF:-1 tvg-logo="" group-title="RO",Radio România Muzical
@@ -257,11 +257,11 @@ https://airtime.salafwayfm.ly/
 #EXTINF:-1 tvg-logo="https://static-assets.iamrad.io/klassikradio/1647251836219/icons/icon_64.a00w80w0000.png" group-title="DE",Klassikradio - Pure Bach
 http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/
 
-#EXTINF:-1 tvg-logo="" group-title="EG",إذاعة طريق السلف
-https://airtime.salafwayfm.ly/
-
 #EXTINF:-1 tvg-logo="" group-title="EG",.إذاعة ماهر المعيقلي
 https://backup.qurango.net/radio/maher
+
+#EXTINF:-1 tvg-logo="" group-title="EG",إذاعة طريق السلف
+https://airtime.salafwayfm.ly/
 
 #EXTINF:-1 tvg-logo="" group-title="DZ",beautiful recitation
 https://qurango.net/radio/salma
@@ -272,11 +272,11 @@ https://airtime.salafwayfm.ly/
 #EXTINF:-1 tvg-logo="http://www.abc.net.au/core-assets/classic/favicon-32x32.png" group-title="AU",ABC Classic FM (MP3)
 http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3
 
-#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/cro3.png" group-title="CZ",ČRo Vltava
-http://icecast5.play.cz/cro3-128.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="MA",.. مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
+
+#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/cro3.png" group-title="CZ",ČRo Vltava
+http://icecast5.play.cz/cro3-128.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg" group-title="BE",Klara
 http://icecast.vrtcdn.be/klara-high.mp3

@@ -95,11 +95,11 @@ https://jfm1.hostingradio.ru:14536/metal.mp3
 #EXTINF:-1 tvg-logo="" group-title="Global",Radio Caprice - Nu Metal
 http://79.111.14.76:8002/numetal
 
-#EXTINF:-1 tvg-logo="" group-title="HU",Rocker Rádió
-http://rockerradio.online/live.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="UA",True Black Metal Radio
 http://trueblackmetalradio.com:666/radio
+
+#EXTINF:-1 tvg-logo="" group-title="HU",Rocker Rádió
+http://rockerradio.online/live.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Progressive Metal
 http://79.120.77.11:8000/progmetal
@@ -191,17 +191,17 @@ http://streams.radiobob.de/deathmetal/mp3-192/mediaplayer/
 #EXTINF:-1 tvg-logo="" group-title="FR",Rock & Folk (rock n folk)
 https://rockfolk.ice.infomaniak.ch/rockfolk.mp3
 
-#EXTINF:-1 tvg-logo="http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM - MetalFM
-http://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871?sABC=69686qq3%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1768451539
-
 #EXTINF:-1 tvg-logo="https://rockfm.lt/wp-content/uploads/2024/11/logo-fav-100x100.png" group-title="LT",Rock FM
 https://stream2.rockfm.lt/crf128.mp3
 
-#EXTINF:-1 tvg-logo="https://www.metal-only.de/fileadmin/tpl//fav.ico" group-title="DE",METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!
-https://metal-only.sp.radio.fm/stream
+#EXTINF:-1 tvg-logo="http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM - MetalFM
+http://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871?sABC=69686qq3%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1768451539
 
 #EXTINF:-1 tvg-logo="" group-title="DE",ProgressiveMusic
 http://stream.laut.fm/progressivemusic
+
+#EXTINF:-1 tvg-logo="https://www.metal-only.de/fileadmin/tpl//fav.ico" group-title="DE",METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!
+https://metal-only.sp.radio.fm/stream
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Brutal Death Metal
 http://79.111.119.111:8000/brutaldeathmetal
@@ -254,11 +254,11 @@ https://12punks-high.rautemusik.fm/?ref=radiobrowser
 #EXTINF:-1 tvg-logo="" group-title="Global",Radio ProRock
 http://91.232.4.33:9073/stream
 
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Folk Metal
-http://79.120.39.202:8000/folkmetal
-
 #EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="RS",UnderGRAND Radio
 http://stream.zeno.fm/rp1swb5pgzzuv
+
+#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Folk Metal
+http://79.120.39.202:8000/folkmetal
 
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-rock_600x600.jpg" group-title="DE",- 1 A - Rock von 1A Radio
 https://1a-rock.radionetz.de/1a-rock.mp3
@@ -266,11 +266,11 @@ https://1a-rock.radionetz.de/1a-rock.mp3
 #EXTINF:-1 tvg-logo="https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",DrGnu - Metal 2
 https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6202r2p8%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644356296
 
-#EXTINF:-1 tvg-logo="" group-title="DE",RauteMusik Wacken Radio
-http://wackenradio-high.rautemusik.fm/
-
 #EXTINF:-1 tvg-logo="https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",Radio RMF Hard and Heavy
 http://31.192.216.10/HARDHEAVY
+
+#EXTINF:-1 tvg-logo="" group-title="DE",RauteMusik Wacken Radio
+http://wackenradio-high.rautemusik.fm/
 
 #EXTINF:-1 tvg-logo="" group-title="Global",Radio Caprice - Funeral Doom Metal
 http://79.120.77.11:8000/funeraldoom

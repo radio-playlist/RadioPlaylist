@@ -47,11 +47,11 @@ http://relax.stream.publicradio.org/relax.mp3
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Old School HipHop/RnB
 http://listen.181fm.com/181-oldschool_128k.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="US",.977 80s
-http://17573.live.streamtheworld.com/977_80_SC
-
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Country
 http://26343.live.streamtheworld.com/977_COUNTRY_SC
+
+#EXTINF:-1 tvg-logo="" group-title="US",.977 80s
+http://17573.live.streamtheworld.com/977_80_SC
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Hitz
 http://18863.live.streamtheworld.com/977_HITS_SC
@@ -134,11 +134,11 @@ http://listen.181fm.com/181-highway_128k.mp3
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/seventies400.jpg" group-title="US",SomaFM Left Coast 70s (320k MP3)
 https://ice5.somafm.com/seventies-320-mp3
 
-#EXTINF:-1 tvg-logo="" group-title="US",FUNKY RADIO - Only Funk Music (60's 70's)
-https://funkyradio.streamingmedia.it/play.mp3
-
 #EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/otr.jpg" group-title="US",WALM - Old Time Radio Opus
 https://icecast.walmradio.com:8443/otr_opus
+
+#EXTINF:-1 tvg-logo="" group-title="US",FUNKY RADIO - Only Funk Music (60's 70's)
+https://funkyradio.streamingmedia.it/play.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Oldies
 http://27273.live.streamtheworld.com/977_OLDIES_SC
