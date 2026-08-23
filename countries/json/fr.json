@@ -14,8 +14,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 90527,
-    "clickcount": 504
+    "votes": 90873,
+    "clickcount": 556
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "africa,news",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 87009,
-    "clickcount": 124
+    "votes": 87305,
+    "clickcount": 136
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "france,info,sport,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 74429,
-    "clickcount": 261
+    "votes": 74712,
+    "clickcount": 353
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "blues,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 64102,
-    "clickcount": 200
+    "votes": 64307,
+    "clickcount": 180
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "aac,information,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 59826,
-    "clickcount": 246
+    "votes": 59958,
+    "clickcount": 236
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 59794,
-    "clickcount": 57
+    "votes": 59892,
+    "clickcount": 68
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "news,world music",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 56999,
-    "clickcount": 79
+    "votes": 57124,
+    "clickcount": 76
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "france médias monde,information,public radio,world news",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 54914,
-    "clickcount": 17
+    "votes": 55029,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "aac,culture,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 54775,
-    "clickcount": 139
+    "votes": 54869,
+    "clickcount": 145
   },
   {
     "id": null,
@@ -176,25 +176,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 54745,
-    "clickcount": 33
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9606c2cd-0601-11e8-ae97-52543be04c81",
-    "name": "RTL",
-    "url": "http://streaming.radio.rtl.fr/rtl-1-44-128",
-    "url_resolved": "http://streaming.radio.rtl.fr/rtl-1-44-128",
-    "homepage": "http://www.rtl.fr/",
-    "favicon": "",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 54021,
+    "votes": 54809,
     "clickcount": 31
   },
   {
@@ -212,8 +194,8 @@
     "tags": "rap",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 53628,
-    "clickcount": 200
+    "votes": 53838,
+    "clickcount": 225
   },
   {
     "id": null,
@@ -229,9 +211,9 @@
     "language": "french",
     "tags": "jazz,soul",
     "codec": "MP3",
-    "bitrate": 192,
-    "votes": 49959,
-    "clickcount": 124
+    "bitrate": 128,
+    "votes": 50063,
+    "clickcount": 103
   },
   {
     "id": null,
@@ -248,8 +230,8 @@
     "tags": "aac,music,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 43010,
-    "clickcount": 166
+    "votes": 43106,
+    "clickcount": 159
   },
   {
     "id": null,
@@ -266,26 +248,8 @@
     "tags": "dancefloor,electronic dance music,eurodance,pop dance,pop music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 42153,
-    "clickcount": 154
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a5a6b881-2900-11e8-91bf-52543be04c81",
-    "name": "RTL2",
-    "url": "http://streaming.radio.rtl2.fr/rtl2-1-44-128",
-    "url_resolved": "http://streaming.radio.rtl2.fr/rtl2-1-44-128",
-    "homepage": "http://www.rtl2.fr/",
-    "favicon": "",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "pop,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 39183,
-    "clickcount": 52
+    "votes": 42368,
+    "clickcount": 142
   },
   {
     "id": null,
@@ -302,8 +266,8 @@
     "tags": "80s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 34429,
-    "clickcount": 86
+    "votes": 34596,
+    "clickcount": 93
   },
   {
     "id": null,
@@ -320,8 +284,8 @@
     "tags": "music,reggae",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 30676,
-    "clickcount": 64
+    "votes": 30772,
+    "clickcount": 74
   },
   {
     "id": null,
@@ -338,8 +302,8 @@
     "tags": "electronic,funk,music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 30612,
-    "clickcount": 28
+    "votes": 30674,
+    "clickcount": 40
   },
   {
     "id": null,
@@ -356,8 +320,8 @@
     "tags": "alternative,pop,world music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 29681,
-    "clickcount": 57
+    "votes": 29795,
+    "clickcount": 84
   },
   {
     "id": null,
@@ -374,8 +338,8 @@
     "tags": "classical,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 27812,
-    "clickcount": 62
+    "votes": 27894,
+    "clickcount": 71
   },
   {
     "id": null,
@@ -392,8 +356,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 26076,
-    "clickcount": 47
+    "votes": 26174,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -410,26 +374,8 @@
     "tags": "conservative,info,mp3,news,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 25920,
-    "clickcount": 52
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "38cb1dcb-5753-11e8-b0ce-52543be04c81",
-    "name": "Fun Radio",
-    "url": "http://streaming.radio.funradio.fr/fun-1-44-128",
-    "url_resolved": "http://streaming.radio.funradio.fr/fun-1-44-128",
-    "homepage": "http://www.funradio.fr/",
-    "favicon": "",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "dance,french",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 24642,
-    "clickcount": 14
+    "votes": 26032,
+    "clickcount": 53
   },
   {
     "id": null,
@@ -446,8 +392,8 @@
     "tags": "classical,jazz,music,public radio,radio france",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 21875,
-    "clickcount": 55
+    "votes": 21949,
+    "clickcount": 76
   },
   {
     "id": null,
@@ -464,8 +410,8 @@
     "tags": "information,news",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 21621,
-    "clickcount": 35
+    "votes": 21730,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -482,8 +428,8 @@
     "tags": "news talk",
     "codec": "MP3",
     "bitrate": 32,
-    "votes": 21491,
-    "clickcount": 9
+    "votes": 21555,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -500,8 +446,8 @@
     "tags": "latin",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 21427,
-    "clickcount": 17
+    "votes": 21527,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -518,8 +464,8 @@
     "tags": "aac,news,talk",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 20664,
-    "clickcount": 313
+    "votes": 20775,
+    "clickcount": 368
   },
   {
     "id": null,
@@ -536,8 +482,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 19333,
-    "clickcount": 12
+    "votes": 19392,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -554,26 +500,8 @@
     "tags": "funk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 17581,
-    "clickcount": 20
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "4a018de7-b452-4412-b86f-86254c5d53be",
-    "name": "ABC Lounge Radio",
-    "url": "https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1",
-    "url_resolved": "https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1",
-    "homepage": "https://www.abc-lounge.com/radio/lounge-jazz-folk/#home",
-    "favicon": "",
-    "countrycode": "FR",
-    "state": "",
-    "language": "english,french",
-    "tags": "ambient,chillout,easy listening,lounge,smooth jazz",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 16373,
-    "clickcount": 36
+    "votes": 17652,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -590,8 +518,8 @@
     "tags": "80s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 16217,
-    "clickcount": 74
+    "votes": 16320,
+    "clickcount": 58
   },
   {
     "id": null,
@@ -608,8 +536,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 15506,
-    "clickcount": 8
+    "votes": 15567,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -626,26 +554,8 @@
     "tags": "metal,music",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 14007,
-    "clickcount": 16
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "d69e38f7-f565-4217-b9a8-0075c5e32340",
-    "name": "RTL France",
-    "url": "http://streaming.radio.rtl.fr/rtl-1-44-128",
-    "url_resolved": "http://streaming.radio.rtl.fr/rtl-1-44-128",
-    "homepage": "https://www.rtl.fr/",
-    "favicon": "https://www.radio.de/images/broadcasts/88/5b/5168/c300.png",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "news,pop-music",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 12952,
-    "clickcount": 36
+    "votes": 14050,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -662,8 +572,8 @@
     "tags": "aac,musique,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 12736,
-    "clickcount": 29
+    "votes": 12766,
+    "clickcount": 31
   },
   {
     "id": null,
@@ -680,8 +590,8 @@
     "tags": "latin,reggaeton",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11805,
-    "clickcount": 30
+    "votes": 11852,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -698,8 +608,8 @@
     "tags": "aac,jazz,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 10712,
-    "clickcount": 29
+    "votes": 10744,
+    "clickcount": 37
   },
   {
     "id": null,
@@ -716,8 +626,8 @@
     "tags": "jazz,women",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 9415,
-    "clickcount": 9
+    "votes": 9426,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -734,26 +644,8 @@
     "tags": "",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 9275,
-    "clickcount": 279
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "034d52a3-30dc-4017-8495-004cd65383b1",
-    "name": "RTL2",
-    "url": "http://streamer-02.rtl.fr/rtl2-1-44-128",
-    "url_resolved": "http://streamer-02.rtl.fr/rtl2-1-44-128",
-    "homepage": "https://www.rtl2.fr/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/fr/5/51/RTL2.png",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "pop,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 9266,
-    "clickcount": 136
+    "votes": 9333,
+    "clickcount": 253
   },
   {
     "id": null,
@@ -770,8 +662,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8391,
-    "clickcount": 291
+    "votes": 8506,
+    "clickcount": 263
   },
   {
     "id": null,
@@ -788,8 +680,8 @@
     "tags": "meditation,spiritual,yoga,zen",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7777,
-    "clickcount": 9
+    "votes": 7813,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -806,8 +698,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 7751,
-    "clickcount": 39
+    "votes": 7811,
+    "clickcount": 45
   },
   {
     "id": null,
@@ -824,8 +716,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7649,
-    "clickcount": 15
+    "votes": 7682,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -842,8 +734,8 @@
     "tags": "classic,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7216,
-    "clickcount": 6
+    "votes": 7234,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -860,8 +752,8 @@
     "tags": "aac,classical,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 6552,
-    "clickcount": 24
+    "votes": 6586,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -878,8 +770,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6205,
-    "clickcount": 22
+    "votes": 6240,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -896,8 +788,8 @@
     "tags": "electro,jazz,swing",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5927,
-    "clickcount": 10
+    "votes": 5945,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -914,8 +806,8 @@
     "tags": "sports news",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5843,
-    "clickcount": 63
+    "votes": 5914,
+    "clickcount": 81
   },
   {
     "id": null,
@@ -932,8 +824,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 5398,
-    "clickcount": 3
+    "votes": 5418,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -950,8 +842,8 @@
     "tags": "soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5316,
-    "clickcount": 11
+    "votes": 5344,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -959,7 +851,7 @@
     "stationuuid": "96177334-0601-11e8-ae97-52543be04c81",
     "name": "Beur FM",
     "url": "http://broadcast.infomaniak.ch/beurfm-high.mp3",
-    "url_resolved": "http://broadcast.infomaniak.ch/beurfm-high.mp3",
+    "url_resolved": "http://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
     "homepage": "http://www.beurfm.net/",
     "favicon": "http://www.beurfm.net/favicon.ico",
     "countrycode": "FR",
@@ -968,8 +860,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5016,
-    "clickcount": 4
+    "votes": 5034,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -986,7 +878,7 @@
     "tags": "aac,public radio,radio france,reggae",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 4893,
+    "votes": 4909,
     "clickcount": 37
   },
   {
@@ -1004,8 +896,8 @@
     "tags": "info,lofi,radio france",
     "codec": "MP3",
     "bitrate": 32,
-    "votes": 4830,
-    "clickcount": 16
+    "votes": 4834,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1022,8 +914,8 @@
     "tags": "latin",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4775,
-    "clickcount": 18
+    "votes": 4782,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1040,8 +932,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4680,
-    "clickcount": 70
+    "votes": 4700,
+    "clickcount": 75
   },
   {
     "id": null,
@@ -1058,26 +950,8 @@
     "tags": "jazz,piano",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4534,
-    "clickcount": 11
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "2e5c08e4-ab83-4036-baf6-339aeffcb3b8",
-    "name": "BFM Radio (128.mp3)",
-    "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
-    "url_resolved": "https://audio.bfmtv.com/bfmradio_128.mp3",
-    "homepage": "https://www.bfmtv.com/",
-    "favicon": "https://www.bfmtv.com/android-icon-192x192.png",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 4434,
-    "clickcount": 22
+    "votes": 4544,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1094,8 +968,26 @@
     "tags": "pop rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4423,
-    "clickcount": 113
+    "votes": 4488,
+    "clickcount": 131
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "2e5c08e4-ab83-4036-baf6-339aeffcb3b8",
+    "name": "BFM Radio (128.mp3)",
+    "url": "https://audio.bfmtv.com/bfmradio_128.mp3",
+    "url_resolved": "https://audio.bfmtv.com/bfmradio_128.mp3",
+    "homepage": "https://www.bfmtv.com/",
+    "favicon": "https://www.bfmtv.com/android-icon-192x192.png",
+    "countrycode": "FR",
+    "state": "",
+    "language": "french",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 4486,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -1112,7 +1004,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4086,
+    "votes": 4092,
     "clickcount": 3
   },
   {
@@ -1130,8 +1022,8 @@
     "tags": "progressive rock",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 4079,
-    "clickcount": 3
+    "votes": 4092,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1148,8 +1040,8 @@
     "tags": "70s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3913,
-    "clickcount": 7
+    "votes": 3924,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1166,8 +1058,8 @@
     "tags": "jazz,latin,latin jazz,latino",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3827,
-    "clickcount": 11
+    "votes": 3835,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1184,8 +1076,8 @@
     "tags": "aac,general,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 3784,
-    "clickcount": 91
+    "votes": 3799,
+    "clickcount": 92
   },
   {
     "id": null,
@@ -1202,8 +1094,8 @@
     "tags": "aac,electro,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 3754,
-    "clickcount": 14
+    "votes": 3767,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1220,8 +1112,8 @@
     "tags": "aac,fiducial,general,private,talk",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 3670,
-    "clickcount": 2
+    "votes": 3672,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1238,8 +1130,8 @@
     "tags": "dance,deep house",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3541,
-    "clickcount": 9
+    "votes": 3551,
+    "clickcount": 29
   },
   {
     "id": null,
@@ -1256,8 +1148,8 @@
     "tags": "electro,folk,funk,hiphop,jazz,rock,soul,world music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3413,
-    "clickcount": 45
+    "votes": 3425,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -1274,8 +1166,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 3391,
-    "clickcount": 45
+    "votes": 3415,
+    "clickcount": 51
   },
   {
     "id": null,
@@ -1292,8 +1184,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3371,
-    "clickcount": 3
+    "votes": 3395,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1310,8 +1202,8 @@
     "tags": "aac,public radio,radio france,rock",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 3331,
-    "clickcount": 14
+    "votes": 3342,
+    "clickcount": 31
   },
   {
     "id": null,
@@ -1328,8 +1220,8 @@
     "tags": "60s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3288,
-    "clickcount": 7
+    "votes": 3296,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1346,8 +1238,8 @@
     "tags": "hip-hop and rap oldies",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 3210,
-    "clickcount": 69
+    "votes": 3223,
+    "clickcount": 64
   },
   {
     "id": null,
@@ -1364,25 +1256,7 @@
     "tags": "classic,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3143,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9635ad8a-0601-11e8-ae97-52543be04c81",
-    "name": "FIP autour de l’électro",
-    "url": "http://direct.fipradio.fr/live/fip-webradio8.mp3",
-    "url_resolved": "http://direct.fipradio.fr/live/fip-webradio8.mp3",
-    "homepage": "http://www.fipradio.fr/",
-    "favicon": "http://www.fipradio.fr/dist/favicons/logo-120.png",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "easy listening,electro",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3137,
+    "votes": 3155,
     "clickcount": 3
   },
   {
@@ -1400,26 +1274,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3128,
-    "clickcount": 5
+    "votes": 3146,
+    "clickcount": 4
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "9261257f-c8a0-4dba-8cb5-a0746f3323dc",
-    "name": "ABC Lounge Jazz",
-    "url": "https://eu1.fastcast4u.com/proxy/kpmxz/stream",
-    "url_resolved": "https://eu1.fastcast4u.com/proxy/kpmxz/stream",
-    "homepage": "https://www.abc-lounge.com/",
-    "favicon": "https://www.abc-lounge.com/radio/wp-content/uploads/2019/11/logo-ABC-Lounge100.png",
+    "stationuuid": "9635ad8a-0601-11e8-ae97-52543be04c81",
+    "name": "FIP autour de l’électro",
+    "url": "http://direct.fipradio.fr/live/fip-webradio8.mp3",
+    "url_resolved": "http://direct.fipradio.fr/live/fip-webradio8.mp3",
+    "homepage": "http://www.fipradio.fr/",
+    "favicon": "http://www.fipradio.fr/dist/favicons/logo-120.png",
     "countrycode": "FR",
     "state": "",
-    "language": "",
-    "tags": "",
+    "language": "french",
+    "tags": "easy listening,electro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3122,
-    "clickcount": 14
+    "votes": 3140,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1436,8 +1310,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3122,
-    "clickcount": 4
+    "votes": 3136,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1454,25 +1328,7 @@
     "tags": "reggae",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3086,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96167407-0601-11e8-ae97-52543be04c81",
-    "name": "RFI Persian",
-    "url": "http://live02.rfi.fr/rfienpersan-64k.mp3",
-    "url_resolved": "http://live02.rfi.fr/rfienpersan-64k.mp3",
-    "homepage": "http://fa.rfi.fr/",
-    "favicon": "",
-    "countrycode": "FR",
-    "state": "",
-    "language": "persian",
-    "tags": "persian",
-    "codec": "MP3",
-    "bitrate": 64,
-    "votes": 3021,
+    "votes": 3099,
     "clickcount": 2
   },
   {
@@ -1490,8 +1346,26 @@
     "tags": "drum n bass,drum&bass",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3020,
-    "clickcount": 15
+    "votes": 3040,
+    "clickcount": 17
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96167407-0601-11e8-ae97-52543be04c81",
+    "name": "RFI Persian",
+    "url": "http://live02.rfi.fr/rfienpersan-64k.mp3",
+    "url_resolved": "http://live02.rfi.fr/rfienpersan-64k.mp3",
+    "homepage": "http://fa.rfi.fr/",
+    "favicon": "",
+    "countrycode": "FR",
+    "state": "",
+    "language": "persian",
+    "tags": "persian",
+    "codec": "MP3",
+    "bitrate": 64,
+    "votes": 3022,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1508,8 +1382,8 @@
     "tags": "music,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3007,
-    "clickcount": 9
+    "votes": 3010,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1526,7 +1400,7 @@
     "tags": "lounge",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2947,
+    "votes": 2956,
     "clickcount": 8
   },
   {
@@ -1544,8 +1418,8 @@
     "tags": "chillout,lounge,relax",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2766,
-    "clickcount": 0
+    "votes": 2771,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1562,8 +1436,26 @@
     "tags": "chansons françaises",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 2622,
-    "clickcount": 20
+    "votes": 2637,
+    "clickcount": 10
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9610b12b-0601-11e8-ae97-52543be04c81",
+    "name": "King Dub Radio",
+    "url": "http://london-dedicated.myautodj.com:8862/stream",
+    "url_resolved": "http://london-dedicated.myautodj.com:8862/stream",
+    "homepage": "http://kingdubfamily.com/",
+    "favicon": "http://kingdubfamily.com/wp-content/uploads/2021/03/download-150x150.png",
+    "countrycode": "FR",
+    "state": "Provence-Alpes-Côte d'Azur",
+    "language": "english",
+    "tags": "dub,reggae",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 2629,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -1580,26 +1472,8 @@
     "tags": "aac,groove,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 2620,
-    "clickcount": 15
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9610b12b-0601-11e8-ae97-52543be04c81",
-    "name": "King Dub Radio",
-    "url": "http://london-dedicated.myautodj.com:8862/stream",
-    "url_resolved": "http://london-dedicated.myautodj.com:8862/stream",
-    "homepage": "http://kingdubfamily.com/",
-    "favicon": "http://kingdubfamily.com/wp-content/uploads/2021/03/download-150x150.png",
-    "countrycode": "FR",
-    "state": "Provence-Alpes-Côte d'Azur",
-    "language": "english",
-    "tags": "dub,reggae",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2612,
-    "clickcount": 25
+    "votes": 2627,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -1607,7 +1481,7 @@
     "stationuuid": "96210edc-0601-11e8-ae97-52543be04c81",
     "name": "RFI Anglais - English",
     "url": "http://live02.rfi.fr/rfienanglais-64.mp3",
-    "url_resolved": "http://rfienanglais64k.ice.infomaniak.ch/rfienanglais-64.mp3",
+    "url_resolved": "http://live02.rfi.fr/rfienanglais-64.mp3",
     "homepage": "http://en.rfi.fr/",
     "favicon": "http://en.rfi.fr/android-chrome-192x192.png",
     "countrycode": "FR",
@@ -1616,8 +1490,8 @@
     "tags": "features,information,news,public radio",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 2459,
-    "clickcount": 5
+    "votes": 2464,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1634,8 +1508,8 @@
     "tags": "dance classics,disco funk,funk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2420,
-    "clickcount": 12
+    "votes": 2427,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1652,8 +1526,8 @@
     "tags": "informations",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 2390,
-    "clickcount": 15
+    "votes": 2403,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1670,8 +1544,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2372,
-    "clickcount": 6
+    "votes": 2386,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1688,8 +1562,8 @@
     "tags": "classic rock,rock,rock-classic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2290,
-    "clickcount": 9
+    "votes": 2293,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1706,8 +1580,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 32,
-    "votes": 2240,
-    "clickcount": 4
+    "votes": 2242,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1724,7 +1598,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2178,
+    "votes": 2188,
     "clickcount": 0
   },
   {
@@ -1742,8 +1616,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 2154,
-    "clickcount": 9
+    "votes": 2165,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1760,8 +1634,26 @@
     "tags": "info,information,rfi",
     "codec": "MP3",
     "bitrate": 64,
+    "votes": 2109,
+    "clickcount": 38
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "5c781485-ee91-47bc-aa2d-bbe66024ff52",
+    "name": "Radio Choco",
+    "url": "https://radiochoco.com/sound",
+    "url_resolved": "https://listen.radioking.com/radio/669715/stream/733765",
+    "homepage": "https://radiochoco.com/",
+    "favicon": "https://image.radioking.io/radios/669715/logo/e0191854-a603-41f5-9729-121a1f215f57.jpeg",
+    "countrycode": "FR",
+    "state": "",
+    "language": "",
+    "tags": "eclectic programming",
+    "codec": "MP3",
+    "bitrate": 128,
     "votes": 2066,
-    "clickcount": 41
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1778,8 +1670,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2051,
-    "clickcount": 11
+    "votes": 2063,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "cbc50678-e70e-11e9-a96c-52543be04c81",
+    "name": "FIP Musiques du monde",
+    "url": "http://icecast.radiofrance.fr/fipworld-hifi.aac",
+    "url_resolved": "http://icecast.radiofrance.fr/fipworld-hifi.aac",
+    "homepage": "https://www.fip.fr/musiques-du-monde/webradio",
+    "favicon": "https://www.fip.fr/dist/favicons/logo-120.png",
+    "countrycode": "FR",
+    "state": "",
+    "language": "french",
+    "tags": "aac,public radio,radio france,world music",
+    "codec": "AAC",
+    "bitrate": 192,
+    "votes": 2057,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1796,7 +1706,97 @@
     "tags": "france bleu,public radio,radio france,regional",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2049,
+    "votes": 2056,
+    "clickcount": 11
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "dbdae111-2ceb-48e8-aa6b-cc544c57d043",
+    "name": "RFM POP-ROCK",
+    "url": "https://stream.rfm.fr/rfm-wr10.aac",
+    "url_resolved": "https://stream.rfm.fr/rfm-wr10.aac",
+    "homepage": "http://www.rfm.fr/programmes/les-webradios",
+    "favicon": "http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png",
+    "countrycode": "FR",
+    "state": "",
+    "language": "french",
+    "tags": "chansons françaises,pop,pop rock,rock",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "votes": 2055,
+    "clickcount": 174
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "dfc627d6-5bb2-11ea-be63-52543be04c81",
+    "name": "Tropiques FM",
+    "url": "http://listen.radioking.com/radio/8916/stream/19088",
+    "url_resolved": "http://listen.radioking.com/radio/8916/stream/19088",
+    "homepage": "https://www.tropiquesfm.com/",
+    "favicon": "",
+    "countrycode": "FR",
+    "state": "",
+    "language": "french",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 2036,
+    "clickcount": 22
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9618a113-0601-11e8-ae97-52543be04c81",
+    "name": "France Musique | La Jazz",
+    "url": "http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3",
+    "url_resolved": "http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3",
+    "homepage": "https://www.francemusique.fr/webradio-la-jazz/",
+    "favicon": "",
+    "countrycode": "FR",
+    "state": "",
+    "language": "french",
+    "tags": "jazz",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1983,
     "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "e1302232-248d-4433-88c6-c12b1bfafc81",
+    "name": "Radio Heavy Metal",
+    "url": "https://manager7.streamradio.fr:1435/stream",
+    "url_resolved": "https://manager7.streamradio.fr:1435/stream",
+    "homepage": "https://radioheavymetal76.wixsite.com/monsite",
+    "favicon": "https://static.wixstatic.com/media/bae3bf_0b6fc93bb1584f329723c0241a93c65c~mv2.png/v1/fill/w_111,h_111,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%20RHM%20SUR%20ROUGE.png",
+    "countrycode": "FR",
+    "state": "",
+    "language": "",
+    "tags": "heavy metal",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 1982,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "042d3140-227c-4fac-9387-4903b692d5f2",
+    "name": "RTL",
+    "url": "https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8",
+    "url_resolved": "https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8",
+    "homepage": "https://www.rtl.fr/",
+    "favicon": "https://duckduckgo.com/i/035a5e15d396c67a.png",
+    "countrycode": "FR",
+    "state": "",
+    "language": "",
+    "tags": "généraliste",
+    "codec": "AAC",
+    "bitrate": 64,
+    "votes": 1955,
+    "clickcount": 569
   }
 ]

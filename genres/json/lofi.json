@@ -14,8 +14,8 @@
     "tags": "info,lofi,radio france",
     "codec": "MP3",
     "bitrate": 32,
-    "votes": 4830,
-    "clickcount": 16
+    "votes": 4834,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "chillout,lofi",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1213,
-    "clickcount": 92
+    "votes": 1224,
+    "clickcount": 77
   },
   {
     "id": null,
@@ -49,9 +49,9 @@
     "language": "",
     "tags": "aesthetic,chillwave,futurefunk,lofi,vaporwave",
     "codec": "OGG",
-    "bitrate": 128,
-    "votes": 1023,
-    "clickcount": 4
+    "bitrate": 64,
+    "votes": 1025,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "chillout,lofi,lofi beats,lofi hip hop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 603,
-    "clickcount": 6
+    "votes": 607,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -87,7 +87,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 415,
-    "clickcount": 3
+    "clickcount": 5
   },
   {
     "id": null,
@@ -105,25 +105,7 @@
     "codec": "AAC",
     "bitrate": 128,
     "votes": 293,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "b77daf98-4cc2-47d1-88df-ac2129dff42e",
-    "name": "LoFi Afrobeats Radio",
-    "url": "https://stream.zeno.fm/34vsiqt1kaktv",
-    "url_resolved": "https://stream.zeno.fm/34vsiqt1kaktv",
-    "homepage": "https://zeno.fm/radio/lofi-afrobeats/",
-    "favicon": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FzZe3OLAP0usX0Z0Q53XrrFuLKaNHO50zZ0gS3s8578k%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzc1MTZmNTdlLTQ3ZTctNDQ1My1hYzFkLWRkNDliZGE5OWExZS9pbWFnZS8_dXBkYXRlZD0xNjk4NzExMzA2MDAw.webp&w=1920&q=100",
-    "countrycode": "US",
-    "state": "New York",
-    "language": "",
-    "tags": "afrobeats,chill,easy listening,lofi,r&b",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 280,
-    "clickcount": 11
+    "clickcount": 2
   },
   {
     "id": null,
@@ -141,25 +123,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 179,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "2dba6e48-43c2-457f-ad02-922e7def83e5",
-    "name": "lofi",
-    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/358?",
-    "url_resolved": "https://pub0202.101.ru:8443/stream/pro/aac/64/358?",
-    "homepage": "https://pub0202.101.ru/",
-    "favicon": "",
-    "countrycode": "RU",
-    "state": "",
-    "language": "russian",
-    "tags": "lofi",
-    "codec": "AAC+",
-    "bitrate": 64,
-    "votes": 137,
-    "clickcount": 4
+    "clickcount": 8
   },
   {
     "id": null,
@@ -177,7 +141,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 128,
-    "clickcount": 3
+    "clickcount": 1
   },
   {
     "id": null,
@@ -194,8 +158,8 @@
     "tags": "calm,chill,easy listening,easy music,learn,lo-fi,lofi,lofi hip hop,lofi study beats,smooth,student",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 105,
-    "clickcount": 23
+    "votes": 115,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -213,7 +177,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 102,
-    "clickcount": 7
+    "clickcount": 3
   },
   {
     "id": null,
@@ -226,12 +190,12 @@
     "favicon": "https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png",
     "countrycode": "FR",
     "state": "",
-    "language": "",
+    "language": "english,french",
     "tags": "chill,chillout,electronic,house,intelligent drum and bass,intelligent drum&bass,liquid,liquid drum and bas,liquid funk,lofi,phonk,relax",
     "codec": "MP3",
-    "bitrate": 0,
+    "bitrate": 320,
     "votes": 78,
-    "clickcount": 15
+    "clickcount": 9
   },
   {
     "id": null,
@@ -246,10 +210,10 @@
     "state": "",
     "language": "",
     "tags": "lo-fi,lofi",
-    "codec": "AAC+",
-    "bitrate": 63,
+    "codec": "AAC",
+    "bitrate": 64,
     "votes": 78,
-    "clickcount": 0
+    "clickcount": 4
   },
   {
     "id": null,
@@ -267,7 +231,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 76,
-    "clickcount": 0
+    "clickcount": 4
   },
   {
     "id": null,
@@ -285,7 +249,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 63,
-    "clickcount": 7
+    "clickcount": 3
   },
   {
     "id": null,
@@ -303,7 +267,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 53,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -321,7 +285,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 50,
-    "clickcount": 0
+    "clickcount": 2
   },
   {
     "id": null,
@@ -337,9 +301,9 @@
     "language": "english",
     "tags": "ambient,chillwave,citypop,disco,electronic,elevatormusic,futurefunk,japanesedisco,lofi,mallsoft,plunderphonics,retrowave,signalwave,slowed,synthwave,vaporwave",
     "codec": "OGG",
-    "bitrate": 128,
+    "bitrate": 64,
     "votes": 45,
-    "clickcount": 4
+    "clickcount": 10
   },
   {
     "id": null,
@@ -357,7 +321,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 41,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -370,12 +334,12 @@
     "favicon": "https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png",
     "countrycode": "FR",
     "state": "",
-    "language": "",
+    "language": "english,french",
     "tags": "chill,chillout,electronic,house,intelligent drum and bass,intelligent drum&bass,liquid,liquid drum and bas,liquid funk,lofi,phonk,relax",
     "codec": "OGG",
-    "bitrate": 0,
+    "bitrate": 128,
     "votes": 41,
-    "clickcount": 5
+    "clickcount": 0
   },
   {
     "id": null,
@@ -393,7 +357,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 39,
-    "clickcount": 1
+    "clickcount": 5
   },
   {
     "id": null,
@@ -429,7 +393,7 @@
     "codec": "AAC",
     "bitrate": 0,
     "votes": 32,
-    "clickcount": 1
+    "clickcount": 6
   },
   {
     "id": null,
@@ -447,7 +411,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 30,
-    "clickcount": 5
+    "clickcount": 7
   },
   {
     "id": null,
@@ -464,8 +428,8 @@
     "tags": "lo-fi,lofi,lofi beats",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 20,
-    "clickcount": 4
+    "votes": 22,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -483,7 +447,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 15,
-    "clickcount": 0
+    "clickcount": 3
   },
   {
     "id": null,
@@ -500,26 +464,8 @@
     "tags": "16-bit,8-bit,background music,chiptune,jrpg,lofi,pixel music,relaxing,retro game music,video game music",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 11,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "29395552-1f19-4442-84d5-4242e9d98305",
-    "name": "b3cks-radio",
-    "url": "https://radio.b3ck.com/listen/b3cks-radio/radio.mp3",
-    "url_resolved": "https://radio.b3ck.com/listen/b3cks-radio/radio.mp3",
-    "homepage": "https://radio.b3ck.com/public/b3cks-radio",
-    "favicon": "https://b3ck.com/uploadz/uploads/b3cks-radio.png",
-    "countrycode": "US",
-    "state": "Minnesota",
-    "language": "american english",
-    "tags": "beats,chillhop,lofi,relax,study",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 11,
-    "clickcount": 2
+    "votes": 12,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -536,8 +482,8 @@
     "tags": "ambient,dance pop,indie pop,k-pop,lofi,pop",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 7,
-    "clickcount": 12
+    "votes": 10,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -554,26 +500,44 @@
     "tags": "ai,ambient,chill,instrumental,japanese,koto,lofi,piano,rain,study",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 5,
-    "clickcount": 10
+    "votes": 6,
+    "clickcount": 6
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "91064564-6e29-4f43-b11d-883fd1c7c4fb",
-    "name": "No AC/DC",
-    "url": "https://das-edge12-live365-dal02.cdnstream.com/a52726",
-    "url_resolved": "https://das-edge12-live365-dal02.cdnstream.com/a52726",
-    "homepage": "https://live365.com/station/No-AC-DC-a52726",
-    "favicon": "https://image.live365.com/download/0f7908ae-7a6e-449a-bcb7-4a92b39fd1cb.png/400/image.webp",
-    "countrycode": "US",
-    "state": "",
-    "language": "",
-    "tags": "90s alternative,indie rock,lofi,noise pop,post punk",
+    "stationuuid": "f4722411-69a1-413d-9922-5017d5aef925",
+    "name": "Special-Radio",
+    "url": "https://stream.laut.fm/special-radio",
+    "url_resolved": "https://special-radio.stream.laut.fm/special-radio?t302=2026-08-22_05-08-15&uuid=3ea2fdd9-8517-4459-b2c6-38ba6a59964a",
+    "homepage": "https://www.anmacha.de/special-radio",
+    "favicon": "https://assets.laut.fm/a32f99500d9bc3864c7b619152c8e6e9?t=_120x120",
+    "countrycode": "DE",
+    "state": "Thuringia",
+    "language": "english,german",
+    "tags": "alternative,café,café lounge,chill-out,chillout,classic,easy listening,entspannung,filmmusik,focustime,home office,indie,jazz,jazzbar,klassik,lo-fi,lofi,lounge,love,lovemusic,lovesongs,meditation,movie,movies,night,nightbar,orchestral,relax,series,smooth,smooth jazz,soundtracks",
     "codec": "MP3",
     "bitrate": 128,
     "votes": 4,
     "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "49aedf08-6425-4491-a96c-f598e29aaf00",
+    "name": "CLIAMP Lofi Hip Hop Radio",
+    "url": "https://radio.cliamp.stream/lofi/stream.pls",
+    "url_resolved": "http://radio.cliamp.stream/lofi/stream",
+    "homepage": "https://www.cliamp.stream/",
+    "favicon": "https://www.cliamp.stream/favicon.svg",
+    "countrycode": "NO",
+    "state": "",
+    "language": "",
+    "tags": "lofi,lofi hip hop",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 4,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -596,60 +560,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "e430e0ef-dec1-487a-bcc2-02b2ad42fdd5",
-    "name": "Untidy Radio",
-    "url": "https://das-edge17-live365-dal02.cdnstream.com/a14325",
-    "url_resolved": "https://das-edge17-live365-dal02.cdnstream.com/a14325",
-    "homepage": "https://untidyradio.com/",
-    "favicon": "https://image.live365.com/download/ee7c8c6a-0e70-431e-94c8-6903a10e21cc.png/400/image.webp",
-    "countrycode": "US",
-    "state": "",
-    "language": "english",
-    "tags": "alternative,ambient,electro,lofi,metal",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 3,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f4722411-69a1-413d-9922-5017d5aef925",
-    "name": "Special-Radio",
-    "url": "https://stream.laut.fm/special-radio",
-    "url_resolved": "https://special-radio.stream.laut.fm/special-radio?t302=2026-03-24_22-09-25&uuid=bbf6c4db-2005-4024-9674-9ccb3a4d3d90",
-    "homepage": "https://www.anmacha.de/special-radio",
-    "favicon": "https://assets.laut.fm/a32f99500d9bc3864c7b619152c8e6e9?t=_120x120",
-    "countrycode": "DE",
-    "state": "Thuringia",
-    "language": "english,german",
-    "tags": "alternative,café,café lounge,chill-out,chillout,classic,easy listening,entspannung,filmmusik,focustime,home office,indie,jazz,jazzbar,klassik,lo-fi,lofi,lounge,love,lovemusic,lovesongs,meditation,movie,movies,night,nightbar,orchestral,relax,series,smooth,smooth jazz,soundtracks",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "49aedf08-6425-4491-a96c-f598e29aaf00",
-    "name": "CLIAMP Lofi Hip Hop Radio",
-    "url": "https://radio.cliamp.stream/lofi/stream.pls",
-    "url_resolved": "http://radio.cliamp.stream/lofi/stream",
-    "homepage": "https://www.cliamp.stream/",
-    "favicon": "https://www.cliamp.stream/favicon.svg",
-    "countrycode": "NO",
-    "state": "",
-    "language": "",
-    "tags": "lofi,lofi hip hop",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 3,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "0535aa58-3be6-47d9-8b93-ac405e957f21",
     "name": "Osage Orange Radio",
     "url": "https://das-edge62-live365-dal03.cdnstream.com/a08442",
@@ -663,7 +573,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 2,
-    "clickcount": 0
+    "clickcount": 2
   },
   {
     "id": null,
@@ -689,7 +599,7 @@
     "stationuuid": "11d36148-d486-47a7-8440-4f0dd731c944",
     "name": "Zocker-FM",
     "url": "https://stream.laut.fm/zockerfm",
-    "url_resolved": "https://zockerfm.stream.laut.fm/zockerfm?t302=2026-03-24_21-33-02&uuid=6eac6792-303d-4e5d-ad71-01368a022035",
+    "url_resolved": "https://zockerfm.stream.laut.fm/zockerfm?t302=2026-08-22_05-53-12&uuid=601f6439-5631-4d81-9a90-272e893a7932",
     "homepage": "https://www.anmacha.de/zocker-fm",
     "favicon": "https://assets.laut.fm/9721c8d3b2da107f0341ce2e5c01bc9a?t=_120x120",
     "countrycode": "DE",
@@ -699,7 +609,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -722,24 +632,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "e877b588-b416-4ce3-a093-f27fcddff84a",
-    "name": "Midnight station",
-    "url": "http://129.146.164.81:8181/listen/midnight_station/radio.mp3",
-    "url_resolved": "http://129.146.164.81:8181/listen/midnight_station/radio.mp3",
-    "homepage": "http://129.146.164.81:8181/listen/midnight_station/radio.mp3",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "Bahia",
-    "language": "brazillian",
-    "tags": "lofi",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 2,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "2bcc90cc-55d3-4852-8644-6df52d642bef",
     "name": "FMV FIT Radio Focus",
     "url": "https://radio.webicdp.com/listen/fmvfitradiofocus/radio.mp3",
@@ -753,7 +645,25 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 1,
-    "clickcount": 5
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "48b996bb-aedd-4776-b088-49c67e581121",
+    "name": "Radio San Pancho",
+    "url": "https://listen.radioking.com/radio/680182/stream/744577",
+    "url_resolved": "https://listen.radioking.com/radio/680182/stream/744577",
+    "homepage": "https://radiosanpancho.org/",
+    "favicon": "",
+    "countrycode": "MX",
+    "state": "Tepic, Nayarit",
+    "language": "english,spanish",
+    "tags": "brazilian music,chill,folk,interviews,jazz,local music,lofi,meditation music,mexican music,salsa",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -768,10 +678,10 @@
     "state": "",
     "language": "",
     "tags": "lo-fi,lofi",
-    "codec": "AAC",
+    "codec": "MP3",
     "bitrate": 0,
     "votes": 1,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -789,7 +699,7 @@
     "codec": "MP3",
     "bitrate": 256,
     "votes": 1,
-    "clickcount": 3
+    "clickcount": 0
   },
   {
     "id": null,
@@ -807,7 +717,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 1,
-    "clickcount": 2
+    "clickcount": 4
   },
   {
     "id": null,
@@ -825,7 +735,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -843,7 +753,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 0,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -861,7 +771,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 0,
-    "clickcount": 0
+    "clickcount": 3
   },
   {
     "id": null,
@@ -879,7 +789,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 0,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -897,6 +807,6 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 0,
-    "clickcount": 5
+    "clickcount": 1
   }
 ]

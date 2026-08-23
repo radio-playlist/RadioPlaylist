@@ -18,7 +18,7 @@ http://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
 http://strm112.1.fm/caferadio_mobile_mp3
 
 #EXTINF:-1 tvg-logo="https://uploads.candelaestereo.com/1/2019/06/cropped-logo-candela-llama-100x100.png" group-title="CO",Candela Estéreo Bogotá (HJPU 101.9)
-http://24403.live.streamtheworld.com:3690/CANDELAESTEREO_SC
+http://27423.live.streamtheworld.com/CANDELAESTEREO_SC
 
 #EXTINF:-1 tvg-logo="http://radiobachata.net/favicon.ico" group-title="DO",Radio Bachata
 http://perseus.shoutca.st:8312/;stream/1
@@ -57,13 +57,7 @@ https://stream.0nlineradio.com/remix?ref=radiobrowser
 http://strm112.1.fm/bossanova_mobile_mp3
 
 #EXTINF:-1 tvg-logo="http://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png?v2" group-title="MX",XHTIM "La Mejor" 90.7 FM Tijuana, BN
-http://14223.live.streamtheworld.com:3690/XHTIM_SC
-
-#EXTINF:-1 tvg-logo="" group-title="EC",Radio Antena 3 91.7 FM
-https://streamingecuador.net:9368/radioantena3
-
-#EXTINF:-1 tvg-logo="" group-title="MX",Salsa México - Online - www.salsamexico.com - Independiente
-https://radiolatina.info/8064/stream
+http://18303.live.streamtheworld.com/XHTIM_SC
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Laut.FM jazzrockfusion
 http://stream.laut.fm/jazzrockfusion
@@ -71,11 +65,11 @@ http://stream.laut.fm/jazzrockfusion
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bdF482/REMIX-PARTYNBREAKS-LOGO-1.png" group-title="DE",# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - DJ Mixtape RADIO
 https://stream.breakz.fm/?ref=radiobrowser-remix-partybreaks-radio
 
-#EXTINF:-1 tvg-logo="" group-title="US",Mega 96.3 (Los Angeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los Angeles, California
-https://liveaudio.lamusica.com/LA_KXOL_icy
-
 #EXTINF:-1 tvg-logo="https://flaixfm.cat/favicon.ico" group-title="ES",Flaix FM
 https://stream.flaixfm.cat/icecast
+
+#EXTINF:-1 tvg-logo="" group-title="US",Mega 96.3 (Los Angeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los Angeles, California
+https://liveaudio.lamusica.com/LA_KXOL_icy
 
 #EXTINF:-1 tvg-logo="" group-title="DO",Tropical 100 Mix
 https://stream-107.zeno.fm/esgo1lafgtstv?zs=o1G7UIERS3Gdtn2B7Jdt7Q
@@ -98,17 +92,17 @@ https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp?listening-from-radio-garden=16
 #EXTINF:-1 tvg-logo="https://www.funx.nl/apple-touch-icon.png" group-title="NL",NPO FunX Latin
 http://icecast.omroep.nl/funx-latinfb-bb-mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",my105 - Ritmo Latino
-http://stream01.my105.ch/my105ritmolatino.mp3
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bbRPNdd/charts-mainstage.jpg" group-title="DE",# Mainstage Charts - Your FESTIVAL Radio @ EDM - TECHNO - DJ MIXTAPES - RAVE -  LATIN - REGGAETON - MOOMBAHTON - RnB - DJ Charts - HIPHOP - ELECTRO - DEEP HOUSE -  DANCE - LOUNGE - CHILLOUT - SUMMER - IBIZA HOUSE - WEDDING - BACH - SOULFUL - BEACH - CLUB -  GERMANY DJ RADIO - PARTY - BREAKZ - POOL - POP - URBAN - HOT NEW MUSIC
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-mainstage
 
-#EXTINF:-1 tvg-logo="http://i.ibb.co/QFP30Vj/latinjazz2.jpg" group-title="RU",Radio Caprice - Latin / Afro-Cuban Jazz
-http://79.111.119.111:8002/latinjazz
+#EXTINF:-1 tvg-logo="" group-title="CH",my105 - Ritmo Latino
+http://stream01.my105.ch/my105ritmolatino.mp3
 
 #EXTINF:-1 tvg-logo="http://sigmaradiodelicias.com/wp-content/uploads/2018/08/cropped-favicon-sigmaradio-180x180.png" group-title="MX",Romántica (Delicias) - 102.1 FM - XHJK-FM - Sigma Radio - Delicias, CH
 http://sigmaradio.stream:9000/index
+
+#EXTINF:-1 tvg-logo="http://i.ibb.co/QFP30Vj/latinjazz2.jpg" group-title="RU",Radio Caprice - Latin / Afro-Cuban Jazz
+http://79.111.119.111:8002/latinjazz
 
 #EXTINF:-1 tvg-logo="http://www.klassikradio.de/img/ms-mediumtile.png" group-title="DE",Klassik Radio - Brazil
 http://stream.klassikradio.de/brazil/mp3-128/
@@ -131,11 +125,11 @@ http://mediaserv33.live-streams.nl:8034/live
 #EXTINF:-1 tvg-logo="" group-title="DE",Onda Latina
 http://stream.laut.fm/ondalatina
 
-#EXTINF:-1 tvg-logo="https://swissgroove.ch/favicon.ico" group-title="CH",SWISS GROOVE
-https://relay2.swissgroove.ch/;
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QhPqw8N.jpg" group-title="MX",Viva El Mariachi
 https://stream-144.zeno.fm/gs4xg5s0csmtv?zs=DiHqEIidR0ejJ3Bwp-pUKA
+
+#EXTINF:-1 tvg-logo="https://swissgroove.ch/favicon.ico" group-title="CH",SWISS GROOVE
+https://relay2.swissgroove.ch/;
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Радио Монте Карло - Bossa Nova
 https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp
@@ -188,11 +182,11 @@ https://liveaudio.lamusica.com/LA_KXOL_icy
 #EXTINF:-1 tvg-logo="" group-title="DE",BreakZ.FM - Charts & Remixe
 https://stream.breakz.fm/?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-reggae_600x600.jpg" group-title="DE",- 0 N - Reggae on Radio
-https://0n-reggae.radionetz.de/0n-reggae.aac
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s90pDjm/brazil.jpg" group-title="DE",0nlineradio BRAZIL
 https://stream.0nlineradio.com/brazil?ref=radiobrowser
+
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-reggae_600x600.jpg" group-title="DE",- 0 N - Reggae on Radio
+https://0n-reggae.radionetz.de/0n-reggae.aac
 
 #EXTINF:-1 tvg-logo="https://openbroadcast.ch/static/assets/manifest/icon-triangle-white.91b2fd954957.png" group-title="CH",open broadcast radio
 http://stream.openbroadcast.ch/320.mp3
@@ -221,20 +215,17 @@ http://stream.laut.fm/mojo
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Mambo
 https://mambo.newradio.it/stream
 
+#EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - the sun
+http://ilm.stream35.radiohost.de/ilm_ilovethesun_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzg3MzM3MjI2JmQ9YjZhNmMzYzY2Njc2MjM2ZTM3YTc
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s240544/images/logod.png" group-title="NI",Stereo Beso 94.5 FM
 https://a9.asurahosting.com:7140/radio.mp3
-
-#EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - the sun
-http://ilm.stream35.radiohost.de/ilm_ilovethesun_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDM2MDgxJmQ9ZjYyYzJkNThjZWY5M2I4Mzk0NjY
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0J7g21/main-mornin-party-night.jpg" group-title="DE",# Mainstream Mornings & Party Nights - (Morning/Day: Mainstream, Top 40, Charts - Evening/Night: Party, House, Techno, DJ Mixes, Live DJs)
 https://breakz-high.rautemusik.fm/?ref=maindjatnightrb
 
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio URBAN
 https://stream.0nlineradio.com/urban?ref=radiobrowser
-
-#EXTINF:-1 tvg-logo="http://radioalfatropical3.blogspot.com/favicon.ico" group-title="US",radioalfa tropical3
-http://stream.zeno.fm/vpa99paruy8uv
 
 #EXTINF:-1 tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/262fe18f-9207-459e-b41f-96c5d9269613.jpg" group-title="AE",Exclusively Linda Ronstadt
 http://2.mystreaming.net/er/lindaronstadt/icecast.audio
@@ -266,20 +257,17 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playl
 #EXTINF:-1 tvg-logo="" group-title="DE",Musicaplus Radio
 http://stream.laut.fm/musicaplus
 
-#EXTINF:-1 tvg-logo="https://storage.googleapis.com/wzukusers/user-26732048/images/fav-fd57baf25a1242509f0335efce40b200/apple-touch-icon-120x120.png?v=fav-fd57baf25a1242509f0335efce40b200" group-title="US",MYXX FM (MIX FM Dallas)
-https://cdn2.cloudrad.io/myxxfm/live/listen.pls
-
 #EXTINF:-1 tvg-logo="https://radio1550.com/wp-content/uploads/2025/01/cropped-cropped-PWA-512X512-192x192.png" group-title="PE",Radio 1550, La Radio Joven. Huancayo. 88.9 FM.
 https://streaming.virtugo.digital:8002/stream
 
 #EXTINF:-1 tvg-logo="" group-title="MX",Vida (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, GR
 https://ss1.audiorama.com.mx:6610/
 
-#EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="MX",Soy FM (Veracruz) - 101.7 FM - XHPR-FM - Grupo Radio Digital - Boca del Río, Veracruz
-https://stream.zeno.fm/uemgdeyam5zuv
-
 #EXTINF:-1 tvg-logo="https://radio.archipielago.uno/radio-sola.png" group-title="PR",Radio Costa
 https://radio.archipielago.uno/radiocosta
+
+#EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="MX",Soy FM (Veracruz) - 101.7 FM - XHPR-FM - Grupo Radio Digital - Boca del Río, Veracruz
+https://stream.zeno.fm/uemgdeyam5zuv
 
 #EXTINF:-1 tvg-logo="https://www.radioraheem.it/wp-content/themes/gds-vue/meta/favicon.ico" group-title="IT",Radio Raheem
 https://radioraheem.out.airtime.pro/radioraheem_a
@@ -293,12 +281,24 @@ https://streamer.radio.co/s00c7ec6fa/listen
 #EXTINF:-1 tvg-logo="" group-title="CW",Paradise FM Latin
 https://stream.paradisefm.cw/ParadiseLatin
 
-#EXTINF:-1 tvg-logo="" group-title="MX",Radio Latina (Tijuana) - 104.5 FM - XHLTN-FM - Grupo Imagen - Tijuana, Baja California
-https://playerservices.streamtheworld.com/api/livestream-redirect/XLTNFMAAC.aac
-
 #EXTINF:-1 tvg-logo="" group-title="DE",Musik-Kurier
 http://stream.laut.fm/musik-kurier
 
-#EXTINF:-1 tvg-logo="https://radiomujer.com.mx/wp-content/uploads/2019/01/unnamed.png" group-title="MX",Radio Mujer 92.7
-https://strcdn.klm99.com/8118/stream/1/
+#EXTINF:-1 tvg-logo="" group-title="MX",Vida (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones  - Acapulco, GR
+https://ss1.audiorama.com.mx:6610/vida
+
+#EXTINF:-1 tvg-logo="https://www.hits1radio.com/wp-content/uploads/2019/03/dummy-e1554135926529.jpg" group-title="FR",Hits 1 latina
+https://hits1latina-audiomediaradio.radioca.st/latina
+
+#EXTINF:-1 tvg-logo="https://radiolatinamerika.no/templates/yoo_showroom/favicon.ico" group-title="NO",Radio Latin-Amerika
+https://stream.radiolatinamerika.no/latam_hq
+
+#EXTINF:-1 tvg-logo="" group-title="CA",La Bonita X101
+https://listen.labonita.torontocast.stream/
+
+#EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="IT",Deejay Gasolina
+https://streamcdnr7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Bar Latina Radio
+https://s2.citrus3.com:2000/stream/barlatinaradio
 

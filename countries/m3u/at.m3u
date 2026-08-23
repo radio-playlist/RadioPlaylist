@@ -29,9 +29,6 @@ https://s35.derstream.net/100austria.mp3
 #EXTINF:-1 tvg-logo="https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png" group-title="AT",ORF Hitradio Ö3 | HQ
 https://orf-live.ors-shoutcast.at/oe3-q2a
 
-#EXTINF:-1 tvg-logo="" group-title="AT",Superfly FM
-http://stream01.superfly.fm:8080/live128
-
 #EXTINF:-1 tvg-logo="https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png" group-title="AT",FM4 | ORF | HQ
 https://orf-live.ors-shoutcast.at/fm4-q2a
 
@@ -72,7 +69,7 @@ http://radio886.at/streams/88.6_Classic_Rock/mp3
 https://orf-live.ors-shoutcast.at/vbg-q1a
 
 #EXTINF:-1 tvg-logo="" group-title="AT",Rock Antenne Österreich
-http://s1-webradio.webradio.de/rockantenne-oesterreich
+http://s2-webradio.webradio.de/rockantenne-oesterreich
 
 #EXTINF:-1 tvg-logo="http://jazz.w3.at/logo.png" group-title="AT",JazzW3
 http://jazz.w3.at:8000/w3jazz.mp3
@@ -158,9 +155,6 @@ https://web.radio.antennevorarlberg.at/av-live?aggregator=Radioplayer
 #EXTINF:-1 tvg-logo="https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png" group-title="AT",WELLE 1 - Oberösterreich - HQ
 https://live.welle1.at:17256/stream
 
-#EXTINF:-1 tvg-logo="http://www.radiosol.at/favicon.ico" group-title="AT",Radio SOL 95.5
-http://sol.anw.at:8023/stream
-
 #EXTINF:-1 tvg-logo="" group-title="AT",Life Radio Chill Out
 https://stream8.liferadio.at/
 
@@ -183,7 +177,7 @@ http://live.gruen-weiss.at/rgw.mp3
 http://orf-live.ors-shoutcast.at/oe1-q1a
 
 #EXTINF:-1 tvg-logo="" group-title="AT",1000-ELECTRONIC-DANCE-MUSIC
-http://1000-electronic-dance-music.stream.laut.fm/1000-electronic-dance-music?pl=m3u&t302=2026-01-15_07-00-37&uuid=723aa614-de54-4e48-af9b-a44bd7f9884b
+http://1000-electronic-dance-music.stream.laut.fm/1000-electronic-dance-music?pl=m3u&t302=2026-08-22_02-36-21&uuid=bb18ece2-0fad-4a7d-b5f9-a9d76987e12d
 
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/favicon.ico" group-title="AT",Antenne Vorarlberg 80s Hits
 http://web.radio.antennevorarlberg.at/av-80er?aggregator=surfmusik
@@ -200,23 +194,23 @@ http://host6.cartwall.at:9630/
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/wp-content/uploads//2021/03/70er-1000x1000-Slogan-runde-Ecken-144x144.png" group-title="AT",Antenne Vorarlberg 70er Hits
 https://web.radio.antennevorarlberg.at/av-70er
 
-#EXTINF:-1 tvg-logo="" group-title="AT",Radio Flamingo
-http://live.antenne.at/rf
-
 #EXTINF:-1 tvg-logo="https://liferadio.konsole-labs.com/img/live.png" group-title="AT",Life Radio Tirol
 http://stream.liferadio.tirol/live/aac-256/SHQ
 
 #EXTINF:-1 tvg-logo="https://orfodon.org/system/accounts/avatars/111/374/484/561/807/260/original/04efe58e0bc4d119.png" group-title="AT",ORF Radio Oberösterreich
 https://orf-live.ors-shoutcast.at/ooe-q1a
 
+#EXTINF:-1 tvg-logo="" group-title="AT",Radio Flamingo
+http://live.antenne.at/rf
+
 #EXTINF:-1 tvg-logo="" group-title="AT",Radio Maria Austria
 http://live.radiomaria.at:8000/rma
 
-#EXTINF:-1 tvg-logo="" group-title="AT",Life Radio ClassicRock
-https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/
-
 #EXTINF:-1 tvg-logo="https://orfodon.org/system/accounts/avatars/111/374/561/229/082/482/original/57acca969ede8452.png" group-title="AT",ORF Tirol
 http://orf-live.ors-shoutcast.at/tir-q1a
+
+#EXTINF:-1 tvg-logo="" group-title="AT",Life Radio ClassicRock
+https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/5/83425.v1.png" group-title="AT",Blechradio 1
 https://streamt.at/radio/8000/blechradio1.mp3
@@ -233,20 +227,20 @@ http://live.gruen-weiss.at/rgw.aac
 #EXTINF:-1 tvg-logo="https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png" group-title="AT",Arabella Tiamo
 https://frontend.streams.arabella.at/arabella-tiamo/stream/mp3?aggregator=arabella-playlistfile
 
-#EXTINF:-1 tvg-logo="" group-title="AT",Arabella 90 er
-https://frontend.streams.arabella.at/arabella-90er?aggregator=arabella-playlistfile
-
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png" group-title="AT",Antenne Vorarlberg 90s Hits
 https://web.radio.antennevorarlberg.at/av-90er
 
 #EXTINF:-1 tvg-logo="" group-title="AT",Antenne Austro Hits
 https://live.antenne.at/auh
 
+#EXTINF:-1 tvg-logo="" group-title="AT",Arabella 90 er
+https://frontend.streams.arabella.at/arabella-90er?aggregator=arabella-playlistfile
+
 #EXTINF:-1 tvg-logo="" group-title="AT",Dark Synth Radio
 http://darksynthradio.stream.laut.fm/darksynthradio?t302=2023-11-20_08-30-31&uuid=c4e07d87-378c-4318-bb0a-00c0fd1be5aa
 
 #EXTINF:-1 tvg-logo="https://antenneoesterreich.oe24.at/apple-touch-icon.png" group-title="AT",Antenna Österreich
-https://edge70.streamonkey.net/antoesterreich-live
+https://edge64.streamonkey.net/antoesterreich-live
 
 #EXTINF:-1 tvg-logo="" group-title="AT",KroneHit Radio
 http://onair-ha1.krone.at/kronehit.aac
@@ -257,11 +251,11 @@ http://live.njoyradio.at/njoy
 #EXTINF:-1 tvg-logo="https://orfodon.org/system/accounts/avatars/111/374/623/444/743/699/original/3022673107e835ba.png" group-title="AT",Radio Vorarlberg HQ
 https://orf-live.ors-shoutcast.at/vbg-q2a
 
-#EXTINF:-1 tvg-logo="" group-title="AT",transhits
-http://radiorecord.hostingradio.ru/trancehits96.aacp
-
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/favicon.ico" group-title="AT",Antenne Vorarlberg Chillout Lounge
 https://web.radio.antennevorarlberg.at/av-chillout
+
+#EXTINF:-1 tvg-logo="" group-title="AT",transhits
+http://radiorecord.hostingradio.ru/trancehits96.aacp
 
 #EXTINF:-1 tvg-logo="" group-title="AT",Radio Helsinki 92,6 MHz (160 kbps)
 http://live.helsinki.at:8088/live160.mp3
@@ -284,11 +278,11 @@ https://web.radio.antennevorarlberg.at/av-schlagerkult
 #EXTINF:-1 tvg-logo="" group-title="AT",ARBÖ Verkehrsradio
 http://live.datamatix.at:8022/
 
-#EXTINF:-1 tvg-logo="" group-title="AT",Arabella hot
-https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile
-
 #EXTINF:-1 tvg-logo="" group-title="AT",Antenne Vorarlberg Chillout Lounge
 https://web.radio.antennevorarlberg.at/av-chillout
+
+#EXTINF:-1 tvg-logo="" group-title="AT",Arabella hot
+https://frontend.streams.arabella.at/arabella-hot/stream/mp3?aggregator=arabella-playlistfile
 
 #EXTINF:-1 tvg-logo="https://oe1.orf.at/favicon.ico" group-title="AT",oe1 surround
 https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8
@@ -301,4 +295,10 @@ http://stream.erf.at/erfplus_192
 
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png" group-title="AT",Antenne Vorarlberg 2000er Hits
 https://web.radio.antennevorarlberg.at/av-2000er
+
+#EXTINF:-1 tvg-logo="" group-title="AT",Freies Radio Freistadt
+http://212.89.182.114:8008/frf
+
+#EXTINF:-1 tvg-logo="https://www.lounge.fm/wp-content/uploads/2014/06/loungefm_logo_colour2-300x300.jpg" group-title="AT",Lounge.FM Kanal 2 - Wien
+https://s35.derstream.net/ukwwien.mp3
 

@@ -14,8 +14,8 @@
     "tags": "oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 13502,
-    "clickcount": 24
+    "votes": 13562,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12383,
-    "clickcount": 12
+    "votes": 12412,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "news,public radio,rtvs,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11295,
-    "clickcount": 11
+    "votes": 11327,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "alternative,local music,multicultural,world music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 9897,
-    "clickcount": 9
+    "votes": 9920,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 8760,
-    "clickcount": 20
+    "votes": 8766,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -104,7 +104,7 @@
     "tags": "dance,eurodance,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8162,
+    "votes": 8179,
     "clickcount": 12
   },
   {
@@ -122,8 +122,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4893,
-    "clickcount": 9
+    "votes": 4900,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 40,
-    "votes": 4093,
-    "clickcount": 4
+    "votes": 4094,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -158,7 +158,7 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3809,
+    "votes": 3823,
     "clickcount": 15
   },
   {
@@ -176,8 +176,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3521,
-    "clickcount": 24
+    "votes": 3534,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -194,8 +194,8 @@
     "tags": "cultural,drama,literature,public radio,readings,rtvs,čítanie",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3308,
-    "clickcount": 9
+    "votes": 3314,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -212,8 +212,8 @@
     "tags": "catholic,christian",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3293,
-    "clickcount": 12
+    "votes": 3295,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -230,26 +230,8 @@
     "tags": "alternative,indie,pop,public radio,rtvs,youth",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 2950,
+    "votes": 2954,
     "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96252946-0601-11e8-ae97-52543be04c81",
-    "name": "SRo3: Rádio Devín",
-    "url": "http://icecast.stv.livebox.sk/devin_128.mp3",
-    "url_resolved": "http://icecast.stv.livebox.sk/devin_128.mp3",
-    "homepage": "http://devin.rtvs.sk/",
-    "favicon": "",
-    "countrycode": "SK",
-    "state": "Slovakia",
-    "language": "slovak",
-    "tags": "alternative,arts,classical,cultural,litera,public radio,rtvs",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2029,
-    "clickcount": 11
   },
   {
     "id": null,
@@ -266,8 +248,26 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2013,
-    "clickcount": 2
+    "votes": 2043,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96252946-0601-11e8-ae97-52543be04c81",
+    "name": "SRo3: Rádio Devín",
+    "url": "http://icecast.stv.livebox.sk/devin_128.mp3",
+    "url_resolved": "http://icecast.stv.livebox.sk/devin_128.mp3",
+    "homepage": "http://devin.rtvs.sk/",
+    "favicon": "",
+    "countrycode": "SK",
+    "state": "Slovakia",
+    "language": "slovak",
+    "tags": "alternative,arts,classical,cultural,litera,public radio,rtvs",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 2032,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -284,8 +284,8 @@
     "tags": "public radio,regional radio,rtvs",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1992,
-    "clickcount": 9
+    "votes": 1994,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1920,
-    "clickcount": 5
+    "votes": 1925,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -320,8 +320,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1652,
-    "clickcount": 2
+    "votes": 1662,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -338,8 +338,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1617,
-    "clickcount": 5
+    "votes": 1632,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -355,9 +355,9 @@
     "language": "slovak",
     "tags": "ethnic,folklore",
     "codec": "MP3",
-    "bitrate": 160,
-    "votes": 1540,
-    "clickcount": 3
+    "bitrate": 192,
+    "votes": 1543,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -374,8 +374,8 @@
     "tags": "public radio,regional radio,rtvs",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1440,
-    "clickcount": 5
+    "votes": 1443,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -392,8 +392,8 @@
     "tags": "minority,public radio,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1419,
-    "clickcount": 3
+    "votes": 1425,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -409,9 +409,9 @@
     "language": "slovak",
     "tags": "košice,local,news,pop,rock",
     "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1407,
-    "clickcount": 5
+    "bitrate": 0,
+    "votes": 1408,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -428,8 +428,8 @@
     "tags": "public radio,regional radio,rtvs",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1394,
-    "clickcount": 7
+    "votes": 1395,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -446,8 +446,8 @@
     "tags": "goldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1158,
-    "clickcount": 2
+    "votes": 1162,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -464,8 +464,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 320,
-    "votes": 1142,
-    "clickcount": 2
+    "votes": 1145,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -482,8 +482,8 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1119,
-    "clickcount": 1
+    "votes": 1124,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -501,7 +501,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 1038,
-    "clickcount": 11
+    "clickcount": 7
   },
   {
     "id": null,
@@ -536,8 +536,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 983,
-    "clickcount": 17
+    "votes": 1001,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -554,8 +554,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 887,
-    "clickcount": 38
+    "votes": 894,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -572,8 +572,8 @@
     "tags": "folk",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 794,
-    "clickcount": 0
+    "votes": 795,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -590,8 +590,8 @@
     "tags": "dance",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 787,
-    "clickcount": 2
+    "votes": 791,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -607,9 +607,9 @@
     "language": "",
     "tags": "classical",
     "codec": "MP3",
-    "bitrate": 112,
+    "bitrate": 128,
     "votes": 771,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -626,7 +626,7 @@
     "tags": "local news,local radio,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 726,
+    "votes": 729,
     "clickcount": 0
   },
   {
@@ -644,7 +644,7 @@
     "tags": "dance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 706,
+    "votes": 715,
     "clickcount": 3
   },
   {
@@ -662,7 +662,7 @@
     "tags": "80-90",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 695,
+    "votes": 704,
     "clickcount": 4
   },
   {
@@ -680,7 +680,7 @@
     "tags": "bojnice,music,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 693,
+    "votes": 694,
     "clickcount": 1
   },
   {
@@ -698,7 +698,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 679,
+    "votes": 685,
     "clickcount": 2
   },
   {
@@ -734,8 +734,8 @@
     "tags": "folk",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 568,
-    "clickcount": 2
+    "votes": 571,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -753,7 +753,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 562,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -771,7 +771,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 547,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -788,8 +788,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 504,
-    "clickcount": 8
+    "votes": 508,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -806,8 +806,8 @@
     "tags": "oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 468,
-    "clickcount": 4
+    "votes": 483,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -824,8 +824,8 @@
     "tags": "local news,local radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 463,
-    "clickcount": 1
+    "votes": 464,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -842,7 +842,7 @@
     "tags": "new music,various",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 445,
+    "votes": 446,
     "clickcount": 0
   },
   {
@@ -860,7 +860,7 @@
     "tags": "60,70",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 432,
+    "votes": 443,
     "clickcount": 1
   },
   {
@@ -878,8 +878,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 341,
-    "clickcount": 2
+    "votes": 343,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -914,7 +914,7 @@
     "tags": "christian",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 331,
+    "votes": 333,
     "clickcount": 0
   },
   {
@@ -933,7 +933,7 @@
     "codec": "MP3",
     "bitrate": 256,
     "votes": 330,
-    "clickcount": 7
+    "clickcount": 4
   },
   {
     "id": null,
@@ -949,9 +949,9 @@
     "language": "carpatho-rusyn",
     "tags": "ethnic programming,folk",
     "codec": "MP3",
-    "bitrate": 160,
-    "votes": 311,
-    "clickcount": 1
+    "bitrate": 192,
+    "votes": 312,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -968,8 +968,8 @@
     "tags": "relax",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 309,
-    "clickcount": 2
+    "votes": 310,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -986,8 +986,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 300,
-    "clickcount": 0
+    "votes": 306,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1005,7 +1005,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 256,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1022,8 +1022,8 @@
     "tags": "oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 239,
-    "clickcount": 5
+    "votes": 255,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1041,7 +1041,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 226,
-    "clickcount": 3
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1058,8 +1058,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 223,
-    "clickcount": 3
+    "votes": 224,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1094,8 +1094,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 160,
-    "votes": 202,
-    "clickcount": 4
+    "votes": 205,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1112,8 +1112,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 199,
-    "clickcount": 4
+    "votes": 202,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1130,8 +1130,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 193,
-    "clickcount": 0
+    "votes": 194,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1146,6 +1146,24 @@
     "state": "",
     "language": "",
     "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 186,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f77411a2-8285-4271-8fa8-178a0792a22c",
+    "name": "METALSCENA netRADIO",
+    "url": "https://listen.radioking.com/radio/263218/stream/308365",
+    "url_resolved": "https://listen.radioking.com/radio/263218/stream/308365",
+    "homepage": "https://www.metalscena.sk/",
+    "favicon": "",
+    "countrycode": "SK",
+    "state": "",
+    "language": "slovak",
+    "tags": "heavy metal,underground",
     "codec": "MP3",
     "bitrate": 128,
     "votes": 185,
@@ -1166,26 +1184,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 182,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f77411a2-8285-4271-8fa8-178a0792a22c",
-    "name": "METALSCENA netRADIO",
-    "url": "https://listen.radioking.com/radio/263218/stream/308365",
-    "url_resolved": "https://listen.radioking.com/radio/263218/stream/308365",
-    "homepage": "https://www.metalscena.sk/",
-    "favicon": "",
-    "countrycode": "SK",
-    "state": "",
-    "language": "slovak",
-    "tags": "heavy metal,underground",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 181,
-    "clickcount": 0
+    "votes": 184,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1202,8 +1202,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 179,
-    "clickcount": 4
+    "votes": 180,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1220,8 +1220,8 @@
     "tags": "various",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 174,
-    "clickcount": 1
+    "votes": 177,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1238,8 +1238,8 @@
     "tags": "truth about the world. pravda o svete.",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 169,
-    "clickcount": 4
+    "votes": 170,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1256,8 +1256,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 166,
-    "clickcount": 2
+    "votes": 168,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1274,8 +1274,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 155,
-    "clickcount": 10
+    "votes": 156,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1292,7 +1292,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 149,
+    "votes": 150,
     "clickcount": 0
   },
   {
@@ -1310,8 +1310,8 @@
     "tags": "pop music",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 142,
-    "clickcount": 1
+    "votes": 146,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1329,25 +1329,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 141,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "21cd0c8e-1d30-43a7-a7c6-e3e2244339e5",
-    "name": "Radio Dychovka",
-    "url": "https://epanel.mediacp.eu:7661/stream",
-    "url_resolved": "https://epanel.mediacp.eu:7661/stream",
-    "homepage": "https://www.radiodychovka.sk/",
-    "favicon": "https://cdn.websupport.eu/odin/custom_error_pages/images/favicon.png",
-    "countrycode": "SK",
-    "state": "",
-    "language": "czech,slovak",
-    "tags": "blasmusik,brass,folk music",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 137,
-    "clickcount": 3
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1364,26 +1346,8 @@
     "tags": "club dance,electro house,electronic dance music,pop,pop dance,pop music",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 129,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "4f99292d-e7c8-4b09-b81b-deaef50a3ab7",
-    "name": "Rádio v Nitre",
-    "url": "http://195.210.28.150:8932/radiovnitre_live.mp3",
-    "url_resolved": "http://195.210.28.150:8932/radiovnitre_live.mp3",
-    "homepage": "https://radiovnitre.sk/",
-    "favicon": "https://radiovnitre.sk/assets/images/apple-icon-120x120.png",
-    "countrycode": "SK",
-    "state": "",
-    "language": "slovak",
-    "tags": "nitra,pop",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 127,
-    "clickcount": 0
+    "votes": 130,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1417,7 +1381,7 @@
     "language": "slovak",
     "tags": "classic rock,hard rock,rock",
     "codec": "MP3",
-    "bitrate": 128,
+    "bitrate": 256,
     "votes": 118,
     "clickcount": 0
   },
@@ -1437,7 +1401,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 118,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1454,8 +1418,8 @@
     "tags": "chill,chillout,jazz,smooth jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 114,
-    "clickcount": 2
+    "votes": 116,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1472,7 +1436,25 @@
     "tags": "classic rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 113,
+    "votes": 114,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "59223240-4a86-492d-aed7-14025920265d",
+    "name": "Rádio Viva",
+    "url": "http://stream.sepia.sk:8000/viva128.mp3",
+    "url_resolved": "http://stream.sepia.sk:8000/viva128.mp3",
+    "homepage": "http://www.radioviva.sk/",
+    "favicon": "",
+    "countrycode": "SK",
+    "state": "",
+    "language": "slovak",
+    "tags": "various",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 111,
     "clickcount": 1
   },
   {
@@ -1490,26 +1472,8 @@
     "tags": "music,news,talk,variety",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 109,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "59223240-4a86-492d-aed7-14025920265d",
-    "name": "Rádio Viva",
-    "url": "http://stream.sepia.sk:8000/viva128.mp3",
-    "url_resolved": "http://stream.sepia.sk:8000/viva128.mp3",
-    "homepage": "http://www.radioviva.sk/",
-    "favicon": "",
-    "countrycode": "SK",
-    "state": "",
-    "language": "slovak",
-    "tags": "various",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 106,
-    "clickcount": 1
+    "votes": 110,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1526,8 +1490,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 106,
-    "clickcount": 2
+    "votes": 107,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1544,8 +1508,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 105,
-    "clickcount": 6
+    "votes": 106,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1563,7 +1527,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 105,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1581,24 +1545,6 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 101,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "8f423278-840d-40b3-bb3e-6b69f74c8492",
-    "name": "Rádio KIKS - Big 80s",
-    "url": "https://online.radiokiks.sk:8000/kiks_big80s.mp3",
-    "url_resolved": "https://online.radiokiks.sk:8000/kiks_big80s.mp3",
-    "homepage": "https://www.radiokiks.sk/",
-    "favicon": "https://www.radiokiks.sk/favicon.ico",
-    "countrycode": "SK",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 99,
     "clickcount": 0
   },
   {
@@ -1616,8 +1562,26 @@
     "tags": "60s,70s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 96,
-    "clickcount": 0
+    "votes": 101,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "8f423278-840d-40b3-bb3e-6b69f74c8492",
+    "name": "Rádio KIKS - Big 80s",
+    "url": "https://online.radiokiks.sk:8000/kiks_big80s.mp3",
+    "url_resolved": "https://online.radiokiks.sk:8000/kiks_big80s.mp3",
+    "homepage": "https://www.radiokiks.sk/",
+    "favicon": "https://www.radiokiks.sk/favicon.ico",
+    "countrycode": "SK",
+    "state": "",
+    "language": "",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 99,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1634,8 +1598,8 @@
     "tags": "pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 91,
-    "clickcount": 2
+    "votes": 92,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1653,25 +1617,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 90,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "166c7734-19e0-4612-b16c-301858582cb5",
-    "name": "Rádio Pohoda 2",
-    "url": "http://mpc1.mediacp.eu:18111/stream",
-    "url_resolved": "http://mpc1.mediacp.eu:18111/stream",
-    "homepage": "https://radiopohoda.com/",
-    "favicon": "",
-    "countrycode": "SK",
-    "state": "Slovensko",
-    "language": "slovak",
-    "tags": "country music",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 89,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1687,8 +1633,8 @@
     "language": "slovak",
     "tags": "children,childrens music",
     "codec": "MP3",
-    "bitrate": 192,
-    "votes": 87,
+    "bitrate": 0,
+    "votes": 88,
     "clickcount": 5
   },
   {
@@ -1712,6 +1658,24 @@
   {
     "id": null,
     "source": "radio_browser_github",
+    "stationuuid": "1a7b895a-56a7-422d-b498-8a282f73430f",
+    "name": "RÁDIO BEST FM",
+    "url": "https://stream3.bestfm.sk:8000/128.mp3",
+    "url_resolved": "https://stream3.bestfm.sk:8000/128.mp3",
+    "homepage": "http://bestfm.sk/",
+    "favicon": "https://i.imgur.com/ty0Rjzh.png",
+    "countrycode": "SK",
+    "state": "",
+    "language": "slovak",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 81,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
     "stationuuid": "1c05a63e-76a3-45ad-be21-13b1ec74bf6b",
     "name": "Radio Melody",
     "url": "https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid=melody_web_mobile",
@@ -1725,7 +1689,7 @@
     "codec": "MP3",
     "bitrate": 64,
     "votes": 80,
-    "clickcount": 3
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1743,25 +1707,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 80,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "1a7b895a-56a7-422d-b498-8a282f73430f",
-    "name": "RÁDIO BEST FM",
-    "url": "https://stream3.bestfm.sk:8000/128.mp3",
-    "url_resolved": "https://stream3.bestfm.sk:8000/128.mp3",
-    "homepage": "http://bestfm.sk/",
-    "favicon": "https://i.imgur.com/ty0Rjzh.png",
-    "countrycode": "SK",
-    "state": "",
-    "language": "slovak",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 80,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1797,6 +1743,60 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 77,
-    "clickcount": 4
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "329577b0-b2ed-4191-bab7-a44dd1d790c0",
+    "name": "Rádio FM",
+    "url": "https://icecast.stv.livebox.sk/fm_128.mp3",
+    "url_resolved": "https://icecast.stv.livebox.sk/fm_128.mp3",
+    "homepage": "https://fm.rtvs.sk/",
+    "favicon": "",
+    "countrycode": "SK",
+    "state": "",
+    "language": "slovak",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 75,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f6da7b70-916b-4c64-bf73-ddbb5a561734",
+    "name": "TRNAVSKÉ RÁDIO",
+    "url": "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske",
+    "url_resolved": "https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske",
+    "homepage": "https://trnavske.radio/",
+    "favicon": "https://i.imgur.com/10yFTbI.png",
+    "countrycode": "SK",
+    "state": "Trnava",
+    "language": "",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 74,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "e876d397-4a73-4a31-aa94-810aeec81465",
+    "name": "Radio Extra",
+    "url": "http://live.topradio.cz:8000/extra192",
+    "url_resolved": "http://live.topradio.cz:8000/extra192",
+    "homepage": "https://radioextra.sk/",
+    "favicon": "https://radioextra.sk/favicon.ico",
+    "countrycode": "SK",
+    "state": "",
+    "language": "slovak",
+    "tags": "bratislava,pop,top 40,top hits,top40",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 70,
+    "clickcount": 0
   }
 ]

@@ -20,14 +20,8 @@ https://listen.reyfm.de/lofi_320kbps.mp3
 #EXTINF:-1 tvg-logo="" group-title="NC",NIA Radio Lo-Fi
 https://radio.nia.nc/radio/8020/lofi-hq-stream.aac
 
-#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FzZe3OLAP0usX0Z0Q53XrrFuLKaNHO50zZ0gS3s8578k%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzc1MTZmNTdlLTQ3ZTctNDQ1My1hYzFkLWRkNDliZGE5OWExZS9pbWFnZS8_dXBkYXRlZD0xNjk4NzExMzA2MDAw.webp&w=1920&q=100" group-title="US",LoFi Afrobeats Radio
-https://stream.zeno.fm/34vsiqt1kaktv
-
 #EXTINF:-1 tvg-logo="https://radio.digitalmalayali.in/static/uploads/album_art.1688135987.jpg" group-title="IN",Radio Digital Malayali
 https://radio.digitalmalayali.in/listen/stream/radio.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="RU",lofi
-https://pub0202.101.ru:8443/stream/pro/aac/64/358?
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Epic Lounge - WORKDAY LOUNGE
 https://stream.epic-lounge.com/workday-lounge?ref=radiobrowser
@@ -86,29 +80,20 @@ https://radio.sutekihost.com/listen/bgmvibes/radio.mp3
 #EXTINF:-1 tvg-logo="" group-title="DE",Retro Lofi Chiptune Radio
 https://a5.asurahosting.com:8150/radio.mp3
 
-#EXTINF:-1 tvg-logo="https://b3ck.com/uploadz/uploads/b3cks-radio.png" group-title="US",b3cks-radio
-https://radio.b3ck.com/listen/b3cks-radio/radio.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="KR",ARA FM
 http://141.164.38.238/listen/ara_fm/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://mugenradio.com/cover-mugen-3000.png" group-title="XX",MUGEN Radio
 https://mugenradio.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.live365.com/download/0f7908ae-7a6e-449a-bcb7-4a92b39fd1cb.png/400/image.webp" group-title="US",No AC/DC
-https://das-edge12-live365-dal02.cdnstream.com/a52726
-
-#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-lo-fi-en-mp3.jpg" group-title="FR",Hotmix Lo-Fi
-https://streaming.hotmixradio.com/hotmix-lofi-en-mp3?provider=radiobrowser
-
-#EXTINF:-1 tvg-logo="https://image.live365.com/download/ee7c8c6a-0e70-431e-94c8-6903a10e21cc.png/400/image.webp" group-title="US",Untidy Radio
-https://das-edge17-live365-dal02.cdnstream.com/a14325
-
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/a32f99500d9bc3864c7b619152c8e6e9?t=_120x120" group-title="DE",Special-Radio
-https://special-radio.stream.laut.fm/special-radio?t302=2026-03-24_22-09-25&uuid=bbf6c4db-2005-4024-9674-9ccb3a4d3d90
+https://special-radio.stream.laut.fm/special-radio?t302=2026-08-22_05-08-15&uuid=3ea2fdd9-8517-4459-b2c6-38ba6a59964a
 
 #EXTINF:-1 tvg-logo="https://www.cliamp.stream/favicon.svg" group-title="NO",CLIAMP Lofi Hip Hop Radio
 http://radio.cliamp.stream/lofi/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.hotmixradio.com/hotmix-lo-fi-en-mp3.jpg" group-title="FR",Hotmix Lo-Fi
+https://streaming.hotmixradio.com/hotmix-lofi-en-mp3?provider=radiobrowser
 
 #EXTINF:-1 tvg-logo="https://broadcaster.live365.com/static/assets/logos/default.jpg" group-title="US",Osage Orange Radio
 https://das-edge62-live365-dal03.cdnstream.com/a08442
@@ -117,16 +102,16 @@ https://das-edge62-live365-dal03.cdnstream.com/a08442
 https://slsdigitalradio.com:8000/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/9721c8d3b2da107f0341ce2e5c01bc9a?t=_120x120" group-title="DE",Zocker-FM
-https://zockerfm.stream.laut.fm/zockerfm?t302=2026-03-24_21-33-02&uuid=6eac6792-303d-4e5d-ad71-01368a022035
+https://zockerfm.stream.laut.fm/zockerfm?t302=2026-08-22_05-53-12&uuid=601f6439-5631-4d81-9a90-272e893a7932
 
 #EXTINF:-1 tvg-logo="" group-title="FR",hotmix LoFi
 https://streaming.hotmixradio.com/hotmix-lofi-en-mp3
 
-#EXTINF:-1 tvg-logo="" group-title="BR",Midnight station
-http://129.146.164.81:8181/listen/midnight_station/radio.mp3
-
 #EXTINF:-1 tvg-logo="https://fmvfitradio.webicdp.com/favicon.png" group-title="RO",FMV FIT Radio Focus
 https://radio.webicdp.com/listen/fmvfitradiofocus/radio.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="MX",Radio San Pancho
+https://listen.radioking.com/radio/680182/stream/744577
 
 #EXTINF:-1 tvg-logo="https://hunter.fm/favicon.ico" group-title="BR",Hunter.fm O Canal Lo-Fi (High)
 https://live.hunter.fm/lofi_high

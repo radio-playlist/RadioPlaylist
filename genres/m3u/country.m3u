@@ -3,7 +3,7 @@
 #PLAYLIST:RadioCatalog - COUNTRY
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Country
-http://26343.live.streamtheworld.com/977_COUNTRY_SC
+http://15113.live.streamtheworld.com/977_COUNTRY_SC
 
 #EXTINF:-1 tvg-logo="http://www.radiocaroline.co.uk/favicon.ico" group-title="GB",Radio Caroline
 http://78.129.202.200:8040/;
@@ -14,20 +14,11 @@ http://strm112.1.fm/acountry_mobile_mp3
 #EXTINF:-1 tvg-logo="http://www.countryradio.cz/assets/favicon/apple-touch-icon.png" group-title="CZ",Country Radio
 http://icecast2.play.cz:8000/country128aac
 
-#EXTINF:-1 tvg-logo="" group-title="AF",Classic Country
-http://185.33.21.112/ccountry_mobile_mp3
-
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - 80's Country
 http://listen.181fm.com/181-80scountry_128k.mp3
 
-#EXTINF:-1 tvg-logo="https://www.requestradio.in.th/favicon.ico" group-title="TH",RequestRadio เพื่อชีวิต
-https://cast.requestradio.in.th:830/stream/
-
 #EXTINF:-1 tvg-logo="" group-title="US",181.FM - Kickin' Country
-http://listen.181fm.com/181-kickincountry_128k.mp3
-
-#EXTINF:-1 tvg-logo="http://www.irishcountrymusicradio.com/main/favicon.ico" group-title="IE",Irish Country Music Radio
-http://46.28.49.164:7502/
+https://listen.181fm.com/181-kickincountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="http://www.country108.com/assets/images/logo.png" group-title="DE",Country 108
 http://tuner.country108.com/;
@@ -57,16 +48,13 @@ http://stream01048.westreamradio.com/wsm-am-mp3
 https://ice24.securenetsystems.net/WAMU
 
 #EXTINF:-1 tvg-logo="" group-title="US",181.FM - Real Country
-http://listen.181fm.com/181-realcountry_128k.mp3
+https://listen.181fm.com/181-realcountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",Truckers Radio USA
 http://streamer.radio.co/s81d30349a/low
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Country One Radio
 http://strm112.1.fm/country_mobile_mp3
-
-#EXTINF:-1 tvg-logo="" group-title="MA",MRC:-Radio Adwaa MaZika 5
-https://stream.zeno.fm/ezxx195gq2zuv
 
 #EXTINF:-1 tvg-logo="https://skynewsarabia.com/apple-touch-icon-72x72.png" group-title="AE",sky news arabia radio
 https://stream.skynewsarabia.com/hls/sna.m3u8
@@ -78,7 +66,7 @@ https://inter.lannaradio.com/radio/8000/radio.mp3
 https://ais-sa2.cdnstream1.com/1976_128.mp3
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/bootliquor-400.jpg" group-title="US",SomaFM Boot Liquor (320k MP3)
-https://ice4.somafm.com/bootliquor-320-mp3
+https://ice5.somafm.com/bootliquor-320-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="NL",Grolloo Radio
 https://uk1.streamingpulse.com/ssl/grollooradio
@@ -159,16 +147,16 @@ http://bigrradio.cdnstream1.com/5196_128
 https://stream.zeno.fm/8wrs2bh0x1zuv
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/bootliquor-400.jpg" group-title="US",SomaFM Boot Liquor (128k AAC)
-https://ice1.somafm.com/bootliquor-128-aac
+https://ice2.somafm.com/bootliquor-128-aac
 
 #EXTINF:-1 tvg-logo="http://bosscountryradio.com/favicon.ico" group-title="US",Boss Country Radio | The Greatest Country Music Legends Of All Time
 http://ais-sa2.cdnstream1.com/2365_128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="US",HPR1 Traditional Classic Country
-http://207.244.126.86:7713/stream
-
 #EXTINF:-1 tvg-logo="" group-title="US",Radio Free Texas
 https://server10.reliastream.com/proxy/damiller?mp=/stream
+
+#EXTINF:-1 tvg-logo="" group-title="US",HPR1 Traditional Classic Country
+http://us2.maindigitalstream.com:7713/stream
 
 #EXTINF:-1 tvg-logo="" group-title="US",Bates FM - Country Hodgepodge
 http://bigrradio-edge1.cdnstream.com/5134_128
@@ -198,13 +186,13 @@ http://www.ophanim.net:9170/live
 http://icecast8.play.cz/samsonfm128.mp3
 
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="CO",La voz de Jesús
-https://stream-157.zeno.fm/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiYXE4b3lRR2JUM2lwQ0lXRFRyYVJ2dyIsImlhdCI6MTc2ODQ0MzI5NiwiZXhwIjoxNzY4NDQzMzU2fQ.1IfeO9gxpKmOevHGtj8eKITAzLJOjTETwxh2itMHBAM
-
-#EXTINF:-1 tvg-logo="" group-title="US",Sfliny - Country
-http://ec4.yesstreaming.net:3790/
+https://stream-289.surfernetwork.com/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImtNODJ4ZGp6VDlhMlZKUmhNdGhvWHciLCJpYXQiOjE3ODczNzg1MDQsImV4cCI6MTc4NzM3ODU2NH0.62kCU9ar53SjRhmoyV5qnORP9buvdCtV_AkLrXpmG28
 
 #EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2025-04-26/7358e7e8c2649a65c1a9d821887e32e3.ico.png" group-title="CA",A MISSISSIPPI BLUES
 https://cast1.torontocast.com:4450/;?type=http&nocache=1745625391
+
+#EXTINF:-1 tvg-logo="" group-title="US",Sfliny - Country
+http://ec4.yesstreaming.net:3790/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qmK33Rk/country.jpg" group-title="DE",0nlineradio COUNTRY
 https://stream.0nlineradio.com/country?ref=radiobrowser
@@ -216,22 +204,19 @@ https://streaming.exclusive.radio/er/eagles/icecast.audio
 https://streaming.exclusive.radio/er/shaniatwain/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="AE",Exclusively Johnny Cash
-https://nl4.mystreaming.net/er/johnnycash/icecast.audio
-
-#EXTINF:-1 tvg-logo="" group-title="FR",Allzic Radio Country
-http://allzic32.ice.infomaniak.ch/allzic32.mp3
+https://streaming.exclusive.radio/er/johnnycash/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/2/106-sertaneja-4fff3e1f118ab621432fa4d74136e042e86b6eedbabf561ded0dfd61123d980e.png" group-title="BR",Sertaneja 106.7
 https://sc4s.cdn.upx.com:8067/stream
+
+#EXTINF:-1 tvg-logo="" group-title="FR",Allzic Radio Country
+http://allzic32.ice.infomaniak.ch/allzic32.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CA",Radio Quebec Country.com - Thetford Mines, QC
 http://play.quebec-country.com/
 
 #EXTINF:-1 tvg-logo="http://www1.cbn.com//sites/all/themes/cbn_default/images/favicons/mstile-144x144.png" group-title="US",CBN Cross Country Christmas
 https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Cross%20Country%20Christmas
-
-#EXTINF:-1 tvg-logo="" group-title="US",KSWG 96.3 Real Country Wickenburg, AZ
-http://crystalout.surfernetwork.com:8001/KSWG_MP3
 
 #EXTINF:-1 tvg-logo="https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="GB",Smooth Country
 https://media-ssl.musicradio.com/SmoothCountry
@@ -257,20 +242,20 @@ http://air.radioart.com/fAcoustic_blues.mp3
 #EXTINF:-1 tvg-logo="" group-title="US",Best Net Radio - Country Mix
 http://bigrradio.cdnstream1.com/5157_128?listenerid=43889c39c8ecf4f87725056b0d737597&cb=179472.mp3
 
-#EXTINF:-1 tvg-logo="http://www.wqzy.com/favicon.ico" group-title="US",WQZY-FM 95.9 MHz Dublin, Georgia "Y96"
-http://ice64.securenetsystems.net/WQZY
-
 #EXTINF:-1 tvg-logo="" group-title="IT",Country Power Station
 http://shoutcast.countrypowerstation.net:8000/stream
+
+#EXTINF:-1 tvg-logo="http://www.wqzy.com/favicon.ico" group-title="US",WQZY-FM 95.9 MHz Dublin, Georgia "Y96"
+http://ice64.securenetsystems.net/WQZY
 
 #EXTINF:-1 tvg-logo="https://websitebuilder.one.com/favicon/favicon.ico" group-title="NO",Norsk Country Radio
 http://s6.voscast.com:10258/
 
-#EXTINF:-1 tvg-logo="https://wsmradio.com/wp-content/uploads/sites/10/2020/03/mstile-70x70-1.png" group-title="US",WSM Route 650 Americana
-http://stream01050.westreamradio.com/wsm2-mp3
-
 #EXTINF:-1 tvg-logo="http://www.hpr.org/icon-normal.png" group-title="US",HPR4 Bluegrass Gospel
 https://us2.maindigitalstream.com/ssl/7739
+
+#EXTINF:-1 tvg-logo="https://wsmradio.com/wp-content/uploads/sites/10/2020/03/mstile-70x70-1.png" group-title="US",WSM Route 650 Americana
+http://stream01050.westreamradio.com/wsm2-mp3
 
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/core-assets/music/fallback-country.png" group-title="AU",ABC Country HLS
 https://mediaserviceslive.akamaized.net/hls/live/2038322/abccountry/index.m3u8
@@ -299,6 +284,21 @@ http://s1.nexuscast.com:8147/;
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/fd6065ae-5f96-46fe-b70d-c3b2d791cb36" group-title="US",Country 90s Radio
 https://stream.revma.ihrhls.com/zc6870/hls.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.countryradio.cz/assets/favicon/apple-touch-icon.png" group-title="CZ",County
+http://icecast4.play.cz/country128.mp3
+
 #EXTINF:-1 tvg-logo="" group-title="US",KSCS "New Country 96.3" Fort Worth, TX
-http://17813.live.streamtheworld.com/KSCSFM_SC
+http://14933.live.streamtheworld.com/KSCSFM_SC
+
+#EXTINF:-1 tvg-logo="https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png" group-title="SE",Go Country
+https://wr14-ice.stream.khz.se/wr14_mp3
+
+#EXTINF:-1 tvg-logo="https://assets.yolacdn.net/favicons/yola-black-cc5e0be3.ico" group-title="US",Classic Country Legends Radio
+http://puma.streemlion.com:3540/stream
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Christmas Kountry
+http://listen.181fm.com/181-xkkountry_128k.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="EE",VIKERRAADIO
+http://icecast.err.ee/vikerraadiokorge.mp3
 

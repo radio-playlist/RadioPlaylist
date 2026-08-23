@@ -14,9 +14,6 @@ http://78.129.202.200:8040/;
 #EXTINF:-1 tvg-logo="" group-title="RU",Русский Рок - Russian Rock
 http://rock.volna.top/RusRock
 
-#EXTINF:-1 tvg-logo="" group-title="FR",RTL2
-http://streaming.radio.rtl2.fr/rtl2-1-44-128
-
 #EXTINF:-1 tvg-logo="" group-title="UA",Radio ROKS Ballads
 http://online.radioroks.ua/RadioROKS_Ballads_HD
 
@@ -33,7 +30,7 @@ http://mp3channels.webradio.rockantenne.de/rockantenne
 http://nashe1.hostingradio.ru/ultra-192.mp3
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/seventies400.jpg" group-title="US",SomaFM Left Coast 70s (320k MP3)
-https://ice5.somafm.com/seventies-320-mp3
+https://ice2.somafm.com/seventies-320-mp3
 
 #EXTINF:-1 tvg-logo="https://swr3.de/assets/swr3/icons/apple-touch-icon.png" group-title="DE",SWR3
 https://liveradio.swr.de/sw282p3/swr3/play.mp3
@@ -54,7 +51,7 @@ http://stream.radioparadise.com/rock-320
 http://online.radioroks.ua/RadioROKS_HardnHeavy_HD
 
 #EXTINF:-1 tvg-logo="http://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="DE",Radio Eins
-http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=38HoeEhwMU9ZjQaArYLcNuLu9LN&token=VXH8C52tOJ6o_G5uLXexxjt84DXyHGfH0RABfQljedk&tvf=8PpblQ7uihhmMTIxLnJuZGZuay5jb20
+http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3IF8H4CTFc7OyX4hxwaFqrr974Z&token=LH0KWzjJQuUAaZuSQIixlVegLKYnXpQnm2Lw4MELzvg&tvf=Le9PxvcDzhhmMTIxLnJuZGZuay5jb20
 
 #EXTINF:-1 tvg-logo="" group-title="AE",Exclusively Pink Floyd
 https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio
@@ -80,14 +77,11 @@ http://icecast2.play.cz/radiobeat128.mp3
 #EXTINF:-1 tvg-logo="http://guerrillaradio.ro/images/logo.png" group-title="RO",Radio Guerrilla
 http://live.guerrillaradio.ro:8010/guerrilla.aac
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/51/RTL2.png" group-title="FR",RTL2
-http://streamer-02.rtl.fr/rtl2-1-44-128
-
 #EXTINF:-1 tvg-logo="https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002=" group-title="CZ",Radio Čas Rock
 http://icecast6.play.cz/casrock128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",181.FM - Kickin' Country
-http://listen.181fm.com/181-kickincountry_128k.mp3
+https://listen.181fm.com/181-kickincountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="https://www.best-of-rock.fm/favicons/apple-touch-icon.png" group-title="DE",Best Of Rock.FM Alternative Rock
 https://bestofrockfm.stream.vip/altrock/mp3-256/bestofrock.fm/
@@ -117,7 +111,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png" group-title="DE",80s80s Radio
-http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=69687n9o%230%23r30o443r1929r059s085628511796n57%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1768454811
+http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6n889r72%230%23r30o443r1929r059s085628511796n57%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1787338354
 
 #EXTINF:-1 tvg-logo="https://player.arrow.nl/tmp/images/default.jpg" group-title="NL",Arrow Classic Rock
 https://stream.player.arrow.nl/arrowcr
@@ -158,17 +152,17 @@ https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userC
 #EXTINF:-1 tvg-logo="" group-title="CZ",Radio ROCK
 http://ice.abradio.cz/rockradio128.mp3
 
+#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FrKtC0NpB5ZmSBUWmZtAUn1sM1w_Owj9kNo-Xuc310Ak%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzg3MzhjNDA0LTMzODItNDgxMC04YWE3LTEwZjE3MjE2ZGRjZC9pbWFnZS8_dXBkYXRlZD0xNzAyNjMxMzU2MDAw.webp&w=750&q=100" group-title="MY",Slow Rock 90'
+https://stream.zeno.fm/hiut6cwfoneuv
+
 #EXTINF:-1 tvg-logo="" group-title="UG",107.9 Pearl Fm
 https://dc4.serverse.com/proxy/pearlfm/stream/1/
-
-#EXTINF:-1 tvg-logo="" group-title="HU",Best FM
-http://stream.webthings.hu:8000/fm95-x-128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="HR",Otvoreni Radio
 https://stream.otvoreni.hr/otvoreni
 
-#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FrKtC0NpB5ZmSBUWmZtAUn1sM1w_Owj9kNo-Xuc310Ak%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzg3MzhjNDA0LTMzODItNDgxMC04YWE3LTEwZjE3MjE2ZGRjZC9pbWFnZS8_dXBkYXRlZD0xNzAyNjMxMzU2MDAw.webp&w=750&q=100" group-title="MY",Slow Rock 90'
-https://stream.zeno.fm/hiut6cwfoneuv
+#EXTINF:-1 tvg-logo="" group-title="HU",Best FM
+http://stream.webthings.hu:8000/fm95-x-128.mp3
 
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="FR",OUI FM
 https://ouifm.ice.infomaniak.ch/ouifm-high.mp3
@@ -183,7 +177,7 @@ https://cast1.torontocast.com:4610/stream
 http://asculta.rfi.ro:9128/live.aac
 
 #EXTINF:-1 tvg-logo="" group-title="ZA",94.7
-http://27953.live.streamtheworld.com/FM947AAC_SC
+http://28503.live.streamtheworld.com:3690/FM947AAC_SC
 
 #EXTINF:-1 tvg-logo="http://stlouisclassicrock.com/favicon.ico" group-title="US",St Louis Classic Rock
 http://74.208.89.18:8000/SLCR_highdef.mp3;
@@ -192,7 +186,7 @@ http://74.208.89.18:8000/SLCR_highdef.mp3;
 https://radiostream.pl/tuba8-1.mp3?cache=1650763965
 
 #EXTINF:-1 tvg-logo="" group-title="AE",Exclusively Genesis
-https://nl4.mystreaming.net/er/genesis/icecast.audio
+https://streaming.exclusive.radio/er/genesis/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/34491.v5.png" group-title="DE",Rock Antenne Heavy Metal
 https://mp3channels.webradio.rockantenne.de/heavy-metal
@@ -213,7 +207,7 @@ http://n03.radiojar.com/4ywdgup3bnzuv
 http://eu4.fastcast4u.com:5248/;stream.mp3
 
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="AE",Exclusive Radio – Queen
-https://nl4.mystreaming.net/er/queen/icecast.audio
+https://streaming.exclusive.radio/er/queen/icecast.audio
 
 #EXTINF:-1 tvg-logo="" group-title="Global",Program 3 (Trójka)
 http://mp3.polskieradio.pl:8904/;.mp3
@@ -231,10 +225,7 @@ https://www.radioking.com/play/alternative-radio-1
 http://streams.radiobob.de/bob-bestofrock/mp3-192/streams.radiobob.de/
 
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="AE",Exclusively U2
-https://nl4.mystreaming.net/er/u2/icecast.audio
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi57hSIBiIVp-4lzSM_9nOl4PjUHNS1EHv9g&usqp=CAU" group-title="ID",RADIO CAKRA 90.5 FM
-https://stream.zeno.fm/yoengdcdzyauv
+https://streaming.exclusive.radio/er/u2/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg" group-title="FR",FIP Rock
 http://icecast.radiofrance.fr/fiprock-hifi.aac
@@ -248,17 +239,17 @@ https://stream.zeno.fm/xuin6ocdc2juv
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="AE",Exclusively Guns N’ Roses
 https://streaming.exclusive.radio/er/gunsnroses/icecast.audio
 
-#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/drkZNBUn6W.png" group-title="PT",Rádio Comercial
-https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
 
-#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/logo192.png" group-title="HU",Oxygen Classic Rock
-https://oxygenmusic.hu:8443/oxygenclassicrock
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/drkZNBUn6W.png" group-title="PT",Rádio Comercial
+https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png" group-title="DE",ROCKANTENNE Heavy Metal (64 kbps AAC)
 http://mp3channels.webradio.rockantenne.de/heavy-metal.aac
+
+#EXTINF:-1 tvg-logo="https://oxygenmusic.hu/logo192.png" group-title="HU",Oxygen Classic Rock
+https://oxygenmusic.hu:8443/oxygenclassicrock
 
 #EXTINF:-1 tvg-logo="https://antiradio.net/favicon.ico" group-title="AZ",Anti Radio
 https://stream.antiradio.net/radio/8000/mp3
@@ -270,13 +261,10 @@ https://server1.stweb.tv/rcvos/live/playlist.m3u8
 http://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3
 
 #EXTINF:-1 tvg-logo="http://www.rockandpop.cl/favicon.ico" group-title="CL",Rock and Pop
-http://14073.live.streamtheworld.com/ROCK_AND_POPAAC_SC
+http://24423.live.streamtheworld.com:3690/ROCK_AND_POPAAC_SC
 
 #EXTINF:-1 tvg-logo="https://austrianrockradio.at/wp-content/uploads/2023/02/liferadio-150x150.png" group-title="AT",Austrian Rock Radio
 http://live.antenne.at/arr
-
-#EXTINF:-1 tvg-logo="https://primary.jwwb.nl/public/y/e/b/temp-vkgnexntjcwymrvyserv/touch-icon-iphone-retina.png?bust=1646524843" group-title="HR",JR Radio
-http://stream.zeno.fm/pdkt234k698uv.mp3
 
 #EXTINF:-1 tvg-logo="https://www.radioacktiva.com/wp-content/uploads/2024/12/cropped-favicon-new1-180x180.png" group-title="CO",Radioacktiva (Bogotá) - 97.9 FM - HJJK - PRISA Radio - Bogotá, Colombia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC.aac
@@ -287,11 +275,11 @@ http://centova.radio.com.pt:8495/;
 #EXTINF:-1 tvg-logo="https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png" group-title="ES",Rock FM
 http://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://radio101.hr/favicon.ico" group-title="HR",Radio101
-http://live.radio101.hr:9531/
-
 #EXTINF:-1 tvg-logo="" group-title="GB",Exclusively Dire Straits
 https://streaming.exclusive.radio/er/direstraits/icecast.audio
+
+#EXTINF:-1 tvg-logo="http://radio101.hr/favicon.ico" group-title="HR",Radio101
+http://live.radio101.hr:9531/
 
 #EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="US",Radio Paradise Rock Mix FLAC
 https://stream.radioparadise.com/rock-flac
@@ -301,4 +289,16 @@ http://naxidigital-rock128.streaming.rs:8180/;stream.nsv
 
 #EXTINF:-1 tvg-logo="" group-title="GR",REBEL 105.2
 http://netradio.live24.gr/rebel1052
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/seventies400.jpg" group-title="US",SomaFM Left Coast 70s (128k MP3)
+https://ice2.somafm.com/seventies-128-mp3
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_a5ce07773ea14d209785044fbeb26dca~mv2.jpg" group-title="CA",# 100 GREATEST HEAVY METAL
+https://cast1.torontocast.com:4660/stream
+
+#EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="AE",Exclusively Led Zeppelin
+https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio
+
+#EXTINF:-1 tvg-logo="http://www.rockantenne.de/logos/rock-antenne/apple-touch-icon.png" group-title="DE",ROCK ANTENNE Alternative
+http://stream.rockantenne.de/alternative
 

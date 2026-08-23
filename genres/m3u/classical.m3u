@@ -113,9 +113,6 @@ http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="AF",Michael Jackson music star
 https://icy.unitedradio.it/um2908.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="DZ",إذاعة طريق السلف
-https://airtime.salafwayfm.ly/
-
 #EXTINF:-1 tvg-logo="" group-title="SY",قديم FM
 http://usa6.fastcast4u.com:5109/live
 
@@ -140,17 +137,17 @@ https://backup.qurango.net/radio/maher
 #EXTINF:-1 tvg-logo="" group-title="NL",Concertzender Baroque
 http://streams.greenhost.nl:8080/barok
 
-#EXTINF:-1 tvg-logo="" group-title="AF",BEAUTIFUL INSTRUMENTALS
-http://hydra.cdnstream.com/1822_128
-
 #EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/melody/ico/apple-icon-120x120.png" group-title="MY",Melody FM Malaysia
 https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="RS",Radio Lola - Domaca
-https://streaming.tdiradio.com/radiolola.mp3
+#EXTINF:-1 tvg-logo="" group-title="AF",BEAUTIFUL INSTRUMENTALS
+http://hydra.cdnstream.com/1822_128
 
 #EXTINF:-1 tvg-logo="" group-title="EG",اذاعة القرآن الكريم
 http://stream.radiojar.com/0tpy1h0kxtzuv
+
+#EXTINF:-1 tvg-logo="" group-title="RS",Radio Lola - Domaca
+https://streaming.tdiradio.com/radiolola.mp3
 
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="DE",WDR 3
 http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
@@ -167,9 +164,6 @@ https://qurango.net/radio/mukhtasartafsir
 #EXTINF:-1 tvg-logo="" group-title="DZ",.مختصر السيرة
 https://qurango.net/radio/almukhtasar_fi_alsiyra
 
-#EXTINF:-1 tvg-logo="https://www.medi1.com/favicon.ico" group-title="MA",Medi 1 Classique
-http://live.medi1.com/Classique
-
 #EXTINF:-1 tvg-logo="" group-title="IQ",.. مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
 
@@ -178,9 +172,6 @@ http://strm112.1.fm/baroque_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="RU",РАДИО ДЛЯ ВЗРОСЛЫХ
 http://listen6.myradio24.com:9000/alex542888
-
-#EXTINF:-1 tvg-logo="https://radiostationusa.fm/assets/image/radio/180/KDFCFM.png" group-title="US",Classical KDFC
-https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac
 
 #EXTINF:-1 tvg-logo="" group-title="IQ",. القارئ محمد أيوب
 https://qurango.net/radio/mohammed_ayyub
@@ -200,11 +191,11 @@ https://mediaserv73.live-streams.nl:18058/stream
 #EXTINF:-1 tvg-logo="https://www.klassik1.de/favicon.png" group-title="DE",KLASSIK 1
 http://icepool.silvacast.com/KLASSIK1.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="RO",Radio Trinitas
-http://81.196.25.70:8000/
-
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Classical Piano
 http://79.120.39.202:9069/;
+
+#EXTINF:-1 tvg-logo="" group-title="RO",Radio Trinitas
+http://81.196.25.70:8000/
 
 #EXTINF:-1 tvg-logo="" group-title="HU",Bartók Rádió
 http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3
@@ -249,25 +240,16 @@ https://qurango.net/radio/mohammed_ayyub
 https://radio.stream.smcdn.pl/timeradio-p/3990-1.aac/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="HU",Klasszik Rádió 92.1
-http://www.klasszikradio.hu/klasszik.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="LY",إذاعة طريق السلف
-https://airtime.salafwayfm.ly/
-
-#EXTINF:-1 tvg-logo="https://static-assets.iamrad.io/klassikradio/1647251836219/icons/icon_64.a00w80w0000.png" group-title="DE",Klassikradio - Pure Bach
-http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/
+https://radio.musorok.org/listen/klasszik/radio.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="EG",.إذاعة ماهر المعيقلي
 https://backup.qurango.net/radio/maher
 
-#EXTINF:-1 tvg-logo="" group-title="EG",إذاعة طريق السلف
-https://airtime.salafwayfm.ly/
+#EXTINF:-1 tvg-logo="https://static-assets.iamrad.io/klassikradio/1647251836219/icons/icon_64.a00w80w0000.png" group-title="DE",Klassikradio - Pure Bach
+http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/
 
 #EXTINF:-1 tvg-logo="" group-title="DZ",beautiful recitation
 https://qurango.net/radio/salma
-
-#EXTINF:-1 tvg-logo="" group-title="SA",إذاعة طريق السلف
-https://airtime.salafwayfm.ly/
 
 #EXTINF:-1 tvg-logo="http://www.abc.net.au/core-assets/classic/favicon-32x32.png" group-title="AU",ABC Classic FM (MP3)
 http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3
@@ -287,11 +269,11 @@ https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2
 #EXTINF:-1 tvg-logo="" group-title="RO",Radio România Muzical
 http://stream2.srr.ro:8022/
 
-#EXTINF:-1 tvg-logo="" group-title="LY",تفسير بن عثيمين
-https://qurango.net/radio/tafseer
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="GB",BBC Radio 3 (128k)
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LY",تفسير بن عثيمين
+https://qurango.net/radio/tafseer
 
 #EXTINF:-1 tvg-logo="" group-title="EG",. القارئ محمد أيوب
 https://qurango.net/radio/mohammed_ayyub
@@ -301,4 +283,22 @@ http://79.111.14.76:8002/baroque
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Concertzender_Logo.svg/1200px-Concertzender_Logo.svg.png" group-title="NL",Concertzender Oude Muziek
 http://streams.greenhost.nl:8080/oudemuziek
+
+#EXTINF:-1 tvg-logo="https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png" group-title="TR",Alem Fm
+https://turkmedya.radyotvonline.net/alemfmaac
+
+#EXTINF:-1 tvg-logo="" group-title="AF",Al jazeera
+http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="RU",ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]
+http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IQ",radio maria iraq
+http://dreamsiteradiocp4.com:8046/stream
+
+#EXTINF:-1 tvg-logo="" group-title="SA",. مختصر السيرة
+https://qurango.net/radio/almukhtasar_fi_alsiyra
+
+#EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="CA",Calm Radio - Bach
+http://streams.calmradio.com:6828/stream
 

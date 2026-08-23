@@ -14,7 +14,7 @@
     "tags": "folk,news,pop,talk",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 26495,
+    "votes": 26536,
     "clickcount": 37
   },
   {
@@ -32,8 +32,8 @@
     "tags": "dance",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 20892,
-    "clickcount": 22
+    "votes": 20943,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -41,7 +41,7 @@
     "stationuuid": "f65094f5-2cae-4d4e-ab4a-12f2e7d274bb",
     "name": "Deep House Radio - Bucharest Romania",
     "url": "http://live.dancemusic.ro:7000/listen.pls?sid=1",
-    "url_resolved": "http://live.dancemusic.ro:7000/stream",
+    "url_resolved": "http://live.dancemusic.ro:7000/radio.mp3",
     "homepage": "http://www.dancemusic.ro/",
     "favicon": "http://www.dancemusic.ro/dancemusic-favicon.png",
     "countrycode": "RO",
@@ -50,8 +50,8 @@
     "tags": "deep house",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 18046,
-    "clickcount": 41
+    "votes": 18122,
+    "clickcount": 42
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "music,news,talkshow",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 14298,
-    "clickcount": 17
+    "votes": 14325,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "music,news",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 14023,
-    "clickcount": 16
+    "votes": 14054,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -104,7 +104,7 @@
     "tags": "romanian pop",
     "codec": "AAC",
     "bitrate": 80,
-    "votes": 13440,
+    "votes": 13474,
     "clickcount": 9
   },
   {
@@ -122,8 +122,8 @@
     "tags": "90s,dance,euro hits,eurodance",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 12940,
-    "clickcount": 43
+    "votes": 12984,
+    "clickcount": 30
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "folk music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12582,
-    "clickcount": 12
+    "votes": 12608,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "pop,top 40",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 10810,
-    "clickcount": 13
+    "votes": 10830,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -176,7 +176,7 @@
     "tags": "classic rock,indie,la unica radio con cojones,rock",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 9702,
+    "votes": 9722,
     "clickcount": 14
   },
   {
@@ -194,8 +194,8 @@
     "tags": "muzica de poveste",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 9584,
-    "clickcount": 2
+    "votes": 9624,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -212,26 +212,8 @@
     "tags": "top 40",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 8180,
-    "clickcount": 27
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "eac07293-c67d-11e8-a498-52543be04c81",
-    "name": "Lautaru Populara",
-    "url": "http://live.radiolautaru.ro:9000/;stream.nsv",
-    "url_resolved": "http://live.radiolautaru.ro:9000/;stream.nsv",
-    "homepage": "https://www.radiolautaru.ro/",
-    "favicon": "https://radiotaraf.ro/wp-content/uploads/2020/04/cropped-1-2-radio-png-file-180x180.png",
-    "countrycode": "RO",
-    "state": "",
-    "language": "romanian",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 7109,
-    "clickcount": 6
+    "votes": 8200,
+    "clickcount": 29
   },
   {
     "id": null,
@@ -248,7 +230,7 @@
     "tags": "contemporary hits,pop,top 40",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 6638,
+    "votes": 6648,
     "clickcount": 3
   },
   {
@@ -266,8 +248,8 @@
     "tags": "oldies",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 6278,
-    "clickcount": 4
+    "votes": 6288,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -284,8 +266,8 @@
     "tags": "cultural programming",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 5085,
-    "clickcount": 8
+    "votes": 5091,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -302,26 +284,8 @@
     "tags": "goldies,oldies,romantic",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 4908,
-    "clickcount": 10
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "b3b8de23-2fd3-4e4c-b790-19c7eca713d8",
-    "name": "eteatru",
-    "url": "http://stream2.srr.ro:8078/eteatru.mp3",
-    "url_resolved": "http://stream2.srr.ro:8078/eteatru.mp3",
-    "homepage": "http://eteatru.ro/",
-    "favicon": "http://www.eteatru.ro/images/eteatru-logo.png",
-    "countrycode": "RO",
-    "state": "",
-    "language": "romanian",
-    "tags": "teatru",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4708,
-    "clickcount": 0
+    "votes": 4922,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -338,8 +302,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4437,
-    "clickcount": 3
+    "votes": 4453,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -356,8 +320,8 @@
     "tags": "news,oldies,pop,rock",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 4371,
-    "clickcount": 2
+    "votes": 4374,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -374,7 +338,7 @@
     "tags": "information,muzica,viata satului",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4277,
+    "votes": 4281,
     "clickcount": 6
   },
   {
@@ -392,8 +356,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 3894,
-    "clickcount": 14
+    "votes": 3906,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -410,8 +374,8 @@
     "tags": "oldies",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 3758,
-    "clickcount": 0
+    "votes": 3766,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -427,9 +391,9 @@
     "language": "romanian",
     "tags": "90s,eurodance",
     "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3559,
-    "clickcount": 0
+    "bitrate": 320,
+    "votes": 3562,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -446,8 +410,8 @@
     "tags": "chill,chillout",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3537,
-    "clickcount": 18
+    "votes": 3540,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -464,8 +428,8 @@
     "tags": "classical,religion",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 3193,
-    "clickcount": 8
+    "votes": 3198,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -482,8 +446,8 @@
     "tags": "manele,manele și petrecere,muzică de petrecere",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3090,
-    "clickcount": 7
+    "votes": 3115,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -500,8 +464,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 2912,
-    "clickcount": 1
+    "votes": 2918,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -518,8 +482,8 @@
     "tags": "manele,manele si petrecere,manele și petrecere,petrecere și manele",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2843,
-    "clickcount": 1
+    "votes": 2872,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -536,8 +500,8 @@
     "tags": "manele,manele si petrecere",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2800,
-    "clickcount": 4
+    "votes": 2811,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -554,8 +518,8 @@
     "tags": "classical",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 2767,
-    "clickcount": 1
+    "votes": 2768,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -571,8 +535,8 @@
     "language": "english",
     "tags": "",
     "codec": "AAC",
-    "bitrate": 88,
-    "votes": 2303,
+    "bitrate": 96,
+    "votes": 2317,
     "clickcount": 7
   },
   {
@@ -590,8 +554,8 @@
     "tags": "radio romania,timișoara",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2298,
-    "clickcount": 1
+    "votes": 2300,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -608,8 +572,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 2295,
-    "clickcount": 3
+    "votes": 2298,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -626,26 +590,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2214,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "fbf65b83-6883-4b09-8f8b-5205cdbd509d",
-    "name": "Realitatea FM",
-    "url": "https://shout.realitatea.net:8001/rfmweb",
-    "url_resolved": "https://shout.realitatea.net:8001/rfmweb",
-    "homepage": "https://realitateafm.net/",
-    "favicon": "https://radiorfm.ro/wp-content/uploads/2023/05/favicon.png",
-    "countrycode": "RO",
-    "state": "",
-    "language": "romanian",
-    "tags": "news,talk",
-    "codec": "MP3",
-    "bitrate": 141,
-    "votes": 2193,
-    "clickcount": 3
+    "votes": 2217,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -660,10 +606,10 @@
     "state": "",
     "language": "romanian",
     "tags": "regional",
-    "codec": "AAC+",
-    "bitrate": 48,
-    "votes": 2192,
-    "clickcount": 3
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 2204,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -680,8 +626,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 2100,
-    "clickcount": 0
+    "votes": 2105,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -697,9 +643,9 @@
     "language": "romanian",
     "tags": "hip hop,hip hop romanian,pop,pop dance,pop music,rnb,romanian,romanian pop,trap",
     "codec": "AAC",
-    "bitrate": 128,
-    "votes": 2085,
-    "clickcount": 7
+    "bitrate": 64,
+    "votes": 2088,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -716,8 +662,8 @@
     "tags": "manele,manele noi,manele și petrecere",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1929,
-    "clickcount": 0
+    "votes": 1947,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -734,8 +680,8 @@
     "tags": "classic rock,hard rock,rock",
     "codec": "AAC",
     "bitrate": 80,
-    "votes": 1862,
-    "clickcount": 0
+    "votes": 1885,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -752,8 +698,8 @@
     "tags": "local programming,news talk music",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 1805,
-    "clickcount": 2
+    "votes": 1808,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -770,7 +716,7 @@
     "tags": "news,pop",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 1782,
+    "votes": 1802,
     "clickcount": 7
   },
   {
@@ -788,8 +734,8 @@
     "tags": "manele si petrecere",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1675,
-    "clickcount": 2
+    "votes": 1691,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -806,8 +752,8 @@
     "tags": "top 40",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1665,
-    "clickcount": 1
+    "votes": 1667,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -824,8 +770,8 @@
     "tags": "muzica de poveste",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 1572,
-    "clickcount": 1
+    "votes": 1581,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -843,7 +789,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 1554,
-    "clickcount": 1
+    "clickcount": 3
   },
   {
     "id": null,
@@ -860,7 +806,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1391,
+    "votes": 1393,
     "clickcount": 0
   },
   {
@@ -878,8 +824,8 @@
     "tags": "dance,dance pop,house,pop,pop dance,pop music,romanian pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1332,
-    "clickcount": 4
+    "votes": 1342,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -897,25 +843,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 1327,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f86e0d8a-7ec0-4460-a7c8-aeb265c76de7",
-    "name": "Radio Vocea Evangheliei RVE Sibiu",
-    "url": "https://c13.radioboss.fm:18286/stream",
-    "url_resolved": "https://c13.radioboss.fm:18286/stream",
-    "homepage": "http://rvesibiu.ro/",
-    "favicon": "",
-    "countrycode": "RO",
-    "state": "",
-    "language": "romanian",
-    "tags": "christian",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1253,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -932,8 +860,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1234,
-    "clickcount": 3
+    "votes": 1239,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -950,8 +878,8 @@
     "tags": "80s,90s,dance,dj,gold,mix,oldies,party",
     "codec": "AAC",
     "bitrate": 80,
-    "votes": 1193,
-    "clickcount": 20
+    "votes": 1200,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -968,8 +896,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1183,
-    "clickcount": 10
+    "votes": 1186,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -986,8 +914,8 @@
     "tags": "ballads,classic rock,rock",
     "codec": "AAC",
     "bitrate": 80,
-    "votes": 1163,
-    "clickcount": 0
+    "votes": 1183,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1004,7 +932,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1151,
+    "votes": 1159,
     "clickcount": 2
   },
   {
@@ -1022,8 +950,8 @@
     "tags": "manele,manele și petrecere,petrecere",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1118,
-    "clickcount": 2
+    "votes": 1132,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1040,8 +968,8 @@
     "tags": "music,news,romanian pop",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 1117,
-    "clickcount": 3
+    "votes": 1123,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1058,8 +986,8 @@
     "tags": "80s,90s,adult contemporary,dance,hot ac,news,pop,talks",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 1053,
-    "clickcount": 6
+    "votes": 1055,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1075,9 +1003,9 @@
     "language": "romanian",
     "tags": "folk,pop",
     "codec": "MP3",
-    "bitrate": 64,
-    "votes": 1048,
-    "clickcount": 5
+    "bitrate": 128,
+    "votes": 1050,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1094,8 +1022,8 @@
     "tags": "80's,80s,90's,90s,oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1044,
-    "clickcount": 6
+    "votes": 1047,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1112,8 +1040,8 @@
     "tags": "",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 1025,
-    "clickcount": 3
+    "votes": 1026,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1131,7 +1059,7 @@
     "codec": "AAC",
     "bitrate": 192,
     "votes": 1018,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1148,7 +1076,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 917,
+    "votes": 918,
     "clickcount": 1
   },
   {
@@ -1166,44 +1094,8 @@
     "tags": "classic hits,dance,oldies,pop,pop rock,soul",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 905,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "c4eb7648-e867-4545-bdda-71b1368db779",
-    "name": "Atmospheric dnb s0urce",
-    "url": "https://brokenbeats.net/stream/aac",
-    "url_resolved": "https://brokenbeats.net/stream/aac",
-    "homepage": "https://brokenbeats.net/",
-    "favicon": "https://brokenbeats.net/favicon.ico",
-    "countrycode": "RO",
-    "state": "Bucharest",
-    "language": "english",
-    "tags": "drum and bass,jungle",
-    "codec": "AAC",
-    "bitrate": 320,
-    "votes": 836,
-    "clickcount": 16
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "e76147c6-7657-11ea-b1cf-52543be04c81",
-    "name": "RockFM",
-    "url": "https://live.rockfm.ro/rockfm.aacp",
-    "url_resolved": "https://live.rockfm.ro/rockfm.aacp",
-    "homepage": "https://www.rockfm.ro/",
-    "favicon": "https://www.rockfm.ro/apple-touch-icon.png",
-    "countrycode": "RO",
-    "state": "",
-    "language": "romanian",
-    "tags": "rock,romanian",
-    "codec": "AAC",
-    "bitrate": 80,
-    "votes": 834,
-    "clickcount": 15
+    "votes": 907,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1220,8 +1112,44 @@
     "tags": "club,dance",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 817,
-    "clickcount": 5
+    "votes": 870,
+    "clickcount": 52
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c4eb7648-e867-4545-bdda-71b1368db779",
+    "name": "Atmospheric dnb s0urce",
+    "url": "https://brokenbeats.net/stream/aac",
+    "url_resolved": "https://brokenbeats.net/stream/aac",
+    "homepage": "https://brokenbeats.net/",
+    "favicon": "https://brokenbeats.net/favicon.ico",
+    "countrycode": "RO",
+    "state": "Bucharest",
+    "language": "english",
+    "tags": "drum and bass,jungle",
+    "codec": "AAC",
+    "bitrate": 320,
+    "votes": 845,
+    "clickcount": 33
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "e76147c6-7657-11ea-b1cf-52543be04c81",
+    "name": "RockFM",
+    "url": "https://live.rockfm.ro/rockfm.aacp",
+    "url_resolved": "https://live.rockfm.ro/rockfm.aacp",
+    "homepage": "https://www.rockfm.ro/",
+    "favicon": "https://www.rockfm.ro/apple-touch-icon.png",
+    "countrycode": "RO",
+    "state": "",
+    "language": "romanian",
+    "tags": "rock,romanian",
+    "codec": "AAC",
+    "bitrate": 80,
+    "votes": 835,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1238,8 +1166,8 @@
     "tags": "manele,manele noi,manele și petrecere",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 810,
-    "clickcount": 0
+    "votes": 824,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1254,10 +1182,10 @@
     "state": "Romania",
     "language": "english,french,german,italian,romanian,spanish",
     "tags": "musica romantica,retro",
-    "codec": "AAC",
+    "codec": "MP3",
     "bitrate": 0,
-    "votes": 794,
-    "clickcount": 4
+    "votes": 797,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1274,8 +1202,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 749,
-    "clickcount": 0
+    "votes": 760,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1292,7 +1220,7 @@
     "tags": "music,news",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 740,
+    "votes": 743,
     "clickcount": 7
   },
   {
@@ -1310,8 +1238,8 @@
     "tags": "club,dance,deep house,dj mix,house",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 728,
-    "clickcount": 2
+    "votes": 731,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1328,8 +1256,8 @@
     "tags": "top40",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 709,
-    "clickcount": 10
+    "votes": 714,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1346,44 +1274,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 80,
-    "votes": 692,
-    "clickcount": 18
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "e90b58ac-7976-427d-b5c3-bcccdae1cc7d",
-    "name": "Nationa FM",
-    "url": "http://www.nationalfm.ro/assets/national-fm.pls",
-    "url_resolved": "http://live2.nationalfm.ro:8001/",
-    "homepage": "https://www.nationalfm.ro/",
-    "favicon": "",
-    "countrycode": "RO",
-    "state": "Bucharest",
-    "language": "romanian",
-    "tags": "national,romania,traditional",
-    "codec": "AAC+",
-    "bitrate": 64,
-    "votes": 674,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a06ed3d2-ba59-4969-825d-4e9b3f336b93",
-    "name": "Radio Guerilla",
-    "url": "http://live.guerrillaradio.ro:8010/guerrilla.aac",
-    "url_resolved": "http://live.guerrillaradio.ro:8010/guerrilla.aac",
-    "homepage": "https://www.guerrillaradio.ro/",
-    "favicon": "",
-    "countrycode": "RO",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "AAC+",
-    "bitrate": 96,
-    "votes": 672,
-    "clickcount": 0
+    "votes": 701,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1400,8 +1292,8 @@
     "tags": "manele,manele noi,manele vechi,muzică de petrecere,petrecere",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 668,
-    "clickcount": 0
+    "votes": 683,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1418,8 +1310,44 @@
     "tags": "folk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 668,
-    "clickcount": 11
+    "votes": 681,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "a06ed3d2-ba59-4969-825d-4e9b3f336b93",
+    "name": "Radio Guerilla",
+    "url": "http://live.guerrillaradio.ro:8010/guerrilla.aac",
+    "url_resolved": "http://live.guerrillaradio.ro:8010/guerrilla.aac",
+    "homepage": "https://www.guerrillaradio.ro/",
+    "favicon": "",
+    "countrycode": "RO",
+    "state": "",
+    "language": "",
+    "tags": "",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "votes": 674,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "e90b58ac-7976-427d-b5c3-bcccdae1cc7d",
+    "name": "Nationa FM",
+    "url": "http://www.nationalfm.ro/assets/national-fm.pls",
+    "url_resolved": "http://live3.nationalfm.ro:8001/",
+    "homepage": "https://www.nationalfm.ro/",
+    "favicon": "",
+    "countrycode": "RO",
+    "state": "Bucharest",
+    "language": "romanian",
+    "tags": "national,romania,traditional",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 674,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1436,7 +1364,7 @@
     "tags": "adult contemporary,classic hits,contemporary hits radio,pop music,pop rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 661,
+    "votes": 668,
     "clickcount": 1
   },
   {
@@ -1454,8 +1382,8 @@
     "tags": "dance,dance pop,house,pop,pop music,top 40",
     "codec": "AAC",
     "bitrate": 80,
-    "votes": 660,
-    "clickcount": 28
+    "votes": 665,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -1473,7 +1401,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 648,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1490,8 +1418,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 604,
-    "clickcount": 0
+    "votes": 612,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1508,8 +1436,8 @@
     "tags": "manele,petrecere",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 602,
-    "clickcount": 6
+    "votes": 610,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1526,8 +1454,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 549,
-    "clickcount": 4
+    "votes": 560,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "d33eb5f1-6250-4a28-a39a-b5f85f12c92a",
+    "name": "Magic Fm",
+    "url": "https://live.magicfm.ro/magicfm.aacp",
+    "url_resolved": "https://live.magicfm.ro/magicfm.aacp",
+    "homepage": "https://www.magicfm.ro/",
+    "favicon": "",
+    "countrycode": "RO",
+    "state": "",
+    "language": "romanian",
+    "tags": "70s,80s,90s,easy listening,oldies,soft,soft music",
+    "codec": "AAC",
+    "bitrate": 80,
+    "votes": 544,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1550,24 +1496,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "d33eb5f1-6250-4a28-a39a-b5f85f12c92a",
-    "name": "Magic Fm",
-    "url": "https://live.magicfm.ro/magicfm.aacp",
-    "url_resolved": "https://live.magicfm.ro/magicfm.aacp",
-    "homepage": "https://www.magicfm.ro/",
-    "favicon": "",
-    "countrycode": "RO",
-    "state": "",
-    "language": "romanian",
-    "tags": "70s,80s,90s,easy listening,oldies,soft,soft music",
-    "codec": "AAC",
-    "bitrate": 80,
-    "votes": 537,
-    "clickcount": 11
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "c49c0d0c-f611-41d6-b66d-6b5c9fdd7cc4",
     "name": "Național FM",
     "url": "http://live2.nationalfm.ro:8001/;",
@@ -1580,8 +1508,8 @@
     "tags": "romanian,romanian folk,romanian pop,talk",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 526,
-    "clickcount": 3
+    "votes": 528,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1597,9 +1525,9 @@
     "language": "",
     "tags": "",
     "codec": "AAC+",
-    "bitrate": 192,
-    "votes": 522,
-    "clickcount": 1
+    "bitrate": 96,
+    "votes": 523,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1616,8 +1544,8 @@
     "tags": "clubbing,dance,downtempo,house,tech house",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 520,
-    "clickcount": 1
+    "votes": 522,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1670,26 +1598,8 @@
     "tags": "adult contemporany,cultural,dezbateri diverse,muzica,stiri",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 436,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ceddaaf9-e322-4ceb-a3e9-d2025f9f9747",
-    "name": "itsy bitsy",
-    "url": "http://live.itsybitsy.ro:8000/itsybitsy",
-    "url_resolved": "http://live.itsybitsy.ro:8000/itsybitsy",
-    "homepage": "http://itsybitsy.ro/",
-    "favicon": "http://itsybitsy.ro/favicon.ico",
-    "countrycode": "RO",
-    "state": "",
-    "language": "romanian",
-    "tags": "kids",
-    "codec": "AAC+",
-    "bitrate": 32,
-    "votes": 432,
-    "clickcount": 1
+    "votes": 440,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1706,8 +1616,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 430,
-    "clickcount": 5
+    "votes": 436,
+    "clickcount": 11
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "ceddaaf9-e322-4ceb-a3e9-d2025f9f9747",
+    "name": "itsy bitsy",
+    "url": "http://live.itsybitsy.ro:8000/itsybitsy",
+    "url_resolved": "http://live.itsybitsy.ro:8000/itsybitsy",
+    "homepage": "http://itsybitsy.ro/",
+    "favicon": "http://itsybitsy.ro/favicon.ico",
+    "countrycode": "RO",
+    "state": "",
+    "language": "romanian",
+    "tags": "kids",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "votes": 434,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1724,8 +1652,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 422,
-    "clickcount": 2
+    "votes": 431,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1742,8 +1670,8 @@
     "tags": "romania",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 420,
-    "clickcount": 3
+    "votes": 424,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1760,8 +1688,8 @@
     "tags": "movie scores,movie soundtracks,soundtracks",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 416,
-    "clickcount": 11
+    "votes": 420,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1784,19 +1712,91 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "8a7463c1-3d52-4197-930a-77704ce9140a",
-    "name": "Radio Taraf MANELE",
-    "url": "http://asculta.radiotaraf.ro:7100/;",
-    "url_resolved": "http://asculta.radiotaraf.ro:7100/;",
-    "homepage": "https://radiotaraf.ro/",
-    "favicon": "https://radiotaraf.ro/wp-content/uploads/2022/01/radio-taraf.png",
+    "stationuuid": "56322f1e-0b86-4e1f-8fef-5b983e7eddfc",
+    "name": "Capital FM - Manele",
+    "url": "http://manele.capitalfm.ro:8020/;",
+    "url_resolved": "http://manele.capitalfm.ro:8020/;",
+    "homepage": "https://capitalfm.ro/",
+    "favicon": "",
+    "countrycode": "RO",
+    "state": "",
+    "language": "romanian",
+    "tags": "manele,manele și petrecere,petrecere",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 373,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "53903241-34a0-46a2-a877-edb06080f384",
+    "name": "Paprika Rádió",
+    "url": "http://stream1.paprikaradio.ro:8000/;stream",
+    "url_resolved": "http://stream1.paprikaradio.ro:8000/;stream",
+    "homepage": "http://www.paprikaradio.ro/",
+    "favicon": "",
+    "countrycode": "RO",
+    "state": "Cluj",
+    "language": "hungarian",
+    "tags": "adult contemporary,hits,top 40",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 358,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "984b6f74-113a-11ea-a87e-52543be04c81",
+    "name": "Radio Romania Targu Mures",
+    "url": "http://streaming.radiomures.ro:8302/listen.pls;/stream",
+    "url_resolved": "http://streaming.radiomures.ro:8302/listen.pls;/stream",
+    "homepage": "http://www.romaniaregional.ro/asculta-reteaua-radio-romania-regional/",
+    "favicon": "http://www.romaniaregional.ro/wp-content/uploads/2014/04/logo-romania-regional.png",
+    "countrycode": "RO",
+    "state": "",
+    "language": "romanian",
+    "tags": "news",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 357,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "28130233-a8e1-4195-8c6e-a22ab41f576a",
+    "name": "Radio România Brașov",
+    "url": "http://stream2.srr.ro:8210/;",
+    "url_resolved": "http://stream2.srr.ro:8210/;",
+    "homepage": "https://www.radiobrasovfm.ro/",
+    "favicon": "https://www.radiobrasovfm.ro/templates/favicon/apple-touch-icon.png",
+    "countrycode": "RO",
+    "state": "",
+    "language": "romanian",
+    "tags": "local news,music,talk",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 357,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "dcae60bc-ffb7-403b-9a42-30be18b42fc0",
+    "name": "Radio Tequila Manele Romania",
+    "url": "https://petrecere.radiotequila.ro/7000/stream",
+    "url_resolved": "https://petrecere.radiotequila.ro/7000/stream",
+    "homepage": "https://www.radiotequila.ro/",
+    "favicon": "https://www.radiotequila.ro/wp-content/uploads/2023/11/logo.png",
     "countrycode": "RO",
     "state": "",
     "language": "",
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 400,
-    "clickcount": 5
+    "votes": 352,
+    "clickcount": 3
   }
 ]

@@ -41,11 +41,11 @@ http://audio.lumen.sk:8000/live128.mp3
 #EXTINF:-1 tvg-logo="" group-title="SK",SRo4 Rádio FM
 http://live.slovakradio.sk:8000/FM_256.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="SK",SRo3: Rádio Devín
-http://icecast.stv.livebox.sk/devin_128.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="SK",Rádio Vlna CLASSIC ROCK
 http://stream.radiovlna.sk:8000/rock-hi.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="SK",SRo3: Rádio Devín
+http://icecast.stv.livebox.sk/devin_128.mp3
 
 #EXTINF:-1 tvg-logo="https://www.rtvs.sk/media/images/radiostations/radio_regina.png" group-title="SK",SRo2 Rádio Regina Východ
 http://icecast.stv.livebox.sk/regina-ke_128.mp3
@@ -194,11 +194,11 @@ https://s2.myradiostream.com/:4870/listen.mp3
 #EXTINF:-1 tvg-logo="" group-title="SK",Rádio BestFM
 https://stream3.bestfm.sk:8000/128.mp3
 
-#EXTINF:-1 tvg-logo="https://radiorock.sk/favicon.ico" group-title="SK",Rádio ROCK
-https://stream.bauermedia.sk/rock-hi.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="SK",METALSCENA netRADIO
 https://listen.radioking.com/radio/263218/stream/308365
+
+#EXTINF:-1 tvg-logo="https://radiorock.sk/favicon.ico" group-title="SK",Rádio ROCK
+https://stream.bauermedia.sk/rock-hi.mp3
 
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.gItQZStw2mHIGhvJGp8aFwAAAA%26pid%3DApi&f=1&ipt=698c390e95f6a2d64349aa8e80bd8f925a2cc5c8d3b1f4f21070cdeaa2118d2d&ipo=images" group-title="SK",RÁDIO SLOVENSKO
 https://icecast.stv.livebox.sk/slovensko_128.mp3
@@ -224,14 +224,8 @@ http://live.topradio.cz:8000/csradio128
 #EXTINF:-1 tvg-logo="https://radiojazz.sk/favicon.ico" group-title="SK",Rádio Jazz
 http://stream.sepia.sk:8000/jazz128.mp3
 
-#EXTINF:-1 tvg-logo="https://cdn.websupport.eu/odin/custom_error_pages/images/favicon.png" group-title="SK",Radio Dychovka
-https://epanel.mediacp.eu:7661/stream
-
 #EXTINF:-1 tvg-logo="https://www.subfm.sk/wp-content/uploads/2021/11/cropped-android-chrome-512x512-1-180x180.png" group-title="SK",SUB:FM
 http://stream.subfm.sk/subfm
-
-#EXTINF:-1 tvg-logo="https://radiovnitre.sk/assets/images/apple-icon-120x120.png" group-title="SK",Rádio v Nitre
-http://195.210.28.150:8932/radiovnitre_live.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="SK",Sllobodný vysielač
 http://159.69.219.5:8010//aac
@@ -248,11 +242,11 @@ https://stream.funradio.sk:8000/chill128.mp3
 #EXTINF:-1 tvg-logo="https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=2024-03-04-1100" group-title="SK",RÁDIO VLNA Classic Rock
 http://stream.radiovlna.sk:8000/rock-hi.mp3
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bdLTNsg/radio-slovensko-w.png" group-title="SK",Rádio Slovensko
-https://icecast.stv.livebox.sk/slovensko_128.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="SK",Rádio Viva
 http://stream.sepia.sk:8000/viva128.mp3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bdLTNsg/radio-slovensko-w.png" group-title="SK",Rádio Slovensko
+https://icecast.stv.livebox.sk/slovensko_128.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Ni2bGP.png" group-title="SK",RÁDIO VLNA
 http://stream.radiovlna.sk/vlna-hi.mp3
@@ -266,11 +260,11 @@ https://hitradioslovakia.stream.laut.fm/hitradioslovakia
 #EXTINF:-1 tvg-logo="" group-title="SK",RADIO BIBLIA SK
 http://radiobiblia.online:8000/stream.ogg
 
-#EXTINF:-1 tvg-logo="https://www.radiokiks.sk/favicon.ico" group-title="SK",Rádio KIKS - Big 80s
-https://online.radiokiks.sk:8000/kiks_big80s.mp3
-
 #EXTINF:-1 tvg-logo="https://cdn.radiovlna.sk/img/Radio_Vlna_Logo.png" group-title="SK",RÁDIO VLNA 60-70
 https://stream.radiovlna.sk/gold-hi.mp3
+
+#EXTINF:-1 tvg-logo="https://www.radiokiks.sk/favicon.ico" group-title="SK",Rádio KIKS - Big 80s
+https://online.radiokiks.sk:8000/kiks_big80s.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DExIeEb.png" group-title="SK",RÁDIO VIVA
 http://stream.sepia.sk:8000/viva128.mp3
@@ -278,14 +272,14 @@ http://stream.sepia.sk:8000/viva128.mp3
 #EXTINF:-1 tvg-logo="https://www.radiokiks.sk/favicon.ico" group-title="SK",Rádio KIKS - Big 90s
 https://online.radiokiks.sk:8000/kiks_big90s.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="SK",Rádio Pohoda 2
-http://mpc1.mediacp.eu:18111/stream
-
 #EXTINF:-1 tvg-logo="https://www.detske.radio/favicon-32x32.png" group-title="SK",Detské Rádio
 http://stream.21.sk/detskeradio-192.mp3
 
 #EXTINF:-1 tvg-logo="https://aetter.sk/wp-content/uploads/2024/11/cropped-cropped-aetter_favicon_new-180x180-1-180x180.png" group-title="SK",Rádio Aetter
 http://stream.aetter.sk:8000/aetter
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ty0Rjzh.png" group-title="SK",RÁDIO BEST FM
+https://stream3.bestfm.sk:8000/128.mp3
 
 #EXTINF:-1 tvg-logo="https://www.radiomelody.sk/wp-content/uploads/2023/01/cropped-radio-melody-favicon-1-256x256.png?w=256&h=256" group-title="SK",Radio Melody
 https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid=melody_web_mobile
@@ -293,12 +287,18 @@ https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qs142Tk.png" group-title="SK",RÁDIO VLNA Oldies Party
 https://stream.radiovlna.sk/party-hi.mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ty0Rjzh.png" group-title="SK",RÁDIO BEST FM
-https://stream3.bestfm.sk:8000/128.mp3
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVXJoSN.png" group-title="SK",RÁDIO BETA
 http://109.71.67.102:8000/beta_live_high.mp3
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/jCttHdwPJLWrfXbk6" group-title="SK",Jubilanti
 http://109.71.67.102:8000/beta_jubilanti.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="SK",Rádio FM
+https://icecast.stv.livebox.sk/fm_128.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/10yFTbI.png" group-title="SK",TRNAVSKÉ RÁDIO
+https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske
+
+#EXTINF:-1 tvg-logo="https://radioextra.sk/favicon.ico" group-title="SK",Radio Extra
+http://live.topradio.cz:8000/extra192
 

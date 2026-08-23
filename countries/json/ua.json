@@ -14,8 +14,8 @@
     "tags": "dance,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 59361,
-    "clickcount": 240
+    "votes": 59634,
+    "clickcount": 210
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "music",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 46334,
-    "clickcount": 67
+    "votes": 46441,
+    "clickcount": 56
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 46040,
-    "clickcount": 66
+    "votes": 46167,
+    "clickcount": 53
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "news,politics",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 38513,
-    "clickcount": 35
+    "votes": 38619,
+    "clickcount": 37
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 36339,
-    "clickcount": 27
+    "votes": 36430,
+    "clickcount": 35
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "classic rock,rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 32492,
-    "clickcount": 24
+    "votes": 32590,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 19957,
-    "clickcount": 14
+    "votes": 20018,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 18083,
-    "clickcount": 15
+    "votes": 18138,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 17893,
-    "clickcount": 10
+    "votes": 17933,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -176,8 +176,8 @@
     "tags": "electronic",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 16214,
-    "clickcount": 18
+    "votes": 16277,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -194,8 +194,8 @@
     "tags": "90's,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 14597,
-    "clickcount": 17
+    "votes": 14678,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -212,8 +212,8 @@
     "tags": "hard rock,heavy rock,rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 14135,
-    "clickcount": 17
+    "votes": 14163,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -230,8 +230,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12177,
-    "clickcount": 14
+    "votes": 12198,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -248,8 +248,8 @@
     "tags": "music",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 11575,
-    "clickcount": 7
+    "votes": 11616,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -266,8 +266,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 10348,
-    "clickcount": 7
+    "votes": 10359,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -284,8 +284,8 @@
     "tags": "dance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 9214,
-    "clickcount": 10
+    "votes": 9247,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 8627,
-    "clickcount": 3
+    "votes": 8642,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -320,8 +320,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 7607,
-    "clickcount": 5
+    "votes": 7621,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -338,26 +338,8 @@
     "tags": "best music for you",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 7421,
-    "clickcount": 21
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "32636cb5-883b-443b-9ea5-05ded332eb4e",
-    "name": "Радіо Relax 101.5",
-    "url": "http://online.radiorelax.ua/RadioRelax",
-    "url_resolved": "http://online.radiorelax.ua/RadioRelax",
-    "homepage": "https://www.radiorelax.ua/",
-    "favicon": "",
-    "countrycode": "UA",
-    "state": "Kyiv",
-    "language": "ukrainian",
-    "tags": "music",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 7376,
-    "clickcount": 8
+    "votes": 7465,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -374,8 +356,26 @@
     "tags": "talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7370,
-    "clickcount": 1
+    "votes": 7416,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "32636cb5-883b-443b-9ea5-05ded332eb4e",
+    "name": "Радіо Relax 101.5",
+    "url": "http://online.radiorelax.ua/RadioRelax",
+    "url_resolved": "http://online.radiorelax.ua/RadioRelax",
+    "homepage": "https://www.radiorelax.ua/",
+    "favicon": "",
+    "countrycode": "UA",
+    "state": "Kyiv",
+    "language": "ukrainian",
+    "tags": "music",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 7406,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -392,8 +392,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 7285,
-    "clickcount": 9
+    "votes": 7302,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -410,8 +410,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 6856,
-    "clickcount": 5
+    "votes": 6866,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -428,8 +428,8 @@
     "tags": "ukrainian",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 5806,
-    "clickcount": 8
+    "votes": 5829,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -446,8 +446,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 5462,
-    "clickcount": 12
+    "votes": 5487,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -464,8 +464,8 @@
     "tags": "atmospheric,downtempo,drum and bass",
     "codec": "AAC",
     "bitrate": 320,
-    "votes": 5448,
-    "clickcount": 5
+    "votes": 5457,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -482,8 +482,8 @@
     "tags": "adult contemporary",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5313,
-    "clickcount": 10
+    "votes": 5346,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -500,8 +500,8 @@
     "tags": "lviv,львівська хвиля",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5009,
-    "clickcount": 5
+    "votes": 5030,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -518,8 +518,8 @@
     "tags": "music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4946,
-    "clickcount": 4
+    "votes": 4969,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -536,8 +536,8 @@
     "tags": "oldies,pop",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 4606,
-    "clickcount": 15
+    "votes": 4630,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -554,8 +554,8 @@
     "tags": "pop,ukrainian",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4377,
-    "clickcount": 31
+    "votes": 4393,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -572,8 +572,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3833,
-    "clickcount": 12
+    "votes": 3853,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -590,7 +590,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3660,
+    "votes": 3674,
     "clickcount": 11
   },
   {
@@ -608,7 +608,7 @@
     "tags": "music,news",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 3362,
+    "votes": 3363,
     "clickcount": 4
   },
   {
@@ -626,8 +626,8 @@
     "tags": "pop",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 3300,
-    "clickcount": 1
+    "votes": 3321,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -643,9 +643,9 @@
     "language": "ukrainian",
     "tags": "talk",
     "codec": "MP3",
-    "bitrate": 256,
-    "votes": 3133,
-    "clickcount": 2
+    "bitrate": 128,
+    "votes": 3135,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -662,8 +662,8 @@
     "tags": "music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3115,
-    "clickcount": 0
+    "votes": 3126,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -680,26 +680,8 @@
     "tags": "music",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 2859,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "bc3929af-9f60-4f2c-a4bb-5c31209f7737",
-    "name": "Deep House Sunset Mix🇺🇦",
-    "url": "http://prmstrm.1.fm:8000/deephouse",
-    "url_resolved": "http://prmstrm.1.fm:8000/deephouse",
-    "homepage": "http://prmstrm.1.fm:8000/deephouse",
-    "favicon": "",
-    "countrycode": "UA",
-    "state": "",
-    "language": "english",
-    "tags": "house",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 2352,
-    "clickcount": 14
+    "votes": 2863,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -716,8 +698,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2348,
-    "clickcount": 2
+    "votes": 2350,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -734,8 +716,8 @@
     "tags": "ua",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2319,
-    "clickcount": 0
+    "votes": 2325,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -752,7 +734,7 @@
     "tags": "alternative rock,new rock,pop rock,rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2232,
+    "votes": 2241,
     "clickcount": 3
   },
   {
@@ -770,8 +752,8 @@
     "tags": "dance,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2196,
-    "clickcount": 7
+    "votes": 2197,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -788,8 +770,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2145,
-    "clickcount": 7
+    "votes": 2153,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -806,8 +788,8 @@
     "tags": "edm,hot ac",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2055,
-    "clickcount": 22
+    "votes": 2068,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -824,8 +806,8 @@
     "tags": "rock,ukrainian rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1989,
-    "clickcount": 4
+    "votes": 1994,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -842,8 +824,8 @@
     "tags": "blues,blues rock,hard rock,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1938,
-    "clickcount": 32
+    "votes": 1963,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -860,8 +842,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1750,
-    "clickcount": 6
+    "votes": 1764,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -879,7 +861,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1596,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -896,8 +878,8 @@
     "tags": "320kbps,pop music",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1354,
-    "clickcount": 13
+    "votes": 1356,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -914,8 +896,8 @@
     "tags": "music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1316,
-    "clickcount": 1
+    "votes": 1317,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -932,8 +914,8 @@
     "tags": "dance,electronic,pop,top 40",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1205,
-    "clickcount": 5
+    "votes": 1218,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -950,8 +932,8 @@
     "tags": "black metal,metal",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1129,
-    "clickcount": 2
+    "votes": 1136,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -986,8 +968,8 @@
     "tags": "news,russian war-ship go fиck-yo-self,ukraine",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 1065,
-    "clickcount": 3
+    "votes": 1068,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1004,8 +986,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1002,
-    "clickcount": 5
+    "votes": 1010,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1022,8 +1004,8 @@
     "tags": "easy listening",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 953,
-    "clickcount": 5
+    "votes": 956,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1040,8 +1022,8 @@
     "tags": "classic rock,heavy metal,rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 944,
-    "clickcount": 7
+    "votes": 948,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1058,8 +1040,8 @@
     "tags": "classic rock,rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 935,
-    "clickcount": 4
+    "votes": 943,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1076,8 +1058,26 @@
     "tags": "128 kbit/s,https,mp3,music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 875,
-    "clickcount": 6
+    "votes": 882,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "7659f108-5f8a-11e9-a622-52543be04c81",
+    "name": "Radio Maria Ukraine",
+    "url": "http://dreamsiteradiocp.com:8022/stream",
+    "url_resolved": "http://dreamsiteradiocp.com:8022/stream",
+    "homepage": "http://radiomaria.org.ua/",
+    "favicon": "",
+    "countrycode": "UA",
+    "state": "",
+    "language": "",
+    "tags": "catholic,christian,katholik,religion,religious,talk",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "votes": 846,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1095,25 +1095,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 845,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "7659f108-5f8a-11e9-a622-52543be04c81",
-    "name": "Radio Maria Ukraine",
-    "url": "http://dreamsiteradiocp.com:8022/stream",
-    "url_resolved": "http://dreamsiteradiocp.com:8022/stream",
-    "homepage": "http://radiomaria.org.ua/",
-    "favicon": "",
-    "countrycode": "UA",
-    "state": "",
-    "language": "",
-    "tags": "catholic,christian,katholik,religion,religious,talk",
-    "codec": "AAC+",
-    "bitrate": 32,
-    "votes": 844,
-    "clickcount": 0
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1130,8 +1112,8 @@
     "tags": "90's,pop",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 840,
-    "clickcount": 5
+    "votes": 841,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1149,7 +1131,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 810,
-    "clickcount": 11
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1166,7 +1148,7 @@
     "tags": "skovoroda,мандрівне,онлайн-радіо,сковорода,україномовне",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 807,
+    "votes": 808,
     "clickcount": 0
   },
   {
@@ -1202,8 +1184,8 @@
     "tags": "90's,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 768,
-    "clickcount": 2
+    "votes": 772,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1220,26 +1202,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 708,
+    "votes": 712,
     "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "237394a3-359c-4dc4-b19f-82e9cb590108",
-    "name": "Informator FM",
-    "url": "https://main.inf.fm:8101/;?type=http&nocache=221893",
-    "url_resolved": "https://main.inf.fm:8101/;?type=http&nocache=221893",
-    "homepage": "https://informator.fm/",
-    "favicon": "",
-    "countrycode": "UA",
-    "state": "Dnepr",
-    "language": "",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 686,
-    "clickcount": 0
   },
   {
     "id": null,
@@ -1256,8 +1220,26 @@
     "tags": "deep",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 674,
-    "clickcount": 12
+    "votes": 688,
+    "clickcount": 14
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "237394a3-359c-4dc4-b19f-82e9cb590108",
+    "name": "Informator FM",
+    "url": "https://main.inf.fm:8101/;?type=http&nocache=221893",
+    "url_resolved": "https://main.inf.fm:8101/;?type=http&nocache=221893",
+    "homepage": "https://informator.fm/",
+    "favicon": "",
+    "countrycode": "UA",
+    "state": "Dnepr",
+    "language": "",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 687,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1274,8 +1256,8 @@
     "tags": "dance,electronic",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 664,
-    "clickcount": 7
+    "votes": 668,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1292,8 +1274,8 @@
     "tags": "information,music,news,other,pop",
     "codec": "MP3",
     "bitrate": 224,
-    "votes": 635,
-    "clickcount": 0
+    "votes": 647,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1310,8 +1292,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 629,
-    "clickcount": 5
+    "votes": 641,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1346,8 +1328,8 @@
     "tags": "information,music,national,news,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 607,
-    "clickcount": 3
+    "votes": 608,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1365,7 +1347,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 586,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1383,7 +1365,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 557,
-    "clickcount": 5
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1400,8 +1382,8 @@
     "tags": "chillout,chillout+lounge",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 544,
-    "clickcount": 10
+    "votes": 547,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1418,8 +1400,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 539,
-    "clickcount": 2
+    "votes": 541,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1436,8 +1418,8 @@
     "tags": "chillout,lounge,relax",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 536,
-    "clickcount": 20
+    "votes": 540,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1453,9 +1435,9 @@
     "language": "ukrainian",
     "tags": "dance,pop",
     "codec": "MP3",
-    "bitrate": 112,
-    "votes": 530,
-    "clickcount": 15
+    "bitrate": 128,
+    "votes": 537,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1472,8 +1454,8 @@
     "tags": "christian,christmas music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 509,
-    "clickcount": 3
+    "votes": 514,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1490,8 +1472,8 @@
     "tags": "ukrainian",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 481,
-    "clickcount": 2
+    "votes": 482,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1508,8 +1490,8 @@
     "tags": "alternative,rock",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 480,
-    "clickcount": 0
+    "votes": 481,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1526,7 +1508,7 @@
     "tags": "folk,music,national,pop",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 476,
+    "votes": 478,
     "clickcount": 0
   },
   {
@@ -1544,8 +1526,8 @@
     "tags": "pop music,rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 428,
-    "clickcount": 0
+    "votes": 430,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1562,8 +1544,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 424,
-    "clickcount": 0
+    "votes": 427,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1580,8 +1562,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 411,
-    "clickcount": 2
+    "votes": 418,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1598,8 +1580,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 389,
-    "clickcount": 4
+    "votes": 395,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1616,7 +1598,7 @@
     "tags": "holos,holos svobody,svoboda,голос,голос свободи,народне,національне,нація,свобода,україна,україномовне",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 364,
+    "votes": 366,
     "clickcount": 1
   },
   {
@@ -1635,7 +1617,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 358,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1652,7 +1634,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 357,
+    "votes": 358,
     "clickcount": 1
   },
   {
@@ -1668,8 +1650,8 @@
     "state": "",
     "language": "",
     "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
+    "codec": "AAC",
+    "bitrate": 48,
     "votes": 353,
     "clickcount": 1
   },
@@ -1689,7 +1671,7 @@
     "codec": "AAC+",
     "bitrate": 256,
     "votes": 352,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1704,10 +1686,10 @@
     "state": "Kherson",
     "language": "ukrainian",
     "tags": "rock ua",
-    "codec": "MP3",
+    "codec": "AAC",
     "bitrate": 256,
     "votes": 344,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1724,26 +1706,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 338,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961d185a-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Mariia",
-    "url": "http://91.203.4.121:8000/stream160",
-    "url_resolved": "http://91.203.4.121:8000/stream160",
-    "homepage": "http://radiomaria.org.ua/",
-    "favicon": "http://radiomaria.org.ua/assets/img/social_logo.jpg",
-    "countrycode": "UA",
-    "state": "Kyiv",
-    "language": "ukrainian",
-    "tags": "word of god",
-    "codec": "AAC+",
-    "bitrate": 160,
-    "votes": 334,
-    "clickcount": 0
+    "votes": 342,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1760,7 +1724,25 @@
     "tags": "music",
     "codec": "AAC",
     "bitrate": 211,
-    "votes": 332,
+    "votes": 336,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "961d185a-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Mariia",
+    "url": "http://91.203.4.121:8000/stream160",
+    "url_resolved": "http://91.203.4.121:8000/stream160",
+    "homepage": "http://radiomaria.org.ua/",
+    "favicon": "http://radiomaria.org.ua/assets/img/social_logo.jpg",
+    "countrycode": "UA",
+    "state": "Kyiv",
+    "language": "ukrainian",
+    "tags": "word of god",
+    "codec": "AAC+",
+    "bitrate": 160,
+    "votes": 335,
     "clickcount": 2
   },
   {
@@ -1778,7 +1760,7 @@
     "tags": "misc",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 327,
+    "votes": 329,
     "clickcount": 0
   },
   {
@@ -1797,6 +1779,24 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 324,
-    "clickcount": 14
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "1163f05f-16cb-4fe4-a581-a11a7318308c",
+    "name": "Tik Tok Hits",
+    "url": "http://stream.europeanhitradio.com:8000/Stream_38.mp3",
+    "url_resolved": "http://stream.europeanhitradio.com:8000/Stream_38.mp3",
+    "homepage": "https://t.me/pytenvvedi",
+    "favicon": "https://telegram.org/img/apple-touch-icon.png",
+    "countrycode": "UA",
+    "state": "",
+    "language": "engilsh",
+    "tags": "dance,deep,pop,rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 322,
+    "clickcount": 1
   }
 ]

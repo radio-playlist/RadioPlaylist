@@ -12,7 +12,7 @@ http://cast3.radiohost.ovh:8352/
 http://strm112.1.fm/blues_mobile_mp3
 
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - True Blues
-http://listen.181fm.com/181-blues_128k.mp3
+https://listen.181fm.com/181-blues_128k.mp3
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_1bad7e5fb9a54196b2ac2c2fe71d6e4f~mv2.jpg" group-title="CA",# RdMix Classic Rock 70s 80s 90s
 https://cast1.torontocast.com:4610/stream
@@ -34,9 +34,6 @@ http://213.141.131.10:8004/louisianablues
 
 #EXTINF:-1 tvg-logo="http://wdcb.org/img/favicons/apple-touch-icon-120x120.png" group-title="US",WDCB 90.9 "Jazz & Blues" Chicago, IL
 http://wdcb-ice.streamguys.org/wdcb128
-
-#EXTINF:-1 tvg-logo="" group-title="US",The 1920s Radio Network (MP3)
-http://tess.fast-serv.com:8570/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7pjwNCm/Blues-Rock.jpg" group-title="UA",Blues & Rock Radio
 http://stream.laut.fm/bluesrock
@@ -134,17 +131,17 @@ http://radio.bigblueswing.com:8002/;64bit.mp3
 #EXTINF:-1 tvg-logo="http://oceanbeachradio.com/favicon.ico" group-title="US",Ocean Beach Radio
 http://ophanim.net:7130/;
 
-#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1722509814047" group-title="IT",MUSIC STAR Zucchero
-http://icy.unitedradio.it/Zucchero.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="FR",Radio Eure du Blues
 http://euredublues.ddns.net:8000/euredublues.ogg
 
-#EXTINF:-1 tvg-logo="" group-title="DE",Bluesclub
-http://stream.laut.fm/bluesclub
+#EXTINF:-1 tvg-logo="http://www.unitedmusic.it/favicon_6.ico?v=1722509814047" group-title="IT",MUSIC STAR Zucchero
+http://icy.unitedradio.it/Zucchero.mp3
 
 #EXTINF:-1 tvg-logo="https://www.jointil.com/broadcast/images/joint.radio350X350.png" group-title="IL",#joint radio Blues Rock
 https://jointil.com/stream-blues
+
+#EXTINF:-1 tvg-logo="" group-title="DE",Bluesclub
+http://stream.laut.fm/bluesclub
 
 #EXTINF:-1 tvg-logo="http://www.xpn.org/favicon.ico" group-title="US",WXPN 88.5 Philadelphia, PA
 https://wxpnhi.xpn.org/xpnhi
@@ -213,7 +210,7 @@ http://live.str3am.com:2240/live
 https://streaming.exclusive.radio/er/allmanbrothers/icecast.audio
 
 #EXTINF:-1 tvg-logo="" group-title="AE",Exclusively  Rod Stewart Hits
-https://nl4.mystreaming.net/er/rodstewarthits/icecast.audio
+https://streaming.exclusive.radio/er/rodstewarthits/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://resources.live24.gr/resources/images/stations/bb59ed73-801d-473b-84d6-da8368f769b3.png" group-title="GR",Rock and Blues Athens
 https://tls-chrome.live24.gr/3253?http://78.129.132.7:35663/
@@ -242,11 +239,11 @@ http://air.radioart.com/fJust_blues.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ici_Musique_logo.svg/220px-Ici_Musique_logo.svg.png" group-title="CA",Radio Canada Ici Musique - Montréal, QC
 https://rcavliveaudio.akamaized.net/hls/live/2006979/M-7QMTL0_MTL/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="RU",Blues - Caprice Radio
-http://79.120.77.11:8000/blues
-
 #EXTINF:-1 tvg-logo="https://media.kjzz.org/s3fs-public/kjzz_120x120.png" group-title="US",KJZZ 91.5 Phoenix, AZ
 http://stream.kjzz.org/kjzz_mp3_128
+
+#EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="RU",Blues - Caprice Radio
+http://79.120.77.11:8000/blues
 
 #EXTINF:-1 tvg-logo="" group-title="US",KJLU "Smooth Jazz 88.9" Jefferson City, MO
 http://ice8.securenetsystems.net/KJLU
@@ -254,14 +251,14 @@ http://ice8.securenetsystems.net/KJLU
 #EXTINF:-1 tvg-logo="http://i.ibb.co/VMQmtV2/favicon.png" group-title="US",WUMB Blues Boston 91.9
 http://wumb.streamguys1.com/wumb919fast
 
+#EXTINF:-1 tvg-logo="" group-title="Global",Buffalo
+http://buffalo.stream.laut.fm/buffalo?t302=2026-08-21_17-52-54&uuid=c77a73a3-1ff7-4036-80b3-b72d7d400175
+
 #EXTINF:-1 tvg-logo="http://www.mixadance.fm/apple-touch-icon.png" group-title="RU",Mixadance FM
 https://stream.mixadance.fm/mixadancejazz
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/radiofreeamericana.com/wp-content/uploads/RFA-Logos/cropped-RFA-VinylRecordLogo-512x512-1.png" group-title="US",Radio Free Americana [64kbps AAC+]
 http://janus.cdnstream.com:5140/live
-
-#EXTINF:-1 tvg-logo="" group-title="Global",Buffalo
-http://buffalo.stream.laut.fm/buffalo?t302=2026-01-15_05-36-30&uuid=4b8a6ab6-2dca-47e4-b778-37c328e77518
 
 #EXTINF:-1 tvg-logo="" group-title="CA",Gritty Rock Radio
 http://www.radioking.com/play/gritty-rock
@@ -270,7 +267,7 @@ http://www.radioking.com/play/gritty-rock
 https://stream.iceradio.nl/iceradio
 
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="AE",exclusive BB King
-https://nl4.mystreaming.net/er/bbking/icecast.audio
+https://streaming.exclusive.radio/er/bbking/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-blues_600x600.jpg" group-title="DE",- 0 N - Blues on Radio
 https://0n-blues.radionetz.de/0n-blues.aac
@@ -284,11 +281,11 @@ http://listen.mrg.fm:8188/stream
 #EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Blues + FAKTY
 http://31.192.216.10/BLUESF
 
-#EXTINF:-1 tvg-logo="" group-title="BR",Lightness of Rock
-https://stream.zeno.fm/n0dt87vrnd0uv
-
 #EXTINF:-1 tvg-logo="" group-title="SI",Radio Zica
 http://live.1chi.si/zica
+
+#EXTINF:-1 tvg-logo="" group-title="BR",Lightness of Rock
+https://stream.zeno.fm/n0dt87vrnd0uv
 
 #EXTINF:-1 tvg-logo="https://ici.radio-canada.ca/favicon.ico" group-title="CA",Radio Canada Ici Musique  - Québec City, QC
 https://rcavliveaudio.akamaized.net/hls/live/2006650/M-7QQUE0_QUE/master.m3u8
@@ -301,4 +298,7 @@ http://cast3.radiohost.ovh:8352/
 
 #EXTINF:-1 tvg-logo="" group-title="GB",Mystery Train Radio
 https://streamer.radio.co/sf662f27c0/listen
+
+#EXTINF:-1 tvg-logo="" group-title="CH",GRRIF
+https://rjb.ice.infomaniak.ch/rjb-high.mp3
 

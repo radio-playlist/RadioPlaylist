@@ -15,7 +15,7 @@ http://streams.calmradio.com:1228/
 https://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png" group-title="CA",CFRB News/Talk 1010 (Toronto, ON)
-http://22113.live.streamtheworld.com:3690/CFRBAMAAC_SC
+http://18303.live.streamtheworld.com:3690/CFRBAMAAC_SC
 
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._kBBu0jkxW7vsBMbUIlxpwHaJA%26pid%3DApi&f=1" group-title="CA",CBC Radio 1 Toronto
 https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/master.m3u8
@@ -36,7 +36,7 @@ https://maggie.torontocast.com:2020/stream/100greatestofthe80s
 https://maggie.torontocast.com:2020/stream/vibrazionirockradio
 
 #EXTINF:-1 tvg-logo="http://www.ctvnews.ca/pf/resources/images/ctvnews/favicon.ico?d=111" group-title="CA",CTV News Audio Channel
-http://18183.live.streamtheworld.com/TV_CTV_NEWSAAC_SC
+http://18183.live.streamtheworld.com:3690/TV_CTV_NEWSAAC_SC
 
 #EXTINF:-1 tvg-logo="" group-title="CA",Nature Radio Rain
 https://maggie.torontocast.com:2020/stream/natureradiorain
@@ -79,9 +79,6 @@ https://listen.radioking.com/radio/10713/stream/224413
 
 #EXTINF:-1 tvg-logo="" group-title="CA",# 70s 80s 90s RdMix Network
 https://cast1.torontocast.com:1830/stream
-
-#EXTINF:-1 tvg-logo="" group-title="CA",Cinemix
-http://94.23.51.96:8001
 
 #EXTINF:-1 tvg-logo="" group-title="CA",加拿大中文电台FM.96.1
 https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
@@ -147,10 +144,10 @@ http://streams.calmradio.com:8328/stream
 http://newcap.leanstream.co/CHBMFM
 
 #EXTINF:-1 tvg-logo="http://www.bnn.ca/pf/resources/images/bnn-bloomberg/favicon.ico?d=46" group-title="CA",Business News Network Audio Channel
-http://18183.live.streamtheworld.com/TV_BNNAAC_SC
+http://18183.live.streamtheworld.com:3690/TV_BNNAAC_SC
 
 #EXTINF:-1 tvg-logo="" group-title="CA",CP24 Audio Channel - Toronto, ON
-http://22113.live.streamtheworld.com/TV_CP24AAC_SC
+http://18183.live.streamtheworld.com:3690/TV_CP24AAC_SC
 
 #EXTINF:-1 tvg-logo="" group-title="CA",Indie88
 https://localradio.streamb.live/SB00348
@@ -182,11 +179,11 @@ http://streams.calmradio.com:4828/;
 #EXTINF:-1 tvg-logo="" group-title="CA",RDMIX ITALIAN VINTAGE 70 80 90
 https://maggie.torontocast.com:2020/stream/rdmixitalianvintage
 
-#EXTINF:-1 tvg-logo="" group-title="CA",Suite Jazz Radio
-https://jenny.torontocast.com:2000/stream/suitejazzradio
-
 #EXTINF:-1 tvg-logo="" group-title="CA",CINA 1650 AM Mississauga, ON
 http://ice8.securenetsystems.net/CINA
+
+#EXTINF:-1 tvg-logo="" group-title="CA",Suite Jazz Radio
+https://jenny.torontocast.com:2000/stream/suitejazzradio
 
 #EXTINF:-1 tvg-logo="https://www.radio-eurodance-classic.eu/images/logo_rec_kdj_300.jpg" group-title="CA",Eurodance Classic ... Pure - Classic - Addictive
 http://quincy.torontocast.com:2380/stream
@@ -224,11 +221,11 @@ https://cast1.torontocast.com:4450/;?type=http&nocache=1745625391
 #EXTINF:-1 tvg-logo="https://globalnews.ca/wp-content/themes/shaw-globalnews/assets/dist/images/logo-morty.svg" group-title="CA",CFIQ 640 "Global News Radio" Toronto, ON
 https://corus.leanstream.co/CFIQAM-MP3
 
-#EXTINF:-1 tvg-logo="https://www.choiceclassicrock.com/images/favicon.ico" group-title="CA",Choice Classic Rock
-https://streamer.radio.co/s66f2626b4/listen
-
 #EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2025-04-29/b4058cf6abde795b40675623669b665f.ico.png" group-title="CA",SMOOTH JAZZ DELUXE
 https://cast1.torontocast.com:4490/;?type=http&nocache=1745925758
+
+#EXTINF:-1 tvg-logo="https://www.choiceclassicrock.com/images/favicon.ico" group-title="CA",Choice Classic Rock
+https://streamer.radio.co/s66f2626b4/listen
 
 #EXTINF:-1 tvg-logo="https://www.radio-addictive-50s.eu/images/logo175.jpg" group-title="CA",Addictive-50s - Golden oldies
 http://quincy.torontocast.com:2920/stream
@@ -245,11 +242,11 @@ http://streams.calmradio.com:7528/stream
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="CA",Early 60's - Calm Radio
 http://streams.calmradio.com:16128/stream/1/
 
-#EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="CA",Calm Radio - Cello
-http://streams.calmradio.com:4628/stream
-
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/wzukusers/user-27172421/images/fav-6a63dee4b19e4b57a9038cc5f853f41a/apple-touch-icon-120x120.png?v=fav-6a63dee4b19e4b57a9038cc5f853f41a" group-title="CA",ChroniX Radio - Aggression
 http://usa19.fastcast4u.com:5720/
+
+#EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="CA",Calm Radio - Cello
+http://streams.calmradio.com:4628/stream
 
 #EXTINF:-1 tvg-logo="" group-title="CA",The Lynx Retro 80s
 http://80s-lynxradio.radioca.st/stream
@@ -257,14 +254,14 @@ http://80s-lynxradio.radioca.st/stream
 #EXTINF:-1 tvg-logo="https://www.cbc.ca/favicon.ico" group-title="CA",CBC Radio 1 Toronto 99.1 FM
 https://cbcradiolive.akamaized.net/hls/live/2041036/ES_R1ETR/adaptive_128/chunklist_ao.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="CA",metalrock.fm
+http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889
+
 #EXTINF:-1 tvg-logo="" group-title="CA",Radio Quebec Country.com - Thetford Mines, QC
 http://play.quebec-country.com/
 
 #EXTINF:-1 tvg-logo="https://toronto.citynews.ca/apple-touch-icon.png?v=2" group-title="CA",CityNews Toronto
 https://rogers-hls.leanstream.co/rogers/tor680.stream/icy?environment=tunein&args=tunein_01
-
-#EXTINF:-1 tvg-logo="" group-title="CA",metalrock.fm
-http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/3/3b/20210720194227%21CBC_logo.svg" group-title="CA",CBC Radio 1 Vancouver
 https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8
@@ -301,4 +298,7 @@ https://cbcradiolive.akamaized.net/hls/live/2041030/ES_R1EMT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/CJRK_EastFM102.7_logo.png/220px-CJRK_EastFM102.7_logo.png" group-title="CA",CJRK-FM 102.7 "East FM" Toronto, ON
 https://centova.radioservers.biz/proxy/eastfmc1/stream
+
+#EXTINF:-1 tvg-logo="https://cache.wefunkradio.com/images-small/apple-touch-icon.png" group-title="CA",WEFUNK
+https://s-09.wefunkradio.com:8443/wefunk64.mp3
 

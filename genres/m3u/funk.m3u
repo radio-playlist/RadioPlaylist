@@ -11,14 +11,8 @@ http://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3
 #EXTINF:-1 tvg-logo="" group-title="US",FUNKY RADIO - Only Funk Music (60's 70's)
 https://funkyradio.streamingmedia.it/play.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="GB",Retro Soul Radio
-http://46.28.49.164:7504/stream
-
 #EXTINF:-1 tvg-logo="" group-title="BR",Rádio Disco Funk BR
 http://streaming12.hstbr.net:8084/live
-
-#EXTINF:-1 tvg-logo="" group-title="GB",Kane FM
-http://stream.kanefm.com:1037/;stream
 
 #EXTINF:-1 tvg-logo="" group-title="US",70s 80s Disco Funk ModernSoul Boogie
 https://discofunk.streamingmedia.it/usa
@@ -42,7 +36,7 @@ http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.
 https://funkyradio.streamingmedia.it/audio.aac
 
 #EXTINF:-1 tvg-logo="" group-title="DE",54 Funk Soul Dance (laut.fm)
-http://54-funk-soul-dance.stream.laut.fm/54-funk-soul-dance?pl=pls&t302=2026-01-14_23-25-29&uuid=6dcf3c5c-1bbd-4089-bd25-d42fca2399b6
+http://54-funk-soul-dance.stream.laut.fm/54-funk-soul-dance?pl=pls&t302=2026-08-21_23-51-26&uuid=a2279d29-e1b1-4cea-81a8-0264b2d8d38a
 
 #EXTINF:-1 tvg-logo="" group-title="US",_Funky Corner Radio (USA)
 https://ais-sa2.cdnstream1.com/2447_192.mp3
@@ -65,17 +59,11 @@ http://stream.laut.fm/jazzrockfusion
 #EXTINF:-1 tvg-logo="https://radionula.com/favicon.png" group-title="SI",Radio Nula
 https://strm.radionula.com/classics
 
-#EXTINF:-1 tvg-logo="http://www.swissgroove.ch/favicon.ico" group-title="CH",SwissGroove
-http://158.69.74.203/
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-disco_600x600.jpg" group-title="DE",- 0 N - Disco on Radio
 https://0n-disco.radionetz.de/0n-disco.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="AU",DiscoRhythm
 http://c3.radioboss.fm:8018/stream
-
-#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-disco-favicon.jpg" group-title="TR",dinamo.fm discotheque
-http://channels.dinamo.fm/discotheque-mp3
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/9/35209.v3.png" group-title="Global",Energy FM Old School Classics
 http://162.244.80.106:8024/stream
@@ -91,9 +79,6 @@ http://uk7.internet-radio.com:8352/
 
 #EXTINF:-1 tvg-logo="https://www.radio80.it/wp-content/uploads/2015/02/logo-radio80-1.ico" group-title="IT",Radio 80 Afro
 https://sphera.fluidstream.eu/r80_afro.mp3
-
-#EXTINF:-1 tvg-logo="https://www.radioenergy.to/favicon.ico" group-title="IT",_Radio Energy Classic (Italy)
-https://gmusto3.radioca.st/stream
 
 #EXTINF:-1 tvg-logo="" group-title="IT",NEU RADIO
 https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
@@ -143,9 +128,6 @@ https://ais-sa2.cdnstream1.com/2447_96.aac
 #EXTINF:-1 tvg-logo="http://674.fm/favicon.ico" group-title="DE",674FM
 http://audio.674.fm/stream
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Funky Express Radio
-http://185.33.22.15:11121/
-
 #EXTINF:-1 tvg-logo="" group-title="DE",Jazzradio GrooveFM
 http://streaming.groovefm.de/
 
@@ -183,7 +165,7 @@ http://sr6.inmystream.info:8024/stream
 http://79.111.119.111:8000/liquidfunk
 
 #EXTINF:-1 tvg-logo="https://cache.wefunkradio.com/images-small/apple-touch-icon.png" group-title="CA",WEFUNK
-https://s-17.wefunkradio.com:8443/wefunk64.mp3
+https://s-09.wefunkradio.com:8443/wefunk64.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="DE",80s80s Funk & Soul
 http://regiocast.streamabc.net/regc-80s80ssoul8277002-mp3-192-1187403?sABC=65493326%230%236080533n48sp2nrq0o4389q6o67o3qps%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1699296038
@@ -193,9 +175,6 @@ http://streaming.radionula.com:8800/classics
 
 #EXTINF:-1 tvg-logo="https://80s.intamixx.uk/images/imc8090.jpg" group-title="GB",Intamixx 80s 90s Radio UK
 https://radio.intamixx.uk:8443/radio2
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/da30f8_ab7658c641924b3cbe4870ae11a3e5df%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/da30f8_ab7658c641924b3cbe4870ae11a3e5df%7emv2.png" group-title="AU",Central Coast Radio.com
-https://s4.radio.co/scf2280c01/listen
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-disco_600x600.jpg" group-title="DE",- 0 N - Disco on Radio
 https://0n-disco.radionetz.de/0n-disco.aac
@@ -239,14 +218,8 @@ http://91.143.83.37:12000/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ncT9hqH6/04008003142.png" group-title="BR",BH FM 102,1 MHz ZYC690 (Belo Horizonte - MG)
 https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac
 
-#EXTINF:-1 tvg-logo="https://www.facebook.com/photo/?fbid=212694897771018&set=a.212694874437687" group-title="BR",LEMIXX - BEST FUNK & GROOVE CLASSICS & RARE DISCO, R&B, 80s OLD SCHOOL DANCE
-http://centova6.ciclanohost.com.br:9428/stream2
-
 #EXTINF:-1 tvg-logo="" group-title="US",The Disco Planet
 https://broadcast.miami/proxy/thediscoplanet?mp=/stream/;
-
-#EXTINF:-1 tvg-logo="" group-title="NL",i-turn radio
-http://live.i-turnradio.nl/live
 
 #EXTINF:-1 tvg-logo="http://www.size-radio.com/favicon.ico" group-title="FR",Size Radio
 http://n11.radiojar.com/atr1e8aswa5tv
@@ -254,8 +227,8 @@ http://n11.radiojar.com/atr1e8aswa5tv
 #EXTINF:-1 tvg-logo="https://ibb.co/jZsV775" group-title="DE",#TOP 100 - DJ CHARTS & REMIX RADIO @ TikTok PROMO Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, Moombahton, Reggaeton, HipHop, Funk, Club & Party Radio - & SUMMER TUNES - 2024 / 2025
 https://stream.breakz.fm/?ref=top100radiobrowser
 
-#EXTINF:-1 tvg-logo="https://www.laradiosympa.com/favicon.ico" group-title="FR",Radio Sympa
-https://radio11.pro-fhi.net/flux-aryfnfye2/stream
+#EXTINF:-1 tvg-logo="" group-title="NL",i-turn radio
+http://live.i-turnradio.nl/live
 
 #EXTINF:-1 tvg-logo="https://www.capital.it/wp-content/themes/network-capital/favicon.ico" group-title="IT",GEDI - Radio Capital Funky Town
 https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8
@@ -278,11 +251,11 @@ https://streaming.exclusive.radio/er/prince/icecast.audio
 #EXTINF:-1 tvg-logo="" group-title="US",Radio Columbia
 https://broadcast.miami/proxy/columbia?mp=/stream/;
 
-#EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Funk
-http://traxx016.ice.infomaniak.ch/traxx016-low.mp3
-
 #EXTINF:-1 tvg-logo="https://www.afc.fm/wp-content/uploads/2023/12/afcfm.png" group-title="NL",Amsterdam Funk Channel (AFC)
 https://stream.afc.fm/
+
+#EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Funk
+http://traxx016.ice.infomaniak.ch/traxx016-low.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="FR",FM 80 FUNKY MUSIC
 https://listen.radioking.com/radio/467555/stream/523739
@@ -290,15 +263,42 @@ https://listen.radioking.com/radio/467555/stream/523739
 #EXTINF:-1 tvg-logo="" group-title="GB",FunkURadio
 https://furfmcou.radioca.st/stream
 
-#EXTINF:-1 tvg-logo="" group-title="PE",Radio Funky Hits
-https://stream-163.zeno.fm/57h4vyd5pf9uv
-
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg" group-title="DE",- 1 A - 60er von 1A Radio
 https://1a-60er.radionetz.de/1a-60er.aac
+
+#EXTINF:-1 tvg-logo="" group-title="PE",Radio Funky Hits
+https://stream-163.zeno.fm/57h4vyd5pf9uv
 
 #EXTINF:-1 tvg-logo="https://waveradio.fm/wp-content/themes/waveradio/img/favicons/apple-icon-120x120.png" group-title="FR",WAVE RADIO 89.8 Hossegor
 https://s34.myradiostream.com/12340/listen.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",Radio RCA
 https://broadcast.miami/proxy/rca?mp=/stream/;
+
+#EXTINF:-1 tvg-logo="" group-title="US",Radio Atlantic
+https://broadcast.miami/proxy/atlantic?mp=/stream/;
+
+#EXTINF:-1 tvg-logo="https://www.c-lab.fr/apple-icon-120x120.png" group-title="FR",C Lab
+http://stream.c-lab.fr:8001/c-lab
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Sweet'n'Sour Radio
+http://stream.laut.fm/sweetnsour
+
+#EXTINF:-1 tvg-logo="https://www.r90.org/wp-content/uploads/2022/07/logo_r90_50px.png" group-title="ES",Ràdio 90 (320k)
+https://giss.tv:666/r90.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="SI",Radio Zica
+http://live.1chi.si/zica
+
+#EXTINF:-1 tvg-logo="" group-title="US",Radio Indie Disco
+https://broadcast.miami/proxy/indiedisco?mp=/stream/;
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8f2aad_2f0459e46d6642cebdb7f500dd35abc3~mv2.png" group-title="FR",Le Bon Mix - AAC320LC
+https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio
+
+#EXTINF:-1 tvg-logo="" group-title="RU",Радио Монте Карло - Funk Coctail
+https://mc-funkcoctail.hostingradio.ru/funkcoctail96.aacp
+
+#EXTINF:-1 tvg-logo="" group-title="US",Radio Warner Bros.
+https://broadcast.miami/proxy/warnerbros?mp=/stream/;
 

@@ -14,8 +14,8 @@
     "tags": "music,news,persian,rfe-rl,talk",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 99373,
-    "clickcount": 69
+    "votes": 99610,
+    "clickcount": 61
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "cultural,music,news,prague,rfe-rl,talk",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 22996,
-    "clickcount": 21
+    "votes": 23058,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "country",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 14335,
-    "clickcount": 28
+    "votes": 14366,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "новости,политика,разговорное",
     "codec": "AAC",
     "bitrate": 140,
-    "votes": 13551,
-    "clickcount": 29
+    "votes": 13584,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "pop",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 11245,
-    "clickcount": 9
+    "votes": 11275,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "classic rock,heavy metal,metal,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 9718,
-    "clickcount": 8
+    "votes": 9735,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8484,
-    "clickcount": 7
+    "votes": 8506,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7929,
-    "clickcount": 6
+    "votes": 7948,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "news,public radio,český rozhlas",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7797,
-    "clickcount": 19
+    "votes": 7808,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -176,8 +176,8 @@
     "tags": "humor",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6398,
-    "clickcount": 25
+    "votes": 6416,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -194,7 +194,7 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4840,
+    "votes": 4856,
     "clickcount": 5
   },
   {
@@ -212,8 +212,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 4791,
-    "clickcount": 2
+    "votes": 4800,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -230,8 +230,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4730,
-    "clickcount": 8
+    "votes": 4737,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -248,26 +248,8 @@
     "tags": "public radio,talk,český rozhlas",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4198,
-    "clickcount": 16
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "c45e34f4-d927-11e9-a861-52543be04c81",
-    "name": "Impuls Ráááádio",
-    "url": "http://icecast5.play.cz/impuls128.mp3",
-    "url_resolved": "http://icecast5.play.cz/impuls128.mp3",
-    "homepage": "https://www.impuls.cz/",
-    "favicon": "https://1gr.cz/u/favicon/apple-touch-icon/impuls.png",
-    "countrycode": "CZ",
-    "state": "",
-    "language": "czech",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4084,
-    "clickcount": 12
+    "votes": 4205,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -284,8 +266,8 @@
     "tags": "90s,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3896,
-    "clickcount": 3
+    "votes": 3923,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -302,8 +284,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3863,
-    "clickcount": 5
+    "votes": 3870,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -320,7 +302,7 @@
     "tags": "news,news talk,talk",
     "codec": "AAC",
     "bitrate": 140,
-    "votes": 3764,
+    "votes": 3771,
     "clickcount": 9
   },
   {
@@ -338,26 +320,8 @@
     "tags": "90s,dance,hiphop,house,pop,rnb,trance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3633,
-    "clickcount": 10
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "40c7fb8f-287f-11e8-91bf-52543be04c81",
-    "name": "Český Impuls",
-    "url": "http://icecast6.play.cz/cesky-impuls.mp3",
-    "url_resolved": "http://icecast6.play.cz/cesky-impuls.mp3",
-    "homepage": "http://www.ceskyimpuls.cz/",
-    "favicon": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/4pn6k2gnfueh.jpg",
-    "countrycode": "CZ",
-    "state": "Czech Republic",
-    "language": "czech",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3599,
-    "clickcount": 16
+    "votes": 3649,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -374,8 +338,8 @@
     "tags": "hits",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3541,
-    "clickcount": 4
+    "votes": 3542,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -392,8 +356,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3190,
-    "clickcount": 8
+    "votes": 3204,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -410,8 +374,8 @@
     "tags": "oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2941,
-    "clickcount": 11
+    "votes": 2948,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -428,8 +392,8 @@
     "tags": "80s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2904,
-    "clickcount": 6
+    "votes": 2915,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -446,8 +410,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2788,
-    "clickcount": 10
+    "votes": 2793,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -464,8 +428,8 @@
     "tags": "320kbps",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2603,
-    "clickcount": 3
+    "votes": 2609,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -482,8 +446,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2415,
-    "clickcount": 5
+    "votes": 2420,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -500,8 +464,8 @@
     "tags": "classical,public radio,český rozhlas",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2334,
-    "clickcount": 6
+    "votes": 2338,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -518,26 +482,8 @@
     "tags": "commercial",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 2085,
-    "clickcount": 10
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96209a4c-0601-11e8-ae97-52543be04c81",
-    "name": "Rock Rádio Šumava",
-    "url": "http://ice.abradio.cz/sumava128.mp3",
-    "url_resolved": "http://ice.abradio.cz/sumava128.mp3",
-    "homepage": "http://www.radiosumava.cz/",
-    "favicon": "",
-    "countrycode": "CZ",
-    "state": "",
-    "language": "czech",
-    "tags": "rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1949,
-    "clickcount": 1
+    "votes": 2095,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -554,8 +500,26 @@
     "tags": "metal,rock",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 1946,
+    "votes": 1965,
     "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96209a4c-0601-11e8-ae97-52543be04c81",
+    "name": "Rock Rádio Šumava",
+    "url": "http://ice.abradio.cz/sumava128.mp3",
+    "url_resolved": "http://ice.abradio.cz/sumava128.mp3",
+    "homepage": "http://www.radiosumava.cz/",
+    "favicon": "",
+    "countrycode": "CZ",
+    "state": "",
+    "language": "czech",
+    "tags": "rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1952,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -572,7 +536,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1939,
+    "votes": 1947,
     "clickcount": 4
   },
   {
@@ -590,8 +554,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1891,
-    "clickcount": 6
+    "votes": 1911,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -608,8 +572,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1841,
-    "clickcount": 2
+    "votes": 1845,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -626,8 +590,8 @@
     "tags": "undefined",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1832,
-    "clickcount": 13
+    "votes": 1845,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -644,8 +608,8 @@
     "tags": "public radio,talk,český rozhlas",
     "codec": "OGG",
     "bitrate": 0,
-    "votes": 1818,
-    "clickcount": 7
+    "votes": 1824,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -662,8 +626,8 @@
     "tags": "disco,discomusic 70,discomusic 80,funk,nu-disco",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1794,
-    "clickcount": 1
+    "votes": 1799,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -680,8 +644,8 @@
     "tags": "dance,nineties",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1742,
-    "clickcount": 14
+    "votes": 1744,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -698,8 +662,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1738,
-    "clickcount": 1
+    "votes": 1740,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -716,8 +680,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1705,
-    "clickcount": 4
+    "votes": 1707,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -734,8 +698,8 @@
     "tags": "classic rock,rock",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 1540,
-    "clickcount": 5
+    "votes": 1545,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -752,8 +716,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1417,
-    "clickcount": 18
+    "votes": 1422,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -770,8 +734,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1383,
-    "clickcount": 4
+    "votes": 1384,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -788,8 +752,8 @@
     "tags": "czech rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1352,
-    "clickcount": 6
+    "votes": 1354,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -806,26 +770,8 @@
     "tags": "chillout,electronic,trip hop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1202,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961001b0-0601-11e8-ae97-52543be04c81",
-    "name": "RADIO 1",
-    "url": "http://icecast2.play.cz/radio1.mp3",
-    "url_resolved": "http://icecast2.play.cz/radio1.mp3",
-    "homepage": "http://www.radio1.cz/",
-    "favicon": "",
-    "countrycode": "CZ",
-    "state": "",
-    "language": "czech",
-    "tags": "alternative",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 1155,
-    "clickcount": 1
+    "votes": 1209,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -842,7 +788,25 @@
     "tags": "oldies,pop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1148,
+    "votes": 1162,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "961001b0-0601-11e8-ae97-52543be04c81",
+    "name": "RADIO 1",
+    "url": "http://icecast2.play.cz/radio1.mp3",
+    "url_resolved": "http://icecast2.play.cz/radio1.mp3",
+    "homepage": "http://www.radio1.cz/",
+    "favicon": "",
+    "countrycode": "CZ",
+    "state": "",
+    "language": "czech",
+    "tags": "alternative",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 1157,
     "clickcount": 5
   },
   {
@@ -860,8 +824,8 @@
     "tags": "news,political talk,rfe,talk",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1127,
-    "clickcount": 2
+    "votes": 1131,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -879,7 +843,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 1035,
-    "clickcount": 1
+    "clickcount": 3
   },
   {
     "id": null,
@@ -896,8 +860,8 @@
     "tags": "oldies,pop,regional",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 863,
-    "clickcount": 1
+    "votes": 874,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -915,25 +879,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 831,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "c7571cbe-b514-11e9-acb2-52543be04c81",
-    "name": "Rockzone",
-    "url": "http://icecast5.play.cz/rockzone128.mp3",
-    "url_resolved": "http://icecast5.play.cz/rockzone128.mp3",
-    "homepage": "http://www.rockzone.cz/",
-    "favicon": "http://www.rockzone.cz/favicon.ico",
-    "countrycode": "CZ",
-    "state": "Czech Republic",
-    "language": "czech",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 802,
-    "clickcount": 5
+    "clickcount": 0
   },
   {
     "id": null,
@@ -950,26 +896,8 @@
     "tags": "alternative,czech folk music,dance,pop,prague,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 798,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961d4f6c-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Dechovka 1233 Stredni Vlny",
-    "url": "http://icecast5.play.cz/dechovka128.mp3",
-    "url_resolved": "http://icecast5.play.cz/dechovka128.mp3",
-    "homepage": "http://www.radiodechovka.cz/",
-    "favicon": "http://api.play.cz/static/radio_logo/t200/radiodechovka.png",
-    "countrycode": "CZ",
-    "state": "",
-    "language": "czech",
-    "tags": "czech folk music",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 767,
-    "clickcount": 0
+    "votes": 799,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -986,8 +914,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 743,
+    "votes": 744,
     "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "17e20c76-e993-45fb-88f4-6efdef17cc28",
+    "name": "Color Music Radio",
+    "url": "http://sc.ipip.cz:8206/;stream",
+    "url_resolved": "http://sc.ipip.cz:8206/;stream",
+    "homepage": "https://radiocolor.cz/",
+    "favicon": "https://radiocolor.cz/image/color_logo500x500.jpg",
+    "countrycode": "CZ",
+    "state": "",
+    "language": "czech,english",
+    "tags": "funk,hiphop,rnb,soul",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 697,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1004,26 +950,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 694,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "17e20c76-e993-45fb-88f4-6efdef17cc28",
-    "name": "Color Music Radio",
-    "url": "http://sc.ipip.cz:8206/;stream",
-    "url_resolved": "http://sc.ipip.cz:8206/;stream",
-    "homepage": "https://radiocolor.cz/",
-    "favicon": "https://radiocolor.cz/image/color_logo500x500.jpg",
-    "countrycode": "CZ",
-    "state": "",
-    "language": "czech,english",
-    "tags": "funk,hiphop,rnb,soul",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 690,
-    "clickcount": 10
+    "votes": 696,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1040,8 +968,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 687,
-    "clickcount": 1
+    "votes": 688,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1058,7 +986,7 @@
     "tags": "country,folk,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 683,
+    "votes": 684,
     "clickcount": 3
   },
   {
@@ -1077,7 +1005,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 681,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1095,7 +1023,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 660,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1112,7 +1040,7 @@
     "tags": "88.2",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 650,
+    "votes": 658,
     "clickcount": 24
   },
   {
@@ -1130,26 +1058,8 @@
     "tags": "comedy,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 637,
-    "clickcount": 15
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9a25d1e8-04bf-4987-bffc-d455447af673",
-    "name": "Cesky Rozhlas Jazz Lossless FLAC Stream",
-    "url": "http://amp.cesnet.cz:8000/cro-jazz.flac",
-    "url_resolved": "http://amp.cesnet.cz:8000/cro-jazz.flac",
-    "homepage": "https://jazz.rozhlas.cz/",
-    "favicon": "https://www.mujrozhlas.cz/themes/mr_frontend/img/favicons/favicon.ico",
-    "countrycode": "CZ",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "OGG",
-    "bitrate": 0,
-    "votes": 634,
-    "clickcount": 6
+    "votes": 640,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -1166,8 +1076,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 632,
+    "votes": 637,
     "clickcount": 37
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9a25d1e8-04bf-4987-bffc-d455447af673",
+    "name": "Cesky Rozhlas Jazz Lossless FLAC Stream",
+    "url": "http://amp.cesnet.cz:8000/cro-jazz.flac",
+    "url_resolved": "http://amp.cesnet.cz:8000/cro-jazz.flac",
+    "homepage": "https://jazz.rozhlas.cz/",
+    "favicon": "https://www.mujrozhlas.cz/themes/mr_frontend/img/favicons/favicon.ico",
+    "countrycode": "CZ",
+    "state": "",
+    "language": "",
+    "tags": "",
+    "codec": "OGG",
+    "bitrate": 0,
+    "votes": 635,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1184,8 +1112,8 @@
     "tags": "klídek,pohoda,relax",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 584,
-    "clickcount": 2
+    "votes": 587,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1202,8 +1130,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 564,
-    "clickcount": 6
+    "votes": 565,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1220,8 +1148,44 @@
     "tags": "",
     "codec": "OGG",
     "bitrate": 0,
-    "votes": 550,
-    "clickcount": 2
+    "votes": 551,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "5c65222f-7623-4cda-8d02-110b1dd35b18",
+    "name": "Rádio humor 2",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac",
+    "homepage": "https://www.abradio.cz/",
+    "favicon": "",
+    "countrycode": "CZ",
+    "state": "Prague",
+    "language": "czech",
+    "tags": "humor",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "votes": 470,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "aaec68f1-aa06-423e-aa82-2dab5a36ff82",
+    "name": "Cesky Rozhlas Classical Lossless FLAC Stream",
+    "url": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
+    "url_resolved": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
+    "homepage": "https://d-dur.rozhlas.cz/",
+    "favicon": "https://d-dur.rozhlas.cz/favicon.ico",
+    "countrycode": "CZ",
+    "state": "Czech Republic",
+    "language": "",
+    "tags": "",
+    "codec": "OGG",
+    "bitrate": 0,
+    "votes": 469,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1239,43 +1203,7 @@
     "codec": "OGG",
     "bitrate": 0,
     "votes": 469,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "aaec68f1-aa06-423e-aa82-2dab5a36ff82",
-    "name": "Cesky Rozhlas Classical Lossless FLAC Stream",
-    "url": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
-    "url_resolved": "http://amp.cesnet.cz:8000/cro-d-dur.flac",
-    "homepage": "https://d-dur.rozhlas.cz/",
-    "favicon": "https://d-dur.rozhlas.cz/favicon.ico",
-    "countrycode": "CZ",
-    "state": "Czech Republic",
-    "language": "",
-    "tags": "",
-    "codec": "OGG",
-    "bitrate": 0,
-    "votes": 468,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "5c65222f-7623-4cda-8d02-110b1dd35b18",
-    "name": "Rádio humor 2",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac",
-    "homepage": "https://www.abradio.cz/",
-    "favicon": "",
-    "countrycode": "CZ",
-    "state": "Prague",
-    "language": "czech",
-    "tags": "humor",
-    "codec": "AAC+",
-    "bitrate": 128,
-    "votes": 467,
-    "clickcount": 6
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1292,8 +1220,8 @@
     "tags": "christian",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 459,
-    "clickcount": 1
+    "votes": 460,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1310,7 +1238,7 @@
     "tags": "phonk",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 452,
+    "votes": 454,
     "clickcount": 3
   },
   {
@@ -1334,6 +1262,24 @@
   {
     "id": null,
     "source": "radio_browser_github",
+    "stationuuid": "ffc0040e-5e9c-4e08-8c57-94db090c9e7a",
+    "name": "CRo Radiozurnal",
+    "url": "https://rozhlas.stream/radiozurnal_aac_128.aac",
+    "url_resolved": "https://rozhlas.stream/radiozurnal_aac_128.aac",
+    "homepage": "https://radiozurnal.rozhlas.cz/",
+    "favicon": "https://radiozurnal.rozhlas.cz/sites/default/files/favicon_radiozurnal.ico",
+    "countrycode": "CZ",
+    "state": "",
+    "language": "",
+    "tags": "",
+    "codec": "AAC",
+    "bitrate": 192,
+    "votes": 444,
+    "clickcount": 21
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
     "stationuuid": "86ade1ec-0b06-4ede-97a1-04ab18299265",
     "name": "Netro Life Radio 100,8 FM",
     "url": "https://icecast9.play.cz/netro-life-radio.mp3",
@@ -1347,25 +1293,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 442,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ffc0040e-5e9c-4e08-8c57-94db090c9e7a",
-    "name": "CRo Radiozurnal",
-    "url": "https://rozhlas.stream/radiozurnal_aac_128.aac",
-    "url_resolved": "https://rozhlas.stream/radiozurnal_aac_128.aac",
-    "homepage": "https://radiozurnal.rozhlas.cz/",
-    "favicon": "https://radiozurnal.rozhlas.cz/sites/default/files/favicon_radiozurnal.ico",
-    "countrycode": "CZ",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "AAC",
-    "bitrate": 192,
-    "votes": 438,
-    "clickcount": 11
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1382,8 +1310,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 400,
-    "clickcount": 4
+    "votes": 401,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1401,7 +1329,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 384,
-    "clickcount": 5
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1419,7 +1347,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 383,
-    "clickcount": 4
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1436,8 +1364,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 371,
-    "clickcount": 3
+    "votes": 372,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1455,7 +1383,7 @@
     "codec": "OGG",
     "bitrate": 0,
     "votes": 369,
-    "clickcount": 8
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1473,7 +1401,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 368,
-    "clickcount": 0
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1491,7 +1419,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 365,
-    "clickcount": 6
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1508,8 +1436,26 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 355,
-    "clickcount": 5
+    "votes": 361,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96398566-0601-11e8-ae97-52543be04c81",
+    "name": "Hitrádio City Brno",
+    "url": "http://ice.abradio.cz/magicbrno128.mp3",
+    "url_resolved": "http://ice.abradio.cz/magicbrno128.mp3",
+    "homepage": "http://hitradiocitybrno.cz/",
+    "favicon": "http://hitradiocitybrno.cz/design/favicons/apple-icon-120x120.png",
+    "countrycode": "CZ",
+    "state": "",
+    "language": "czech",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 345,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1526,7 +1472,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 341,
+    "votes": 342,
     "clickcount": 6
   },
   {
@@ -1544,26 +1490,8 @@
     "tags": "news,public radio,sport,talk",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 337,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96398566-0601-11e8-ae97-52543be04c81",
-    "name": "Hitrádio City Brno",
-    "url": "http://ice.abradio.cz/magicbrno128.mp3",
-    "url_resolved": "http://ice.abradio.cz/magicbrno128.mp3",
-    "homepage": "http://hitradiocitybrno.cz/",
-    "favicon": "http://hitradiocitybrno.cz/design/favicons/apple-icon-120x120.png",
-    "countrycode": "CZ",
-    "state": "",
-    "language": "czech",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 336,
-    "clickcount": 0
+    "votes": 338,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1581,7 +1509,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 326,
-    "clickcount": 5
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1599,25 +1527,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 324,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "1eb41dea-3db4-4b65-ba14-6d97b999842a",
-    "name": "WeHouseRadio",
-    "url": "https://stream.wehouseradio.com/stream/1/",
-    "url_resolved": "https://icecast9.play.cz/zun192.mp3",
-    "homepage": "https://www.wehouseradio.com/",
-    "favicon": "",
-    "countrycode": "CZ",
-    "state": "",
-    "language": "english",
-    "tags": "funky house,house,jackin house,nu-disco,soulful house,tech house",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 321,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1634,8 +1544,26 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 318,
-    "clickcount": 21
+    "votes": 321,
+    "clickcount": 32
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "1eb41dea-3db4-4b65-ba14-6d97b999842a",
+    "name": "WeHouseRadio",
+    "url": "https://stream.wehouseradio.com/stream/1/",
+    "url_resolved": "https://stream.zunradio.cz/zun3.mp3",
+    "homepage": "https://www.wehouseradio.com/",
+    "favicon": "",
+    "countrycode": "CZ",
+    "state": "",
+    "language": "english",
+    "tags": "funky house,house,jackin house,nu-disco,soulful house,tech house",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 321,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1652,8 +1580,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 297,
-    "clickcount": 4
+    "votes": 299,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1670,8 +1598,8 @@
     "tags": "90's,retro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 291,
-    "clickcount": 5
+    "votes": 292,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1689,7 +1617,7 @@
     "codec": "OGG",
     "bitrate": 0,
     "votes": 286,
-    "clickcount": 0
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1715,7 +1643,7 @@
     "stationuuid": "a097a164-e995-4925-83ec-823392dbfd98",
     "name": "RADIO1",
     "url": "http://www.play.cz/radio/radio1-192.mp3.m3u",
-    "url_resolved": "http://icecast2.play.cz/radio1-64.mp3",
+    "url_resolved": "http://icecast2.play.cz/radio1-192.mp3",
     "homepage": "https://www.radio1.cz/",
     "favicon": "https://www.radio1.cz/favicon.ico",
     "countrycode": "CZ",
@@ -1778,8 +1706,8 @@
     "tags": "news,public radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 261,
-    "clickcount": 5
+    "votes": 262,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1796,7 +1724,79 @@
     "tags": "local",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 251,
-    "clickcount": 6
+    "votes": 252,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c39ee6bf-d126-11e8-a54a-52543be04c81",
+    "name": "Hitrádio FM Crystal",
+    "url": "http://ice.abradio.cz/crystal128.mp3",
+    "url_resolved": "http://ice.abradio.cz/crystal128.mp3",
+    "homepage": "https://hitradiofm.cz/",
+    "favicon": "",
+    "countrycode": "CZ",
+    "state": "",
+    "language": "czech",
+    "tags": "local,pop",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 250,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "edff4cbe-7e39-44bc-a248-29744cd303ed",
+    "name": "Rádio Relax",
+    "url": "http://icecast7.play.cz/relax128.mp3",
+    "url_resolved": "http://icecast7.play.cz/relax128.mp3",
+    "homepage": "http://radio-relax.cz/",
+    "favicon": "",
+    "countrycode": "CZ",
+    "state": "Středočeský kraj",
+    "language": "czech",
+    "tags": "pop,rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 249,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "6f27451f-84bf-454f-971d-9c8c28c59c37",
+    "name": "Haná",
+    "url": "http://icecast8.play.cz/hana128.mp3",
+    "url_resolved": "http://icecast8.play.cz/hana128.mp3",
+    "homepage": "https://www.radiohana.cz/",
+    "favicon": "",
+    "countrycode": "CZ",
+    "state": "",
+    "language": "česky",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 237,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "cd563cdc-5c77-11e9-a622-52543be04c81",
+    "name": "Dance Radio",
+    "url": "http://ice.actve.net/dance-radio128.mp3",
+    "url_resolved": "http://ice.actve.net/dance-radio128.mp3",
+    "homepage": "https://www.danceradio.cz/",
+    "favicon": "https://www.danceradio.cz/favicons/apple-icon-120x120.png",
+    "countrycode": "CZ",
+    "state": "",
+    "language": "",
+    "tags": "128kbit",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 234,
+    "clickcount": 1
   }
 ]

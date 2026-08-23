@@ -10,12 +10,12 @@
     "favicon": "https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp",
     "countrycode": "DE",
     "state": "Rheinland-Pfalz",
-    "language": "german",
+    "language": "english,german",
     "tags": "music,variety",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 820810,
-    "clickcount": 794
+    "votes": 821820,
+    "clickcount": 766
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "heavy metal,metal",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 33427,
-    "clickcount": 100
+    "votes": 33532,
+    "clickcount": 75
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "ard,public radio,rock,top 40,wdr",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 32033,
-    "clickcount": 224
+    "votes": 32109,
+    "clickcount": 256
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "80s",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 29239,
-    "clickcount": 113
+    "votes": 29316,
+    "clickcount": 106
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "90s,hits,pop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 27129,
-    "clickcount": 97
+    "votes": 27227,
+    "clickcount": 79
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "90s,dance,electronica,eurodance",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 26319,
-    "clickcount": 52
+    "votes": 26362,
+    "clickcount": 53
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "hiphop,rap",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 25952,
-    "clickcount": 110
+    "votes": 26059,
+    "clickcount": 109
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 25649,
-    "clickcount": 112
+    "votes": 25719,
+    "clickcount": 163
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "information,news,news talk,political talk,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 23715,
-    "clickcount": 192
+    "votes": 23750,
+    "clickcount": 189
   },
   {
     "id": null,
@@ -176,8 +176,8 @@
     "tags": "electronic,techno,trance",
     "codec": "AAC",
     "bitrate": 256,
-    "votes": 21911,
-    "clickcount": 37
+    "votes": 22001,
+    "clickcount": 44
   },
   {
     "id": null,
@@ -194,26 +194,8 @@
     "tags": "top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 21082,
-    "clickcount": 57
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960e96f3-0601-11e8-ae97-52543be04c81",
-    "name": "TechnoBase.FM",
-    "url": "http://lw2.mp3.tb-group.fm/tb.mp3",
-    "url_resolved": "http://lw2.mp3.tb-group.fm/tb.mp3",
-    "homepage": "https://technobase.fm/",
-    "favicon": "https://technobase.fm/media/icons/tb/apple-touch-icon.png",
-    "countrycode": "DE",
-    "state": "",
-    "language": "german",
-    "tags": "dance,eurodance,handsup,happy hardcore,hardcore,jumpstyle,techno",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 20050,
-    "clickcount": 32
+    "votes": 21101,
+    "clickcount": 69
   },
   {
     "id": null,
@@ -230,8 +212,8 @@
     "tags": "news,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 18743,
-    "clickcount": 332
+    "votes": 18781,
+    "clickcount": 368
   },
   {
     "id": null,
@@ -248,8 +230,8 @@
     "tags": "dance,electronic,minimal,techno",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 18529,
-    "clickcount": 46
+    "votes": 18571,
+    "clickcount": 54
   },
   {
     "id": null,
@@ -266,8 +248,8 @@
     "tags": "80er,80s,90er,90s,classic rock,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 17691,
-    "clickcount": 46
+    "votes": 17735,
+    "clickcount": 49
   },
   {
     "id": null,
@@ -284,8 +266,8 @@
     "tags": "dance,trance",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 16863,
-    "clickcount": 98
+    "votes": 16888,
+    "clickcount": 96
   },
   {
     "id": null,
@@ -302,8 +284,8 @@
     "tags": "chillout",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 15055,
-    "clickcount": 47
+    "votes": 15098,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -320,8 +302,8 @@
     "tags": "90s",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 13974,
-    "clickcount": 44
+    "votes": 14010,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -329,7 +311,7 @@
     "stationuuid": "960553a5-0601-11e8-ae97-52543be04c81",
     "name": "Radio Eins",
     "url": "http://radioeins.de/stream",
-    "url_resolved": "http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=38HoeEhwMU9ZjQaArYLcNuLu9LN&token=VXH8C52tOJ6o_G5uLXexxjt84DXyHGfH0RABfQljedk&tvf=8PpblQ7uihhmMTIxLnJuZGZuay5jb20",
+    "url_resolved": "http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3IF8H4CTFc7OyX4hxwaFqrr974Z&token=LH0KWzjJQuUAaZuSQIixlVegLKYnXpQnm2Lw4MELzvg&tvf=Le9PxvcDzhhmMTIxLnJuZGZuay5jb20",
     "homepage": "http://www.radioeins.de/",
     "favicon": "http://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png",
     "countrycode": "DE",
@@ -338,8 +320,8 @@
     "tags": "adult contemporary,alternative,ard,information,pop,public radio,rbb,rock,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12220,
-    "clickcount": 100
+    "votes": 12252,
+    "clickcount": 106
   },
   {
     "id": null,
@@ -356,8 +338,8 @@
     "tags": "ard,information,news,public radio,rbb",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11865,
-    "clickcount": 57
+    "votes": 11892,
+    "clickcount": 82
   },
   {
     "id": null,
@@ -374,8 +356,8 @@
     "tags": "culture,news,public service,information",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11055,
-    "clickcount": 320
+    "votes": 11119,
+    "clickcount": 356
   },
   {
     "id": null,
@@ -392,8 +374,8 @@
     "tags": "rock classics",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 10793,
-    "clickcount": 22
+    "votes": 10815,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -410,26 +392,8 @@
     "tags": "70er,70s,oldies,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 10697,
-    "clickcount": 31
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "dfe95eca-06e0-11e9-a80b-52543be04c81",
-    "name": "RMNinstrumental",
-    "url": "http://stream.instrumentalhits.de:8060/",
-    "url_resolved": "http://stream.instrumentalhits.de:8060/",
-    "homepage": "http://www.instrumentalhits.de/",
-    "favicon": "",
-    "countrycode": "DE",
-    "state": "",
-    "language": "",
-    "tags": "instrumental",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 8312,
-    "clickcount": 5
+    "votes": 10710,
+    "clickcount": 30
   },
   {
     "id": null,
@@ -446,8 +410,26 @@
     "tags": "alternative metal,alternative rock,grunge,indie rock,punkrock,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 8288,
-    "clickcount": 29
+    "votes": 8339,
+    "clickcount": 37
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "dfe95eca-06e0-11e9-a80b-52543be04c81",
+    "name": "RMNinstrumental",
+    "url": "http://stream.instrumentalhits.de:8060/",
+    "url_resolved": "http://stream.instrumentalhits.de:8060/",
+    "homepage": "http://www.instrumentalhits.de/",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "",
+    "language": "",
+    "tags": "instrumental",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 8316,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -464,8 +446,8 @@
     "tags": "80er,80s,oldies,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8187,
-    "clickcount": 22
+    "votes": 8204,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -482,8 +464,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7803,
-    "clickcount": 18
+    "votes": 7824,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -500,8 +482,8 @@
     "tags": "ard,bayerischer rundfunk,information,news,public radio,talk",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 7579,
-    "clickcount": 10
+    "votes": 7581,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -518,8 +500,8 @@
     "tags": "reggae",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 7213,
-    "clickcount": 18
+    "votes": 7220,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -536,8 +518,8 @@
     "tags": "music,news,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6942,
-    "clickcount": 75
+    "votes": 6960,
+    "clickcount": 70
   },
   {
     "id": null,
@@ -554,8 +536,8 @@
     "tags": "deutscher hip-hop,deutschrap,german rap,hip-hop,hiphop,rap",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6818,
-    "clickcount": 10
+    "votes": 6828,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -572,8 +554,8 @@
     "tags": "00s,dance",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 6776,
-    "clickcount": 20
+    "votes": 6787,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -590,8 +572,8 @@
     "tags": "pop,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6699,
-    "clickcount": 53
+    "votes": 6714,
+    "clickcount": 45
   },
   {
     "id": null,
@@ -608,8 +590,26 @@
     "tags": "classic rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6477,
-    "clickcount": 49
+    "votes": 6498,
+    "clickcount": 30
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "1b762b21-2ec6-412a-a231-fa34a96f4f99",
+    "name": "80s80s Radio",
+    "url": "http://streams.80s80s.de/web/mp3-192/play.m3u",
+    "url_resolved": "http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6n889r72%230%23r30o443r1929r059s085628511796n57%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1787338354",
+    "homepage": "https://www.80s80s.de/streams/80s80s",
+    "favicon": "https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png",
+    "countrycode": "DE",
+    "state": "",
+    "language": "",
+    "tags": "80s,new wave,pop,rock",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 6349,
+    "clickcount": 280
   },
   {
     "id": null,
@@ -626,26 +626,8 @@
     "tags": "ambient,dance,electronic,instrumental",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6271,
-    "clickcount": 11
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "1b762b21-2ec6-412a-a231-fa34a96f4f99",
-    "name": "80s80s Radio",
-    "url": "http://streams.80s80s.de/web/mp3-192/play.m3u",
-    "url_resolved": "http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=69687n9o%230%23r30o443r1929r059s085628511796n57%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1768454811",
-    "homepage": "https://www.80s80s.de/streams/80s80s",
-    "favicon": "https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png",
-    "countrycode": "DE",
-    "state": "",
-    "language": "",
-    "tags": "80s,new wave,pop,rock",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 6271,
-    "clickcount": 254
+    "votes": 6283,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -662,8 +644,8 @@
     "tags": "80s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6254,
-    "clickcount": 7
+    "votes": 6266,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -680,8 +662,8 @@
     "tags": "information,news",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6182,
-    "clickcount": 55
+    "votes": 6190,
+    "clickcount": 47
   },
   {
     "id": null,
@@ -698,8 +680,8 @@
     "tags": "90s,techno",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 6112,
-    "clickcount": 34
+    "votes": 6133,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -716,8 +698,8 @@
     "tags": "electro,electro house,electronic,hits,progressive psytrance,progressive trance,psytrance,trance,vocal trance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 6010,
-    "clickcount": 43
+    "votes": 6043,
+    "clickcount": 30
   },
   {
     "id": null,
@@ -725,7 +707,7 @@
     "stationuuid": "960567ca-0601-11e8-ae97-52543be04c81",
     "name": "Hit Radio FFH - Eurodance",
     "url": "http://streams.ffh.de/ffhchannels/mp3/hqeurodance.m3u",
-    "url_resolved": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3",
+    "url_resolved": "http://mp3.ffh.de/ffhchannels/hqeurodance.mp3?aw_0_req.gdpr=true",
     "homepage": "http://www.ffh.de/",
     "favicon": "",
     "countrycode": "DE",
@@ -734,7 +716,7 @@
     "tags": "eurodance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5975,
+    "votes": 5983,
     "clickcount": 7
   },
   {
@@ -752,8 +734,8 @@
     "tags": "50s,60s,70s,80s,oldies,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5867,
-    "clickcount": 9
+    "votes": 5875,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -770,8 +752,8 @@
     "tags": "90er,90s,dance,oldies,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5847,
-    "clickcount": 14
+    "votes": 5863,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -788,8 +770,8 @@
     "tags": "hits,music,oldies,public radio,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5829,
-    "clickcount": 22
+    "votes": 5845,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -806,8 +788,8 @@
     "tags": "dance,electronic,lounge",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 5763,
-    "clickcount": 12
+    "votes": 5768,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -815,7 +797,7 @@
     "stationuuid": "5b48d259-27f5-11e8-91bf-52543be04c81",
     "name": "i love radio - hip hop turnup",
     "url": "http://stream02.iloveradio.de/iloveradio13.mp3?hadpreroll",
-    "url_resolved": "http://ilm.stream12.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQ1MTIyJmQ9OWI3NTBlNDgzOTIyY2Q3YTc5ZWQ",
+    "url_resolved": "http://ilm.stream12.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzg3MzQ1NDk4JmQ9YTljZDAzODNmMGQ1ZTU2YTQzNDE",
     "homepage": "https://www.iloveradio.de/",
     "favicon": "https://www.iloveradio.de/favicon.ico",
     "countrycode": "DE",
@@ -824,7 +806,7 @@
     "tags": "hiphop,rap,trap",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 5612,
+    "votes": 5631,
     "clickcount": 8
   },
   {
@@ -842,8 +824,8 @@
     "tags": "deep house,electro house,electronic,elektro,elektronik,house,progressive house,vocal house",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 5582,
-    "clickcount": 8
+    "votes": 5618,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -860,26 +842,8 @@
     "tags": "70s soft rock,80s soft rock,pop rock,rock,rock'n'roll,soft rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 5576,
-    "clickcount": 11
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "51895bd4-f369-11e8-a471-52543be04c81",
-    "name": "- 0 N - Indie on Radio",
-    "url": "https://0n-indie.radionetz.de/0n-indie.mp3",
-    "url_resolved": "https://0n-indie.radionetz.de/0n-indie.mp3",
-    "homepage": "http://www.0nradio.com/",
-    "favicon": "https://www.0nradio.com/logos/0n-indie_600x600.jpg",
-    "countrycode": "DE",
-    "state": "Bayern",
-    "language": "german",
-    "tags": "alternative,electro,hip hop,indie,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 5537,
-    "clickcount": 11
+    "votes": 5582,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -896,8 +860,26 @@
     "tags": "heavy metal",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 5535,
-    "clickcount": 14
+    "votes": 5564,
+    "clickcount": 15
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "51895bd4-f369-11e8-a471-52543be04c81",
+    "name": "- 0 N - Indie on Radio",
+    "url": "https://0n-indie.radionetz.de/0n-indie.mp3",
+    "url_resolved": "https://0n-indie.radionetz.de/0n-indie.mp3",
+    "homepage": "http://www.0nradio.com/",
+    "favicon": "https://www.0nradio.com/logos/0n-indie_600x600.jpg",
+    "countrycode": "DE",
+    "state": "Bayern",
+    "language": "german",
+    "tags": "alternative,electro,hip hop,indie,rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 5549,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -914,8 +896,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5504,
-    "clickcount": 15
+    "votes": 5517,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -932,8 +914,8 @@
     "tags": "chillout,easy listening,jazz,smooth,smoothjazz",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 5303,
-    "clickcount": 12
+    "votes": 5311,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -950,8 +932,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5285,
-    "clickcount": 47
+    "votes": 5304,
+    "clickcount": 43
   },
   {
     "id": null,
@@ -968,8 +950,8 @@
     "tags": "80s,love,love songs",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 5224,
-    "clickcount": 16
+    "votes": 5247,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -986,26 +968,8 @@
     "tags": "alternative,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 5171,
-    "clickcount": 36
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "be9dcb42-f365-11e8-a471-52543be04c81",
-    "name": "- 0 N - Chillout on Radio",
-    "url": "https://0n-chillout.radionetz.de/0n-chillout.aac",
-    "url_resolved": "https://0n-chillout.radionetz.de/0n-chillout.aac",
-    "homepage": "http://www.0nradio.com/",
-    "favicon": "https://www.0nradio.com/logos/0n-chillout_600x600.jpg",
-    "countrycode": "DE",
-    "state": "Bayern",
-    "language": "german",
-    "tags": "ambient,chillout,easy listening,electro",
-    "codec": "AAC+",
-    "bitrate": 64,
-    "votes": 5160,
-    "clickcount": 18
+    "votes": 5199,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -1022,8 +986,26 @@
     "tags": "hits,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5158,
-    "clickcount": 23
+    "votes": 5189,
+    "clickcount": 19
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "be9dcb42-f365-11e8-a471-52543be04c81",
+    "name": "- 0 N - Chillout on Radio",
+    "url": "https://0n-chillout.radionetz.de/0n-chillout.aac",
+    "url_resolved": "https://0n-chillout.radionetz.de/0n-chillout.aac",
+    "homepage": "http://www.0nradio.com/",
+    "favicon": "https://www.0nradio.com/logos/0n-chillout_600x600.jpg",
+    "countrycode": "DE",
+    "state": "Bayern",
+    "language": "german",
+    "tags": "ambient,chillout,easy listening,electro",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 5178,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -1040,8 +1022,8 @@
     "tags": "culture,information,kultur,local news,news,regional",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5130,
-    "clickcount": 47
+    "votes": 5143,
+    "clickcount": 42
   },
   {
     "id": null,
@@ -1058,8 +1040,8 @@
     "tags": "culture,information,kultur,local news,news,regional",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5108,
-    "clickcount": 17
+    "votes": 5113,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1076,26 +1058,8 @@
     "tags": "top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5035,
-    "clickcount": 22
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "1c1e88e0-4919-11e8-b1b0-52543be04c81",
-    "name": "Sunshine Live - Party",
-    "url": "http://sunsl.streamabc.net/sunsl-party-mp3-192-3345881?sABC=5nr16qs7%230%23q40266oo6p321s1695o82262nq851ppo%23Jroenqvb-Cynlre&amsparams=playerid:Webradio-Player;skey:1524723191",
-    "url_resolved": "http://sunsl.streamabc.net/sunsl-party-mp3-192-3345881?sABC=5nr16qs7%230%23q40266oo6p321s1695o82262nq851ppo%23Jroenqvb-Cynlre&amsparams=playerid:Webradio-Player;skey:1524723191",
-    "homepage": "http://www.sunshine-live.de/#",
-    "favicon": "",
-    "countrycode": "DE",
-    "state": "",
-    "language": "",
-    "tags": "dance,edm,party",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 4978,
-    "clickcount": 11
+    "votes": 5050,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -1112,8 +1076,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 4915,
-    "clickcount": 32
+    "votes": 4943,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -1130,26 +1094,8 @@
     "tags": "schlager",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4855,
-    "clickcount": 12
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9e3b0f8e-95d3-11e9-a605-52543be04c81",
-    "name": "NDR 2",
-    "url": "https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr2.m3u",
-    "url_resolved": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
-    "homepage": "https://www.ndr.de/ndr2/index.html",
-    "favicon": "https://www.ndr.de//apple-touch-icon-57x57.png",
-    "countrycode": "DE",
-    "state": "Hamburg",
-    "language": "german",
-    "tags": "pop",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4713,
-    "clickcount": 45
+    "votes": 4868,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -1166,8 +1112,26 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4706,
-    "clickcount": 138
+    "votes": 4736,
+    "clickcount": 143
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9e3b0f8e-95d3-11e9-a605-52543be04c81",
+    "name": "NDR 2",
+    "url": "https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr2.m3u",
+    "url_resolved": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
+    "homepage": "https://www.ndr.de/ndr2/index.html",
+    "favicon": "https://www.ndr.de//apple-touch-icon-57x57.png",
+    "countrycode": "DE",
+    "state": "Hamburg",
+    "language": "german",
+    "tags": "pop",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 4719,
+    "clickcount": 50
   },
   {
     "id": null,
@@ -1184,8 +1148,8 @@
     "tags": "alternative,indie,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 4607,
-    "clickcount": 37
+    "votes": 4618,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -1202,26 +1166,8 @@
     "tags": "club house,dance,edm,electro,electro house,electronic,electronic dance music,electronica,electropop,house,pop dance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 4575,
+    "votes": 4595,
     "clickcount": 29
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96176f80-0601-11e8-ae97-52543be04c81",
-    "name": "Acid Jazz Radio",
-    "url": "http://stream.laut.fm/acidjazz",
-    "url_resolved": "http://stream.laut.fm/acidjazz",
-    "homepage": "http://www.acid-jazz-radio.de/",
-    "favicon": "",
-    "countrycode": "DE",
-    "state": "",
-    "language": "",
-    "tags": "acid,acid jazz,dance",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4539,
-    "clickcount": 8
   },
   {
     "id": null,
@@ -1238,8 +1184,26 @@
     "tags": "adult contempary,hits",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 4536,
-    "clickcount": 40
+    "votes": 4548,
+    "clickcount": 39
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96176f80-0601-11e8-ae97-52543be04c81",
+    "name": "Acid Jazz Radio",
+    "url": "http://stream.laut.fm/acidjazz",
+    "url_resolved": "http://stream.laut.fm/acidjazz",
+    "homepage": "http://www.acid-jazz-radio.de/",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "",
+    "language": "",
+    "tags": "acid,acid jazz,dance",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 4544,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1256,8 +1220,8 @@
     "tags": "70s,oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4534,
-    "clickcount": 22
+    "votes": 4543,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -1274,8 +1238,8 @@
     "tags": "dance,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4469,
-    "clickcount": 13
+    "votes": 4483,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1292,26 +1256,8 @@
     "tags": "punk rock",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 4387,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960a6167-0601-11e8-ae97-52543be04c81",
-    "name": "1000 Discohits",
-    "url": "http://stream.laut.fm/1000discohits",
-    "url_resolved": "http://stream.laut.fm/1000discohits",
-    "homepage": "http://1000discohits.de/",
-    "favicon": "",
-    "countrycode": "DE",
-    "state": "",
-    "language": "",
-    "tags": "70s,80s,dance,disco,oldies",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4337,
-    "clickcount": 8
+    "votes": 4404,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1328,8 +1274,8 @@
     "tags": "dance,electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4328,
-    "clickcount": 8
+    "votes": 4357,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1346,8 +1292,26 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 4326,
-    "clickcount": 15
+    "votes": 4354,
+    "clickcount": 12
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960a6167-0601-11e8-ae97-52543be04c81",
+    "name": "1000 Discohits",
+    "url": "http://stream.laut.fm/1000discohits",
+    "url_resolved": "http://stream.laut.fm/1000discohits",
+    "homepage": "http://1000discohits.de/",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "",
+    "language": "",
+    "tags": "70s,80s,dance,disco,oldies",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 4341,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1364,26 +1328,8 @@
     "tags": "cultural news,culture,information,kultur,local news,news,regional",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4254,
-    "clickcount": 79
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960ebea6-0601-11e8-ae97-52543be04c81",
-    "name": "Berliner Rundfunk 91.4",
-    "url": "http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/",
-    "url_resolved": "http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/",
-    "homepage": "http://www.berliner-rundfunk.de/",
-    "favicon": "https://upload.berliner-rundfunk.de/production/static/1693298496587/icons/icon_64.a80y02808w0.png",
-    "countrycode": "DE",
-    "state": "Berlin",
-    "language": "german",
-    "tags": "berlin,pop",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4109,
-    "clickcount": 26
+    "votes": 4264,
+    "clickcount": 58
   },
   {
     "id": null,
@@ -1400,8 +1346,26 @@
     "tags": "#,#charts,#club,#djmix,#mashup,#radio,#top100,00s,90s,beachclub,charts,chill house,chillout,chillout+lounge,club,club dance,club dance electronic house trance,club house,clubbing,dance house club  electronic techhouse,deejay,deep house,deep music,dj,dj mixes,dj remix,dj sets,edm,electro,electro techno,electronic,funky house,future house,hardstyle/handsup/edm,hip hop,hip-hop,hiphop,house,hypertechno,ibiza,latin,latin music,latin pop,lounge music,mashup,melodic house,minimal,minimal techno,moombahton,pop,progressive house,r&b,r&b/urban,rap hiphop rnb,rave,reggaeton,remixed,remixes,singlecharts,soulful house,sundowner,sunset,tech house,techno,top 40,top100,vocal deep",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 4091,
-    "clickcount": 128
+    "votes": 4137,
+    "clickcount": 152
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960ebea6-0601-11e8-ae97-52543be04c81",
+    "name": "Berliner Rundfunk 91.4",
+    "url": "http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/",
+    "url_resolved": "http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/",
+    "homepage": "http://www.berliner-rundfunk.de/",
+    "favicon": "https://upload.berliner-rundfunk.de/production/static/1693298496587/icons/icon_64.a80y02808w0.png",
+    "countrycode": "DE",
+    "state": "Berlin",
+    "language": "german",
+    "tags": "berlin,pop",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 4119,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -1418,8 +1382,8 @@
     "tags": "deutschrap,german rap,hip hop,rap",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4014,
-    "clickcount": 8
+    "votes": 4015,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1436,8 +1400,8 @@
     "tags": "dance,edm",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3996,
-    "clickcount": 7
+    "votes": 4005,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1454,8 +1418,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3880,
-    "clickcount": 43
+    "votes": 3885,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -1472,8 +1436,8 @@
     "tags": "ard,public radio,rbb,youth",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3841,
-    "clickcount": 24
+    "votes": 3848,
+    "clickcount": 31
   },
   {
     "id": null,
@@ -1490,8 +1454,8 @@
     "tags": "classic,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3812,
-    "clickcount": 14
+    "votes": 3818,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -1508,7 +1472,7 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3735,
+    "votes": 3765,
     "clickcount": 6
   },
   {
@@ -1526,8 +1490,8 @@
     "tags": "00er,00s,2000er,2000s,dance,hits,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3727,
-    "clickcount": 7
+    "votes": 3740,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1544,8 +1508,8 @@
     "tags": "electronic,events,house,live,techno",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3706,
-    "clickcount": 11
+    "votes": 3715,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1562,7 +1526,7 @@
     "tags": "global,multicultural,multikulti,pop,world music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3641,
+    "votes": 3645,
     "clickcount": 26
   },
   {
@@ -1580,8 +1544,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3547,
-    "clickcount": 9
+    "votes": 3556,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1598,8 +1562,8 @@
     "tags": "80s,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3487,
-    "clickcount": 29
+    "votes": 3495,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1612,12 +1576,12 @@
     "favicon": "https://i.ibb.co/jMmvLjz/TOP100-DJ-CHARTS-RADIO.png",
     "countrycode": "DE",
     "state": "Deutschland (Germany)",
-    "language": "american english,deu,deutsch fränkisch,english,english uk,german,swiss german",
+    "language": "american english,deutsch fränkisch,english,english uk,german,swiss german",
     "tags": "#90s,#charts,2000s,2010s,bass house,beachclub,charts,chillout,club,club dance electronic house trance,clubbing,dance music,dance top40,dancehall,deejay,deep house,deep techno,dj,dj mixes,dj remix,dj sets,edm,edm radioshows,electro house,electro techno,electronic dance music,funky house,hotel,house,house techno,house/soulful/deep house,houseparty,hypertechno,latin music,live dj,live music,liveset,lounge,mainstream,mainstream music,mainstream urban,mashup,minimal techno,música urbana,partymix,pop,progressive house,radio,radioshow,reggaeton,remix,remixed,rnb,singlecharts,soulful,soulful house,sundowner,techno,technology,top 40 hits,top charts,top hits,top100,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3444,
-    "clickcount": 41
+    "votes": 3470,
+    "clickcount": 85
   },
   {
     "id": null,
@@ -1634,8 +1598,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3420,
-    "clickcount": 16
+    "votes": 3426,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -1652,8 +1616,8 @@
     "tags": "90s",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3409,
-    "clickcount": 6
+    "votes": 3421,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1670,8 +1634,8 @@
     "tags": "alternative,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3396,
-    "clickcount": 17
+    "votes": 3409,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1688,8 +1652,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3349,
-    "clickcount": 28
+    "votes": 3362,
+    "clickcount": 43
   },
   {
     "id": null,
@@ -1706,8 +1670,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3349,
-    "clickcount": 21
+    "votes": 3358,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1724,8 +1688,8 @@
     "tags": "youth",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3323,
-    "clickcount": 35
+    "votes": 3336,
+    "clickcount": 30
   },
   {
     "id": null,
@@ -1742,8 +1706,8 @@
     "tags": "culture,news,public service,information",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3290,
-    "clickcount": 51
+    "votes": 3310,
+    "clickcount": 50
   },
   {
     "id": null,
@@ -1760,8 +1724,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3232,
-    "clickcount": 6
+    "votes": 3237,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1778,7 +1742,7 @@
     "tags": "house",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3226,
+    "votes": 3233,
     "clickcount": 7
   },
   {
@@ -1796,7 +1760,43 @@
     "tags": "60er,60s,funk,oldies,pop,rock 'n' roll,soul,twist",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3198,
-    "clickcount": 13
+    "votes": 3212,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9612dd56-0601-11e8-ae97-52543be04c81",
+    "name": "ROCK ANTENNE Soft Rock",
+    "url": "http://www.rockantenne.de/webradio/channels/soft-rock.m3u",
+    "url_resolved": "http://stream.rockantenne.de/soft-rock",
+    "homepage": "http://www.rockantenne.de/",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "",
+    "language": "german",
+    "tags": "soft rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 3170,
+    "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "4ce3f3f1-b68e-11e9-acb2-52543be04c81",
+    "name": "ROCKANTENNE Heavy Metal (64 kbps AAC)",
+    "url": "http://mp3channels.webradio.rockantenne.de/heavy-metal.aac",
+    "url_resolved": "http://mp3channels.webradio.rockantenne.de/heavy-metal.aac",
+    "homepage": "https://www.rockantenne.de/",
+    "favicon": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+    "countrycode": "DE",
+    "state": "",
+    "language": "",
+    "tags": "heavy metal,rock",
+    "codec": "AAC",
+    "bitrate": 0,
+    "votes": 3164,
+    "clickcount": 6
   }
 ]

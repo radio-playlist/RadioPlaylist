@@ -14,8 +14,8 @@
     "tags": "hiphop,oldschool,rnb,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 54938,
-    "clickcount": 238
+    "votes": 55086,
+    "clickcount": 220
   },
   {
     "id": null,
@@ -23,7 +23,7 @@
     "stationuuid": "9627dcf4-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - The Beat (HipHop/R&B)",
     "url": "http://www.181.fm/stream/pls/181-beat.pls",
-    "url_resolved": "http://listen.181fm.com/181-beat_128k.mp3",
+    "url_resolved": "https://listen.181fm.com/181-beat_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "http://www.181.fm/favicon.ico",
     "countrycode": "US",
@@ -32,8 +32,8 @@
     "tags": "hiphop,rnb,urban,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 32156,
-    "clickcount": 113
+    "votes": 32272,
+    "clickcount": 88
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "hiphop,rap",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 25952,
-    "clickcount": 110
+    "votes": 26059,
+    "clickcount": 109
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "hiphop,rnb",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11947,
-    "clickcount": 24
+    "votes": 11981,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -86,26 +86,8 @@
     "tags": "alternative,hiphop,electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11563,
-    "clickcount": 12
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9619271d-0601-11e8-ae97-52543be04c81",
-    "name": "Kane FM",
-    "url": "http://stream.kanefm.com:1037/;stream",
-    "url_resolved": "http://stream.kanefm.com:1037/;stream",
-    "homepage": "http://www.kanefm.com/",
-    "favicon": "",
-    "countrycode": "GB",
-    "state": "Surrey",
-    "language": "english",
-    "tags": "bass,breaks,community radio,dance,drum & bass,drum and bass,electronic,funk,hiphop,house,jazz,live,oldies,reggae,soul,techno,trance,urban",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 8451,
-    "clickcount": 11
+    "votes": 11603,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -122,8 +104,8 @@
     "tags": "deutscher hip-hop,deutschrap,german rap,hip-hop,hiphop,rap",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6818,
-    "clickcount": 10
+    "votes": 6828,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -140,8 +122,8 @@
     "tags": "hiphop,rnb,rumba,soul",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 5975,
-    "clickcount": 11
+    "votes": 5996,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -149,7 +131,7 @@
     "stationuuid": "9614e0a1-0601-11e8-ae97-52543be04c81",
     "name": "SomaFM Fluid (128k MP3)",
     "url": "https://somafm.com/fluid.pls",
-    "url_resolved": "https://ice4.somafm.com/fluid-128-mp3",
+    "url_resolved": "https://ice6.somafm.com/fluid-128-mp3",
     "homepage": "https://somafm.com/fluid/",
     "favicon": "https://somafm.com/img3/fluid-400.jpg",
     "countrycode": "US",
@@ -158,8 +140,8 @@
     "tags": "chilled trap,future soul,hiphop,woozy electronica",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5850,
-    "clickcount": 6
+    "votes": 5855,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -176,8 +158,8 @@
     "tags": "hiphop,mediaset,rnb",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5709,
-    "clickcount": 7
+    "votes": 5723,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -185,7 +167,7 @@
     "stationuuid": "5b48d259-27f5-11e8-91bf-52543be04c81",
     "name": "i love radio - hip hop turnup",
     "url": "http://stream02.iloveradio.de/iloveradio13.mp3?hadpreroll",
-    "url_resolved": "http://ilm.stream12.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzY4NDQ1MTIyJmQ9OWI3NTBlNDgzOTIyY2Q3YTc5ZWQ",
+    "url_resolved": "http://ilm.stream12.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzg3MzQ1NDk4JmQ9YTljZDAzODNmMGQ1ZTU2YTQzNDE",
     "homepage": "https://www.iloveradio.de/",
     "favicon": "https://www.iloveradio.de/favicon.ico",
     "countrycode": "DE",
@@ -194,7 +176,7 @@
     "tags": "hiphop,rap,trap",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 5612,
+    "votes": 5631,
     "clickcount": 8
   },
   {
@@ -212,8 +194,8 @@
     "tags": "hiphop",
     "codec": "AAC",
     "bitrate": 160,
-    "votes": 4702,
-    "clickcount": 0
+    "votes": 4706,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -230,8 +212,8 @@
     "tags": "african music,hiphop",
     "codec": "AAC+",
     "bitrate": 256,
-    "votes": 4339,
-    "clickcount": 6
+    "votes": 4346,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -239,7 +221,7 @@
     "stationuuid": "ab05e667-14e1-11e8-ae97-52543be04c81",
     "name": "94.7",
     "url": "http://playerservices.streamtheworld.com/pls/FM947AAC.pls",
-    "url_resolved": "http://27953.live.streamtheworld.com/FM947AAC_SC",
+    "url_resolved": "http://28503.live.streamtheworld.com:3690/FM947AAC_SC",
     "homepage": "http://www.947.co.za/",
     "favicon": "",
     "countrycode": "ZA",
@@ -248,8 +230,8 @@
     "tags": "classic hits,hiphop,hits,pop,rock",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 4242,
-    "clickcount": 8
+    "votes": 4249,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -266,8 +248,8 @@
     "tags": "#,#charts,#club,#djmix,#mashup,#radio,#top100,00s,90s,beachclub,charts,chill house,chillout,chillout+lounge,club,club dance,club dance electronic house trance,club house,clubbing,dance house club  electronic techhouse,deejay,deep house,deep music,dj,dj mixes,dj remix,dj sets,edm,electro,electro techno,electronic,funky house,future house,hardstyle/handsup/edm,hip hop,hip-hop,hiphop,house,hypertechno,ibiza,latin,latin music,latin pop,lounge music,mashup,melodic house,minimal,minimal techno,moombahton,pop,progressive house,r&b,r&b/urban,rap hiphop rnb,rave,reggaeton,remixed,remixes,singlecharts,soulful house,sundowner,sunset,tech house,techno,top 40,top100,vocal deep",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 4091,
-    "clickcount": 128
+    "votes": 4137,
+    "clickcount": 152
   },
   {
     "id": null,
@@ -284,8 +266,8 @@
     "tags": "hiphop",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 3939,
-    "clickcount": 0
+    "votes": 3951,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -302,8 +284,8 @@
     "tags": "90s,dance,hiphop,house,pop,rnb,trance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3633,
-    "clickcount": 10
+    "votes": 3649,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -320,8 +302,8 @@
     "tags": "electro,folk,funk,hiphop,jazz,rock,soul,world music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3413,
-    "clickcount": 45
+    "votes": 3425,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -338,8 +320,8 @@
     "tags": "acid-house,experimental,hiphop,indie rock,nu-jazz,trip hop",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3245,
-    "clickcount": 10
+    "votes": 3264,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -354,28 +336,10 @@
     "state": "",
     "language": "german",
     "tags": "hiphop,rap",
-    "codec": "MP3",
+    "codec": "AAC",
     "bitrate": 0,
-    "votes": 3095,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "4ee38153-25a3-401c-ab53-117d35694a08",
-    "name": "Boss FM Grenada",
-    "url": "http://cp.usa8.fastcast4u.com:5195/;",
-    "url_resolved": "http://cp.usa8.fastcast4u.com:5195/;",
-    "homepage": "http://www.bossfmgrenada.net/",
-    "favicon": "",
-    "countrycode": "GD",
-    "state": "Saint George",
-    "language": "english",
-    "tags": "hiphop,r'n'b,reggae,soca",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 2919,
-    "clickcount": 5
+    "votes": 3101,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -392,8 +356,8 @@
     "tags": "charts,dance,dj remix,edm,electro,electronic,hiphop,hits,latin,mashup,mixtapes,pop,rap hiphop rnb,reggaeton,remix,remixes,rnb,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2657,
-    "clickcount": 3
+    "votes": 2664,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -401,7 +365,7 @@
     "stationuuid": "7997cf34-9131-11e9-a6c6-52543be04c81",
     "name": "i love radio - US Only Rap&HipHop Radio",
     "url": "http://www.ilovemusic.de/iloveusonlyrapradio.m3u",
-    "url_resolved": "https://ilm.stream35.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzY4NDU1Mjg0JmQ9YjVlNGIxYTMwOGY3YTQxZjVlZGQ",
+    "url_resolved": "https://ilm.stream12.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzg3MzcxMDMyJmQ9YzgzOWQ3NjZjNmRiYzg2NmQ2NGM",
     "homepage": "https://www.iloveradio.de/iloveusonlyrapradio/",
     "favicon": "https://www.iloveradio.de/favicon.ico",
     "countrycode": "DE",
@@ -410,8 +374,8 @@
     "tags": "hiphop,trap,turnup is real,us-rap",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2611,
-    "clickcount": 4
+    "votes": 2632,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -428,8 +392,8 @@
     "tags": "hiphop,italian,mediaset,rap",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2483,
-    "clickcount": 3
+    "votes": 2490,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -437,7 +401,7 @@
     "stationuuid": "961ec4b7-0601-11e8-ae97-52543be04c81",
     "name": ".977 Jamz",
     "url": "http://playerservices.streamtheworld.com/pls/977_JAMZ.pls",
-    "url_resolved": "http://15113.live.streamtheworld.com/977_JAMZ_SC",
+    "url_resolved": "http://24293.live.streamtheworld.com:3690/977_JAMZ_SC",
     "homepage": "http://www.977music.com/",
     "favicon": "",
     "countrycode": "US",
@@ -446,8 +410,8 @@
     "tags": "hiphop,rnb,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2265,
-    "clickcount": 21
+    "votes": 2276,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -464,8 +428,8 @@
     "tags": "hiphop,oldschool",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2236,
-    "clickcount": 4
+    "votes": 2240,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -482,8 +446,8 @@
     "tags": "hiphop,hits,pop,r'n'b,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2056,
-    "clickcount": 14
+    "votes": 2060,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -500,8 +464,8 @@
     "tags": "#,#charts,#dj,#hits,#mixtapes,00s,90s,adult contemporary,charts,chill house,chillout,club,club dance,clubbing,dance,dance music,deejay,deejay remix,dj remix,dj sets,edm,electro house,electronic,hiphop,hits,house,houseparty,latin music,latin pop,livestream,madewithheart,moombahton,non-stop,pop,pop dance,pop music,popular,rave,reggaeton,remix,rnb,summer,summer hits,summer lounge,summer radio,summer tunes,techno,top 100,top 40,top 40 hits,top charts,top hits,urban,yearmix",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1950,
-    "clickcount": 24
+    "votes": 1963,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -518,8 +482,8 @@
     "tags": "80s,dj mixes,electro,hiphop,jazz,lounge,mix,r&b,smooth jazz",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1845,
-    "clickcount": 6
+    "votes": 1847,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -532,12 +496,12 @@
     "favicon": "https://cdn-profiles.tunein.com/s155539/images/logod.png",
     "countrycode": "GB",
     "state": "Camden",
-    "language": "",
+    "language": "english",
     "tags": "alternative,hiphop,electronic",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1819,
-    "clickcount": 1
+    "votes": 1828,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -554,8 +518,8 @@
     "tags": "hiphop,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1790,
-    "clickcount": 2
+    "votes": 1799,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -571,9 +535,9 @@
     "language": "dutch",
     "tags": "hiphop",
     "codec": "MP3",
-    "bitrate": 192,
+    "bitrate": 0,
     "votes": 1756,
-    "clickcount": 6
+    "clickcount": 2
   },
   {
     "id": null,
@@ -590,8 +554,8 @@
     "tags": "2000er,2000s,2010er,2010s,80er,80s,90er,90s,black,dance,hiphop,hits,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1714,
-    "clickcount": 6
+    "votes": 1718,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -607,9 +571,9 @@
     "language": "",
     "tags": "cafe,disco,funk,hiphop,jazz,soul",
     "codec": "MP3",
-    "bitrate": 192,
-    "votes": 1567,
-    "clickcount": 5
+    "bitrate": 0,
+    "votes": 1571,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -626,8 +590,8 @@
     "tags": "black,hiphop,rap,rnb,urban",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1518,
-    "clickcount": 5
+    "votes": 1520,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -644,8 +608,8 @@
     "tags": "hiphop,indie,miami,rnb,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1479,
-    "clickcount": 4
+    "votes": 1480,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -662,8 +626,8 @@
     "tags": "hiphop,rap,rnb",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1296,
-    "clickcount": 9
+    "votes": 1307,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -680,8 +644,8 @@
     "tags": "1990s,90er,90s,dance,eurodance,hiphop,hits,oldies,pop,rap,rm.fm",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1257,
-    "clickcount": 10
+    "votes": 1260,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -698,26 +662,8 @@
     "tags": "dance,hiphop,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1223,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "17596e0a-3d66-4d1f-bb05-de443345196a",
-    "name": "Love Trap",
-    "url": "http://n0a.radiojar.com/tkeve70hqd0uv?rj-ttl=5&rj-tok=AAABeL0yWmwArvLu3hf9O3iTGQ",
-    "url_resolved": "http://n0a.radiojar.com/tkeve70hqd0uv?rj-ttl=5&rj-tok=AAABeL0yWmwArvLu3hf9O3iTGQ",
-    "homepage": "https://www.loveradio.gr/",
-    "favicon": "https://www.loveradio.gr/images/2020/12/20/lovetrap2020.png",
-    "countrycode": "GR",
-    "state": "Athens",
-    "language": "greek",
-    "tags": "hiphop,rap,trap",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 1190,
-    "clickcount": 2
+    "votes": 1226,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -734,8 +680,8 @@
     "tags": "105.9 fm,américa,centroamérica,costa rica,dancehall,entretenimiento,español,estación,fm,hiphop,juvenil,latinoamérica,moi merino,music,música,música en español e inglés,música urbana,r&b,r&b/urban,radio,reggae,san josé,urban,urban contemporary,urban music,urbana,urbano,urbano 106",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 1155,
-    "clickcount": 6
+    "votes": 1171,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -752,8 +698,8 @@
     "tags": "afropop,afrosoul,dancehall,folk,funk,hiphop,jazz,kwaito,latin,nu-jazz,reggae,rock,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1149,
-    "clickcount": 2
+    "votes": 1154,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -770,8 +716,8 @@
     "tags": "charts,deutsch,deutschrap,german,hip-hop,hiphop,hits,rap,rap hiphop rnb,rnb,top charts,ä",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1132,
-    "clickcount": 4
+    "votes": 1133,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -788,7 +734,7 @@
     "tags": "drum & bass,drum 'n' bass,drum and bass,hip-hop,hiphop,trap",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1073,
+    "votes": 1074,
     "clickcount": 2
   },
   {
@@ -806,7 +752,7 @@
     "tags": "hamilton,hiphop,local music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1062,
+    "votes": 1063,
     "clickcount": 3
   },
   {
@@ -824,8 +770,8 @@
     "tags": "black,dance,hiphop,hits,pop,rock,top40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1020,
-    "clickcount": 2
+    "votes": 1024,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -842,26 +788,8 @@
     "tags": "hiphop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 981,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "6b36f91e-0a61-459c-bd84-853df27c49ed",
-    "name": "__BASS__ by rautemusik (rm.fm)",
-    "url": "https://bass-high.rautemusik.fm/?ref=radiobrowser",
-    "url_resolved": "https://bass-high.rautemusik.fm/?ref=radiobrowser",
-    "homepage": "https://www.rm.fm/bass",
-    "favicon": "https://www.rm.fm/favicon.ico",
-    "countrycode": "DE",
-    "state": "North Rhine-Westphalia",
-    "language": "english,german",
-    "tags": "chilled trap,drum & bass,drum 'n' bass,drum and bass,hip-hop,hiphop,liquid trap,rap hiphop rnb,trap",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 959,
-    "clickcount": 7
+    "votes": 982,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -878,8 +806,26 @@
     "tags": "#bewirbdich!,#mashup,beach,best music,brandnew,charts,chillout+lounge,club,clubbing,community radio,dance smashes,dj,dj remix,dj sets,edm,edm radioshows,hard techno,hiphop,hits,hot ac,houseparty,ibiza,ibiza classics,ibiza club,lounge,mashup,minimal techno,non-stop music,party,partycharts,promodj,radio,rave,remixed,singlecharts,sunset,tech house,techno,top 100,top 40,top charts,top hits,underground,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 951,
-    "clickcount": 71
+    "votes": 968,
+    "clickcount": 84
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "6b36f91e-0a61-459c-bd84-853df27c49ed",
+    "name": "__BASS__ by rautemusik (rm.fm)",
+    "url": "https://bass-high.rautemusik.fm/?ref=radiobrowser",
+    "url_resolved": "https://bass-high.rautemusik.fm/?ref=radiobrowser",
+    "homepage": "https://www.rm.fm/bass",
+    "favicon": "https://www.rm.fm/favicon.ico",
+    "countrycode": "DE",
+    "state": "North Rhine-Westphalia",
+    "language": "english,german",
+    "tags": "chilled trap,drum & bass,drum 'n' bass,drum and bass,hip-hop,hiphop,liquid trap,rap hiphop rnb,trap",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 960,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -896,8 +842,8 @@
     "tags": "00s,classic hits,hiphop,hits,pop,rnb,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 877,
-    "clickcount": 0
+    "votes": 883,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -914,8 +860,8 @@
     "tags": "hiphop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 863,
-    "clickcount": 0
+    "votes": 864,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -933,7 +879,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 844,
-    "clickcount": 4
+    "clickcount": 1
   },
   {
     "id": null,
@@ -950,8 +896,8 @@
     "tags": "#00s,#80,#top200,90's,90s,bass,chillout,dance,deep house,discofox+schlager,dj,dj remix,electronic,electronica,festivals,hiphop,hot adult contemporary,house,liveradio,livestream,lounge,minimal,moombahton,pop,pop dance,pop music,reggae,reggaeton,remixes,rnb,schlager,techno,top 100,top 40,top 40 hits,top charts,top100,top200,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 816,
-    "clickcount": 13
+    "votes": 823,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -968,8 +914,8 @@
     "tags": "hip-hop,hiphop,instrumental,instrumental hiphop",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 804,
-    "clickcount": 0
+    "votes": 808,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -986,8 +932,8 @@
     "tags": "hiphop,rap",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 713,
-    "clickcount": 1
+    "votes": 718,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1003,9 +949,9 @@
     "language": "czech,english",
     "tags": "funk,hiphop,rnb,soul",
     "codec": "MP3",
-    "bitrate": 192,
-    "votes": 690,
-    "clickcount": 10
+    "bitrate": 256,
+    "votes": 697,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1022,7 +968,7 @@
     "tags": "hiphop,rap,rtbf,urban",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 644,
+    "votes": 646,
     "clickcount": 2
   },
   {
@@ -1040,8 +986,8 @@
     "tags": "dance,electronic,hiphop,pop,trance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 635,
-    "clickcount": 1
+    "votes": 638,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1058,7 +1004,7 @@
     "tags": "#,#00,#clubradio,#dj,#festival,#liveset,#partybreakz,#remix,#top100,afterhour,charts,club house,dance house club  electronic techhouse,deep house,deutschrap,dj remix,electro house,hiphop,house,latin,morning,rap,remixes,rnb,tech house,techno,top 40,top charts,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 634,
+    "votes": 637,
     "clickcount": 20
   },
   {
@@ -1076,7 +1022,7 @@
     "tags": "hiphop,rap,rnb,urban",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 591,
+    "votes": 592,
     "clickcount": 2
   },
   {
@@ -1094,8 +1040,8 @@
     "tags": "hiphop,trap",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 576,
-    "clickcount": 1
+    "votes": 578,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1113,7 +1059,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 550,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1130,7 +1076,7 @@
     "tags": "hiphop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 547,
+    "votes": 548,
     "clickcount": 0
   },
   {
@@ -1148,7 +1094,7 @@
     "tags": "dance,deejay,dj,dj mixes,dj sets,edm,electro,electro house,electronic,hardstyle,hiphop,house,mixtapes,moombahton,reggaeton,rnb,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 545,
+    "votes": 547,
     "clickcount": 12
   },
   {
@@ -1166,8 +1112,8 @@
     "tags": "dance,electronic,hiphop,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 530,
-    "clickcount": 1
+    "votes": 531,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1184,8 +1130,8 @@
     "tags": "alternative,breakbeat,deep house,disco,drum and bass,electronica,funk,hiphop,house,minimal techno,rap,soul,techno",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 521,
-    "clickcount": 0
+    "votes": 523,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1202,7 +1148,7 @@
     "tags": "bass,drum and bass,hiphop,jungle,reggae,urban",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 515,
+    "votes": 517,
     "clickcount": 0
   },
   {
@@ -1220,8 +1166,8 @@
     "tags": "drum and bass,electronica,hiphop,house,indie,reggae,trance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 497,
-    "clickcount": 0
+    "votes": 498,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1238,8 +1184,8 @@
     "tags": "berlin,hiphop,rnb",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 487,
-    "clickcount": 1
+    "votes": 488,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1256,8 +1202,8 @@
     "tags": "hiphop,rap,rnb",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 473,
-    "clickcount": 2
+    "votes": 477,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1274,7 +1220,7 @@
     "tags": "black,dance,hiphop,hits,pop,rock,top40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 473,
+    "votes": 474,
     "clickcount": 0
   },
   {
@@ -1292,8 +1238,8 @@
     "tags": "deutsch,german,hip-hop,hiphop,rap,rap hiphop rnb,rnb,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 469,
-    "clickcount": 10
+    "votes": 472,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1310,8 +1256,8 @@
     "tags": "edm,elektro,elektronik,hiphop,hits,house,moombahton,pop,rap,reggaeton,rnb,techno,top40",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 447,
-    "clickcount": 1
+    "votes": 449,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1328,8 +1274,8 @@
     "tags": "hiphop",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 446,
-    "clickcount": 2
+    "votes": 448,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1346,8 +1292,8 @@
     "tags": "charts,dance,electronic,german,german pop,german rap,hiphop,hits,hot hits,top 40,top40,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 440,
-    "clickcount": 4
+    "votes": 441,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1364,8 +1310,8 @@
     "tags": "hiphop,pop,youth",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 430,
-    "clickcount": 22
+    "votes": 434,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1382,7 +1328,7 @@
     "tags": "electro hop,hiphop",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 412,
+    "votes": 417,
     "clickcount": 0
   },
   {
@@ -1400,8 +1346,26 @@
     "tags": "2000er,2000s,2010er,2010s,80er,80s,90er,90s,black,dance,hiphop,hits,pop,rock",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 404,
-    "clickcount": 2
+    "votes": 405,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96204fbe-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Nula Classics",
+    "url": "http://streaming.radionula.com:8800/classics",
+    "url_resolved": "http://streaming.radionula.com:8800/classics",
+    "homepage": "http://radionula.com/",
+    "favicon": "http://radionula.com/favicon.png",
+    "countrycode": "SI",
+    "state": "",
+    "language": "",
+    "tags": "beat,funk,hiphop,jazz,soul",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 403,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1419,24 +1383,6 @@
     "codec": "AAC+",
     "bitrate": 64,
     "votes": 402,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96204fbe-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Nula Classics",
-    "url": "http://streaming.radionula.com:8800/classics",
-    "url_resolved": "http://streaming.radionula.com:8800/classics",
-    "homepage": "http://radionula.com/",
-    "favicon": "http://radionula.com/favicon.png",
-    "countrycode": "SI",
-    "state": "",
-    "language": "",
-    "tags": "beat,funk,hiphop,jazz,soul",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 402,
     "clickcount": 1
   },
   {
@@ -1445,17 +1391,53 @@
     "stationuuid": "e3f530f8-f8f1-11e9-bbf2-52543be04c81",
     "name": "Radio WoW",
     "url": "http://players.fluidstream.net/radiowow.pls",
-    "url_resolved": "http://sphera.fluidstream.eu/fluid_wow.mp3?FLID=6",
+    "url_resolved": "http://sphera.fluidstream.eu/fluid_wow.aac?FLID=6",
     "homepage": "https://www.radiowow.com/",
     "favicon": "https://radiowow.com/wp-content/uploads/2024/09/cropped-radio-wow-180x180.png",
     "countrycode": "IT",
     "state": "Veneto",
     "language": "italian",
     "tags": "00s,dance,electronic,hiphop,pop,top 40,trap",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 392,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "47d26813-f361-11e8-a471-52543be04c81",
+    "name": "- 0 N - Black on Radio",
+    "url": "https://0n-black.radionetz.de/0n-black.mp3",
+    "url_resolved": "https://0n-black.radionetz.de/0n-black.mp3",
+    "homepage": "http://www.0nradio.com/",
+    "favicon": "https://www.0nradio.com/logos/0n-black_600x600.jpg",
+    "countrycode": "DE",
+    "state": "Bayern",
+    "language": "german",
+    "tags": "black,hip hop,hiphop,pop,r&b,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 390,
-    "clickcount": 9
+    "votes": 385,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9648b368-0601-11e8-ae97-52543be04c81",
+    "name": "delta radio HIP HOP",
+    "url": "http://streams.deltaradio.de/hiphop/aac-64/radiosure/",
+    "url_resolved": "http://streams.deltaradio.de/hiphop/aac-64/radiosure/",
+    "homepage": "http://www.deltaradio.de/",
+    "favicon": "https://upload.deltaradio.de/production/static/1718010612769/icons/icon_64.800a00w0080.png",
+    "countrycode": "DE",
+    "state": "Schleswig-Holstein",
+    "language": "german",
+    "tags": "hiphop,rap",
+    "codec": "AAC",
+    "bitrate": 0,
+    "votes": 385,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1473,42 +1455,6 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 381,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9648b368-0601-11e8-ae97-52543be04c81",
-    "name": "delta radio HIP HOP",
-    "url": "http://streams.deltaradio.de/hiphop/aac-64/radiosure/",
-    "url_resolved": "http://streams.deltaradio.de/hiphop/aac-64/radiosure/",
-    "homepage": "http://www.deltaradio.de/",
-    "favicon": "https://upload.deltaradio.de/production/static/1718010612769/icons/icon_64.800a00w0080.png",
-    "countrycode": "DE",
-    "state": "Schleswig-Holstein",
-    "language": "german",
-    "tags": "hiphop,rap",
-    "codec": "AAC",
-    "bitrate": 0,
-    "votes": 381,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "47d26813-f361-11e8-a471-52543be04c81",
-    "name": "- 0 N - Black on Radio",
-    "url": "https://0n-black.radionetz.de/0n-black.mp3",
-    "url_resolved": "https://0n-black.radionetz.de/0n-black.mp3",
-    "homepage": "http://www.0nradio.com/",
-    "favicon": "https://www.0nradio.com/logos/0n-black_600x600.jpg",
-    "countrycode": "DE",
-    "state": "Bayern",
-    "language": "german",
-    "tags": "black,hip hop,hiphop,pop,r&b,top 40",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 380,
     "clickcount": 1
   },
   {
@@ -1517,7 +1463,7 @@
     "stationuuid": "9641c977-0601-11e8-ae97-52543be04c81",
     "name": "FluxFM - BoomFM Classics",
     "url": "http://streams.fluxfm.de/boomfmclassics/mp3-320/audio/play.m3u",
-    "url_resolved": "http://fluxfm.streamabc.net/flx-boomfmclassics-mp3-320-4725180?sABC=69686qo6%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1768451510",
+    "url_resolved": "http://fluxfm.streamabc.net/flx-boomfmclassics-mp3-320-4725180?sABC=6n89146p%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1787368556",
     "homepage": "http://www.fluxfm.de/",
     "favicon": "http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
     "countrycode": "DE",
@@ -1527,7 +1473,25 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 358,
-    "clickcount": 1
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "16ad6c66-f145-4c6d-8315-d54533479710",
+    "name": "Planet HipHop (MRG.fm)",
+    "url": "http://listen.mrg.fm:8100/stream",
+    "url_resolved": "http://listen.mrg.fm:8100/stream",
+    "homepage": "https://www.mrg.fm/",
+    "favicon": "https://mrg.fm/img/planethiphop125.jpg",
+    "countrycode": "US",
+    "state": "New York NY",
+    "language": "english",
+    "tags": "hip hop,hip-hop,hip-hop and rap oldies,hiphop,old school,rap,rap hiphop rnb",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 351,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1550,24 +1514,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "16ad6c66-f145-4c6d-8315-d54533479710",
-    "name": "Planet HipHop (MRG.fm)",
-    "url": "http://listen.mrg.fm:8100/stream",
-    "url_resolved": "http://listen.mrg.fm:8100/stream",
-    "homepage": "https://www.mrg.fm/",
-    "favicon": "https://mrg.fm/img/planethiphop125.jpg",
-    "countrycode": "US",
-    "state": "New York NY",
-    "language": "english",
-    "tags": "hip hop,hip-hop,hip-hop and rap oldies,hiphop,old school,rap,rap hiphop rnb",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 347,
-    "clickcount": 10
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "b1c4dae5-da91-47da-b926-2e16c11b4d6e",
     "name": "# TOP 100 - PartyBreakZ @ DJ Mixe, Partyremixe, Remix Radio, Remix Charts, DJ Remix, Mashup, Remix Hits, Deejay Remix Radio, Partymix, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS",
     "url": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-partybreakz",
@@ -1580,8 +1526,8 @@
     "tags": "#00s,#partybreaks,00s,club hits,clubbing,dance music,dance smashes,dj mix,dj radio,dj remix,dj sets,electronic dance music,hiphop,house techno,houseparty,latin pop,mashup,oldschool hiphop,party,pop dance,public radio,remixed,remixes,rnb,tech house,techno,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 339,
-    "clickcount": 10
+    "votes": 343,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1598,8 +1544,8 @@
     "tags": "hiphop,rnb,trap,urban",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 337,
-    "clickcount": 2
+    "votes": 338,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1615,27 +1561,27 @@
     "language": "english",
     "tags": "music,grime,hiphop,electronic",
     "codec": "MP3",
-    "bitrate": 256,
-    "votes": 333,
-    "clickcount": 1
+    "bitrate": 128,
+    "votes": 335,
+    "clickcount": 2
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "3fbd1983-70ab-11ea-b1cf-52543be04c81",
-    "name": "NJS Radio - New Jack Swing",
-    "url": "http://162.244.80.106:11198/stream",
-    "url_resolved": "http://162.244.80.106:11198/stream",
-    "homepage": "http://njsradio.com/",
-    "favicon": "http://njsradio.com/wp-content/uploads/2019/04/njsavatar.png",
-    "countrycode": "",
-    "state": "Plovdiv",
-    "language": "english",
-    "tags": "american r&b 90s,hiphop,r&b,rap,soul",
+    "stationuuid": "f8186a9f-7df1-4787-9d1f-ba32229814be",
+    "name": "0nlineradio 2000er",
+    "url": "https://stream.0nlineradio.com/2000er?ref=radiobrowser",
+    "url_resolved": "https://stream.0nlineradio.com/2000er?ref=radiobrowser",
+    "homepage": "https://0nlineradio.com/",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "North Rhine-Westphalia",
+    "language": "english,german",
+    "tags": "2000er,2000s,größte pop-hits der 2000er,hiphop,pop,rnb,rock",
     "codec": "MP3",
-    "bitrate": 128,
-    "votes": 314,
-    "clickcount": 0
+    "bitrate": 192,
+    "votes": 303,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1653,25 +1599,7 @@
     "codec": "AAC+",
     "bitrate": 64,
     "votes": 302,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f8186a9f-7df1-4787-9d1f-ba32229814be",
-    "name": "0nlineradio 2000er",
-    "url": "https://stream.0nlineradio.com/2000er?ref=radiobrowser",
-    "url_resolved": "https://stream.0nlineradio.com/2000er?ref=radiobrowser",
-    "homepage": "https://0nlineradio.com/",
-    "favicon": "",
-    "countrycode": "DE",
-    "state": "North Rhine-Westphalia",
-    "language": "english,german",
-    "tags": "2000er,2000s,größte pop-hits der 2000er,hiphop,pop,rnb,rock",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 301,
-    "clickcount": 0
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1687,9 +1615,9 @@
     "language": "english",
     "tags": "hiphop,rnb,soul",
     "codec": "MP3",
-    "bitrate": 192,
-    "votes": 300,
-    "clickcount": 3
+    "bitrate": 256,
+    "votes": 302,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1706,8 +1634,8 @@
     "tags": "french,french music,hiphop,rap,rap fr,rap us,rnb,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 291,
-    "clickcount": 3
+    "votes": 292,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1725,7 +1653,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 287,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1738,12 +1666,12 @@
     "favicon": "https://i.ibb.co/HXhMnpX/CLUBDJ-RADIO.jpg",
     "countrycode": "DE",
     "state": "Nrw",
-    "language": "deu,german,low german,swiss german",
+    "language": "german,low german,swiss german",
     "tags": "2000s,club dance,clubbing,dance,dj remix,edm,hiphop,house,mixed,party,progressive house,rnb,techhouse,techno,top 40",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 277,
-    "clickcount": 8
+    "votes": 282,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1760,8 +1688,8 @@
     "tags": "balkan,banja luka,bosnia,cool,ex-yu,hip hop,hip-hop,hiphop",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 277,
-    "clickcount": 3
+    "votes": 278,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1797,6 +1725,78 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 266,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96479584-0601-11e8-ae97-52543be04c81",
+    "name": "Size Radio",
+    "url": "http://stream.radiojar.com/atr1e8aswa5tv.m3u",
+    "url_resolved": "http://n11.radiojar.com/atr1e8aswa5tv",
+    "homepage": "http://www.size-radio.com/",
+    "favicon": "http://www.size-radio.com/favicon.ico",
+    "countrycode": "FR",
+    "state": "",
+    "language": "french",
+    "tags": "funk,hiphop,pop,rock,soul",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 259,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "5a2b36a0-f374-11e8-a471-52543be04c81",
+    "name": "- 1 A - Hits von 1A Radio",
+    "url": "https://1a-hits.radionetz.de/1a-hits.mp3",
+    "url_resolved": "https://1a-hits.radionetz.de/1a-hits.mp3",
+    "homepage": "http://www.1aradio.com/",
+    "favicon": "https://www.1aradio.com/logos/1a-hits_600x600.jpg",
+    "countrycode": "DE",
+    "state": "Bayern",
+    "language": "german",
+    "tags": "black,dance,hiphop,hits,pop,rock,top40",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 257,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "371d5d59-7fec-49fc-a565-d5d420b569e8",
+    "name": "Prime 100.3",
+    "url": "http://s20.myradiostream.com:6738/;listen.pls",
+    "url_resolved": "http://s20.myradiostream.com:6738/;listen.pls",
+    "homepage": "http://www.primeradio.gr/",
+    "favicon": "http://resources.live24.gr/resources/images/stations/04bb1a6e-6823-4ab1-8bd6-686ed934a7c7.gif",
+    "countrycode": "GR",
+    "state": "Syros",
+    "language": "greek",
+    "tags": "dance,electronic,hiphop,pop,trance",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 253,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "964893e7-0601-11e8-ae97-52543be04c81",
+    "name": "Hot 95.9",
+    "url": "https://ice.zradio.org/h/high.mp3",
+    "url_resolved": "https://ice.zradio.org/h/high.mp3",
+    "homepage": "https://zradio.org/listen/",
+    "favicon": "",
+    "countrycode": "US",
+    "state": "Orlando",
+    "language": "english",
+    "tags": "gospel,hiphop",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 239,
     "clickcount": 0
   }
 ]

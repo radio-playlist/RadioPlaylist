@@ -27,7 +27,7 @@ https://ice6.somafm.com/secretagent-128-mp3
 http://antena1.newradio.it/stream?ext=.mp3
 
 #EXTINF:-1 tvg-logo="https://i.1.creatium.io/5f/9c/2c/4e16165627237138cbc3273f76782d56f9/196x196/favicon.png" group-title="RU",Спокойное радио
-https://listen9.myradio24.com/6262
+https://listen1.myradio24.com/6262
 
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Classic Jazz
 http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3
@@ -39,13 +39,10 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 http://direct.francemusique.fr/live/francemusique-midfi.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Smooth Jazz
-http://14543.live.streamtheworld.com/977_SMOOJAZZ_SC
+http://14543.live.streamtheworld.com:3690/977_SMOOJAZZ_SC
 
 #EXTINF:-1 tvg-logo="" group-title="MY",Jazz Lounge
 http://eu8.fastcast4u.com:5068/;
-
-#EXTINF:-1 tvg-logo="" group-title="GB",Retro Soul Radio
-http://46.28.49.164:7504/stream
 
 #EXTINF:-1 tvg-logo="https://www.jazzlondonradio.com/images/favicon.ico" group-title="GB",Jazz London Radio
 http://radio.canstream.co.uk:8075/live.mp3
@@ -61,9 +58,6 @@ http://east-mp3-128.streamthejazzgroove.com/stream
 
 #EXTINF:-1 tvg-logo="https://bossajazzbrasil.com/wp-content/uploads/2020/12/cropped-bjs-app-180x180.png" group-title="BR",Bossa Jazz Brasil
 https://centova5.transmissaodigital.com:20104/live
-
-#EXTINF:-1 tvg-logo="" group-title="GB",Kane FM
-http://stream.kanefm.com:1037/;stream
 
 #EXTINF:-1 tvg-logo="" group-title="JP",Jazz Sakura (asia dream radio)
 http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3
@@ -116,14 +110,14 @@ https://www.radioking.com/play/alternative-radio-1
 #EXTINF:-1 tvg-logo="" group-title="LT",Easy FM
 https://netradio.ziniur.lt/easyfm.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="HU",Bartók Rádió
-http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3
-
 #EXTINF:-1 tvg-logo="https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png" group-title="CA",Radio BluesFlac
 http://streams.radiomast.io/radioblues-flac
 
 #EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="HU",Bartók Rádió
+http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="FR",Jazzradio.fr Jazz & Classique
 https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
@@ -132,13 +126,13 @@ https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
 http://radio.linn.co.uk:8000/autodj
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/secretagent-400.jpg" group-title="US",SomaFM Secret Agent (32k AAC)
-https://ice6.somafm.com/secretagent-32-aac
+https://ice2.somafm.com/secretagent-32-aac
 
 #EXTINF:-1 tvg-logo="" group-title="US",KCSM Jazz 91.1 FM
 http://ice7.securenetsystems.net/KCSM2
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Radio Swiss Jazz
-http://stream.srg-ssr.ch/srgssr/rsj/aac/48
+http://stream.srg-ssr.ch/srgssr/rsj/aac/96
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Latin / Afro-Cuban Jazz
 http://79.111.119.111:8002/latinjazz
@@ -149,11 +143,11 @@ http://centova.radio.com.pt:8499/;
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/sonicuniverse-400.jpg" group-title="US",SomaFM Sonic Universe (128k MP3)
 https://ice5.somafm.com/sonicuniverse-128-mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg" group-title="BE",Klara
-http://icecast.vrtcdn.be/klara-high.mp3
-
 #EXTINF:-1 tvg-logo="http://wdcb.org/img/favicons/apple-touch-icon-120x120.png" group-title="US",WDCB 90.9 "Jazz & Blues" Chicago, IL
 http://wdcb-ice.streamguys.org/wdcb128
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg" group-title="BE",Klara
+http://icecast.vrtcdn.be/klara-high.mp3
 
 #EXTINF:-1 tvg-logo="http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png" group-title="PL",SmoothJazz.com.pl 320k MP3
 https://bcast.vigormultimedia.com:48888/sjcompl320mp3
@@ -166,9 +160,6 @@ http://79.120.39.202:8000/erotic
 
 #EXTINF:-1 tvg-logo="http://www.radioswissjazz.ch/favicon.ico" group-title="CH",Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/aacp_96
-
-#EXTINF:-1 tvg-logo="" group-title="US",The 1920s Radio Network (MP3)
-http://tess.fast-serv.com:8570/
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Adore Jazz Radio
 http://strm112.1.fm/ajazz_mobile_mp3
@@ -184,9 +175,6 @@ https://streaming.radio.co/s774887f7b/listen
 
 #EXTINF:-1 tvg-logo="" group-title="FR",France Musique | La Jazz
 http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3
-
-#EXTINF:-1 tvg-logo="http://worldwidefm.net/favicon.ico" group-title="GB",Worldwide FM
-http://worldwidefm.out.airtime.pro:8000/worldwidefm_a
 
 #EXTINF:-1 tvg-logo="" group-title="AU",ABC Jazz (MP3)
 http://live-radio01.mediahubaustralia.com/JAZW/mp3/
@@ -230,9 +218,6 @@ https://strm.radionula.com/classics
 #EXTINF:-1 tvg-logo="http://www.fipradio.fr/dist/favicons/logo-120.png" group-title="FR",FIP autour du groove
 http://direct.fipradio.fr/live/fip-webradio3.mp3
 
-#EXTINF:-1 tvg-logo="http://www.swissgroove.ch/favicon.ico" group-title="CH",SwissGroove
-http://158.69.74.203/
-
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Saxo Jazz
 http://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3
 
@@ -262,9 +247,6 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3?
 
 #EXTINF:-1 tvg-logo="https://radiojazzfm.ru/favicons/apple-touch-icon.png" group-title="RU",Radio Jazz 89.1 - JAZZ Legends
 http://jfm1.hostingradio.ru:14536/jlstream.mp3
-
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Jazz Fusion
-http://79.111.119.111:9009/;
 
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Contemporary Jazz
 http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3
@@ -301,4 +283,22 @@ http://air.radioart.com/fJazz_for_sleep.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Bossa Nova
 http://79.111.14.76:8002/bossanova
+
+#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Jazzy French
+http://jazz-wr18.ice.infomaniak.ch/jazz-wr18-128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="MY",Radio Rosak
+https://radiorosak.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="" group-title="DE",Laut.FM The Jazz of Wiesbaden
+http://stream.laut.fm/thejazzofwiesbaden
+
+#EXTINF:-1 tvg-logo="" group-title="IT",NEU RADIO
+https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
+
+#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/NOVA_CARD_HD.png?resize=560%2C664&quality=75" group-title="FR",RADIO NOVA
+https://novazz.ice.infomaniak.ch/novazz-128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="DE",DrGnu - Prog Rock Classics
+http://streams.radiobob.de/progrock/mp3-192/mediaplayer/
 
