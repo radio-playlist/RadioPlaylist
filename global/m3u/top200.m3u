@@ -111,7 +111,7 @@ http://listen.181fm.com/181-oldschool_128k.mp3
 http://live02.rfi.fr/rfiafrique-96k.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Country
-http://15113.live.streamtheworld.com/977_COUNTRY_SC
+http://26343.live.streamtheworld.com/977_COUNTRY_SC
 
 #EXTINF:-1 tvg-logo="http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3" group-title="PL",RMF FM
 http://195.150.20.9/RMFFM48
@@ -120,16 +120,16 @@ http://195.150.20.9/RMFFM48
 http://icecast.radiofrance.fr/franceculture-hifi.aac
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 80s
-http://17633.live.streamtheworld.com/977_80_SC
+http://17573.live.streamtheworld.com/977_80_SC
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Hitz
-http://18853.live.streamtheworld.com:3690/977_HITS_SC
+http://27243.live.streamtheworld.com/977_HITS_SC
 
 #EXTINF:-1 tvg-logo="" group-title="FR",France Inter
 http://direct.franceinter.fr/live/franceinter-midfi.mp3
 
 #EXTINF:-1 tvg-logo="https://dancewave.online/dwr_logo.png" group-title="HU",Dance Wave Retro!
-https://retro.dancewave.online/retrodance.mp3
+https://dancewave.online/retrodance.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",Ambient Sleeping Pill
 http://radio.stereoscenic.com/asp-h
@@ -152,26 +152,26 @@ http://zet-net-01.cdn.eurozet.pl:8400/
 #EXTINF:-1 tvg-logo="" group-title="IR",Iran On Air
 http://ice41.securenetsystems.net/KIRN
 
-#EXTINF:-1 tvg-logo="https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg" group-title="NL",Intense Radio - We love Dance #HQ# FLAC
-http://secure.live-streams.nl/flac.ogg
+#EXTINF:-1 tvg-logo="https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg" group-title="NL",Intense Radio - We love Dance 256K
+https://secure.live-streams.nl/main
 
 #EXTINF:-1 tvg-logo="" group-title="US",Rockabilly-radio.net
 http://lin3.ash.fast-serv.com:6026/stream_96
 
-#EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio
-http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
-
 #EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="US",Classic Vinyl HD Opus
 https://icecast.walmradio.com:8443/classic_opus
 
+#EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio
+http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
+
 #EXTINF:-1 tvg-logo="https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg" group-title="NL",Intense Radio - We love Dance 256K
-https://intenseradio.live-streams.nl:18000/main
+https://secure.live-streams.nl/main
 
 #EXTINF:-1 tvg-logo="" group-title="IR",Radio Sarcheshme
 http://sarcheshmeh.icdndhcp.com:18452/stream
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="US",SomaFM Groove Salad (128k MP3)
-https://ice2.somafm.com/groovesalad-128-mp3
+https://ice6.somafm.com/groovesalad-128-mp3
 
 #EXTINF:-1 tvg-logo="https://www.navahang.com/apple-touch-icon.png" group-title="IR",Radio Navahang
 https://navairan.com/;stream.nsv
@@ -203,11 +203,11 @@ https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323
 #EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio 1
 http://icestreaming.rai.it/1.mp3
 
-#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="US",Classic Vinyl HD
-https://icecast.walmradio.com:8443/classic
-
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/ppqbgfej6skx.jpeg" group-title="IN",Bollywood Gaane Purane
 https://stream.zeno.fm/6n6ewddtad0uv
+
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="US",Classic Vinyl HD
+https://icecast.walmradio.com:8443/classic
 
 #EXTINF:-1 tvg-logo="" group-title="IN",Fnf.Fm Hindi
 http://192.99.8.192:5032/;stream
@@ -285,7 +285,7 @@ http://antena1.newradio.it/stream?ext=.mp3
 http://online.radioroks.ua/RadioROKS_Ballads_HD
 
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - The Beat (HipHop/R&B)
-https://listen.181fm.com/181-beat_128k.mp3
+http://listen.181fm.com/181-beat_128k.mp3
 
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/radio/1live/resources/img/favicon/apple-touch-icon.png" group-title="DE",1LIVE
 http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
@@ -302,11 +302,11 @@ http://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3
 #EXTINF:-1 tvg-logo="" group-title="FR",Radio Meuh
 http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio 2
-http://icestreaming.rai.it/2.mp3
-
 #EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2c180&#038;quality=75" group-title="FR",Radio Nova
 http://novazz.ice.infomaniak.ch/novazz-128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio 2
+http://icestreaming.rai.it/2.mp3
 
 #EXTINF:-1 tvg-logo="https://static-assets.npr.org/static/images/favicon/favicon-96x96.png" group-title="US",NPR 24 Hour Program Stream
 http://npr-ice.streamguys1.com/live.mp3
@@ -327,7 +327,7 @@ http://streams.echoesofbluemars.org:8000/cryosleep
 http://shoutcast3.streamingmedia.it:3162/
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/u80s-400.png" group-title="US",SomaFM Underground 80s (128k MP3)
-https://ice2.somafm.com/u80s-128-mp3
+https://ice6.somafm.com/u80s-128-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",Infowars
 http://stream-mp3.infowars.com/
@@ -347,6 +347,9 @@ http://freedomice.streamakaci.com/freedom.mp3
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Stereocittà
 http://onair11.xdevel.com:8134/;stream.mp3
 
+#EXTINF:-1 tvg-logo="https://www.iranintl.com/favicon.ico" group-title="IR",Iran International (HTTPS stream)
+https://stream.radiojar.com/iintl_c
+
 #EXTINF:-1 tvg-logo="" group-title="DE",90s90s Hits
 http://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/
 
@@ -356,8 +359,8 @@ https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
 #EXTINF:-1 tvg-logo="" group-title="CH",Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="https://www.iranintl.com/favicon.ico" group-title="IR",Iran International (HTTPS stream)
-https://stream.radiojar.com/iintl_c
+#EXTINF:-1 tvg-logo="" group-title="ES",1000 HITS 80s
+http://c2.auracast.net:8048/stream
 
 #EXTINF:-1 tvg-logo="http://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="GB",Smooth Radio
 http://media-the.musicradio.com/SmoothEastMids
@@ -365,11 +368,11 @@ http://media-the.musicradio.com/SmoothEastMids
 #EXTINF:-1 tvg-logo="" group-title="RO",Radio Romania Actualități
 http://89.238.227.6:8006/;
 
-#EXTINF:-1 tvg-logo="" group-title="DE",Sunshine Live - Die 90er
-http://stream.sunshine-live.de/90er/mp3-192/stream.sunshine-live.de
-
 #EXTINF:-1 tvg-logo="" group-title="IN",Goldy Evergreen
 https://stream.zeno.fm/n2fd0edh9k8uv
+
+#EXTINF:-1 tvg-logo="" group-title="DE",Sunshine Live - Die 90er
+http://stream.sunshine-live.de/90er/mp3-192/stream.sunshine-live.de
 
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon" group-title="FR",Chante France
 http://stream.chantefrance.com/Chante_France
@@ -396,10 +399,10 @@ http://chi.bassdrive.co/
 http://stream.radiojar.com/0tpy1h0kxtzuv
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/spacestation-400.png" group-title="US",SomaFM Space Station Soma (128k AAC)
-https://ice6.somafm.com/spacestation-128-aac
+https://ice2.somafm.com/spacestation-128-aac
 
 #EXTINF:-1 tvg-logo="https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png" group-title="ES",Rock FM
-http://flucast-bl04.flumotion.com/cope/rockfm-low.mp3
+http://flucast10-o-cloud.flumotion.com/cope/rockfm-low.mp3
 
 #EXTINF:-1 tvg-logo="https://diwanfm.net/favicon.ico" group-title="TN",diwanfm
 https://streaming.diwanfm.net/stream
@@ -429,7 +432,7 @@ http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.n
 https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/poptron-400.png" group-title="US",SomaFM PopTron (128k MP3)
-https://ice2.somafm.com/poptron-128-mp3
+https://ice5.somafm.com/poptron-128-mp3
 
 #EXTINF:-1 tvg-logo="http://www.9090.fm/favicon.ico" group-title="EG",Radio 9090 90.9
 http://9090streaming.mobtada.com/9090FMEGYPT
@@ -449,11 +452,11 @@ https://listen.radioking.com/radio/6640/stream/347
 #EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/76/27/105095/3/c300.png" group-title="FR",BFM radio
 https://audio.bfmtv.com/bfmradio_128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="US",.977 Smooth Jazz
-http://14543.live.streamtheworld.com:3690/977_SMOOJAZZ_SC
-
 #EXTINF:-1 tvg-logo="https://www.franceinter.fr/favicon.ico" group-title="FR",France Inter
 http://direct.franceinter.fr/live/franceinter-lofi.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",.977 Smooth Jazz
+http://15693.live.streamtheworld.com:3690/977_SMOOJAZZ_SC
 
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="FR",Latina Salsa
 http://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3
@@ -462,10 +465,10 @@ http://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3
 https://listen-msmn.sharp-stream.com/nme1.mp3
 
 #EXTINF:-1 tvg-logo="http://www.bluradio.com/favicon.ico" group-title="CO",Blu Radio, señal nacional (HJCK, 89.9 MHz FM, Bogotá / HJN42, 96.3 MHz, San Martín, Meta / HJH87, 103.1 MHz, Paipa, Boyacá / HJOM, 1090 KHz, Cartagena de Indias / HJM47 103.1 MHz, Algeciras, Huila / HJQ43, 94.1 MHz, Bugalagrande, Valle del Cauca)
-http://27583.live.streamtheworld.com:3690/BLURADIO_SC
+http://26653.live.streamtheworld.com/BLURADIO_SC
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/indiepop-400.jpg" group-title="US",SomaFM Indie Pop Rocks! (128k AAC)
-https://ice5.somafm.com/indiepop-128-aac
+https://ice6.somafm.com/indiepop-128-aac
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Antenne Bayern
 http://mp3channels.webradio.antenne.de/antenne
@@ -479,17 +482,17 @@ https://stream.europe1.fr/europe1.aac
 #EXTINF:-1 tvg-logo="https://www.antena1.com.br/apple-touch-icon.png" group-title="BR",Antena 1 FM 94.7 São Paulo
 http://antena1.newradio.it/stream
 
-#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Highway 181
-https://listen.181fm.com/181-highway_128k.mp3
-
 #EXTINF:-1 tvg-logo="https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png" group-title="TR",Virgin Radio Türkiye
-http://27953.live.streamtheworld.com:3690/VIRGIN_RADIO_SC
+http://25703.live.streamtheworld.com/VIRGIN_RADIO_SC
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Highway 181
+http://listen.181fm.com/181-highway_128k.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="UA",Мелодія FM 95.2
 http://online.melodiafm.ua/MelodiaFM
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/seventies400.jpg" group-title="US",SomaFM Left Coast 70s (320k MP3)
-https://ice2.somafm.com/seventies-320-mp3
+https://ice6.somafm.com/seventies-320-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="ES",_80 EXITOS
 https://80sexitos.stream.laut.fm/80sexitos
@@ -500,11 +503,11 @@ http://69.197.169.178:33640/;
 #EXTINF:-1 tvg-logo="" group-title="YE",Noor Al-Eman
 http://edge.mixlr.com/channel/boaht
 
+#EXTINF:-1 tvg-logo="http://www.caracol.com.co/pf/resources/caracol-colombia/touch-icon-ipad.png?d=323" group-title="CO",Caracol Radio Colombia (HJGL 100.9 / HJCY 810 AM, Bogotá) [AAC]
+http://27693.live.streamtheworld.com:3690/CARACOL_RADIOAAC_SC
+
 #EXTINF:-1 tvg-logo="" group-title="BD",AL-QURAN BANGLA
 http://66.45.232.131:9994/;stream/1/;
-
-#EXTINF:-1 tvg-logo="http://www.caracol.com.co/pf/resources/caracol-colombia/touch-icon-ipad.png?d=323" group-title="CO",Caracol Radio Colombia (HJGL 100.9 / HJCY 810 AM, Bogotá) [AAC]
-http://26653.live.streamtheworld.com/CARACOL_RADIOAAC_SC
 
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico" group-title="FR",100% Radio Hit
 http://100radio-hit.ice.infomaniak.ch/100radio-hit-128.mp3
@@ -536,17 +539,20 @@ https://media-ssl.musicradio.com/Heart70sMP3
 #EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio Jedynka
 http://mp3.polskieradio.pl:8900/;.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio 24
-http://stream3.polskieradio.pl:8080/;.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="UA",Наше Радіо 107.9
-http://online.nasheradio.ua/NasheRadio
+#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/otr.jpg" group-title="US",WALM - Old Time Radio Opus
+https://icecast.walmradio.com:8443/otr_opus
 
 #EXTINF:-1 tvg-logo="https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="GB",Gold
 https://media-ssl.musicradio.com/GoldMP3
 
 #EXTINF:-1 tvg-logo="http://www.dancemusic.ro/dancemusic-favicon.png" group-title="RO",Deep House Radio - Bucharest Romania
 http://live.dancemusic.ro:7000/radio.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio 24
+http://stream3.polskieradio.pl:8080/;.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="UA",Наше Радіо 107.9
+http://online.nasheradio.ua/NasheRadio
 
 #EXTINF:-1 tvg-logo="" group-title="IN",Hits Of Bollywood
 http://stream.zeno.fm/8ty8szwpwfeuv
@@ -560,23 +566,20 @@ http://icecast.omroep.nl/radio1-bb-mp3
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-classic-rock_600x600.jpg" group-title="DE",- 0 N - Classic Rock on Radio
 https://0n-classicrock.radionetz.de/0n-classicrock.mp3
 
-#EXTINF:-1 tvg-logo="https://akaboozi.com/wp-content/uploads/2022/03/cropped-site-logo-180x180.png" group-title="UG",Akaboozi FM 87.9
-http://162.244.80.52:8732/stream.mp3
-
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Funk
 http://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3
+
+#EXTINF:-1 tvg-logo="https://akaboozi.com/wp-content/uploads/2022/03/cropped-site-logo-180x180.png" group-title="UG",Akaboozi FM 87.9
+http://162.244.80.52:8732/stream.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="MY",Jazz Lounge
 http://eu8.fastcast4u.com:5068/;
 
-#EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/otr.jpg" group-title="US",WALM - Old Time Radio Opus
-https://icecast.walmradio.com:8443/otr_opus
+#EXTINF:-1 tvg-logo="" group-title="IN",Vivid Bharti
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Classic Rock Replay Radio
 http://strm112.1.fm/crock_mobile_mp3
-
-#EXTINF:-1 tvg-logo="" group-title="IN",Vivid Bharti
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AZ",Araz fm 103.3
 http://s39.myradiostream.com/5458/listen.mp3
@@ -593,12 +596,9 @@ http://streams.extrafm.hr:8110/;
 #EXTINF:-1 tvg-logo="https://los40es00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png" group-title="ES",Los 40 Urban
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="US",FUNKY RADIO - Only Funk Music (60's 70's)
-https://funkyradio.streamingmedia.it/play.mp3
-
 #EXTINF:-1 tvg-logo="http://www.virginradio.it/favicon_2.ico?v=1722509813651" group-title="IT",Virgin Radio Italia
 http://icecast.unitedradio.it/Virgin.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="DE",Sunshine Live
-http://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1 tvg-logo="" group-title="US",FUNKY RADIO - Only Funk Music (60's 70's)
+https://funkyradio.streamingmedia.it/play.mp3
 

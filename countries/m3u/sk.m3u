@@ -86,20 +86,20 @@ http://stream.zeno.fm/rw6ckefezs8uv
 #EXTINF:-1 tvg-logo="" group-title="SK",Slobodný vysielač
 http://159.69.219.5:8010/mp3
 
-#EXTINF:-1 tvg-logo="" group-title="SK",Rádio Frontinus
-http://stream.frontinus.sk:8000/frontinus128.mp3
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q7pqtwX.png" group-title="SK",RÁDIO EXPRES
 https://stream.bauermedia.sk/128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="SK",Rádio Frontinus
+http://stream.frontinus.sk:8000/frontinus128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="SK",Fun Radio
 http://stream.funradio.sk:8000/fun128.mp3
 
-#EXTINF:-1 tvg-logo="https://jankohrasko.sk/wp-content/uploads/2022/01/cropped-janko-hrasko-180x180.png" group-title="SK",Rádio Janko Hraško
-http://78.24.9.110:31088/
-
 #EXTINF:-1 tvg-logo="" group-title="SK",Rádio Sity
 https://radiosity.online:8000/aac
+
+#EXTINF:-1 tvg-logo="https://jankohrasko.sk/wp-content/uploads/2022/01/cropped-janko-hrasko-180x180.png" group-title="SK",Rádio Janko Hraško
+http://78.24.9.110:31088/
 
 #EXTINF:-1 tvg-logo="" group-title="SK",Repete
 http://stream.rusyn.fm/rusyny-low.mp3
@@ -140,23 +140,26 @@ https://stream.radiovlna.sk/party-hi.mp3
 #EXTINF:-1 tvg-logo="http://www.zahorackeradio.sk/templates/zahorrad/img/favicon.ico" group-title="SK",Záhorácke Rádio
 http://live.zahorackeradio.sk:8080/zr128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="SK",FRESH rádio
-https://icecast2.radionet.sk/freshradio.sk
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XIRnWa2.png" group-title="SK",RÁDIO VLNA 60-70
 https://stream.radiovlna.sk/gold-hi.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="SK",FRESH rádio
+https://icecast2.radionet.sk/freshradio.sk
 
 #EXTINF:-1 tvg-logo="" group-title="SK",SRo1 Rádio Slovensko
 http://live.slovakradio.sk:8000/Slovensko_128.mp3
 
-#EXTINF:-1 tvg-logo="https://jankohrasko.sk/wp-content/uploads/2022/01/cropped-janko-hrasko-180x180.png" group-title="SK",Rádio Janko Hraško
-http://78.24.9.110:31088/;
-
 #EXTINF:-1 tvg-logo="" group-title="SK",Radio 7
 https://play.radio7.sk/128
 
+#EXTINF:-1 tvg-logo="https://jankohrasko.sk/wp-content/uploads/2022/01/cropped-janko-hrasko-180x180.png" group-title="SK",Rádio Janko Hraško
+http://78.24.9.110:31088/;
+
 #EXTINF:-1 tvg-logo="" group-title="SK",SRo9 Rádio Junior (256k)
 http://live.slovakradio.sk:8000/Junior_256.mp3
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uvSpQnj.png" group-title="SK",RÁDIO BETA 80-90
+http://109.71.67.102:8000/beta_80a90.mp3
 
 #EXTINF:-1 tvg-logo="https://www.rusyn.fm/favicon.ico" group-title="SK",Rusyn FM
 https://stream.rusyn.fm/rusyny.mp3
@@ -164,20 +167,17 @@ https://stream.rusyn.fm/rusyny.mp3
 #EXTINF:-1 tvg-logo="" group-title="SK",Rádio Relax International
 https://stream.relaxfm.ee/international
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uvSpQnj.png" group-title="SK",RÁDIO BETA 80-90
-http://109.71.67.102:8000/beta_80a90.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TtT79Kd.png" group-title="SK",RÁDIO VLNA OLDIES PARTY
+https://stream.radiovlna.sk/party-hi.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="SK",SRo6 Radio Slovakia International
 http://icecast.stv.livebox.sk/rsi_128.mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TtT79Kd.png" group-title="SK",RÁDIO VLNA OLDIES PARTY
-https://stream.radiovlna.sk/party-hi.mp3
+#EXTINF:-1 tvg-logo="" group-title="SK",Fit family Radio
+https://solid67.streamupsolutions.com/proxy/reqsithw/stream
 
 #EXTINF:-1 tvg-logo="https://slobodnyvysielac.b-cdn.net/wp-content/uploads/2015/10/cropped-fav-150x150.png" group-title="SK",Slobodný vysielač
 http://vysielanie.online/radio/8020/SV128.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="SK",Fit family Radio
-https://solid67.streamupsolutions.com/proxy/reqsithw/stream
 
 #EXTINF:-1 tvg-logo="" group-title="SK",House Radio
 http://stream.zeno.fm/qm8e21gta18uv
@@ -191,14 +191,14 @@ http://stream.funradio.sk:8000/fun128.mp3
 #EXTINF:-1 tvg-logo="" group-title="SK",Rádio Rock SV
 https://s2.myradiostream.com/:4870/listen.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="SK",Rádio BestFM
-https://stream3.bestfm.sk:8000/128.mp3
+#EXTINF:-1 tvg-logo="https://radiorock.sk/favicon.ico" group-title="SK",Rádio ROCK
+https://stream.bauermedia.sk/rock-hi.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="SK",METALSCENA netRADIO
 https://listen.radioking.com/radio/263218/stream/308365
 
-#EXTINF:-1 tvg-logo="https://radiorock.sk/favicon.ico" group-title="SK",Rádio ROCK
-https://stream.bauermedia.sk/rock-hi.mp3
+#EXTINF:-1 tvg-logo="" group-title="SK",Rádio BestFM
+https://stream3.bestfm.sk:8000/128.mp3
 
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.gItQZStw2mHIGhvJGp8aFwAAAA%26pid%3DApi&f=1&ipt=698c390e95f6a2d64349aa8e80bd8f925a2cc5c8d3b1f4f21070cdeaa2118d2d&ipo=images" group-title="SK",RÁDIO SLOVENSKO
 https://icecast.stv.livebox.sk/slovensko_128.mp3
@@ -230,11 +230,11 @@ http://stream.subfm.sk/subfm
 #EXTINF:-1 tvg-logo="" group-title="SK",Sllobodný vysielač
 http://159.69.219.5:8010//aac
 
-#EXTINF:-1 tvg-logo="" group-title="SK",Rádio KIKS - Rock Music
-https://online.radiokiks.sk:8000/kiks_rock.mp3
-
 #EXTINF:-1 tvg-logo="https://radiorock.sk/favicon.ico" group-title="SK",Rádio ROCK
 https://stream.bauermedia.sk/rock-hi.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="SK",Rádio KIKS - Rock Music
+https://online.radiokiks.sk:8000/kiks_rock.mp3
 
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.E65vroGDtTyTMl18lUuGuwHaHa%26pid%3DApi&f=1&ipt=8e1260db0157c0b572b4326122c7511e15bc8c6afb4e0423cd1b9bb620cf57f2&ipo=images" group-title="SK",Fun Radio  Chill
 https://stream.funradio.sk:8000/chill128.mp3
@@ -257,11 +257,11 @@ https://stream.bauermedia.sk/melody-hi.mp3
 #EXTINF:-1 tvg-logo="" group-title="SK",Hitrádio Slovakia
 https://hitradioslovakia.stream.laut.fm/hitradioslovakia
 
-#EXTINF:-1 tvg-logo="" group-title="SK",RADIO BIBLIA SK
-http://radiobiblia.online:8000/stream.ogg
-
 #EXTINF:-1 tvg-logo="https://cdn.radiovlna.sk/img/Radio_Vlna_Logo.png" group-title="SK",RÁDIO VLNA 60-70
 https://stream.radiovlna.sk/gold-hi.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="SK",RADIO BIBLIA SK
+http://radiobiblia.online:8000/stream.ogg
 
 #EXTINF:-1 tvg-logo="https://www.radiokiks.sk/favicon.ico" group-title="SK",Rádio KIKS - Big 80s
 https://online.radiokiks.sk:8000/kiks_big80s.mp3

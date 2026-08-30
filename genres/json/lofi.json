@@ -14,8 +14,8 @@
     "tags": "info,lofi,radio france",
     "codec": "MP3",
     "bitrate": 32,
-    "votes": 4834,
-    "clickcount": 11
+    "votes": 4847,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "chillout,lofi",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1224,
-    "clickcount": 77
+    "votes": 1237,
+    "clickcount": 56
   },
   {
     "id": null,
@@ -51,7 +51,7 @@
     "codec": "OGG",
     "bitrate": 64,
     "votes": 1025,
-    "clickcount": 6
+    "clickcount": 5
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "chillout,lofi,lofi beats,lofi hip hop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 607,
-    "clickcount": 5
+    "votes": 609,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -87,7 +87,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 415,
-    "clickcount": 5
+    "clickcount": 4
   },
   {
     "id": null,
@@ -105,7 +105,7 @@
     "codec": "AAC",
     "bitrate": 128,
     "votes": 293,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "bollywood,hindi,indian,kollywood,lo-fi,lofi,malayalam,mollywood,tamil",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 179,
-    "clickcount": 8
+    "votes": 180,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -141,7 +141,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 128,
-    "clickcount": 1
+    "clickcount": 5
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "calm,chill,easy listening,easy music,learn,lo-fi,lofi,lofi hip hop,lofi study beats,smooth,student",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 115,
-    "clickcount": 27
+    "votes": 123,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -177,7 +177,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 102,
-    "clickcount": 3
+    "clickcount": 2
   },
   {
     "id": null,
@@ -194,8 +194,26 @@
     "tags": "chill,chillout,electronic,house,intelligent drum and bass,intelligent drum&bass,liquid,liquid drum and bas,liquid funk,lofi,phonk,relax",
     "codec": "MP3",
     "bitrate": 320,
+    "votes": 79,
+    "clickcount": 23
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "e947a3f4-e184-4b75-80ef-f2daa7ffd65a",
+    "name": "Radio Caprice - Lo-Fi [1]",
+    "url": "http://79.111.14.76:8002/lo-fi",
+    "url_resolved": "http://79.111.14.76:8002/lo-fi",
+    "homepage": "http://radcap.ru/lo-fi.html",
+    "favicon": "http://radcap.ru/apple-touch-icon.png",
+    "countrycode": "RU",
+    "state": "",
+    "language": "russian",
+    "tags": "electronic,lo-fi,lofi,radcap",
+    "codec": "AAC+",
+    "bitrate": 48,
     "votes": 78,
-    "clickcount": 9
+    "clickcount": 2
   },
   {
     "id": null,
@@ -213,25 +231,7 @@
     "codec": "AAC",
     "bitrate": 64,
     "votes": 78,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "e947a3f4-e184-4b75-80ef-f2daa7ffd65a",
-    "name": "Radio Caprice - Lo-Fi [1]",
-    "url": "http://79.111.14.76:8002/lo-fi",
-    "url_resolved": "http://79.111.14.76:8002/lo-fi",
-    "homepage": "http://radcap.ru/lo-fi.html",
-    "favicon": "http://radcap.ru/apple-touch-icon.png",
-    "countrycode": "RU",
-    "state": "",
-    "language": "russian",
-    "tags": "electronic,lo-fi,lofi,radcap",
-    "codec": "AAC+",
-    "bitrate": 48,
-    "votes": 76,
-    "clickcount": 4
+    "clickcount": 3
   },
   {
     "id": null,
@@ -248,8 +248,8 @@
     "tags": "hiphop,instrumental,instrumental music,lofi",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 63,
-    "clickcount": 3
+    "votes": 64,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -267,7 +267,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 53,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -285,7 +285,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 50,
-    "clickcount": 2
+    "clickcount": 4
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "ambient,chillwave,citypop,disco,electronic,elevatormusic,futurefunk,japanesedisco,lofi,mallsoft,plunderphonics,retrowave,signalwave,slowed,synthwave,vaporwave",
     "codec": "OGG",
     "bitrate": 64,
-    "votes": 45,
-    "clickcount": 10
+    "votes": 46,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -321,7 +321,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 41,
-    "clickcount": 0
+    "clickcount": 3
   },
   {
     "id": null,
@@ -339,7 +339,7 @@
     "codec": "OGG",
     "bitrate": 128,
     "votes": 41,
-    "clickcount": 0
+    "clickcount": 3
   },
   {
     "id": null,
@@ -357,7 +357,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 39,
-    "clickcount": 5
+    "clickcount": 4
   },
   {
     "id": null,
@@ -392,8 +392,8 @@
     "tags": "lofi",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 32,
-    "clickcount": 6
+    "votes": 33,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -410,8 +410,8 @@
     "tags": "anime,anime radio,jazz,lofi",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 30,
-    "clickcount": 7
+    "votes": 31,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -428,8 +428,8 @@
     "tags": "lo-fi,lofi,lofi beats",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 22,
-    "clickcount": 9
+    "votes": 23,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -464,8 +464,8 @@
     "tags": "16-bit,8-bit,background music,chiptune,jrpg,lofi,pixel music,relaxing,retro game music,video game music",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 12,
-    "clickcount": 10
+    "votes": 13,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -482,8 +482,8 @@
     "tags": "ambient,dance pop,indie pop,k-pop,lofi,pop",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 10,
-    "clickcount": 15
+    "votes": 11,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -501,43 +501,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 6,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f4722411-69a1-413d-9922-5017d5aef925",
-    "name": "Special-Radio",
-    "url": "https://stream.laut.fm/special-radio",
-    "url_resolved": "https://special-radio.stream.laut.fm/special-radio?t302=2026-08-22_05-08-15&uuid=3ea2fdd9-8517-4459-b2c6-38ba6a59964a",
-    "homepage": "https://www.anmacha.de/special-radio",
-    "favicon": "https://assets.laut.fm/a32f99500d9bc3864c7b619152c8e6e9?t=_120x120",
-    "countrycode": "DE",
-    "state": "Thuringia",
-    "language": "english,german",
-    "tags": "alternative,café,café lounge,chill-out,chillout,classic,easy listening,entspannung,filmmusik,focustime,home office,indie,jazz,jazzbar,klassik,lo-fi,lofi,lounge,love,lovemusic,lovesongs,meditation,movie,movies,night,nightbar,orchestral,relax,series,smooth,smooth jazz,soundtracks",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "49aedf08-6425-4491-a96c-f598e29aaf00",
-    "name": "CLIAMP Lofi Hip Hop Radio",
-    "url": "https://radio.cliamp.stream/lofi/stream.pls",
-    "url_resolved": "http://radio.cliamp.stream/lofi/stream",
-    "homepage": "https://www.cliamp.stream/",
-    "favicon": "https://www.cliamp.stream/favicon.svg",
-    "countrycode": "NO",
-    "state": "",
-    "language": "",
-    "tags": "lofi,lofi hip hop",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 4,
-    "clickcount": 3
+    "clickcount": 5
   },
   {
     "id": null,
@@ -554,8 +518,80 @@
     "tags": "lofi,lofi beats,lofi hip hop,lofi study beats",
     "codec": "MP3",
     "bitrate": 128,
+    "votes": 4,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f4722411-69a1-413d-9922-5017d5aef925",
+    "name": "Special-Radio",
+    "url": "https://stream.laut.fm/special-radio",
+    "url_resolved": "https://special-radio.stream.laut.fm/special-radio?t302=2026-08-27_05-20-21&uuid=31853e1e-be27-4099-9bef-02995cbd9173",
+    "homepage": "https://www.anmacha.de/special-radio",
+    "favicon": "https://assets.laut.fm/a32f99500d9bc3864c7b619152c8e6e9?t=_120x120",
+    "countrycode": "DE",
+    "state": "Thuringia",
+    "language": "english,german",
+    "tags": "alternative,café,café lounge,chill-out,chillout,classic,easy listening,entspannung,filmmusik,focustime,home office,indie,jazz,jazzbar,klassik,lo-fi,lofi,lounge,love,lovemusic,lovesongs,meditation,movie,movies,night,nightbar,orchestral,relax,series,smooth,smooth jazz,soundtracks",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 4,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "49aedf08-6425-4491-a96c-f598e29aaf00",
+    "name": "CLIAMP Lofi Hip Hop Radio",
+    "url": "https://radio.cliamp.stream/lofi/stream.pls",
+    "url_resolved": "http://radio.cliamp.stream/lofi/stream",
+    "homepage": "https://www.cliamp.stream/",
+    "favicon": "https://www.cliamp.stream/favicon.svg",
+    "countrycode": "NO",
+    "state": "",
+    "language": "",
+    "tags": "lofi,lofi hip hop",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 4,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "2bcc90cc-55d3-4852-8644-6df52d642bef",
+    "name": "FMV FIT Radio Focus",
+    "url": "https://radio.webicdp.com/listen/fmvfitradiofocus/radio.mp3",
+    "url_resolved": "https://radio.webicdp.com/listen/fmvfitradiofocus/radio.mp3",
+    "homepage": "https://fmvfitradio.webicdp.com/",
+    "favicon": "https://fmvfitradio.webicdp.com/favicon.png",
+    "countrycode": "RO",
+    "state": "",
+    "language": "english",
+    "tags": "ambient electronic,chillhop,focus,lofi,productivity,study",
+    "codec": "MP3",
+    "bitrate": 192,
     "votes": 3,
-    "clickcount": 1
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "76bea234-d802-4830-b8a3-84b2a2375cfb",
+    "name": "SLS Digital Music",
+    "url": "https://slsdigitalradio.com:8000/radio.mp3",
+    "url_resolved": "https://slsdigitalradio.com:8000/radio.mp3",
+    "homepage": "https://slsdigitalmusic.com/",
+    "favicon": "https://slsdigitalmusic.com/assets/logo7.png",
+    "countrycode": "US",
+    "state": "TX",
+    "language": "english,french,spanish",
+    "tags": "ambient pop,lofi,pop,trapsoul",
+    "codec": "AAC",
+    "bitrate": 64,
+    "votes": 3,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -573,25 +609,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 2,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "76bea234-d802-4830-b8a3-84b2a2375cfb",
-    "name": "SLS Digital Music",
-    "url": "https://slsdigitalradio.com:8000/radio.mp3",
-    "url_resolved": "https://slsdigitalradio.com:8000/radio.mp3",
-    "homepage": "https://slsdigitalmusic.com/",
-    "favicon": "https://slsdigitalmusic.com/assets/logo7.png",
-    "countrycode": "US",
-    "state": "TX",
-    "language": "english,french,spanish",
-    "tags": "ambient pop,lofi,pop,trapsoul",
-    "codec": "AAC",
-    "bitrate": 64,
-    "votes": 2,
-    "clickcount": 0
+    "clickcount": 8
   },
   {
     "id": null,
@@ -599,7 +617,7 @@
     "stationuuid": "11d36148-d486-47a7-8440-4f0dd731c944",
     "name": "Zocker-FM",
     "url": "https://stream.laut.fm/zockerfm",
-    "url_resolved": "https://zockerfm.stream.laut.fm/zockerfm?t302=2026-08-22_05-53-12&uuid=601f6439-5631-4d81-9a90-272e893a7932",
+    "url_resolved": "https://zockerfm.stream.laut.fm/zockerfm?t302=2026-08-27_06-16-41&uuid=be6ed17a-7c9c-420e-9e64-c3da4f3be9c7",
     "homepage": "https://www.anmacha.de/zocker-fm",
     "favicon": "https://assets.laut.fm/9721c8d3b2da107f0341ce2e5c01bc9a?t=_120x120",
     "countrycode": "DE",
@@ -609,7 +627,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2,
-    "clickcount": 2
+    "clickcount": 5
   },
   {
     "id": null,
@@ -627,25 +645,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "2bcc90cc-55d3-4852-8644-6df52d642bef",
-    "name": "FMV FIT Radio Focus",
-    "url": "https://radio.webicdp.com/listen/fmvfitradiofocus/radio.mp3",
-    "url_resolved": "https://radio.webicdp.com/listen/fmvfitradiofocus/radio.mp3",
-    "homepage": "https://fmvfitradio.webicdp.com/",
-    "favicon": "https://fmvfitradio.webicdp.com/favicon.png",
-    "countrycode": "RO",
-    "state": "",
-    "language": "english",
-    "tags": "ambient electronic,chillhop,focus,lofi,productivity,study",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 1,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -663,7 +663,25 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1,
-    "clickcount": 3
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "85876f45-236f-4ab4-8d1e-6cab25ba97f9",
+    "name": "Nicecream.fm BLUE",
+    "url": "https://play.nicecream.fm/blue.aac",
+    "url_resolved": "https://play.nicecream.fm/blue.aac",
+    "homepage": "https://nicecream.fm/",
+    "favicon": "",
+    "countrycode": "RO",
+    "state": "Bucharest",
+    "language": "english",
+    "tags": "ambient,chillout,lofi",
+    "codec": "AAC",
+    "bitrate": 192,
+    "votes": 1,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -699,7 +717,7 @@
     "codec": "MP3",
     "bitrate": 256,
     "votes": 1,
-    "clickcount": 0
+    "clickcount": 6
   },
   {
     "id": null,
@@ -717,7 +735,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 1,
-    "clickcount": 4
+    "clickcount": 2
   },
   {
     "id": null,
@@ -735,7 +753,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -789,7 +807,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 0,
-    "clickcount": 1
+    "clickcount": 3
   },
   {
     "id": null,
@@ -807,6 +825,24 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 0,
-    "clickcount": 1
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f44adcbb-a3bc-4f20-baff-9530c8ac3651",
+    "name": "Il Camillofono",
+    "url": "https://radio.celodex.com/stream/camillofono.mp3",
+    "url_resolved": "https://radio.celodex.com/stream/camillofono.mp3",
+    "homepage": "https://radio.celodex.com/",
+    "favicon": "",
+    "countrycode": "IT",
+    "state": "",
+    "language": "italian",
+    "tags": "ambient,chill,lofi,relax",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 0,
+    "clickcount": 3
   }
 ]

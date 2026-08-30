@@ -170,11 +170,11 @@ https://online-radio.nv.ua/radionv.mp3
 #EXTINF:-1 tvg-logo="" group-title="UA",Radio Relax
 https://online.radiorelax.ua/RadioRelax
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/uk/b/be/Logo_radio_roks.png" group-title="UA",Radio ROCKS Kyiv 103.6FM HD
-https://online.radioroks.ua/RadioROKS_HD
-
 #EXTINF:-1 tvg-logo="" group-title="UA",Radio ROKS Classic Rock
 https://online.radioroks.ua/RadioROKS_ClassicRock_HD
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/uk/b/be/Logo_radio_roks.png" group-title="UA",Radio ROCKS Kyiv 103.6FM HD
+https://online.radioroks.ua/RadioROKS_HD
 
 #EXTINF:-1 tvg-logo="https://perec.fm/wp-content/themes/perecfm/img/logo.png" group-title="UA",Перець FM
 https://radio.perec.fm/radio-stilnoe
@@ -233,14 +233,14 @@ http://stream.laut.fm/bluesrock
 #EXTINF:-1 tvg-logo="https://loungefm.com.ua/img/icon-144x144.png" group-title="UA",LoungeFm Chill Out
 https://cast.mediaonline.net.ua/chillout320
 
-#EXTINF:-1 tvg-logo="" group-title="UA",Radio Jazz FM Ukraine
-http://online.radiojazz.ua/RadioJazz
+#EXTINF:-1 tvg-logo="https://europaplus.kiev.ua/europa-box/2020/10/cropped-EP_Logo_final-180x180.png" group-title="UA",Europa Plus
+https://s5.radioforge.com:7908/live?n=77357
 
 #EXTINF:-1 tvg-logo="https://loungefm.com.ua/img/logo.png" group-title="UA",Lounge FM Chill Out
 https://cast.mediaonline.net.ua/chillout320
 
-#EXTINF:-1 tvg-logo="https://europaplus.kiev.ua/europa-box/2020/10/cropped-EP_Logo_final-180x180.png" group-title="UA",Europa Plus
-https://s5.radioforge.com:7908/live?n=77357
+#EXTINF:-1 tvg-logo="" group-title="UA",Radio Jazz FM Ukraine
+http://online.radiojazz.ua/RadioJazz
 
 #EXTINF:-1 tvg-logo="" group-title="UA",Radio NV
 https://online-radio.nv.ua/radionv.mp3
@@ -269,11 +269,11 @@ https://online.radioplayer.ua/RadioGold
 #EXTINF:-1 tvg-logo="http://holos.fm/webplayer/img/coverart.png" group-title="UA",Holos.FM
 http://holos.fm:8000/holos
 
-#EXTINF:-1 tvg-logo="http://zakarpattyafm.com.ua/wp-content/themes/zakfm/ico.png" group-title="UA",Zakarpattya FM 101.9
-http://195.234.148.51:8000/stream
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/c/cd/Hromadsjke_radio_logo.png/798px-Hromadsjke_radio_logo.png" group-title="UA",Hromadske Radio
 http://91.218.212.67:8000/stream
+
+#EXTINF:-1 tvg-logo="http://zakarpattyafm.com.ua/wp-content/themes/zakfm/ico.png" group-title="UA",Zakarpattya FM 101.9
+http://195.234.148.51:8000/stream
 
 #EXTINF:-1 tvg-logo="" group-title="UA",Sevastopol 102.0 FM
 http://air.volna.top/SFM
@@ -281,11 +281,11 @@ http://air.volna.top/SFM
 #EXTINF:-1 tvg-logo="" group-title="UA",П'ятниця Кременчук
 http://radio.moa.org.ua/Friday
 
-#EXTINF:-1 tvg-logo="https://rockradioua.online/wp-content/themes/rock-radio/favicon/apple-touch-icon.png" group-title="UA",RockRadio UA (РокРадіо UA)
-https://rockradioua.online:8433/rock_256
-
 #EXTINF:-1 tvg-logo="" group-title="UA",DJFM.UA [MP3 256k]
 https://cast.fex.net/djfm_x
+
+#EXTINF:-1 tvg-logo="https://rockradioua.online/wp-content/themes/rock-radio/favicon/apple-touch-icon.png" group-title="UA",RockRadio UA (РокРадіо UA)
+https://rockradioua.online:8433/rock_256
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nghwdngbqgeg.png" group-title="UA",Люкс FM Львів
 https://streamvideo.luxnet.ua/luxlviv/luxlviv.stream/playlist.m3u8

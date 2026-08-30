@@ -3,7 +3,7 @@
 #PLAYLIST:RadioCatalog - CHILLOUT
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="US",SomaFM Groove Salad (128k MP3)
-https://ice2.somafm.com/groovesalad-128-mp3
+https://ice6.somafm.com/groovesalad-128-mp3
 
 #EXTINF:-1 tvg-logo="https://i.1.creatium.io/5f/9c/2c/4e16165627237138cbc3273f76782d56f9/196x196/favicon.png" group-title="RU",Спокойное радио
 https://listen1.myradio24.com/6262
@@ -48,7 +48,7 @@ http://radio.enigmatic.su:8050/radio
 http://stream.cdm-chillout.com:8020/stream-mp3-Chill
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/dronezone-400.jpg" group-title="US",SomaFM Drone Zone (128k MP3)
-https://ice2.somafm.com/dronezone-128-mp3
+https://ice5.somafm.com/dronezone-128-mp3
 
 #EXTINF:-1 tvg-logo="https://ambientmodern.com/wp-content/uploads/2020/05/cropped-ambient-modern-3000-180x180.png" group-title="US",Ambient Modern
 http://radio.stereoscenic.com/mod-h
@@ -74,11 +74,11 @@ http://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true
 #EXTINF:-1 tvg-logo="" group-title="DE",Sunshine Live - Chillout
 http://stream.sunshine-live.de/sp8/mp3-192/stream.sunshine-live.de/
 
-#EXTINF:-1 tvg-logo="http://www.vip-radios.fm/favicon.ico" group-title="FR",VIP-Radios - Time To Relax
-http://178.32.111.41:8048/stream-128kmp3-TimeToRelax
-
 #EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/channels/25_Chillout.jpg" group-title="GR",Radio Art - Chillout
 http://air.radioart.com/fChillout.mp3
+
+#EXTINF:-1 tvg-logo="http://www.vip-radios.fm/favicon.ico" group-title="FR",VIP-Radios - Time To Relax
+http://178.32.111.41:8048/stream-128kmp3-TimeToRelax
 
 #EXTINF:-1 tvg-logo="https://lounge.luxury/img/apple-touch-icon.png?1" group-title="RU",Luxury Lounge - Late night, Deep sleep & Meditation
 http://188.40.109.122:8000/ices3
@@ -93,7 +93,7 @@ http://cast.magicstreams.gr:9125/stream
 http://chill.friskyradio.com/friskychill_mp3_high
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/beatblender-400.jpg" group-title="US",SomaFM Beat Blender (128k MP3)
-https://ice2.somafm.com/beatblender-128-mp3
+https://ice6.somafm.com/beatblender-128-mp3
 
 #EXTINF:-1 tvg-logo="https://favicon-generator.org/favicon-generator/htdocs/favicons/2023-12-16/9274e8a4803971186ff5c45359ab77a4.ico.png" group-title="CA",AIRPORT LOUNGE RADIO
 https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3
@@ -104,11 +104,11 @@ http://stream.cdm-smoothsax.com:8024/stream-mp3-Smooth
 #EXTINF:-1 tvg-logo="" group-title="DE",EPIC CLASSICAL - Classical Music For Sleep
 https://stream.epic-classical.com/classical-music-for-sleep
 
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="US",SomaFM Groove Salad (128k AAC)
-https://ice6.somafm.com/groovesalad-128-aac
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mtCKLC/aktHits.jpg" group-title="DE",# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
 https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="US",SomaFM Groove Salad (128k AAC)
+https://ice6.somafm.com/groovesalad-128-aac
 
 #EXTINF:-1 tvg-logo="https://www.jazzdeville.com/favicon/jazzdeville/apple-touch-icon.png" group-title="NL",Jazz de Ville - Chill
 https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream
@@ -167,11 +167,11 @@ https://vip2.fastcast4u.com/proxy/chillfla?mp=/1
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_2722a2a63db342f0901576a0168f2571~mv2.jpg" group-title="CA",# 100 GREATEST JAZZ LOUNGE BAR
 https://cast1.torontocast.com:4640/stream
 
-#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__LOUNGE__ by rautemusik (rm.fm)
-https://lounge-high.rautemusik.fm/?ref=radiobrowser
-
 #EXTINF:-1 tvg-logo="https://chillofi-radio.dez.ovh/img/clofi-logo.jpg" group-title="FR",Chillofi radio
 http://streams.dez.ovh:8000/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__LOUNGE__ by rautemusik (rm.fm)
+https://lounge-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Ambient
 http://traxx011.ice.infomaniak.ch/traxx011-low.mp3
@@ -182,14 +182,14 @@ http://live.playradio.org:9090/CafeHD
 #EXTINF:-1 tvg-logo="" group-title="US",EROTICA LOUNGE
 https://stream.zeno.fm/89asra0sfa0uv
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mFjn8LB/TL-Melodic-House-Techno-png.jpg" group-title="DE",Melodic House & Techno @ Technolovers.FM (Chillout, Beach, Festival, Sundowner, Relax, Ibiza, Sea, Ocean Music, Beachclub, Cocktailbar, 2024, 2025, 2026 Future Rave 126, 128, 124 Beats per Minute , BPM)
+https://stream.technolovers.fm/melodic-house-techno?ref=radiobrowser-2
+
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - New Age
 http://79.120.77.11:8002/newage
 
 #EXTINF:-1 tvg-logo="" group-title="GR",Chillout Tree Pines
 http://n0f.radiojar.com/n4dzb3znn3quv.mp3?rj-ttl=5&rj-tok=AAABeKi_TokAUTY4EzBEHHiJzQ
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mFjn8LB/TL-Melodic-House-Techno-png.jpg" group-title="DE",Melodic House & Techno @ Technolovers.FM (Chillout, Beach, Festival, Sundowner, Relax, Ibiza, Sea, Ocean Music, Beachclub, Cocktailbar, 2024, 2025, 2026 Future Rave 126, 128, 124 Beats per Minute , BPM)
-https://stream.technolovers.fm/melodic-house-techno?ref=radiobrowser-2
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Technolovers - IBIZA HOUSE
 https://stream.technolovers.fm/ibiza-house?ref=radiobrowser
@@ -201,7 +201,7 @@ https://stream.breakz.fm/?ref=top100radio-browser
 https://stream.epic-lounge.com/chillout-lounge?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/christmas-400.jpg" group-title="US",SomaFM Christmas Lounge 256k
-https://ice6.somafm.com/christmas-256-mp3
+https://ice5.somafm.com/christmas-256-mp3
 
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Chill Out
 http://79.111.14.76:9067/
@@ -213,7 +213,7 @@ http://strm112.1.fm/costadelmarchillout_mobile_mp3
 https://www.radioking.com/play/perfectmoods/104227
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/beatblender-400.jpg" group-title="US",SomaFM Beat Blender (128k AAC)
-https://ice6.somafm.com/beatblender-128-aac
+https://ice5.somafm.com/beatblender-128-aac
 
 #EXTINF:-1 tvg-logo="" group-title="GR",Disco Cafe
 https://azuracast.streams.ovh:8260/radio.mp3
@@ -227,11 +227,11 @@ https://listen.181fm.com/181-chilled_128k.mp3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gc5TMjP/Top-200-Dj-Charts-breakz-logo.jpg" group-title="DE",#TOP 200 DJ CHARTS - JUST MUSIC - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS @ Festival Melodic House, Melodic Techno. Best 100 Lounge, Mixed Radio Station @ PartyHits / Schlager Remix Top 50
 https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
 
-#EXTINF:-1 tvg-logo="" group-title="US",Chilltrax (USA) 128k AAC+
-http://server1.chilltrax.com:9050/;
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Afterbeat Electronica Radio
 http://strm112.1.fm/electronica_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",Chilltrax (USA) 128k AAC+
+http://server1.chilltrax.com:9050/;
 
 #EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg" group-title="TR",dinamo.fm sleep
 http://channels.dinamo.fm/sleep-mp3
@@ -263,14 +263,14 @@ https://stream.epic-classical.com/classical-piano
 #EXTINF:-1 tvg-logo="" group-title="DE",EPIC CLASSICAL - Classical Meditation
 https://stream.epic-classical.com/classical-meditation
 
-#EXTINF:-1 tvg-logo="" group-title="DE",EPIC CLASSICAL - Classical Coffee Bar
-https://stream.epic-classical.com/classical-coffee-bar
+#EXTINF:-1 tvg-logo="https://loungefm.com.ua/img/icon-144x144.png" group-title="UA",LoungeFm Chill Out
+https://cast.mediaonline.net.ua/chillout320
 
 #EXTINF:-1 tvg-logo="https://lounge.luxury/img/apple-touch-icon.png" group-title="RU",Luxury Lounge - Chillwave & Retrowave
 http://188.40.109.122:8000/ices2
 
-#EXTINF:-1 tvg-logo="https://loungefm.com.ua/img/icon-144x144.png" group-title="UA",LoungeFm Chill Out
-https://cast.mediaonline.net.ua/chillout320
+#EXTINF:-1 tvg-logo="" group-title="DE",EPIC CLASSICAL - Classical Coffee Bar
+https://stream.epic-classical.com/classical-coffee-bar
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Epic Lounge - NATURE SOUNDS
 https://stream.epic-lounge.com/nature-sounds?ref=radiobrowser
@@ -282,22 +282,22 @@ https://cast.mediaonline.net.ua/chillout320
 https://1a-chillout.radionetz.de/1a-chillout.mp3
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="US",SomaFM Groove Salad (64k AAC)
-https://ice5.somafm.com/groovesalad-64-aac
+https://ice6.somafm.com/groovesalad-64-aac
+
+#EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Chillout
+http://31.192.216.8/CHILLOUT
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/HT2ucrf6Yvsfvt1yHz0TxD7JlMcj7-RhF4k6mkDISMesN0_rWv26av2NdURuakftH2U" group-title="US",The River Of Calm
 https://listen.radioking.com/radio/49831/stream/86743
 
-#EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Chillout
-http://31.192.216.8/CHILLOUT
+#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg" group-title="TR",dinamo.fm sleep
+http://channels.dinamo.fm/sleep-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Atmosfera 128
 http://185.64.76.49:8000/128
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Epic Lounge - SOFT HOUSE LOUNGE
 https://stream.epic-lounge.com/soft-house-lounge?ref=radiobrowser
-
-#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg" group-title="TR",dinamo.fm sleep
-http://channels.dinamo.fm/sleep-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",True House Chill
 https://stream.truehouse.net:8443/chill
