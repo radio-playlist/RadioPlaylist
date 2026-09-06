@@ -134,11 +134,11 @@ https://online.radiorelax.ua/RadioRelax_Instrumental_HD
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tfpSUUVjoePVQ9FAD1rnu6xgnapf1RUjg-iPMx8dwKOWQL1aJ69aNto4je6PHednhA=w240-h480-rw" group-title="UA",Kiss FM
 https://online.kissfm.ua/KissFM_HD
 
-#EXTINF:-1 tvg-logo="" group-title="UA",Radio ROKS Ukrainian
-http://online.radioroks.ua/RadioROKS_Ukr_HD
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7pjwNCm/Blues-Rock.jpg" group-title="UA",Blues & Rock Radio
 http://stream.laut.fm/bluesrock
+
+#EXTINF:-1 tvg-logo="" group-title="UA",Radio ROKS Ukrainian
+http://online.radioroks.ua/RadioROKS_Ukr_HD
 
 #EXTINF:-1 tvg-logo="" group-title="UA",Hit FM (Best)
 http://online.hitfm.ua/HitFM_Best
@@ -191,9 +191,6 @@ http://online.hitfm.ua/HitFM_Best_Live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/uk/b/be/Logo_radio_roks.png" group-title="UA",Radio ROCKS Новий Рок 103.6FM HD
 https://online.radioroks.ua/RadioROKS_NewRock_HD
 
-#EXTINF:-1 tvg-logo="http://radioskovoroda.com/favicon.png?v=7ab70b6" group-title="UA",Radio Skovoroda
-http://stream.radioskovoroda.com:8000/radioskovoroda
-
 #EXTINF:-1 tvg-logo="" group-title="UA",П'ятниця Кременчук
 http://radio.moa.org.ua/Friday
 
@@ -235,9 +232,6 @@ https://cast.mediaonline.net.ua/chillout320
 
 #EXTINF:-1 tvg-logo="https://europaplus.kiev.ua/europa-box/2020/10/cropped-EP_Logo_final-180x180.png" group-title="UA",Europa Plus
 https://s5.radioforge.com:7908/live?n=77357
-
-#EXTINF:-1 tvg-logo="https://loungefm.com.ua/img/logo.png" group-title="UA",Lounge FM Chill Out
-https://cast.mediaonline.net.ua/chillout320
 
 #EXTINF:-1 tvg-logo="" group-title="UA",Radio Jazz FM Ukraine
 http://online.radiojazz.ua/RadioJazz
@@ -301,4 +295,10 @@ https://online.melodiafm.ua/MelodiaFM_Disco
 
 #EXTINF:-1 tvg-logo="https://telegram.org/img/apple-touch-icon.png" group-title="UA",Tik Tok Hits
 http://stream.europeanhitradio.com:8000/Stream_38.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="UA",tvoye radio
+http://91.200.114.254:8048/
+
+#EXTINF:-1 tvg-logo="" group-title="UA",Мелодія Int
+http://online.melodiafm.ua/MelodiaFM_Int_Live
 

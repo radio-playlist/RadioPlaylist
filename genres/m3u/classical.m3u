@@ -131,14 +131,14 @@ http://stream.radiojar.com/0tpy1h0kxtzuv
 #EXTINF:-1 tvg-logo="" group-title="GE",Radio Amra
 https://streamer.radio.co/s34b5469e0/listen
 
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/melody/ico/apple-icon-120x120.png" group-title="MY",Melody FM Malaysia
+https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="DZ",. إذاعة ماهر المعيقلي
 https://backup.qurango.net/radio/maher
 
 #EXTINF:-1 tvg-logo="" group-title="NL",Concertzender Baroque
 http://streams.greenhost.nl:8080/barok
-
-#EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/melody/ico/apple-icon-120x120.png" group-title="MY",Melody FM Malaysia
-https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AF",BEAUTIFUL INSTRUMENTALS
 http://hydra.cdnstream.com/1822_128
@@ -158,11 +158,11 @@ http://pianosolo.streamguys.net/live
 #EXTINF:-1 tvg-logo="" group-title="TN",قراءات متنوعة
 https://qurango.net/radio/mix
 
-#EXTINF:-1 tvg-logo="" group-title="DZ",..مختصر التفسير
-https://qurango.net/radio/mukhtasartafsir
-
 #EXTINF:-1 tvg-logo="" group-title="DZ",.مختصر السيرة
 https://qurango.net/radio/almukhtasar_fi_alsiyra
+
+#EXTINF:-1 tvg-logo="" group-title="DZ",..مختصر التفسير
+https://qurango.net/radio/mukhtasartafsir
 
 #EXTINF:-1 tvg-logo="" group-title="IQ",.. مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
@@ -215,11 +215,11 @@ https://qurango.net/radio/mukhtasartafsir
 #EXTINF:-1 tvg-logo="" group-title="SA",تفسير القرآن الكريم
 https://qurango.net/radio/tafseer
 
-#EXTINF:-1 tvg-logo="" group-title="SA",القارئ علي الحذيفي رواية قالون
-https://qurango.net/radio/ali_alhuthaifi_qalon
-
 #EXTINF:-1 tvg-logo="" group-title="EG",.. مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
+
+#EXTINF:-1 tvg-logo="" group-title="SA",القارئ علي الحذيفي رواية قالون
+https://qurango.net/radio/ali_alhuthaifi_qalon
 
 #EXTINF:-1 tvg-logo="https://small.linncdn.com/website/responsive/images/icons/linn-icon-x120.png" group-title="GB",Linn Classical
 http://radio.linn.co.uk:8004/autodj
@@ -236,9 +236,6 @@ http://stream2.srr.ro:8026/
 #EXTINF:-1 tvg-logo="" group-title="DZ",.القارئ محمد أيوب
 https://qurango.net/radio/mohammed_ayyub
 
-#EXTINF:-1 tvg-logo="" group-title="PL",Vox Fm
-https://radio.stream.smcdn.pl/timeradio-p/3990-1.aac/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="HU",Klasszik Rádió 92.1
 https://radio.musorok.org/listen/klasszik/radio.mp3
 
@@ -250,9 +247,6 @@ http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/
 
 #EXTINF:-1 tvg-logo="" group-title="DZ",beautiful recitation
 https://qurango.net/radio/salma
-
-#EXTINF:-1 tvg-logo="http://www.abc.net.au/core-assets/classic/favicon-32x32.png" group-title="AU",ABC Classic FM (MP3)
-http://live-radio01.mediahubaustralia.com/2FMW/mp3/;*.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="MA",.. مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
@@ -293,12 +287,18 @@ http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3
 #EXTINF:-1 tvg-logo="" group-title="AF",Al jazeera
 http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="IQ",radio maria iraq
-http://dreamsiteradiocp4.com:8046/stream
-
 #EXTINF:-1 tvg-logo="" group-title="SA",. مختصر السيرة
 https://qurango.net/radio/almukhtasar_fi_alsiyra
 
+#EXTINF:-1 tvg-logo="" group-title="IQ",radio maria iraq
+http://dreamsiteradiocp4.com:8046/stream
+
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="CA",Calm Radio - Bach
 http://streams.calmradio.com:6828/stream
+
+#EXTINF:-1 tvg-logo="" group-title="SA",.صور من حياة الصحابة
+https://qurango.net/radio/sahabah
+
+#EXTINF:-1 tvg-logo="" group-title="SK",SRo3: Rádio Devín
+http://icecast.stv.livebox.sk/devin_128.mp3
 

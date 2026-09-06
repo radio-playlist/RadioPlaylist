@@ -45,13 +45,13 @@ http://relax.stream.publicradio.org/relax.mp3
 http://listen.181fm.com/181-oldschool_128k.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Country
-http://26343.live.streamtheworld.com/977_COUNTRY_SC
+http://26343.live.streamtheworld.com:3690/977_COUNTRY_SC
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 80s
-http://17573.live.streamtheworld.com/977_80_SC
+http://26433.live.streamtheworld.com/977_80_SC
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Hitz
-http://27243.live.streamtheworld.com/977_HITS_SC
+http://18853.live.streamtheworld.com:3690/977_HITS_SC
 
 #EXTINF:-1 tvg-logo="" group-title="US",Ambient Sleeping Pill
 http://radio.stereoscenic.com/asp-h
@@ -59,17 +59,17 @@ http://radio.stereoscenic.com/asp-h
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="US",Frisky
 http://stream2.friskyradio.com/frisky_mp3_hi
 
-#EXTINF:-1 tvg-logo="" group-title="US",Rockabilly-radio.net
-http://lin3.ash.fast-serv.com:6026/stream_96
-
 #EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="US",Classic Vinyl HD Opus
 https://icecast.walmradio.com:8443/classic_opus
+
+#EXTINF:-1 tvg-logo="" group-title="US",Rockabilly-radio.net
+http://lin3.ash.fast-serv.com:6026/stream_96
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="US",SomaFM Groove Salad (128k MP3)
 https://ice6.somafm.com/groovesalad-128-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 The Mix
-http://15113.live.streamtheworld.com:3690/977_MIX_SC
+http://15113.live.streamtheworld.com/977_MIX_SC
 
 #EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/classic.jpg" group-title="US",Classic Vinyl HD
 https://icecast.walmradio.com:8443/classic
@@ -78,13 +78,13 @@ https://icecast.walmradio.com:8443/classic
 http://bigrradio.cdnstream1.com/5186_128
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/secretagent-400.jpg" group-title="US",SomaFM Secret Agent (128k MP3)
-https://ice6.somafm.com/secretagent-128-mp3
+https://ice2.somafm.com/secretagent-128-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",Hard Rock Heaven
 http://hydra.cdnstream.com/1521_128
 
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - The Beat (HipHop/R&B)
-http://listen.181fm.com/181-beat_128k.mp3
+https://listen.181fm.com/181-beat_128k.mp3
 
 #EXTINF:-1 tvg-logo="https://static-assets.npr.org/static/images/favicon/favicon-96x96.png" group-title="US",NPR 24 Hour Program Stream
 http://npr-ice.streamguys1.com/live.mp3
@@ -96,7 +96,7 @@ http://streams.echoesofbluemars.org:8000/cryosleep
 http://shoutcast3.streamingmedia.it:3162/
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/u80s-400.png" group-title="US",SomaFM Underground 80s (128k MP3)
-https://ice6.somafm.com/u80s-128-mp3
+https://ice2.somafm.com/u80s-128-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",Infowars
 http://stream-mp3.infowars.com/
@@ -105,28 +105,28 @@ http://stream-mp3.infowars.com/
 http://158.69.114.190:8065/;
 
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/160x160/extaudio/8/5/8/a/f8e6-9555-4eb9-8005-1ec4dabd55ce.jpg" group-title="US",Bassdrive
-http://chi.bassdrive.co/
+http://au.bassdrive.co:8000/
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/spacestation-400.png" group-title="US",SomaFM Space Station Soma (128k AAC)
-https://ice2.somafm.com/spacestation-128-aac
+https://ice5.somafm.com/spacestation-128-aac
 
 #EXTINF:-1 tvg-logo="https://iscale.iheart.com/catalog/live/6043" group-title="US",NBC News Radio
 http://stream.revma.ihrhls.com/zc6043
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/poptron-400.png" group-title="US",SomaFM PopTron (128k MP3)
-https://ice5.somafm.com/poptron-128-mp3
+https://ice2.somafm.com/poptron-128-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Smooth Jazz
 http://15693.live.streamtheworld.com:3690/977_SMOOJAZZ_SC
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/indiepop-400.jpg" group-title="US",SomaFM Indie Pop Rocks! (128k AAC)
-https://ice6.somafm.com/indiepop-128-aac
+https://ice2.somafm.com/indiepop-128-aac
 
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Highway 181
-http://listen.181fm.com/181-highway_128k.mp3
+https://listen.181fm.com/181-highway_128k.mp3
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/seventies400.jpg" group-title="US",SomaFM Left Coast 70s (320k MP3)
-https://ice6.somafm.com/seventies-320-mp3
+https://ice2.somafm.com/seventies-320-mp3
 
 #EXTINF:-1 tvg-logo="https://icecast.walmradio.com:8443/otr.jpg" group-title="US",WALM - Old Time Radio Opus
 https://icecast.walmradio.com:8443/otr_opus
@@ -135,7 +135,7 @@ https://icecast.walmradio.com:8443/otr_opus
 https://funkyradio.streamingmedia.it/play.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Oldies
-http://17573.live.streamtheworld.com/977_OLDIES_SC
+http://26433.live.streamtheworld.com/977_OLDIES_SC
 
 #EXTINF:-1 tvg-logo="https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico" group-title="US",Miami Beach Radio
 https://streaming.radiostreamlive.com/miamibeachradio_devices
@@ -146,11 +146,11 @@ http://stream.radioparadise.com/rock-320
 #EXTINF:-1 tvg-logo="https://www.radiotelevisionmarti.com/content/responsive/ocb/img/webapp/ico-128x128.png" group-title="US",Radio Marti
 https://ocb01.akacast.akamaistream.net/7/365/437903/v1/ibb.akacast.akamaistream.net/ocb01
 
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="US",SomaFM Lush (128k MP3)
-https://ice6.somafm.com/lush-128-mp3
-
 #EXTINF:-1 tvg-logo="https://www.cnn.com/media/sites/cnn/favicon.ico" group-title="US",CNN
 https://tunein.cdnstream1.com/2868_96.mp3
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="US",SomaFM Lush (128k MP3)
+https://ice5.somafm.com/lush-128-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",2000 FM - RnB & Hip-Hop
 http://bigrradio.cdnstream1.com/5105_128
@@ -197,17 +197,17 @@ http://c32.radioboss.fm:8139/stream
 #EXTINF:-1 tvg-logo="" group-title="US",metal rock radio
 https://kathy.torontocast.com:2800/;
 
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/metal-400.png" group-title="US",SomaFM Metal Detector (128k AAC)
-https://ice6.somafm.com/metal-128-aac
-
 #EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="US",Radio Paradise Mellow Mix 320k AAC
 http://stream.radioparadise.com/mellow-320
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/metal-400.png" group-title="US",SomaFM Metal Detector (128k AAC)
+https://ice6.somafm.com/metal-128-aac
 
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - True Blues
 http://listen.181fm.com/181-blues_128k.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Comedy
-http://17573.live.streamtheworld.com:3690/977_COMEDY_SC
+http://26433.live.streamtheworld.com/977_COMEDY_SC
 
 #EXTINF:-1 tvg-logo="" group-title="US",SMOOTH JAZZ 24/7
 http://jking.cdnstream1.com/b75154_128mp3
@@ -231,16 +231,16 @@ http://stream.radioparadise.com/aac-128
 http://nap.casthost.net:8626/stream
 
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Super 70s
-http://listen.181fm.com/181-70s_128k.mp3
+https://listen.181fm.com/181-70s_128k.mp3
 
 #EXTINF:-1 tvg-logo="https://100hitz.com/favicon.ico" group-title="US",100hitz - Top 40
 http://pureplay.cdnstream1.com/6025_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzMzk1NTI4MSwiaXNzIjoidGlzcnYifQ.cUMfsrk262BNjQXnfXkKBefQOqoRn2nweLrx5obNPhM
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/fluid-400.jpg" group-title="US",SomaFM Fluid (128k MP3)
-https://ice6.somafm.com/fluid-128-mp3
+https://ice5.somafm.com/fluid-128-mp3
 
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - 90's Country
-http://listen.181fm.com/181-90scountry_128k.mp3
+https://listen.181fm.com/181-90scountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/msnbc/all-other-sizes-PNG.ico/favicon-96x96.png" group-title="US",MSNBC
 https://tunein.cdnstream1.com/3511_96.mp3
@@ -261,7 +261,7 @@ http://ice.stream101.com:9016/stream
 http://bigrradio.cdnstream1.com/5103_128
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/reggae400.jpg" group-title="US",SomaFM Heavyweight Reggae (256k MP3)
-https://ice2.somafm.com/reggae-256-mp3
+https://ice5.somafm.com/reggae-256-mp3
 
 #EXTINF:-1 tvg-logo="https://radioyar.com/wp-content/uploads/2022/05/cropped-logo-black-2x-2-150x150.png" group-title="US",Radio Yar Live
 http://192.34.153.102:8000/RadioYAR.mp3
@@ -279,7 +279,7 @@ http://streams.kqed.org/kqedradio.m3u
 https://streaming.radiostreamlive.com/radiolovelive_devices
 
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - The Eagle (Classic)
-https://listen.181fm.com/181-eagle_128k.mp3
+http://listen.181fm.com/181-eagle_128k.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",My70sRadio
 http://usa14.fastcast4u.com:5132/stream
@@ -294,7 +294,7 @@ http://listen.181fm.com/181-hairband_128k.mp3
 http://hydra.cdnstream.com/1540_128
 
 #EXTINF:-1 tvg-logo="https://www.bloombergradio.com/content/plugins/bloomberg-favicon/dist/img/amber-120x120.png" group-title="US",WBBR 1130 "Bloomberg Radio" New York, NY
-http://15313.live.streamtheworld.com/WBBRAMAAC_SC
+http://27243.live.streamtheworld.com/WBBRAMAAC_SC
 
 #EXTINF:-1 tvg-logo="http://stlouisclassicrock.com/favicon.ico" group-title="US",St Louis Classic Rock
 http://74.208.89.18:8000/SLCR_highdef.mp3;

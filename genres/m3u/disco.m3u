@@ -33,7 +33,7 @@ https://funkyradio.streamingmedia.it/audio.aac
 http://stream.diazol.hu:35150/autodj
 
 #EXTINF:-1 tvg-logo="" group-title="DE",54 Funk Soul Dance (laut.fm)
-http://54-funk-soul-dance.stream.laut.fm/54-funk-soul-dance?pl=pls&t302=2026-08-26_23-59-17&uuid=17822d8a-28c4-42d8-801d-ddd867b2a462
+http://54-funk-soul-dance.stream.laut.fm/54-funk-soul-dance?pl=pls&t302=2026-09-01_00-05-04&uuid=141dc8e3-3686-4179-b269-c3169649ecc5
 
 #EXTINF:-1 tvg-logo="" group-title="US",_Funky Corner Radio (USA)
 https://ais-sa2.cdnstream1.com/2447_192.mp3
@@ -74,11 +74,11 @@ http://c3.radioboss.fm:8018/stream
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/9/35209.v3.png" group-title="Global",Energy FM Old School Classics
 http://162.244.80.106:8024/stream
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg" group-title="CA",# RdMix Italo Disco 80s
-https://cast1.torontocast.com:2130/stream
-
 #EXTINF:-1 tvg-logo="https://cdn2.editmysite.com/images/site/footer/og-image-placeholder-blank.png" group-title="GB",London Soul Radio
 http://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg" group-title="CA",# RdMix Italo Disco 80s
+https://cast1.torontocast.com:2130/stream
 
 #EXTINF:-1 tvg-logo="https://enter.radio/images/icons/icon_192x192.png" group-title="SI",Radio ENTER
 https://stream.nextmedia.si/proxy/enter_1?mp=/enter
@@ -126,7 +126,7 @@ https://stream.zeno.fm/vztn8ux96zhvv
 https://broadcast.miami/proxy/thediscoplanet?mp=/stream/;
 
 #EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="DE",radioeins-rbb-56 kbit/s
-http://d111.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3IT85gzZO3E07ze0TBnALMs2tnJ&token=Y4h9Vqpfr-hexFtuF5iVTkEHooeNpLDpEOj9iempmps&tvf=e2Ikr16JzxhkMTExLnJuZGZuay5jb20
+http://f141.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3IvcgCFLZ1DjK8sIHfHGQIIfSBh&token=mtRrMQANHEobe4IDUhhoBqpGVntN5kw0QOVgkl9njnM&tvf=RmV-6A-i0hhmMTQxLnJuZGZuay5jb20
 
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="FR",Allzic Radio Deep Disco
 http://allzic31.ice.infomaniak.ch/allzic31.mp3
@@ -200,14 +200,14 @@ http://sr6.inmystream.info:8024/stream
 #EXTINF:-1 tvg-logo="" group-title="IT",Station Italy
 http://stream.laut.fm/stationitaly
 
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_66f56cd8d2f44aed871cfd62bf70af65~mv2.jpg" group-title="IT",# 100 NU-DISCO CENTRAL RADIO
+https://stream.zeno.fm/jqhhzffjynbuv
+
 #EXTINF:-1 tvg-logo="https://radio.pejpal.cloud/static/uploads/browser_icon/192.1747064544.png" group-title="PL",Radio pejpal
 https://radio.pejpal.cloud/stream
 
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__SCHLAGERRADIO.FM__ by rautemusik (rm.fm)
 https://schlager-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_66f56cd8d2f44aed871cfd62bf70af65~mv2.jpg" group-title="IT",# 100 NU-DISCO CENTRAL RADIO
-https://stream.zeno.fm/jqhhzffjynbuv
 
 #EXTINF:-1 tvg-logo="" group-title="NL",Coastline
 http://81.169.223.8/
@@ -251,11 +251,11 @@ https://s3.slotex.pl/shoutcast/7046/stream
 #EXTINF:-1 tvg-logo="" group-title="UA",Мелодія FM Disco
 http://online.melodiafm.ua/MelodiaFM_Disco_Live
 
-#EXTINF:-1 tvg-logo="" group-title="US",The Disco Planet
-https://broadcast.miami/proxy/thediscoplanet?mp=/stream/;
-
 #EXTINF:-1 tvg-logo="https://cdn.khz.se/images/700x700/6b59e6982399fcdbc7f545c1e23d4896.png" group-title="SE",Disco 54
 https://wr15-ice.stream.khz.se/wr15_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",The Disco Planet
+https://broadcast.miami/proxy/thediscoplanet?mp=/stream/;
 
 #EXTINF:-1 tvg-logo="" group-title="RO",Radio Tequila Oldies
 https://stream.zeno.fm/5a1utt11fkhvv
@@ -266,14 +266,14 @@ http://live.i-turnradio.nl/live
 #EXTINF:-1 tvg-logo="http://topfm.hu/favicon.ico" group-title="Global",TOP FM base
 http://live.topfm.hu:8000/base.mp3
 
+#EXTINF:-1 tvg-logo="https://www.guliayradio.ua/favicon.ico" group-title="UA",Гуляй Радіо
+https://online.radioplayer.ua/GuliayRadio
+
 #EXTINF:-1 tvg-logo="http://www.todaydanceradio.com/_media/img/thumb/tdr-today-dance-radio-icon.png" group-title="IT",Today Dance Radio
 http://protostar.shoutca.st:8390/;
 
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Disco- Caprice Radio
 http://79.120.77.11:8000/disco
-
-#EXTINF:-1 tvg-logo="https://www.guliayradio.ua/favicon.ico" group-title="UA",Гуляй Радіо
-https://online.radioplayer.ua/GuliayRadio
 
 #EXTINF:-1 tvg-logo="https://www.only80sradio.nl/favicon.ico" group-title="NL",Only 80's Radio
 https://server-28.stream-server.nl:8850/stream
@@ -284,20 +284,20 @@ https://broadcast.miami/proxy/tkdisco?mp=/stream/;
 #EXTINF:-1 tvg-logo="https://funky.radio/wp-content/uploads/2023/10/7080discofunk_logo_600.png" group-title="IT",70s 80s Disco Funk ModernSoul Boogie
 http://my.streamingmedia.it:8020/play
 
-#EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio SCHLAGER
-https://stream.0nlineradio.com/schlager?ref=radiobrowser
-
 #EXTINF:-1 tvg-logo="https://uk.radio.net/300/nudiscofunkradio.jpeg?version=b5b29e74fa5bb43b3b8a3e9d27349a94" group-title="GB",Nu Disco Funk Radio
 https://my.radiolize.com/radio/8090/radio.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio SCHLAGER
+https://stream.0nlineradio.com/schlager?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio SCHLAGER EVERGREENS
 https://stream.0nlineradio.com/schlager-evergreens?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="" group-title="US",Radio Casablanca
-https://broadcast.miami/proxy/casablanca?mp=/stream/;
-
 #EXTINF:-1 tvg-logo="null" group-title="UA",Мелодія FM Disco
 http://online.melodiafm.ua/MelodiaFM_Disco_Live
+
+#EXTINF:-1 tvg-logo="" group-title="US",Radio Casablanca
+https://broadcast.miami/proxy/casablanca?mp=/stream/;
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-jukebox_600x600.jpg" group-title="DE",- 0 N - Jukebox on Radio
 https://0n-jukebox.radionetz.de/0n-jukebox.mp3

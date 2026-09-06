@@ -36,7 +36,7 @@ http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.
 https://funkyradio.streamingmedia.it/audio.aac
 
 #EXTINF:-1 tvg-logo="" group-title="DE",54 Funk Soul Dance (laut.fm)
-http://54-funk-soul-dance.stream.laut.fm/54-funk-soul-dance?pl=pls&t302=2026-08-26_23-59-17&uuid=17822d8a-28c4-42d8-801d-ddd867b2a462
+http://54-funk-soul-dance.stream.laut.fm/54-funk-soul-dance?pl=pls&t302=2026-09-01_00-05-04&uuid=141dc8e3-3686-4179-b269-c3169649ecc5
 
 #EXTINF:-1 tvg-logo="" group-title="US",_Funky Corner Radio (USA)
 https://ais-sa2.cdnstream1.com/2447_192.mp3
@@ -128,11 +128,11 @@ https://ais-sa2.cdnstream1.com/2447_96.aac
 #EXTINF:-1 tvg-logo="http://674.fm/favicon.ico" group-title="DE",674FM
 http://audio.674.fm/stream
 
-#EXTINF:-1 tvg-logo="" group-title="DE",Jazzradio GrooveFM
-http://streaming.groovefm.de/
-
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Neurofunk
 http://79.111.119.111:8004/neurofunk
+
+#EXTINF:-1 tvg-logo="" group-title="DE",Jazzradio GrooveFM
+http://streaming.groovefm.de/
 
 #EXTINF:-1 tvg-logo="" group-title="GB",Street Sounds Radio
 https://streaming.broadcastradio.com:10525/streetsd
@@ -140,11 +140,11 @@ https://streaming.broadcastradio.com:10525/streetsd
 #EXTINF:-1 tvg-logo="" group-title="GB",FUNK2DISCO
 http://stream.laut.fm/funk2disco
 
-#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_funk.png" group-title="FR",Generations Funk
-http://gene-wr05.ice.infomaniak.ch/gene-wr05.aac
-
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg" group-title="DE",- 1 A - 60er von 1A Radio
 https://1a-60er.radionetz.de/1a-60er.mp3
+
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_funk.png" group-title="FR",Generations Funk
+http://gene-wr05.ice.infomaniak.ch/gene-wr05.aac
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Party Groove
 http://stream15.top-ix.org/partygroove
@@ -197,11 +197,11 @@ http://funk2disco.stream.laut.fm/funk2disco?t302=2019-10-08_17-09-47&uuid=242e47
 #EXTINF:-1 tvg-logo="https://m.facebook.com/favicon.ico" group-title="US",Funkology Radio
 http://ais-edge37-live365-dal02.cdnstream.com/a98761
 
-#EXTINF:-1 tvg-logo="" group-title="NL",Dancegroove Radio
-http://server7.streamserver24.com:31435/
-
 #EXTINF:-1 tvg-logo="https://jfsr.co.uk/wp-content/uploads/2020/08/cropped-JFSR-Favicon-300x300.png" group-title="GB",JFSR - Jazz Funk Soul Radio
 https://s2.radio.co/s22ae5a8a6/listen
+
+#EXTINF:-1 tvg-logo="" group-title="NL",Dancegroove Radio
+http://server7.streamserver24.com:31435/
 
 #EXTINF:-1 tvg-logo="https://admuzzum.xdevel.com/cloud/x/cid/35/im/png/XZXW/Q/XY/20dcef61bfe95be20b65258bba132163.png" group-title="FR",Le Bon Mix Radio 97.9
 https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio
@@ -222,7 +222,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac
 https://broadcast.miami/proxy/thediscoplanet?mp=/stream/;
 
 #EXTINF:-1 tvg-logo="http://www.size-radio.com/favicon.ico" group-title="FR",Size Radio
-http://n03.radiojar.com/atr1e8aswa5tv
+http://n12.radiojar.com/atr1e8aswa5tv
 
 #EXTINF:-1 tvg-logo="https://ibb.co/jZsV775" group-title="DE",#TOP 100 - DJ CHARTS & REMIX RADIO @ TikTok PROMO Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, Moombahton, Reggaeton, HipHop, Funk, Club & Party Radio - & SUMMER TUNES - 2024 / 2025
 https://stream.breakz.fm/?ref=top100radiobrowser
@@ -242,20 +242,20 @@ https://my.radiolize.com/radio/8090/radio.mp3
 #EXTINF:-1 tvg-logo="https://www.newmorning.com/images/apple-touch-icon-114x114.png" group-title="FR",New Morning Radio
 http://listen.radioking.com/radio/605/stream/2195
 
+#EXTINF:-1 tvg-logo="https://www.afc.fm/wp-content/uploads/2023/12/afcfm.png" group-title="NL",Amsterdam Funk Channel (AFC)
+https://stream.afc.fm/
+
 #EXTINF:-1 tvg-logo="" group-title="FR",COMALA Radio
 http://www.radioking.com/play/supag
 
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="AE",Exclusively Prince
 https://streaming.exclusive.radio/er/prince/icecast.audio
 
-#EXTINF:-1 tvg-logo="" group-title="US",Radio Columbia
-https://broadcast.miami/proxy/columbia?mp=/stream/;
-
-#EXTINF:-1 tvg-logo="https://www.afc.fm/wp-content/uploads/2023/12/afcfm.png" group-title="NL",Amsterdam Funk Channel (AFC)
-https://stream.afc.fm/
-
 #EXTINF:-1 tvg-logo="" group-title="FR",FM 80 FUNKY MUSIC
 https://listen.radioking.com/radio/467555/stream/523739
+
+#EXTINF:-1 tvg-logo="" group-title="US",Radio Columbia
+https://broadcast.miami/proxy/columbia?mp=/stream/;
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Funk
 http://traxx016.ice.infomaniak.ch/traxx016-low.mp3
@@ -284,11 +284,11 @@ https://broadcast.miami/proxy/atlantic?mp=/stream/;
 #EXTINF:-1 tvg-logo="" group-title="SI",Radio Zica
 http://live.1chi.si/zica
 
-#EXTINF:-1 tvg-logo="" group-title="IT",Sweet'n'Sour Radio
-http://stream.laut.fm/sweetnsour
-
 #EXTINF:-1 tvg-logo="https://www.r90.org/wp-content/uploads/2022/07/logo_r90_50px.png" group-title="ES",Ràdio 90 (320k)
 https://giss.tv:666/r90.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Sweet'n'Sour Radio
+http://stream.laut.fm/sweetnsour
 
 #EXTINF:-1 tvg-logo="" group-title="US",Radio Indie Disco
 https://broadcast.miami/proxy/indiedisco?mp=/stream/;

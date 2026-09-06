@@ -131,23 +131,23 @@ http://listen-gbnews.sharp-stream.com/gbnews.mp3
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24943q.png" group-title="GB",BBC Radio 5 Live (128k)
 http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8
 
-#EXTINF:-1 tvg-logo="https://danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="GB",DanceRadioUK - Dance UK
-http://uk2.internet-radio.com:8024/stream
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24940q.png" group-title="GB",BBC Radio 2 (128k)
 http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="GB",BBC Radio 1
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8
 
+#EXTINF:-1 tvg-logo="https://danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="GB",DanceRadioUK - Dance UK
+http://uk2.internet-radio.com:8024/stream
+
 #EXTINF:-1 tvg-logo="http://www.chilloutibizafm.com/favicon.ico" group-title="GB",Chillout Ibiza FM
 https://edge3.peta.live365.net/b05055_128mp3
 
-#EXTINF:-1 tvg-logo="http://heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="GB",Heart 80s
-http://media-ice.musicradio.com/Heart80sMP3
-
 #EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="http://heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="GB",Heart 80s
+http://media-ice.musicradio.com/Heart80sMP3
 
 #EXTINF:-1 tvg-logo="https://www.linn.co.uk/" group-title="GB",Linn Jazz
 http://radio.linn.co.uk:8000/autodj
@@ -164,11 +164,11 @@ https://streaming.exclusive.radio/er/direstraits/icecast.audio
 #EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="GB",BBC World Service
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/FOKCcOpam5-0m4VfrxvfzMdDK6I=/10x0:610x400/1400x1400/filters:focal(10x0:610x400):format(jpeg)/cdn.vox-cdn.com/assets/958975/bbc_world_service.jpeg" group-title="GB",BBC World Service
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
-
 #EXTINF:-1 tvg-logo="https://www.capitaldance.com/assets_v4r/capitaldance/img/favicon-196x196.png" group-title="GB",Capital Dance
 https://icecast.thisisdax.com/CapitalDanceMP3
+
+#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/FOKCcOpam5-0m4VfrxvfzMdDK6I=/10x0:610x400/1400x1400/filters:focal(10x0:610x400):format(jpeg)/cdn.vox-cdn.com/assets/958975/bbc_world_service.jpeg" group-title="GB",BBC World Service
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
 
 #EXTINF:-1 tvg-logo="" group-title="GB",Virgin Radio Chilled
 https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web
@@ -176,11 +176,11 @@ https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web
 #EXTINF:-1 tvg-logo="" group-title="GB",Hard Rock Hell
 http://andromeda.shoutca.st:9254/stream
 
-#EXTINF:-1 tvg-logo="https://bbc.co.uk/favicon.ico" group-title="GB",BBC World Service for East Asia
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
-
 #EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="GB",Naim Jazz [320k aac]
 http://mscp3.live-streams.nl:8340/jazz-high.aac
+
+#EXTINF:-1 tvg-logo="https://bbc.co.uk/favicon.ico" group-title="GB",BBC World Service for East Asia
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
 
 #EXTINF:-1 tvg-logo="https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="GB",Smooth Radio London 102.2
 http://media-the.musicradio.com/SmoothLondonMP3
@@ -188,11 +188,11 @@ http://media-the.musicradio.com/SmoothLondonMP3
 #EXTINF:-1 tvg-logo="http://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="GB",Gold AM 1548 London
 http://media-ice.musicradio.com/GoldMP3
 
-#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="GB",BBC World Service
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8
-
 #EXTINF:-1 tvg-logo="https://seva.ru/radio/radio.png" group-title="GB",Радио Сева (Radio Seva Novgorodsev)
 https://seva.ru/radio/stream
+
+#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="GB",BBC World Service
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png" group-title="GB",Radio X London (MP3)
 http://media-the.musicradio.com/RadioXLondonMP3
@@ -293,11 +293,11 @@ http://mscp3.live-streams.nl:8360/high.aac
 #EXTINF:-1 tvg-logo="" group-title="GB",British Comedy 1
 http://streaming04.liveboxstream.uk:8077/stream
 
-#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/somali/images/icons/icon-128x128.png" group-title="GB",BBC Somali Radio
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="GB",SOUL RADIO Only Classic Soul
 https://listen.soulradio.uk/uk
+
+#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/somali/images/icons/icon-128x128.png" group-title="GB",BBC Somali Radio
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GB",1Mix Radio - Trance #1 (UK) 320kb mp3
 http://fr2.1mix.co.uk:9000/320

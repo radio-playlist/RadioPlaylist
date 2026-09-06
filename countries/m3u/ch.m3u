@@ -77,20 +77,20 @@ http://strm112.1.fm/disco_mobile_mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - America's Best Ballads Radio
 http://strm112.1.fm/onelive_mobile_mp3
 
-#EXTINF:-1 tvg-logo="http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg" group-title="CH",Vibration Zen Relax
-http://vibration.stream2net.eu:8220/;stream/1
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Otto's Baroque Music Radio
 http://strm112.1.fm/baroque_mobile_mp3
+
+#EXTINF:-1 tvg-logo="http://www.vibration108.ch/wp-content/uploads/2014/06/favicon.jpg" group-title="CH",Vibration Zen Relax
+http://vibration.stream2net.eu:8220/;stream/1
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - ReggaeTrade Radio
 http://strm112.1.fm/reggae_mobile_mp3
 
-#EXTINF:-1 tvg-logo="https://energy.ch/ech-new/images/ech/apple-touch-icon.png" group-title="CH",Energy Zürich (NRJ)
-http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
-
 #EXTINF:-1 tvg-logo="http://www.gds.fm/_nuxt/icons/icon_64x64.96821f.png" group-title="CH",GDS.FM
 http://gdsfm.out.airtime.pro:8000/gdsfm_a
+
+#EXTINF:-1 tvg-logo="https://energy.ch/ech-new/images/ech/apple-touch-icon.png" group-title="CH",Energy Zürich (NRJ)
+http://broadcast.infomaniak.ch/energyzuerich-high.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - A List 80s
 http://strm112.1.fm/back280s_mobile_mp3
@@ -107,11 +107,11 @@ http://strm112.1.fm/country_mobile_mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Ibiza Chill Tropical
 http://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Absolute Trance (Euro) Radio
-http://strm112.1.fm/trance_mobile_mp3
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Radio_Swiss_Pop_Logo_2018.svg/2048px-Radio_Swiss_Pop_Logo_2018.svg.png" group-title="CH",Radio Swiss Pop
 http://stream.srg-ssr.ch/srgssr/rsp/aac/96
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Absolute Trance (Euro) Radio
+http://strm112.1.fm/trance_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Love Classics Radio
 http://strm112.1.fm/loveclassics_mobile_mp3
@@ -284,17 +284,17 @@ http://de1.streamhosting.ch/
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Adult Urban Hits Choice Radio
 http://strm112.1.fm/oldschool_mobile_mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",Electro Radio
-http://stream.radiojar.com/fkyxx4q35k0uv
-
 #EXTINF:-1 tvg-logo="" group-title="CH",Spoon Radio - Rock Ballads
 https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
 
-#EXTINF:-1 tvg-logo="http://www.basilisk.ch/assets/favicons/apple-icon-120x120.png" group-title="CH",Radio Basilisk
-http://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3
+#EXTINF:-1 tvg-logo="" group-title="CH",Electro Radio
+http://stream.radiojar.com/fkyxx4q35k0uv
 
 #EXTINF:-1 tvg-logo="http://www.truehouse.net/favicon.ico" group-title="CH",True House Radio
 https://stream.truehouse.net:8443/house
+
+#EXTINF:-1 tvg-logo="http://www.basilisk.ch/assets/favicons/apple-icon-120x120.png" group-title="CH",Radio Basilisk
+http://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3
 
 #EXTINF:-1 tvg-logo="http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",Radio Suisse Classique
 https://stream.srg-ssr.ch/m/rsc_fr/mp3_128
