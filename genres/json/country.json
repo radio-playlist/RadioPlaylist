@@ -5,7 +5,7 @@
     "stationuuid": "961d9b63-0601-11e8-ae97-52543be04c81",
     "name": ".977 Country",
     "url": "http://playerservices.streamtheworld.com/pls/977_COUNTRY.pls",
-    "url_resolved": "http://26343.live.streamtheworld.com:3690/977_COUNTRY_SC",
+    "url_resolved": "http://15113.live.streamtheworld.com:3690/977_COUNTRY_SC",
     "homepage": "http://www.977music.com/",
     "favicon": "",
     "countrycode": "US",
@@ -14,8 +14,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 55212,
-    "clickcount": 147
+    "votes": 55320,
+    "clickcount": 130
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "country,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 46310,
-    "clickcount": 48
+    "votes": 46451,
+    "clickcount": 49
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 16640,
-    "clickcount": 21
+    "votes": 16665,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "country",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 14424,
-    "clickcount": 22
+    "votes": 14451,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "80s,country,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11120,
-    "clickcount": 55
+    "votes": 11168,
+    "clickcount": 44
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "country,pop,rock,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8526,
-    "clickcount": 14
+    "votes": 8561,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7870,
-    "clickcount": 14
+    "votes": 7891,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -131,7 +131,7 @@
     "stationuuid": "9638a3a5-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - 90's Country",
     "url": "http://www.181.fm/stream/pls/181-90scountry.pls",
-    "url_resolved": "https://listen.181fm.com/181-90scountry_128k.mp3",
+    "url_resolved": "http://listen.181fm.com/181-90scountry_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "http://www.181.fm/favicon.ico",
     "countrycode": "US",
@@ -140,8 +140,8 @@
     "tags": "90s,country,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5695,
-    "clickcount": 74
+    "votes": 5706,
+    "clickcount": 54
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "country,new york city,rsl",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5549,
-    "clickcount": 16
+    "votes": 5577,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -176,8 +176,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5373,
-    "clickcount": 14
+    "votes": 5383,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -194,8 +194,8 @@
     "tags": "country,telugu",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 4841,
-    "clickcount": 7
+    "votes": 4848,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -212,8 +212,8 @@
     "tags": "60s,60s and 70s.,70's,70er,70s,80's,80er,80s,90's,90er,90s,blues,blues rock,classic blues,classic hits,classic hits 60s 70a 80s,classic rock,classic rock  50's 60's 70's 80's 90's,classic rock music,classic rock oldies,classic rock oldies soul,classic rock; alternative rock indie,country,entretenimiento,fm,hard rock,high quality audio,hits,local radio,melodic hard rock,music,music 70s 80s 90s,musica,oldies,pop rock,public radio,radio,real classic rock,rhythm and blues,rock,soft rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4590,
-    "clickcount": 112
+    "votes": 4638,
+    "clickcount": 140
   },
   {
     "id": null,
@@ -230,8 +230,8 @@
     "tags": "country,grand ole opry,nashville",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 3946,
-    "clickcount": 9
+    "votes": 3949,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -248,8 +248,8 @@
     "tags": "bluegrass,country",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 3834,
-    "clickcount": 17
+    "votes": 3843,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -257,7 +257,7 @@
     "stationuuid": "960cb16e-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - Real Country",
     "url": "http://www.181.fm/stream/pls/181-realcountry.pls",
-    "url_resolved": "http://listen.181fm.com/181-realcountry_128k.mp3",
+    "url_resolved": "https://listen.181fm.com/181-realcountry_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "",
     "countrycode": "US",
@@ -266,8 +266,8 @@
     "tags": "country,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3329,
-    "clickcount": 11
+    "votes": 3339,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -284,8 +284,8 @@
     "tags": "classic country,country,news,talk,truck-driving country",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 3298,
-    "clickcount": 7
+    "votes": 3302,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3007,
-    "clickcount": 7
+    "votes": 3009,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -320,26 +320,8 @@
     "tags": "country",
     "codec": "AAC",
     "bitrate": 530,
-    "votes": 2917,
-    "clickcount": 21
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "7316c4df-d61f-4ba1-9de4-f92e66b97f03",
-    "name": "ไทยลานนาเรดิโอ FM 106.5 จังหวัดตาก",
-    "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
-    "url_resolved": "https://inter.lannaradio.com/radio/8000/radio.mp3",
-    "homepage": "https://www.lannaradio.com/",
-    "favicon": "https://www.lannaradio.com/favicon.ico",
-    "countrycode": "TH",
-    "state": "Tak",
-    "language": "thai",
-    "tags": "country,hits 90's,indie,looktung,thailanna,top 40",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 2746,
-    "clickcount": 3
+    "votes": 2929,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -356,8 +338,26 @@
     "tags": "2000's country,90's country,america's country,classic country,country,country music,hot country hits,three decades of country",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 2746,
-    "clickcount": 69
+    "votes": 2766,
+    "clickcount": 72
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "7316c4df-d61f-4ba1-9de4-f92e66b97f03",
+    "name": "ไทยลานนาเรดิโอ FM 106.5 จังหวัดตาก",
+    "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "url_resolved": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "homepage": "https://www.lannaradio.com/",
+    "favicon": "https://www.lannaradio.com/favicon.ico",
+    "countrycode": "TH",
+    "state": "Tak",
+    "language": "thai",
+    "tags": "country,hits 90's,indie,looktung,thailanna,top 40",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 2750,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -365,7 +365,7 @@
     "stationuuid": "ffe33802-6417-11e9-a622-52543be04c81",
     "name": "SomaFM Boot Liquor (320k MP3)",
     "url": "https://somafm.com/bootliquor320.pls",
-    "url_resolved": "https://ice6.somafm.com/bootliquor-320-mp3",
+    "url_resolved": "https://ice2.somafm.com/bootliquor-320-mp3",
     "homepage": "https://somafm.com/bootliquor/",
     "favicon": "https://somafm.com/img3/bootliquor-400.jpg",
     "countrycode": "US",
@@ -374,8 +374,8 @@
     "tags": "americana,country",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2584,
-    "clickcount": 8
+    "votes": 2586,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -392,7 +392,7 @@
     "tags": "americana,blues,cajun,country,nederpop,soul",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2531,
+    "votes": 2540,
     "clickcount": 9
   },
   {
@@ -410,8 +410,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2291,
-    "clickcount": 6
+    "votes": 2301,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -428,8 +428,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2162,
-    "clickcount": 3
+    "votes": 2169,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -446,8 +446,8 @@
     "tags": "country",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 2082,
-    "clickcount": 4
+    "votes": 2086,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -464,8 +464,8 @@
     "tags": "country,heidi,john,music,show",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 1986,
-    "clickcount": 4
+    "votes": 1991,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -482,8 +482,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1936,
-    "clickcount": 5
+    "votes": 1949,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -501,7 +501,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 1904,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -518,8 +518,8 @@
     "tags": "20s,30s,40s,50s,60s,70s,americana,classic country,classic folk,country,country blues,country rock,folk,folk rock,old time radio,oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1835,
-    "clickcount": 0
+    "votes": 1836,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -536,26 +536,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1715,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9623d032-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Country (AAC)",
-    "url": "http://live-radio01.mediahubaustralia.com/CTRW/aac/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/CTRW/aac/",
-    "homepage": "https://radio.abc.net.au/stations/country/live",
-    "favicon": "",
-    "countrycode": "AU",
-    "state": "",
-    "language": "english",
-    "tags": "abc,country,public radio",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 1706,
-    "clickcount": 5
+    "votes": 1719,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -572,7 +554,7 @@
     "tags": "chill,country,hyderabad,romantic,top 40,worldbeat",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 1591,
+    "votes": 1598,
     "clickcount": 4
   },
   {
@@ -590,8 +572,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1542,
-    "clickcount": 5
+    "votes": 1550,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -608,8 +590,8 @@
     "tags": "country,outlaw country,southern rock",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 1468,
-    "clickcount": 2
+    "votes": 1472,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -626,8 +608,8 @@
     "tags": "country",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 1456,
-    "clickcount": 1
+    "votes": 1461,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -644,8 +626,8 @@
     "tags": "country,new country",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1339,
-    "clickcount": 0
+    "votes": 1340,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -662,8 +644,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1302,
-    "clickcount": 4
+    "votes": 1309,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -680,8 +662,8 @@
     "tags": "country,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1245,
-    "clickcount": 9
+    "votes": 1247,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -698,8 +680,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1237,
-    "clickcount": 7
+    "votes": 1243,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -716,8 +698,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1196,
-    "clickcount": 6
+    "votes": 1206,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -734,8 +716,8 @@
     "tags": "country",
     "codec": "AAC",
     "bitrate": 95,
-    "votes": 1141,
-    "clickcount": 9
+    "votes": 1150,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -753,7 +735,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 1118,
-    "clickcount": 11
+    "clickcount": 6
   },
   {
     "id": null,
@@ -770,8 +752,8 @@
     "tags": "country",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 1104,
-    "clickcount": 12
+    "votes": 1105,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -789,7 +771,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 1075,
-    "clickcount": 0
+    "clickcount": 2
   },
   {
     "id": null,
@@ -807,7 +789,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1071,
-    "clickcount": 0
+    "clickcount": 3
   },
   {
     "id": null,
@@ -824,7 +806,7 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1033,
+    "votes": 1034,
     "clickcount": 2
   },
   {
@@ -842,26 +824,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 998,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a4ce32b4-3c4c-11e8-b74d-52543be04c81",
-    "name": "SomaFM Boot Liquor (128k AAC)",
-    "url": "https://somafm.com/bootliquor130.pls",
-    "url_resolved": "https://ice5.somafm.com/bootliquor-128-aac",
-    "homepage": "https://somafm.com/bootliquor/",
-    "favicon": "https://somafm.com/img3/bootliquor-400.jpg",
-    "countrycode": "US",
-    "state": "California",
-    "language": "english",
-    "tags": "americana,country",
-    "codec": "AAC",
-    "bitrate": 128,
-    "votes": 969,
-    "clickcount": 1
+    "votes": 1003,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -878,8 +842,26 @@
     "tags": "classic country,country,country music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 966,
+    "votes": 969,
     "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "a4ce32b4-3c4c-11e8-b74d-52543be04c81",
+    "name": "SomaFM Boot Liquor (128k AAC)",
+    "url": "https://somafm.com/bootliquor130.pls",
+    "url_resolved": "https://ice6.somafm.com/bootliquor-128-aac",
+    "homepage": "https://somafm.com/bootliquor/",
+    "favicon": "https://somafm.com/img3/bootliquor-400.jpg",
+    "countrycode": "US",
+    "state": "California",
+    "language": "english",
+    "tags": "americana,country",
+    "codec": "AAC",
+    "bitrate": 128,
+    "votes": 969,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -896,8 +878,8 @@
     "tags": "country,traditional country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 929,
-    "clickcount": 0
+    "votes": 930,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -914,8 +896,8 @@
     "tags": "americana,country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 929,
-    "clickcount": 2
+    "votes": 930,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -932,8 +914,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 922,
-    "clickcount": 1
+    "votes": 923,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -950,8 +932,8 @@
     "tags": "christmas,country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 894,
-    "clickcount": 0
+    "votes": 895,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -968,8 +950,8 @@
     "tags": "contemporary country,country,pop,singer-songwriter",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 859,
-    "clickcount": 2
+    "votes": 861,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -986,8 +968,8 @@
     "tags": "alternative country,alternative rock,americana,classic country,classic rock,country,hits,nashville,new country,rock,texas country",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 850,
-    "clickcount": 6
+    "votes": 851,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1004,8 +986,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 832,
-    "clickcount": 8
+    "votes": 837,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1040,26 +1022,8 @@
     "tags": "americana,country,red dirt,texas,texas country",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 711,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ff00befa-fb4d-4ff3-a71a-66fce744d0f2",
-    "name": "New Country 93.3",
-    "url": "http://www.ophanim.net:9170/live",
-    "url_resolved": "http://www.ophanim.net:9170/live",
-    "homepage": "https://www.kknu.fm/",
-    "favicon": "",
-    "countrycode": "US",
-    "state": "Springfield OR",
-    "language": "english",
-    "tags": "country",
-    "codec": "MP3",
-    "bitrate": 64,
-    "votes": 693,
-    "clickcount": 8
+    "votes": 723,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1076,8 +1040,26 @@
     "tags": "blues,bluesrock,canada,country,delta blues,guitar,guitarist,jazz,mississippi,rock,rock and blues,soft blues",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 692,
-    "clickcount": 57
+    "votes": 714,
+    "clickcount": 53
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "ff00befa-fb4d-4ff3-a71a-66fce744d0f2",
+    "name": "New Country 93.3",
+    "url": "http://www.ophanim.net:9170/live",
+    "url_resolved": "http://www.ophanim.net:9170/live",
+    "homepage": "https://www.kknu.fm/",
+    "favicon": "",
+    "countrycode": "US",
+    "state": "Springfield OR",
+    "language": "english",
+    "tags": "country",
+    "codec": "MP3",
+    "bitrate": 64,
+    "votes": 694,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1095,7 +1077,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 686,
-    "clickcount": 0
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1103,7 +1085,7 @@
     "stationuuid": "e37f18e3-d58a-42c7-a452-4839b35d0442",
     "name": "La voz de Jesús",
     "url": "https://stream.zeno.fm/phybdd3ph98uv",
-    "url_resolved": "https://stream-289.surfernetwork.com/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkZGVG0xcTNXUWtxalRwUlVHS3l2LUEiLCJpYXQiOjE3ODgyNDYzMTcsImV4cCI6MTc4ODI0NjM3N30.PS5u57PVLlcB83zx-hBM_9W30ruC7VLuo3Bz_my3TYY",
+    "url_resolved": "https://stream-289.surfernetwork.com/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjVJZjFZVkpyUUFtME85Y1AyR1ZXdWciLCJpYXQiOjE3ODkxMzgwMDMsImV4cCI6MTc4OTEzODA2M30.7tTnwpbR9eM-m3HmgKnQzurFwExD78kb_JdreRYxnaY",
     "homepage": "https://zeno.fm/radio/lavozdejesus",
     "favicon": "https://zeno.fm/favicon.ico",
     "countrycode": "CO",
@@ -1112,8 +1094,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 672,
-    "clickcount": 0
+    "votes": 673,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1130,8 +1112,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 633,
-    "clickcount": 1
+    "votes": 635,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1148,7 +1130,7 @@
     "tags": "country,rock,rock music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 611,
+    "votes": 619,
     "clickcount": 8
   },
   {
@@ -1167,7 +1149,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 611,
-    "clickcount": 18
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1185,7 +1167,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 598,
-    "clickcount": 1
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1202,8 +1184,8 @@
     "tags": "country,country folk,country gospel,country pop,cowboy,gospel,rock n roll,rockabilly,traditional country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 590,
-    "clickcount": 8
+    "votes": 592,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1220,8 +1202,8 @@
     "tags": "country,sertanejo",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 562,
-    "clickcount": 43
+    "votes": 563,
+    "clickcount": 37
   },
   {
     "id": null,
@@ -1256,8 +1238,8 @@
     "tags": "country,thetford mines",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 525,
-    "clickcount": 1
+    "votes": 526,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1274,8 +1256,8 @@
     "tags": "christmas,country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 519,
-    "clickcount": 1
+    "votes": 524,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1292,8 +1274,8 @@
     "tags": "country,country music",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 484,
-    "clickcount": 13
+    "votes": 486,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -1328,8 +1310,8 @@
     "tags": "country",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 457,
-    "clickcount": 4
+    "votes": 458,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1347,7 +1329,7 @@
     "codec": "AAC",
     "bitrate": 192,
     "votes": 446,
-    "clickcount": 6
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1364,8 +1346,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 440,
-    "clickcount": 3
+    "votes": 441,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1383,7 +1365,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 409,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1418,8 +1400,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 405,
-    "clickcount": 1
+    "votes": 407,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1437,7 +1419,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 394,
-    "clickcount": 0
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1455,7 +1437,7 @@
     "codec": "AAC+",
     "bitrate": 32,
     "votes": 392,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1472,8 +1454,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 376,
-    "clickcount": 10
+    "votes": 379,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1490,8 +1472,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 371,
-    "clickcount": 1
+    "votes": 373,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1509,7 +1491,7 @@
     "codec": "MP3",
     "bitrate": 64,
     "votes": 364,
-    "clickcount": 0
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1544,8 +1526,8 @@
     "tags": "country",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 331,
-    "clickcount": 0
+    "votes": 332,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1561,9 +1543,9 @@
     "language": "english",
     "tags": "country,red deer",
     "codec": "AAC",
-    "bitrate": 131,
+    "bitrate": 132,
     "votes": 330,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1580,8 +1562,8 @@
     "tags": "country",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 325,
-    "clickcount": 1
+    "votes": 326,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1599,7 +1581,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 319,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1617,7 +1599,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 312,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1634,8 +1616,8 @@
     "tags": "country",
     "codec": "AAC",
     "bitrate": 24,
-    "votes": 308,
-    "clickcount": 3
+    "votes": 310,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1652,8 +1634,8 @@
     "tags": "country,pop,rock",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 305,
-    "clickcount": 7
+    "votes": 307,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1671,7 +1653,43 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 302,
-    "clickcount": 1
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "626c8105-6388-4a20-aaa6-c6fe02c44a32",
+    "name": "County",
+    "url": "http://icecast4.play.cz/country128.mp3",
+    "url_resolved": "http://icecast4.play.cz/country128.mp3",
+    "homepage": "https://www.countryradio.cz/",
+    "favicon": "https://www.countryradio.cz/assets/favicon/apple-touch-icon.png",
+    "countrycode": "CZ",
+    "state": "Czech Republic",
+    "language": "czech",
+    "tags": "country",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 302,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960ab381-0601-11e8-ae97-52543be04c81",
+    "name": "KSCS \"New Country 96.3\" Fort Worth, TX",
+    "url": "http://playerservices.streamtheworld.com/m3u/KSCSFM.m3u",
+    "url_resolved": "http://24153.live.streamtheworld.com:3690/KSCSFM_SC",
+    "homepage": "http://www.kscs.com/",
+    "favicon": "",
+    "countrycode": "US",
+    "state": "Texas",
+    "language": "english",
+    "tags": "commercial,country,fort worth",
+    "codec": "MP3",
+    "bitrate": 80,
+    "votes": 301,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1689,43 +1707,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 301,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960ab381-0601-11e8-ae97-52543be04c81",
-    "name": "KSCS \"New Country 96.3\" Fort Worth, TX",
-    "url": "http://playerservices.streamtheworld.com/m3u/KSCSFM.m3u",
-    "url_resolved": "http://14933.live.streamtheworld.com/KSCSFM_SC",
-    "homepage": "http://www.kscs.com/",
-    "favicon": "",
-    "countrycode": "US",
-    "state": "Texas",
-    "language": "english",
-    "tags": "commercial,country,fort worth",
-    "codec": "MP3",
-    "bitrate": 80,
-    "votes": 300,
     "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "626c8105-6388-4a20-aaa6-c6fe02c44a32",
-    "name": "County",
-    "url": "http://icecast4.play.cz/country128.mp3",
-    "url_resolved": "http://icecast4.play.cz/country128.mp3",
-    "homepage": "https://www.countryradio.cz/",
-    "favicon": "https://www.countryradio.cz/assets/favicon/apple-touch-icon.png",
-    "countrycode": "CZ",
-    "state": "Czech Republic",
-    "language": "czech",
-    "tags": "country",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 300,
-    "clickcount": 5
   },
   {
     "id": null,
@@ -1742,8 +1724,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 289,
-    "clickcount": 5
+    "votes": 292,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1751,7 +1733,7 @@
     "stationuuid": "9638cfa5-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - Christmas Kountry",
     "url": "http://www.181.fm/stream/pls/181-xkkountry.pls",
-    "url_resolved": "http://listen.181fm.com/181-xkkountry_128k.mp3",
+    "url_resolved": "https://listen.181fm.com/181-xkkountry_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "http://www.181.fm/favicon.ico",
     "countrycode": "US",
@@ -1761,7 +1743,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 279,
-    "clickcount": 3
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1796,7 +1778,25 @@
     "tags": "country",
     "codec": "AAC",
     "bitrate": 32,
-    "votes": 274,
-    "clickcount": 3
+    "votes": 276,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "8dc941a6-c866-4552-9fea-541c137cfb5d",
+    "name": "kbs해피fm",
+    "url": "http://serpent0.duckdns.org:8088/kbs2radio.pls",
+    "url_resolved": "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-02/2radio-bora-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4OTI0MTk2Nn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=KwL7nyJs3dKbggL32ad1LJKtXvzKSjoy37CQd9zx-jXYSm4pQn8xdl-6NeY73e45EusViFraj8MN9K0MvKkkpD9XNyp4oDOpvBa1lTfHcJseP2Us85Ib43d5zztO8MjWWYRpu2UbOxm9H~HdCNtV-ngj1a6VaLKqNnbYypqE-qOzzpW-gsb2DmQ2XYwgKdkEHJEksYLkKBreWez4sXxpdZPqJ5eFIMLlqs8zGMFpRtkA6VAEvkqnmrlUUduJ-qOL-XESI9U6dvw00GMVNxQjkmnPEnrnSNeQl6JpZECvhHKkRV4bJo9fzC28vVTYEZgG9XIE9yTnPJNxqziS~cQmKQ__",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "KR",
+    "state": "",
+    "language": "",
+    "tags": "country",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "votes": 271,
+    "clickcount": 0
   }
 ]

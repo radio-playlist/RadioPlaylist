@@ -33,7 +33,7 @@ https://funkyradio.streamingmedia.it/audio.aac
 http://stream.diazol.hu:35150/autodj
 
 #EXTINF:-1 tvg-logo="" group-title="DE",54 Funk Soul Dance (laut.fm)
-http://54-funk-soul-dance.stream.laut.fm/54-funk-soul-dance?pl=pls&t302=2026-09-01_00-05-04&uuid=141dc8e3-3686-4179-b269-c3169649ecc5
+http://54-funk-soul-dance.stream.laut.fm/54-funk-soul-dance?pl=pls&t302=2026-09-11_05-46-52&uuid=ffb7dce9-0783-413a-baee-243024670823
 
 #EXTINF:-1 tvg-logo="" group-title="US",_Funky Corner Radio (USA)
 https://ais-sa2.cdnstream1.com/2447_192.mp3
@@ -70,6 +70,9 @@ https://maiban00.radioca.st/stream
 
 #EXTINF:-1 tvg-logo="" group-title="AU",DiscoRhythm
 http://c3.radioboss.fm:8018/stream
+
+#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-disco-favicon.jpg" group-title="TR",dinamo.fm discotheque
+http://channels.dinamo.fm/discotheque-mp3
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/9/35209.v3.png" group-title="Global",Energy FM Old School Classics
 http://162.244.80.106:8024/stream
@@ -110,11 +113,11 @@ http://eu10.fastcast4u.com:8120/
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c76a223e7770a23546c3d81" group-title="MX",Disco by Mix (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR14_s01AAC.aac
 
-#EXTINF:-1 tvg-logo="" group-title="RU",Ретро FM Санкт-Петербург (128 kbps, mp3)
-http://emgspb.hostingradio.ru/retrofmspb128.mp3
-
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="AE",Exclusively Bee Gees
 https://streaming.exclusive.radio/er/beegees/icecast.audio
+
+#EXTINF:-1 tvg-logo="" group-title="RU",Ретро FM Санкт-Петербург (128 kbps, mp3)
+http://emgspb.hostingradio.ru/retrofmspb128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="GR",Disco Cafe
 https://azuracast.streams.ovh:8260/radio.mp3
@@ -126,7 +129,7 @@ https://stream.zeno.fm/vztn8ux96zhvv
 https://broadcast.miami/proxy/thediscoplanet?mp=/stream/;
 
 #EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="DE",radioeins-rbb-56 kbit/s
-http://f141.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3IvcgCFLZ1DjK8sIHfHGQIIfSBh&token=mtRrMQANHEobe4IDUhhoBqpGVntN5kw0QOVgkl9njnM&tvf=RmV-6A-i0hhmMTQxLnJuZGZuay5jb20
+http://d121.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3J9tqozdI8QUxdyf1B5L0aCZ3r8&token=JlGaJ6YaPKA-x5OoxNN30Q8gE5VFAe56mmyL93ufxzw&tvf=bPMPNkAv1BhkMTIxLnJuZGZuay5jb20
 
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="FR",Allzic Radio Deep Disco
 http://allzic31.ice.infomaniak.ch/allzic31.mp3
@@ -161,17 +164,17 @@ http://andromeda.shoutca.st:8411/stream
 #EXTINF:-1 tvg-logo="" group-title="US",__1 oldies
 https://80sexitos.stream.laut.fm/80sexitos
 
-#EXTINF:-1 tvg-logo="http://674.fm/favicon.ico" group-title="DE",674FM
-http://audio.674.fm/stream
-
 #EXTINF:-1 tvg-logo="" group-title="PL",Radio Disco-Dance
 https://radiodd.cloud/radio/8000/radio.mp3
 
-#EXTINF:-1 tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6b8adb31-5021-4e82-ad27-8f176caf9e91.jpg" group-title="AE",Exclusively ABBA
-https://2.mystreaming.net/er/abba/icecast.audio
+#EXTINF:-1 tvg-logo="http://674.fm/favicon.ico" group-title="DE",674FM
+http://audio.674.fm/stream
 
 #EXTINF:-1 tvg-logo="" group-title="DE",RADIO BOB - 70er Rock [mp3 | 192 kbps]
 https://streams.radiobob.de/70errock/mp3-192/streams.radiobob.de/
+
+#EXTINF:-1 tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6b8adb31-5021-4e82-ad27-8f176caf9e91.jpg" group-title="AE",Exclusively ABBA
+https://2.mystreaming.net/er/abba/icecast.audio
 
 #EXTINF:-1 tvg-logo="" group-title="GB",FUNK2DISCO
 http://stream.laut.fm/funk2disco
@@ -179,14 +182,14 @@ http://stream.laut.fm/funk2disco
 #EXTINF:-1 tvg-logo="https://cdn2.101.ru/proxy/vardata/modules/channel/dynamics/personal/178/1785788.jpg?w=300&h=300&pos=center&t=1681310271" group-title="RU",ABBA Radio
 https://pub0102.101.ru:8443/stream/personal/aacp/64/1785788
 
+#EXTINF:-1 tvg-logo="" group-title="DE",Soulfunky Radio
+http://stream.laut.fm/soulfunky
+
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="FR",Allzic Radio Disco
 http://allzic36.ice.infomaniak.ch/allzic36.mp3
 
 #EXTINF:-1 tvg-logo="https://www.radio-tsop.com/favicon.ico" group-title="US",Radio TSOP - The Sound Of Philadelphia
 http://54.36.165.156:8650/stream
-
-#EXTINF:-1 tvg-logo="" group-title="DE",Soulfunky Radio
-http://stream.laut.fm/soulfunky
 
 #EXTINF:-1 tvg-logo="" group-title="US",Radio Salsoul
 https://broadcast.miami/proxy/salsoul?mp=/stream/;
@@ -197,11 +200,11 @@ http://stream.zeno.fm/5hfdntgf8yzuv
 #EXTINF:-1 tvg-logo="https://artofmusic.fm/resources/apple-touch-icon.png" group-title="IT",Art Of Music
 http://sr6.inmystream.info:8024/stream
 
-#EXTINF:-1 tvg-logo="" group-title="IT",Station Italy
-http://stream.laut.fm/stationitaly
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_66f56cd8d2f44aed871cfd62bf70af65~mv2.jpg" group-title="IT",# 100 NU-DISCO CENTRAL RADIO
 https://stream.zeno.fm/jqhhzffjynbuv
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Station Italy
+http://stream.laut.fm/stationitaly
 
 #EXTINF:-1 tvg-logo="https://radio.pejpal.cloud/static/uploads/browser_icon/192.1747064544.png" group-title="PL",Radio pejpal
 https://radio.pejpal.cloud/stream
@@ -212,11 +215,11 @@ https://schlager-high.rautemusik.fm/?ref=radiobrowser
 #EXTINF:-1 tvg-logo="" group-title="NL",Coastline
 http://81.169.223.8/
 
-#EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF 80s Disco + FAKTY
-http://195.150.20.9/80SDISCOF
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-disco_600x600.jpg" group-title="DE",- 0 N - Disco on Radio
 https://0n-disco.radionetz.de/0n-disco.aac
+
+#EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF 80s Disco + FAKTY
+http://195.150.20.9/80SDISCOF
 
 #EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FMU0aBy8KKuZnbUuKncqrOoOX2-YWodaubyqbIZa1qfI%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2NiNGY2ZTk1LTQyNGEtNDU0NS1hZGVlLWEzYTJlNzVjMTI0Mi9pbWFnZS8_dXBkYXRlZD0xNjc1MTM5NDI0MDAw.webp&w=1080&q=100" group-title="PH",iMix Radio
 https://stream.zeno.fm/sbmi7cx5z8buv
@@ -278,14 +281,14 @@ http://79.120.77.11:8000/disco
 #EXTINF:-1 tvg-logo="https://www.only80sradio.nl/favicon.ico" group-title="NL",Only 80's Radio
 https://server-28.stream-server.nl:8850/stream
 
-#EXTINF:-1 tvg-logo="" group-title="US",Radio T.K. Disco
-https://broadcast.miami/proxy/tkdisco?mp=/stream/;
-
 #EXTINF:-1 tvg-logo="https://funky.radio/wp-content/uploads/2023/10/7080discofunk_logo_600.png" group-title="IT",70s 80s Disco Funk ModernSoul Boogie
 http://my.streamingmedia.it:8020/play
 
 #EXTINF:-1 tvg-logo="https://uk.radio.net/300/nudiscofunkradio.jpeg?version=b5b29e74fa5bb43b3b8a3e9d27349a94" group-title="GB",Nu Disco Funk Radio
 https://my.radiolize.com/radio/8090/radio.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="US",Radio T.K. Disco
+https://broadcast.miami/proxy/tkdisco?mp=/stream/;
 
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio SCHLAGER
 https://stream.0nlineradio.com/schlager?ref=radiobrowser
@@ -298,7 +301,4 @@ http://online.melodiafm.ua/MelodiaFM_Disco_Live
 
 #EXTINF:-1 tvg-logo="" group-title="US",Radio Casablanca
 https://broadcast.miami/proxy/casablanca?mp=/stream/;
-
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-jukebox_600x600.jpg" group-title="DE",- 0 N - Jukebox on Radio
-https://0n-jukebox.radionetz.de/0n-jukebox.mp3
 

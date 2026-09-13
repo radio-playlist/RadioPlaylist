@@ -104,11 +104,11 @@ http://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
 #EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="FR",FIP Jazz
 http://icecast.radiofrance.fr/fipjazz-hifi.aac
 
-#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Only Women
-http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/1200px-France_Inter_logo_2021.svg.png" group-title="FR",France Inter
 https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8?id=radiofrance
+
+#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Only Women
+http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3
 
 #EXTINF:-1 tvg-logo="http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png" group-title="FR",RFM
 http://stream.rfm.fr/rfm.mp3
@@ -176,11 +176,11 @@ https://urbanhitrai.ice.infomaniak.ch/urbanhitrai.mp3
 #EXTINF:-1 tvg-logo="" group-title="FR",Chante France 70's
 http://stream.chantefrance.com/cf-70
 
-#EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Latin Jazz
-http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/France_Inter_logo.svg" group-title="FR",France Inter
 https://icecast.radiofrance.fr/franceinter-hifi.aac
+
+#EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Latin Jazz
+http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3
 
 #EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="FR",FIP Electro
 http://icecast.radiofrance.fr/fipelectro-hifi.aac
@@ -251,11 +251,11 @@ http://icecast.radiofrance.fr/fipgroove-hifi.aac
 #EXTINF:-1 tvg-logo="http://en.rfi.fr/android-chrome-192x192.png" group-title="FR",RFI Anglais - English
 http://live02.rfi.fr/rfienanglais-64.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="FR",B4B Radio DISCO FUNK
-https://eu10.fastcast4u.com:8120/
-
 #EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png" group-title="FR",France Info
 http://icecast.radiofrance.fr/franceinfo-hifi.aac
+
+#EXTINF:-1 tvg-logo="" group-title="FR",B4B Radio DISCO FUNK
+https://eu10.fastcast4u.com:8120/
 
 #EXTINF:-1 tvg-logo="" group-title="FR",France Maghreb 2 Province
 http://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
@@ -266,17 +266,17 @@ http://str4uice.streamakaci.com/4uclassicrock.mp3
 #EXTINF:-1 tvg-logo="" group-title="FR",France Culture
 http://direct.franceculture.fr/live/franceculture-lofi.mp3
 
+#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/035a5e15d396c67a.png" group-title="FR",RTL
+https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="FR",France Bleu Roussillon
 http://direct.francebleu.fr/live/fbroussillon-midfi.mp3
-
-#EXTINF:-1 tvg-logo="https://www.europe1.fr/build/e1/images/favicon-120x120.png" group-title="FR",Europe1
-http://stream.europe1.fr/europe1.aac
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi076SvIq9FK1ila6iO0HpdpC6f6eMrCLPrNli3Y6WYe_7cVIM8GTSIKi5L2v3bmwD298Xc2jjmRlPX9nzJseyatmlnRhmrgL7QBGiUKBWhNDpmpSigoBKW-DQg-ytDeOF-iUaikzXDJef87-Or9eBq7fXL13kARxykDqVbhhIuT_e9niBlF0ZMztzw/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-11-19_14-44-01.png" group-title="FR",📺 RFI Monde
 https://rfiafrique64k.ice.infomaniak.ch/rfimonde-64.mp3
 
-#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/035a5e15d396c67a.png" group-title="FR",RTL
-https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.europe1.fr/build/e1/images/favicon-120x120.png" group-title="FR",Europe1
+http://stream.europe1.fr/europe1.aac
 
 #EXTINF:-1 tvg-logo="https://image.radioking.io/radios/669715/logo/e0191854-a603-41f5-9729-121a1f215f57.jpeg" group-title="FR",Radio Choco
 https://listen.radioking.com/radio/669715/stream/733765

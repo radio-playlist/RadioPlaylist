@@ -14,8 +14,8 @@
     "tags": "abc,news,newsradio,public radio",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 9936,
-    "clickcount": 25
+    "votes": 9965,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 8964,
-    "clickcount": 32
+    "votes": 8971,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "dance,electronica,melbourne",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7533,
-    "clickcount": 13
+    "votes": 7548,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "abc,features,information,news,public radio",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 4674,
-    "clickcount": 12
+    "votes": 4680,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "progressive rock",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 3860,
-    "clickcount": 2
+    "votes": 3864,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -104,62 +104,8 @@
     "tags": "classic hits",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 3374,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9623d0ee-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Local Radio 774 Melbourne (AAC)",
-    "url": "http://live-radio01.mediahubaustralia.com/3LRW/aac/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/3LRW/aac/",
-    "homepage": "http://www.abc.net.au/radio/melbourne/",
-    "favicon": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-    "countrycode": "AU",
-    "state": "Victoria",
-    "language": "english",
-    "tags": "abc,information,local news,melbourne,news,public radio",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 2738,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9623b33d-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Jazz (MP3)",
-    "url": "http://live-radio01.mediahubaustralia.com/JAZW/mp3/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/JAZW/mp3/",
-    "homepage": "http://abcjazz.net.au/",
-    "favicon": "",
-    "countrycode": "AU",
-    "state": "",
-    "language": "english",
-    "tags": "abc,jazz,public radio",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 1892,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9623d032-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Country (AAC)",
-    "url": "http://live-radio01.mediahubaustralia.com/CTRW/aac/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/CTRW/aac/",
-    "homepage": "https://radio.abc.net.au/stations/country/live",
-    "favicon": "",
-    "countrycode": "AU",
-    "state": "",
-    "language": "english",
-    "tags": "abc,country,public radio",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 1706,
-    "clickcount": 5
+    "votes": 3382,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -176,8 +122,8 @@
     "tags": "community radio,music,pop",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 1606,
-    "clickcount": 5
+    "votes": 1608,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -195,7 +141,7 @@
     "codec": "AAC+",
     "bitrate": 97,
     "votes": 1550,
-    "clickcount": 7
+    "clickcount": 12
   },
   {
     "id": null,
@@ -212,26 +158,8 @@
     "tags": "disco,funk,soul",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1358,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961c74f4-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Triple J (MP3)",
-    "url": "http://live-radio01.mediahubaustralia.com/2TJW/mp3/;stream.nsv",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/2TJW/mp3/;stream.nsv",
-    "homepage": "http://www.abc.net.au/triplej/",
-    "favicon": "http://www.abc.net.au/core-assets/triplej/favicon-32x32.png",
-    "countrycode": "AU",
-    "state": "",
-    "language": "english",
-    "tags": "abc,alternative,public radio,youth programming",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 1249,
-    "clickcount": 6
+    "votes": 1359,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -248,8 +176,8 @@
     "tags": "commercial,easy listening",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 1196,
-    "clickcount": 4
+    "votes": 1201,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -266,44 +194,8 @@
     "tags": "conservative,discussion,news,politics,rightwing,sky news,talk",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 1145,
-    "clickcount": 67
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96238f91-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Classic FM (AAC)",
-    "url": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/2FMW/aac/",
-    "homepage": "http://www.abc.net.au/classic/",
-    "favicon": "http://www.abc.net.au/core-assets/classic/favicon-32x32.png",
-    "countrycode": "AU",
-    "state": "",
-    "language": "english",
-    "tags": "abc,classical,public radio",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 1073,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9622c937-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Local Radio 612 Brisbane (AAC)",
-    "url": "http://live-radio01.mediahubaustralia.com/4LRW/aac/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/4LRW/aac/",
-    "homepage": "http://www.abc.net.au/radio/brisbane/",
-    "favicon": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-    "countrycode": "AU",
-    "state": "Queensland",
-    "language": "english",
-    "tags": "abc,brisbane,information,local news,news,public radio",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 912,
-    "clickcount": 3
+    "votes": 1159,
+    "clickcount": 61
   },
   {
     "id": null,
@@ -321,7 +213,7 @@
     "codec": "AAC+",
     "bitrate": 56,
     "votes": 910,
-    "clickcount": 14
+    "clickcount": 9
   },
   {
     "id": null,
@@ -338,8 +230,8 @@
     "tags": "80s,90s,hits",
     "codec": "AAC+",
     "bitrate": 192,
-    "votes": 857,
-    "clickcount": 44
+    "votes": 867,
+    "clickcount": 87
   },
   {
     "id": null,
@@ -356,8 +248,8 @@
     "tags": "classic hits",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 808,
-    "clickcount": 7
+    "votes": 810,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -374,26 +266,8 @@
     "tags": "#free,classic rock,free fm,free fm rock,hard rock,melbourne,music,pop rock,rock'n'roll,soft rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 750,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960b9c4f-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Local Radio 720 Perth (AAC)",
-    "url": "http://live-radio01.mediahubaustralia.com/6LRW/aac/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/6LRW/aac/",
-    "homepage": "http://www.abc.net.au/perth/",
-    "favicon": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-    "countrycode": "AU",
-    "state": "Western Australia",
-    "language": "english",
-    "tags": "abc,local programming,news,perth,public radio",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 747,
-    "clickcount": 2
+    "votes": 751,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -411,7 +285,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 747,
-    "clickcount": 4
+    "clickcount": 1
   },
   {
     "id": null,
@@ -429,7 +303,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 716,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -447,7 +321,7 @@
     "codec": "MP3",
     "bitrate": 80,
     "votes": 712,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -464,26 +338,8 @@
     "tags": "the beatles",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 699,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "4a46b037-bec0-4bb0-b826-51e5fa9ee724",
-    "name": "ABC Radio Australia (MP3)",
-    "url": "http://live-radio01.mediahubaustralia.com/RAEW/mp3/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/RAEW/mp3/",
-    "homepage": "https://www.abc.net.au/radio-australia/",
-    "favicon": "https://www.abc.net.au/core-assets/pacific/favicon-32x32.png",
-    "countrycode": "AU",
-    "state": "New South Wales",
-    "language": "english",
-    "tags": "current affairs,news",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 670,
-    "clickcount": 1
+    "votes": 700,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -501,43 +357,7 @@
     "codec": "AAC+",
     "bitrate": 33,
     "votes": 668,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9623bb6e-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Local Radio 91.7 Gold Coast, QLD (AAC)",
-    "url": "http://live-radio01.mediahubaustralia.com/4GLDW/aac/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/4GLDW/aac/",
-    "homepage": "http://www.abc.net.au/goldcoast/",
-    "favicon": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-    "countrycode": "AU",
-    "state": "Queensland",
-    "language": "english",
-    "tags": "abc,gold coast,information,local news,news,public radio",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 664,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961a05dc-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Grandstand (MP3)",
-    "url": "http://live-radio02.mediahubaustralia.com/GSDW/mp3/;",
-    "url_resolved": "http://live-radio02.mediahubaustralia.com/GSDW/mp3/;",
-    "homepage": "http://www.abc.net.au/news/sport/grandstand-radio-broadcast-schedule/",
-    "favicon": "http://www.abc.net.au/news-assets/touchicon.png",
-    "countrycode": "AU",
-    "state": "",
-    "language": "english",
-    "tags": "abc,public radio,sport,talk",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 643,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -554,7 +374,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 641,
+    "votes": 646,
     "clickcount": 14
   },
   {
@@ -572,8 +392,8 @@
     "tags": "am1629",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 631,
-    "clickcount": 6
+    "votes": 635,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -590,8 +410,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 130,
-    "votes": 621,
-    "clickcount": 10
+    "votes": 625,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -608,8 +428,8 @@
     "tags": "news,talk",
     "codec": "AAC",
     "bitrate": 115,
-    "votes": 589,
-    "clickcount": 13
+    "votes": 590,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -626,8 +446,8 @@
     "tags": "soft adult contemporary",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 575,
-    "clickcount": 9
+    "votes": 586,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -645,7 +465,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 558,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -663,7 +483,7 @@
     "codec": "AAC+",
     "bitrate": 56,
     "votes": 537,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -680,8 +500,8 @@
     "tags": "classic hits,news,pop music,smooth",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 526,
-    "clickcount": 3
+    "votes": 527,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -698,8 +518,8 @@
     "tags": "news",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 517,
-    "clickcount": 15
+    "votes": 521,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -722,24 +542,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "961fe735-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Classic 2 Stream (MP3)",
-    "url": "http://live-radio01.mediahubaustralia.com/FM2W/mp3/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/FM2W/mp3/",
-    "homepage": "https://radio.abc.net.au/stations/classic2/live",
-    "favicon": "",
-    "countrycode": "AU",
-    "state": "",
-    "language": "english",
-    "tags": "abc,classical,public radio",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 489,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "4f5d2b6c-6664-49e4-8e83-793d69adb3bc",
     "name": "Nova 91.9",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac",
@@ -753,7 +555,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 472,
-    "clickcount": 4
+    "clickcount": 2
   },
   {
     "id": null,
@@ -770,8 +572,8 @@
     "tags": "c-pop,cantonese,chinese pop,cpop,hong kong music,j-pop,japanese music,jpop,k-pop,korean music,kpop,multicultural,pop music,taiwanese pop",
     "codec": "AAC+",
     "bitrate": 97,
-    "votes": 470,
-    "clickcount": 5
+    "votes": 471,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -788,8 +590,8 @@
     "tags": "old time radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 466,
-    "clickcount": 5
+    "votes": 468,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -806,7 +608,7 @@
     "tags": "news",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 463,
+    "votes": 464,
     "clickcount": 6
   },
   {
@@ -825,7 +627,7 @@
     "codec": "AAC",
     "bitrate": 0,
     "votes": 446,
-    "clickcount": 3
+    "clickcount": 1
   },
   {
     "id": null,
@@ -842,8 +644,44 @@
     "tags": "australia,pop,rock",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 408,
+    "votes": 422,
     "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "94ab6f5f-b684-4ca1-ae5c-c5c868ed20c6",
+    "name": "3AW - Melbourne - 693 AM (MP3)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3",
+    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3",
+    "homepage": "https://www.3aw.com.au/",
+    "favicon": "https://www.3aw.com.au/wp-content/themes/3aw/assets/img/favicon/apple-touch-icon.png",
+    "countrycode": "AU",
+    "state": "Melbourne VIC",
+    "language": "english",
+    "tags": "news,talk radio",
+    "codec": "MP3",
+    "bitrate": 48,
+    "votes": 413,
+    "clickcount": 22
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "a9c5e895-0b34-4f17-9147-2b9b9747a124",
+    "name": "ABC Radio Australia",
+    "url": "https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8",
+    "url_resolved": "https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8",
+    "homepage": "https://www.abc.net.au/pacific/live",
+    "favicon": "https://live-production.wcms.abc-cdn.net.au/34bb5853530db865de5b5ed93c44bc54",
+    "countrycode": "AU",
+    "state": "",
+    "language": "english",
+    "tags": "news,talk",
+    "codec": "AAC",
+    "bitrate": 115,
+    "votes": 408,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -861,7 +699,7 @@
     "codec": "MP3",
     "bitrate": 48,
     "votes": 407,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -878,80 +716,8 @@
     "tags": "70s rock ballads",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 406,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a9c5e895-0b34-4f17-9147-2b9b9747a124",
-    "name": "ABC Radio Australia",
-    "url": "https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8",
-    "url_resolved": "https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8",
-    "homepage": "https://www.abc.net.au/pacific/live",
-    "favicon": "https://live-production.wcms.abc-cdn.net.au/34bb5853530db865de5b5ed93c44bc54",
-    "countrycode": "AU",
-    "state": "",
-    "language": "english",
-    "tags": "news,talk",
-    "codec": "AAC",
-    "bitrate": 115,
-    "votes": 405,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "94ab6f5f-b684-4ca1-ae5c-c5c868ed20c6",
-    "name": "3AW - Melbourne - 693 AM (MP3)",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3",
-    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3",
-    "homepage": "https://www.3aw.com.au/",
-    "favicon": "https://www.3aw.com.au/wp-content/themes/3aw/assets/img/favicon/apple-touch-icon.png",
-    "countrycode": "AU",
-    "state": "Melbourne VIC",
-    "language": "english",
-    "tags": "news,talk radio",
-    "codec": "MP3",
-    "bitrate": 48,
-    "votes": 404,
-    "clickcount": 18
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9615adcd-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Local Radio 702 Sydney (MP3)",
-    "url": "http://live-radio01.mediahubaustralia.com/2LRW/mp3/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/2LRW/mp3/",
-    "homepage": "http://www.abc.net.au/radio/sydney/",
-    "favicon": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-    "countrycode": "AU",
-    "state": "New South Wales",
-    "language": "english",
-    "tags": "abc,features,local news,news,public radio,sydney",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 400,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "cabf9048-722f-4ae6-8f44-73e250c7fced",
-    "name": "Voice of Islam",
-    "url": "http://voiceofislam.appsunder.com:8000/voiceofislam.mp3",
-    "url_resolved": "http://voiceofislam.appsunder.com:8000/voiceofislam.mp3",
-    "homepage": "https://thevoiceofislam.com.au/",
-    "favicon": "",
-    "countrycode": "AU",
-    "state": "NSW",
-    "language": "arabic,english",
-    "tags": "islamic",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 385,
-    "clickcount": 2
+    "votes": 407,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -968,8 +734,26 @@
     "tags": "iron maiden",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 383,
+    "votes": 387,
     "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "cabf9048-722f-4ae6-8f44-73e250c7fced",
+    "name": "Voice of Islam",
+    "url": "http://voiceofislam.appsunder.com:8000/voiceofislam.mp3",
+    "url_resolved": "http://voiceofislam.appsunder.com:8000/voiceofislam.mp3",
+    "homepage": "https://thevoiceofislam.com.au/",
+    "favicon": "",
+    "countrycode": "AU",
+    "state": "NSW",
+    "language": "arabic,english",
+    "tags": "islamic",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 386,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -987,7 +771,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 378,
-    "clickcount": 4
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1023,25 +807,7 @@
     "codec": "AAC",
     "bitrate": 128,
     "votes": 334,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9623aa59-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Double J (MP3)",
-    "url": "http://live-radio01.mediahubaustralia.com/DJDW/mp3/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/DJDW/mp3/",
-    "homepage": "http://doublej.net.au/",
-    "favicon": "",
-    "countrycode": "AU",
-    "state": "",
-    "language": "english",
-    "tags": "abc,jazz,pop,public radio,rock,soul,world music",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 327,
-    "clickcount": 4
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1076,7 +842,7 @@
     "tags": "michael jackson",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 311,
+    "votes": 312,
     "clickcount": 1
   },
   {
@@ -1113,7 +879,7 @@
     "codec": "AAC+",
     "bitrate": 33,
     "votes": 302,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1130,8 +896,8 @@
     "tags": "hot adult contemporary",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 294,
-    "clickcount": 1
+    "votes": 295,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1149,6 +915,24 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 291,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "aa5dc44c-84bf-48dd-a8a3-e6821e46cc71",
+    "name": "2ME Radio Arabic",
+    "url": "https://streaming.2me.com.au/2me",
+    "url_resolved": "https://streaming.2me.com.au/2me",
+    "homepage": "https://www.radio-australia.org/2me-radio-arabic",
+    "favicon": "https://www.radio-australia.org/favicon.ico",
+    "countrycode": "AU",
+    "state": "",
+    "language": "",
+    "tags": "",
+    "codec": "AAC",
+    "bitrate": 64,
+    "votes": 288,
     "clickcount": 1
   },
   {
@@ -1172,24 +956,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "aa5dc44c-84bf-48dd-a8a3-e6821e46cc71",
-    "name": "2ME Radio Arabic",
-    "url": "https://streaming.2me.com.au/2me",
-    "url_resolved": "https://streaming.2me.com.au/2me",
-    "homepage": "https://www.radio-australia.org/2me-radio-arabic",
-    "favicon": "https://www.radio-australia.org/favicon.ico",
-    "countrycode": "AU",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "AAC",
-    "bitrate": 64,
-    "votes": 287,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "05e3dfae-889b-4583-81d9-93fe1a9116b4",
     "name": "Indian link radio",
     "url": "https://indianlink1.radioca.st/",
@@ -1202,8 +968,8 @@
     "tags": "music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 280,
-    "clickcount": 7
+    "votes": 281,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1221,7 +987,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 279,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1238,8 +1004,8 @@
     "tags": "news,news talk",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 262,
-    "clickcount": 5
+    "votes": 266,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1256,7 +1022,7 @@
     "tags": "folk,rock",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 257,
+    "votes": 258,
     "clickcount": 2
   },
   {
@@ -1274,7 +1040,7 @@
     "tags": "pink floyd",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 252,
+    "votes": 254,
     "clickcount": 3
   },
   {
@@ -1293,7 +1059,7 @@
     "codec": "MP3",
     "bitrate": 64,
     "votes": 251,
-    "clickcount": 5
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1316,24 +1082,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "9623ada6-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Triple J Unearthed  (MP3)",
-    "url": "http://live-radio01.mediahubaustralia.com/UNEW/mp3/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/UNEW/mp3/",
-    "homepage": "https://www.triplejunearthed.com/",
-    "favicon": "",
-    "countrycode": "AU",
-    "state": "",
-    "language": "english",
-    "tags": "abc,indie,public radio",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 243,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "38c667f9-5091-11e9-a4d7-52543be04c81",
     "name": "Skylab Radio",
     "url": "http://stream.skylab-radio.com:8000/live",
@@ -1346,8 +1094,8 @@
     "tags": "ambient,eclectic,experimental,hip-hop,house,rock,techno",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 241,
-    "clickcount": 1
+    "votes": 242,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1363,27 +1111,27 @@
     "language": "english",
     "tags": "news talk,sport,talkback",
     "codec": "AAC+",
-    "bitrate": 64,
-    "votes": 228,
-    "clickcount": 6
+    "bitrate": 32,
+    "votes": 229,
+    "clickcount": 7
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "004418a0-f10f-11e8-a471-52543be04c81",
-    "name": "ABC New England North West (AAC)",
-    "url": "http://live-radio03.mediahubaustralia.com/2TAMW/aac/",
-    "url_resolved": "http://live-radio03.mediahubaustralia.com/2TAMW/aac/",
-    "homepage": "https://www.abc.net.au/newengland/",
-    "favicon": "https://www.abc.net.au/core-assets/local/favicon-32x32.png",
+    "stationuuid": "a918d977-f3d7-48a9-889b-c0206993cebf",
+    "name": "Smooth FM 91.5 - Melbourne - 91.5 FM (AAC+ 320k)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320.aac",
+    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320.aac",
+    "homepage": "https://smooth.com.au/station/smoothfm915",
+    "favicon": "https://i.ibb.co/ZBZD4yz/89102254-2856298334439483-8500983319628873728-n.jpg",
     "countrycode": "AU",
-    "state": "New South Wales",
+    "state": "Melbourne VIC",
     "language": "english",
-    "tags": "",
+    "tags": "commercial,easy listening",
     "codec": "AAC+",
-    "bitrate": 56,
+    "bitrate": 320,
     "votes": 225,
-    "clickcount": 3
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1401,25 +1149,7 @@
     "codec": "AAC+",
     "bitrate": 33,
     "votes": 225,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a918d977-f3d7-48a9-889b-c0206993cebf",
-    "name": "Smooth FM 91.5 - Melbourne - 91.5 FM (AAC+ 320k)",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320.aac",
-    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320.aac",
-    "homepage": "https://smooth.com.au/station/smoothfm915",
-    "favicon": "https://i.ibb.co/ZBZD4yz/89102254-2856298334439483-8500983319628873728-n.jpg",
-    "countrycode": "AU",
-    "state": "Melbourne VIC",
-    "language": "english",
-    "tags": "commercial,easy listening",
-    "codec": "AAC+",
-    "bitrate": 320,
-    "votes": 222,
-    "clickcount": 3
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1437,7 +1167,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 222,
-    "clickcount": 7
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1453,26 +1183,8 @@
     "language": "english",
     "tags": "talkback",
     "codec": "AAC+",
-    "bitrate": 64,
+    "bitrate": 32,
     "votes": 220,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96230ea6-0601-11e8-ae97-52543be04c81",
-    "name": "ABC Local Radio 720 Perth, WA (MP3)",
-    "url": "http://live-radio01.mediahubaustralia.com/6LRW/mp3/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/6LRW/mp3/",
-    "homepage": "http://www.abc.net.au/perth/",
-    "favicon": "http://www.abc.net.au/core-assets/local/favicon-32x32.png",
-    "countrycode": "AU",
-    "state": "Western Australia",
-    "language": "english",
-    "tags": "abc,information,local news,news,perth,public radio",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 211,
     "clickcount": 1
   },
   {
@@ -1490,8 +1202,26 @@
     "tags": "sport",
     "codec": "AAC",
     "bitrate": 65,
-    "votes": 210,
-    "clickcount": 4
+    "votes": 212,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "d3e1943f-9df4-4c6d-800d-bd3b63208afb",
+    "name": "4CA 846 AM Far North QLD Classic Hits",
+    "url": "http://www.surfmusic.de/m3u/4ca-864-am,18582.m3u",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC_SC",
+    "homepage": "https://www.4ca.com.au/",
+    "favicon": "https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/cropped-nql_cns_4ca-512x512-favicon.png?w=180",
+    "countrycode": "AU",
+    "state": "Queensland",
+    "language": "",
+    "tags": "",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 206,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1509,7 +1239,25 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 205,
-    "clickcount": 1
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "3b1fc575-8da0-4296-9207-98a6cbaadb9f",
+    "name": "3RRR Melbourne",
+    "url": "https://ondemand.rrr.org.au/stream/ws-hq.m3u",
+    "url_resolved": "http://realtime.rrr.org.au/p1h",
+    "homepage": "https://www.rrr.org.au/",
+    "favicon": "https://www.rrr.org.au/assets/main/assets/public/favicon/favicon-192.a118bf57.png",
+    "countrycode": "AU",
+    "state": "Victoria",
+    "language": "",
+    "tags": "",
+    "codec": "AAC",
+    "bitrate": 0,
+    "votes": 203,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1532,24 +1280,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "3b1fc575-8da0-4296-9207-98a6cbaadb9f",
-    "name": "3RRR Melbourne",
-    "url": "https://ondemand.rrr.org.au/stream/ws-hq.m3u",
-    "url_resolved": "http://realtime.rrr.org.au/p1h",
-    "homepage": "https://www.rrr.org.au/",
-    "favicon": "https://www.rrr.org.au/assets/main/assets/public/favicon/favicon-192.a118bf57.png",
-    "countrycode": "AU",
-    "state": "Victoria",
-    "language": "",
-    "tags": "",
-    "codec": "AAC",
-    "bitrate": 0,
-    "votes": 202,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "e473dd9e-fd28-407d-8519-d5bc88c1d8ac",
     "name": "澳大利亚SBS Radio 1",
     "url": "https://sbs-ice.streamguys1.com/sbs1-sbs-web",
@@ -1562,25 +1292,7 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 33,
-    "votes": 199,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "d3e1943f-9df4-4c6d-800d-bd3b63208afb",
-    "name": "4CA 846 AM Far North QLD Classic Hits",
-    "url": "http://www.surfmusic.de/m3u/4ca-864-am,18582.m3u",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC_SC",
-    "homepage": "https://www.4ca.com.au/",
-    "favicon": "https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/cropped-nql_cns_4ca-512x512-favicon.png?w=180",
-    "countrycode": "AU",
-    "state": "Queensland",
-    "language": "",
-    "tags": "",
-    "codec": "AAC+",
-    "bitrate": 64,
-    "votes": 198,
+    "votes": 200,
     "clickcount": 1
   },
   {
@@ -1598,8 +1310,8 @@
     "tags": "greatest hits",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 195,
-    "clickcount": 1
+    "votes": 197,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1617,7 +1329,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 194,
-    "clickcount": 1
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1652,25 +1364,7 @@
     "tags": "britpop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 189,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "c45aedb7-8978-46f5-ac05-c9241e12a0bb",
-    "name": "Australian Digital Radio Network - Madonna (MP3)",
-    "url": "http://abm21.com.au:8000/CONTAINER145",
-    "url_resolved": "http://abm21.com.au:8000/CONTAINER145",
-    "homepage": "http://www.australiandigitalradio.com/",
-    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
-    "countrycode": "AU",
-    "state": "Sydney NSW",
-    "language": "english",
-    "tags": "madonna",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 185,
+    "votes": 191,
     "clickcount": 1
   },
   {
@@ -1688,8 +1382,26 @@
     "tags": "abc,jazz,public radio",
     "codec": "AAC",
     "bitrate": 252,
-    "votes": 185,
-    "clickcount": 6
+    "votes": 188,
+    "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c45aedb7-8978-46f5-ac05-c9241e12a0bb",
+    "name": "Australian Digital Radio Network - Madonna (MP3)",
+    "url": "http://abm21.com.au:8000/CONTAINER145",
+    "url_resolved": "http://abm21.com.au:8000/CONTAINER145",
+    "homepage": "http://www.australiandigitalradio.com/",
+    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
+    "countrycode": "AU",
+    "state": "Sydney NSW",
+    "language": "english",
+    "tags": "madonna",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 187,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1706,8 +1418,8 @@
     "tags": "the rolling stones",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 185,
-    "clickcount": 1
+    "votes": 187,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1725,7 +1437,7 @@
     "codec": "MP3",
     "bitrate": 48,
     "votes": 182,
-    "clickcount": 8
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1742,7 +1454,7 @@
     "tags": "abc,classical,public radio",
     "codec": "AAC",
     "bitrate": 252,
-    "votes": 179,
+    "votes": 181,
     "clickcount": 4
   },
   {
@@ -1760,8 +1472,8 @@
     "tags": "00s,chill",
     "codec": "AAC+",
     "bitrate": 33,
-    "votes": 174,
-    "clickcount": 5
+    "votes": 176,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1779,24 +1491,312 @@
     "codec": "AAC",
     "bitrate": 115,
     "votes": 173,
-    "clickcount": 5
+    "clickcount": 8
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "340c29cb-7e10-44f9-9f7b-cfc5bc5b3f95",
-    "name": "triple j | aac | NSW, VIC, ACT, TAS",
-    "url": "http://live-radio01.mediahubaustralia.com/2TJW/aac/",
-    "url_resolved": "http://live-radio01.mediahubaustralia.com/2TJW/aac/",
-    "homepage": "https://www.abc.net.au/triplej",
-    "favicon": "https://live-production.wcms.abc-cdn.net.au/c52ef2b1eb3cf0c786d8933949606044?impolicy=wcms_crop_resize&cropH=1064&cropW=1064&xPos=0&yPos=0&width=862&height=862",
+    "stationuuid": "bfef6527-dc0c-47f3-8622-6f6598dd81dc",
+    "name": "2AC澳洲华人电台粤语广播",
+    "url": "http://s1.voscast.com:10442/stream",
+    "url_resolved": "http://s1.voscast.com:10442/stream",
+    "homepage": "https://www.2ac.com.au/",
+    "favicon": "https://webertop.oss-cn-hongkong.topkee.top/u_400996516145270784/202211041155668.svg",
+    "countrycode": "AU",
+    "state": "Sydney NSW",
+    "language": "cantonese",
+    "tags": "full service",
+    "codec": "MP3",
+    "bitrate": 48,
+    "votes": 171,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "7302620a-95fb-472f-bff9-42fa3200d43b",
+    "name": "Australian Digital Radio Network - 1970s Pop Charting (MP3)",
+    "url": "http://abm21.com.au:8000/CONTAINER82",
+    "url_resolved": "http://abm21.com.au:8000/CONTAINER82",
+    "homepage": "http://www.australiandigitalradio.com/",
+    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
+    "countrycode": "AU",
+    "state": "Sydney NSW",
+    "language": "english",
+    "tags": "1970s,pop",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 168,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "35f863a6-4cf4-400b-8944-0f33d32ff974",
+    "name": "4BC - Brisbane - 882 AM (MP3)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3",
+    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3",
+    "homepage": "https://www.4bc.com.au/",
+    "favicon": "https://www.4bc.com.au/wp-content/uploads/sites/10/2023/01/4BC.png",
+    "countrycode": "AU",
+    "state": "Brisbane QLD",
+    "language": "english",
+    "tags": "news,talk radio",
+    "codec": "MP3",
+    "bitrate": 96,
+    "votes": 166,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "8d7e4527-3f3b-4f94-974d-10c5cef66ad9",
+    "name": "Totally Radio - 00s (MP3)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01.mp3",
+    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01.mp3",
+    "homepage": "https://totallyradio.com.au/00S/",
+    "favicon": "",
     "countrycode": "AU",
     "state": "",
     "language": "english",
-    "tags": "abc,alternative,indie,public radio",
+    "tags": "00's,00s,2000s",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 166,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "7386f717-eca6-4767-ab26-e65438ca6cdd",
+    "name": "Totally Radio - Rock (AAC)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01AAC.aac",
+    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01AAC.aac",
+    "homepage": "https://totallyradio.com.au/Rock",
+    "favicon": "https://i.ibb.co/X4Wwcn2/Totally-Radio-Rock-qj8jjmigi7f6eerdvuo7e2wtp2otgopbg1unaq3fxc.jpg",
+    "countrycode": "AU",
+    "state": "",
+    "language": "english",
+    "tags": "alternative rock,blues rock,classic rock,hard rock,indie rock,pop rock,progressive rock,punk rock,rock,soft rock",
     "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 172,
-    "clickcount": 5
+    "bitrate": 64,
+    "votes": 166,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "2ad6f6a0-977f-47fa-9a65-dc9016e602e5",
+    "name": "ABC Classic HLS",
+    "url": "https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8",
+    "url_resolved": "https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8",
+    "homepage": "https://www.abc.net.au/classic",
+    "favicon": "https://www.radio.de/images/broadcasts/db/5c/35809/1/c175.png",
+    "countrycode": "AU",
+    "state": "",
+    "language": "english",
+    "tags": "abc,classical,public radio",
+    "codec": "AAC",
+    "bitrate": 252,
+    "votes": 165,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c318d02e-53f1-43a3-84ed-fa6bf0e8c637",
+    "name": "Nova 96.9",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC48.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC48.aac",
+    "homepage": "http://www.nova969.com.au/",
+    "favicon": "http://www.nova969.com.au/assets/nova/icons/favicon/apple-touch-icon.png",
+    "countrycode": "AU",
+    "state": "New South Wales",
+    "language": "",
+    "tags": "hits",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "votes": 161,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "8c936ad3-3571-473c-9e11-fbf03cc9e06b",
+    "name": "hit104.7 Canberra",
+    "url": "https://ais-arn.streamguys1.com/au_005/playlist.m3u8",
+    "url_resolved": "https://ais-arn.streamguys1.com/au_005/playlist.m3u8",
+    "homepage": "https://www.hit.com.au/canberra",
+    "favicon": "https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png",
+    "countrycode": "AU",
+    "state": "",
+    "language": "english",
+    "tags": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "votes": 158,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960b9025-0601-11e8-ae97-52543be04c81",
+    "name": "Three D Radio",
+    "url": "http://sounds.threedradio.com:8000/stream",
+    "url_resolved": "http://sounds.threedradio.com:8000/stream",
+    "homepage": "http://www.threedradio.com/",
+    "favicon": "",
+    "countrycode": "AU",
+    "state": "South Australia",
+    "language": "",
+    "tags": "community radio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 154,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "52691bbc-72f0-4b1c-93f0-2a0fd13d9018",
+    "name": "Sawt Sydney كل الفرق",
+    "url": "https://usa10.fastcast4u.com/nada22",
+    "url_resolved": "https://usa10.fastcast4u.com/nada22",
+    "homepage": "https://sawtsydney.com.au/",
+    "favicon": "https://sawtsydney.com.au/favicon.ico",
+    "countrycode": "AU",
+    "state": "",
+    "language": "arabic",
+    "tags": "mix",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 153,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "b8e1f81d-e4ba-44f5-9f65-1b0e7283f502",
+    "name": "Australian Digital Radio Network - 1970s Pop Number 1s (MP3)",
+    "url": "http://abm21.com.au:8000/CONTAINER81",
+    "url_resolved": "http://abm21.com.au:8000/CONTAINER81",
+    "homepage": "http://www.australiandigitalradio.com/",
+    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
+    "countrycode": "AU",
+    "state": "Sydney NSW",
+    "language": "english",
+    "tags": "1970s,pop",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 151,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "4197ab2a-949d-44d5-a35c-b34877a4eb04",
+    "name": "Totally Radio - 90s (AAC+)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01AAC.aac",
+    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_90S_S01AAC.aac",
+    "homepage": "https://totallyradio.com.au/90S/",
+    "favicon": "https://i.ibb.co/fHLvrDH/90s-2020-om8ty4fydwcwi1curnloa4uesxbuhpi6w8jfavn97k.png",
+    "countrycode": "AU",
+    "state": "",
+    "language": "english",
+    "tags": "1990s,90's,90s",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 148,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "fac4bb27-2064-4a8c-8417-5fa8bd6b72ee",
+    "name": "Australian Digital Radio Network - Foreigner (MP3)",
+    "url": "http://abm22.com.au:8000/CONTAINER102",
+    "url_resolved": "http://abm22.com.au:8000/CONTAINER102",
+    "homepage": "http://www.australiandigitalradio.com/",
+    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
+    "countrycode": "AU",
+    "state": "Sydney NSW",
+    "language": "english",
+    "tags": "foreigner",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 148,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "db10a9b9-1efa-4e5f-a22f-c24666d0b1bf",
+    "name": "Smooth-Relax",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC.aac",
+    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC.aac",
+    "homepage": "https://www.smooth.com.au/relax/",
+    "favicon": "https://www.smooth.com.au/assets/smooth/icons/favicon/apple-touch-icon.png",
+    "countrycode": "AU",
+    "state": "",
+    "language": "australian,english",
+    "tags": "relax,smooth",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "votes": 148,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "936e5af9-1d94-4fe7-8886-4352c757508e",
+    "name": "Australian Digital Radio Network - Led Zeppelin (MP3)",
+    "url": "http://abm21.com.au:8000/CONTAINER147",
+    "url_resolved": "http://abm21.com.au:8000/CONTAINER147",
+    "homepage": "http://www.australiandigitalradio.com/",
+    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
+    "countrycode": "AU",
+    "state": "Sydney NSW",
+    "language": "english",
+    "tags": "led zeppelin",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 146,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f3046015-246d-4175-ad7f-718a0cc8a393",
+    "name": "triple j (NSW)",
+    "url": "https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/master.m3u8",
+    "url_resolved": "https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/master.m3u8",
+    "homepage": "https://triplej.net.au/",
+    "favicon": "https://www.abc.net.au/core-assets/triplej/favicon-32x32.png",
+    "countrycode": "AU",
+    "state": "",
+    "language": "english",
+    "tags": "dance,hip-hop,metal,pop,rock",
+    "codec": "AAC",
+    "bitrate": 252,
+    "votes": 144,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "a44e9b2b-ed6f-4245-862e-bc701da97fdb",
+    "name": "Systrum Sistum - SSR2",
+    "url": "https://systrum.net/SSR2.m3u",
+    "url_resolved": "https://systrum.net:8443/SSR2",
+    "homepage": "https://www.systrum.net/",
+    "favicon": "",
+    "countrycode": "AU",
+    "state": "Queensland",
+    "language": "english",
+    "tags": "electro,electronica,idm,techno",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 143,
+    "clickcount": 1
   }
 ]

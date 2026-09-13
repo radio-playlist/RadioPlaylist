@@ -21,7 +21,7 @@ http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
 https://icecast.walmradio.com:8443/classic
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/secretagent-400.jpg" group-title="US",SomaFM Secret Agent (128k MP3)
-https://ice2.somafm.com/secretagent-128-mp3
+https://ice6.somafm.com/secretagent-128-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="BR",Antena 1 São Paulo, SP (ZYD823 94,7 MHz FM) [aac]
 http://antena1.newradio.it/stream?ext=.mp3
@@ -39,7 +39,7 @@ http://stream.srg-ssr.ch/m/rsj/mp3_128
 http://direct.francemusique.fr/live/francemusique-midfi.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Smooth Jazz
-http://15693.live.streamtheworld.com:3690/977_SMOOJAZZ_SC
+http://14543.live.streamtheworld.com:3690/977_SMOOJAZZ_SC
 
 #EXTINF:-1 tvg-logo="" group-title="MY",Jazz Lounge
 http://eu8.fastcast4u.com:5068/;
@@ -74,17 +74,17 @@ https://jfm1.hostingradio.ru:14536/ijstream.mp3
 #EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Electro Swing
 http://jazz-wr04.ice.infomaniak.ch/jazz-wr04-128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="NL",NPO Radio 2 Soul & Jazz
-http://icecast.omroep.nl/radio6-bb-mp3
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-smooth-jazz_600x600.jpg" group-title="DE",- 0 N - Smooth Jazz on Radio
+https://0n-smoothjazz.radionetz.de/0n-smoothjazz.aac
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a09246_33fe4aef6e5f4f17b605a8d8645ff015%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/a09246_33fe4aef6e5f4f17b605a8d8645ff015%7emv2.png" group-title="JM",Alpha Boys School Radio
 http://alphaboys-live.streamguys1.com/alphaboys.mp3
 
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-smooth-jazz_600x600.jpg" group-title="DE",- 0 N - Smooth Jazz on Radio
-https://0n-smoothjazz.radionetz.de/0n-smoothjazz.aac
-
 #EXTINF:-1 tvg-logo="https://www.vip-radios.fm/favicon.ico" group-title="BR",Smooth Jazz Lounge
 https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge
+
+#EXTINF:-1 tvg-logo="https://icecast.anon.fm/favicon.png" group-title="RU",Anon.FM
+https://icecast.anon.fm/radio
 
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Piano Jazz
 http://jzr-piano.ice.infomaniak.ch/jzr-piano.mp3
@@ -97,9 +97,6 @@ http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="Global",Program 3 (Trójka)
 http://mp3.polskieradio.pl:8904/;.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line Jazz Radio
-http://mediaserv38.live-streams.nl:8006/
 
 #EXTINF:-1 tvg-logo="" group-title="FR",Alternative Radio
 https://www.radioking.com/play/alternative-radio-1
@@ -123,7 +120,7 @@ https://jazz-wr17.ice.infomaniak.ch/jazz-wr17-128.mp3
 http://radio.linn.co.uk:8000/autodj
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/secretagent-400.jpg" group-title="US",SomaFM Secret Agent (32k AAC)
-https://ice5.somafm.com/secretagent-32-aac
+https://ice2.somafm.com/secretagent-32-aac
 
 #EXTINF:-1 tvg-logo="" group-title="US",KCSM Jazz 91.1 FM
 http://ice7.securenetsystems.net/KCSM2
@@ -152,17 +149,17 @@ https://bcast.vigormultimedia.com:48888/sjcompl320mp3
 #EXTINF:-1 tvg-logo="https://studiob.rs/wp-content/uploads/2016/05/favicon-194x194-102x102.png" group-title="RS",Radio Studio B
 http://radio.studiob.rs:8004/
 
-#EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Erotic
-http://79.120.39.202:8000/erotic
-
 #EXTINF:-1 tvg-logo="http://www.radioswissjazz.ch/favicon.ico" group-title="CH",Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/aacp_96
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Adore Jazz Radio
-http://strm112.1.fm/ajazz_mobile_mp3
+#EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Erotic
+http://79.120.39.202:8000/erotic
 
 #EXTINF:-1 tvg-logo="http://www.costadelmar-radio.com/favicon.ico" group-title="Global",Costa del Mar - Smooth Sax
 http://stream.cdm-smoothsax.com:8024/stream-mp3-Smooth
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Adore Jazz Radio
+http://strm112.1.fm/ajazz_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="NL",The Great American Songbook
 http://tgas.dyndns.org:8001/;
@@ -173,14 +170,8 @@ https://streaming.radio.co/s774887f7b/listen
 #EXTINF:-1 tvg-logo="" group-title="FR",France Musique | La Jazz
 http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="AU",ABC Jazz (MP3)
-http://live-radio01.mediahubaustralia.com/JAZW/mp3/
-
 #EXTINF:-1 tvg-logo="https://radiojazzfm.ru/favicons/apple-touch-icon.png" group-title="RU",Радио Джаз 89,1FM
 http://jazz.streamr.ru/jazz-128.mp3
-
-#EXTINF:-1 tvg-logo="https://www.jazzdeville.com/favicon/jazzdeville/apple-touch-icon.png" group-title="NL",Jazz de Ville - Chill
-https://onair22.xdevel.com/proxy/xautocloud_td3e_421?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="NG",MajorFM
 http://stream.zeno.fm/pkza99xshkhvv
@@ -230,9 +221,6 @@ http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-logo="https://assets.jazzgroove.org/logo-circle-white1-no-org.png" group-title="US",The Jazz Groove (West)
 http://west-aac-64.streamthejazzgroove.com/stream
 
-#EXTINF:-1 tvg-logo="" group-title="ET",jazz Ethiopia world
-http://mediaserv38.live-streams.nl:8006/live
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-smooth-jazz_600x600.jpg" group-title="DE",- 0 N - Smooth Jazz on Radio
 https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
 
@@ -253,9 +241,6 @@ http://79.111.119.111:9009/;
 
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Contemporary Jazz
 http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line Radio - Jazz
-http://mediaserv38.live-streams.nl:8006/live
 
 #EXTINF:-1 tvg-logo="" group-title="US",The Jazz Groove
 http://mp3-128.streamthejazzgroove.com/;stream.mp3?_ga=2.244100037.1386788109.1513293582-596706204.1513293582
@@ -301,4 +286,19 @@ https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
 
 #EXTINF:-1 tvg-logo="" group-title="DE",DrGnu - Prog Rock Classics
 http://streams.radiobob.de/progrock/mp3-192/mediaplayer/
+
+#EXTINF:-1 tvg-logo="" group-title="FR",France Musique La Jazz
+http://icecast.radiofrance.fr/francemusiquelajazz-hifi.aac
+
+#EXTINF:-1 tvg-logo="" group-title="CO",Radio Bolivariana FM (HJA94, 92.4 MHz FM, Medellín) Universidad Pontificia Bolivariana
+http://streaming.radiobolivarianavirtual.com:7630/
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/sonicuniverse-400.jpg" group-title="US",SomaFM Sonic Universe (128k AAC)
+https://ice5.somafm.com/sonicuniverse-128-aac
+
+#EXTINF:-1 tvg-logo="" group-title="FR",Jazz Radio Groove
+http://jazz-wr08.ice.infomaniak.ch/jazz-wr08-128.mp3
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Vocal Jazz
+https://listen.181fm.com/181-vocals_128k.mp3
 

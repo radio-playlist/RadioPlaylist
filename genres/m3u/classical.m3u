@@ -116,11 +116,11 @@ https://icy.unitedradio.it/um2908.mp3
 #EXTINF:-1 tvg-logo="" group-title="SY",قديم FM
 http://usa6.fastcast4u.com:5109/live
 
-#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio Classica Filodiffusione
-http://icestreaming.rai.it/5.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="IQ",. Al quran radio
 https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio Classica Filodiffusione
+http://icestreaming.rai.it/5.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="TN",radio coran
 http://n0b.radiojar.com/0tpy1h0kxtzuv?
@@ -128,14 +128,11 @@ http://n0b.radiojar.com/0tpy1h0kxtzuv?
 #EXTINF:-1 tvg-logo="" group-title="TN",إذاعة القرآن الكريم
 http://stream.radiojar.com/0tpy1h0kxtzuv
 
-#EXTINF:-1 tvg-logo="" group-title="GE",Radio Amra
-https://streamer.radio.co/s34b5469e0/listen
-
 #EXTINF:-1 tvg-logo="https://media2.fishtank.my/app_themes/melody/ico/apple-icon-120x120.png" group-title="MY",Melody FM Malaysia
 https://n09.rcs.revma.com/2u1n6dtbv4uvv/9_11l86ncot7z1w02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="DZ",. إذاعة ماهر المعيقلي
-https://backup.qurango.net/radio/maher
+#EXTINF:-1 tvg-logo="" group-title="GE",Radio Amra
+https://streamer.radio.co/s34b5469e0/listen
 
 #EXTINF:-1 tvg-logo="" group-title="NL",Concertzender Baroque
 http://streams.greenhost.nl:8080/barok
@@ -230,11 +227,11 @@ http://stream.radiojar.com/0tpy1h0kxtzuv
 #EXTINF:-1 tvg-logo="" group-title="MA",اذاعة القرآن الكريم
 http://stream.radiojar.com/0tpy1h0kxtzuv
 
-#EXTINF:-1 tvg-logo="" group-title="RO",Radio România Muzical
-http://stream2.srr.ro:8026/
-
 #EXTINF:-1 tvg-logo="" group-title="DZ",.القارئ محمد أيوب
 https://qurango.net/radio/mohammed_ayyub
+
+#EXTINF:-1 tvg-logo="" group-title="RO",Radio România Muzical
+http://stream2.srr.ro:8026/
 
 #EXTINF:-1 tvg-logo="" group-title="HU",Klasszik Rádió 92.1
 https://radio.musorok.org/listen/klasszik/radio.mp3
@@ -251,20 +248,20 @@ https://qurango.net/radio/salma
 #EXTINF:-1 tvg-logo="" group-title="MA",.. مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
 
-#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/cro3.png" group-title="CZ",ČRo Vltava
-http://icecast5.play.cz/cro3-128.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="DZ",al quran radio
 https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+
+#EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/cro3.png" group-title="CZ",ČRo Vltava
+http://icecast5.play.cz/cro3-128.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Klara_Logo_Black_Screen.jpg/150px-Klara_Logo_Black_Screen.jpg" group-title="BE",Klara
 http://icecast.vrtcdn.be/klara-high.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="RO",Radio România Muzical
-http://stream2.srr.ro:8022/
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="GB",BBC Radio 3 (128k)
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="RO",Radio România Muzical
+http://stream2.srr.ro:8022/
 
 #EXTINF:-1 tvg-logo="" group-title="LY",تفسير بن عثيمين
 https://qurango.net/radio/tafseer
@@ -281,14 +278,14 @@ http://streams.greenhost.nl:8080/oudemuziek
 #EXTINF:-1 tvg-logo="https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png" group-title="TR",Alem Fm
 https://turkmedya.radyotvonline.net/alemfmaac
 
+#EXTINF:-1 tvg-logo="" group-title="SA",. مختصر السيرة
+https://qurango.net/radio/almukhtasar_fi_alsiyra
+
 #EXTINF:-1 tvg-logo="" group-title="RU",ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]
 http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="AF",Al jazeera
 http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SA",. مختصر السيرة
-https://qurango.net/radio/almukhtasar_fi_alsiyra
 
 #EXTINF:-1 tvg-logo="" group-title="IQ",radio maria iraq
 http://dreamsiteradiocp4.com:8046/stream
@@ -301,4 +298,7 @@ https://qurango.net/radio/sahabah
 
 #EXTINF:-1 tvg-logo="" group-title="SK",SRo3: Rádio Devín
 http://icecast.stv.livebox.sk/devin_128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="DE",EPIC CLASSICAL - Classical Music For Sleep
+https://stream.epic-classical.com/classical-music-for-sleep
 

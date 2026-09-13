@@ -116,11 +116,11 @@ http://strm112.1.fm/trance_mobile_mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Love Classics Radio
 http://strm112.1.fm/loveclassics_mobile_mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",Radio Swiss Jazz
-http://stream.srg-ssr.ch/srgssr/rsj/aac/96
-
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="CH",1.FM - Absolute Pop Latino Radio
 http://strm112.1.fm/latino_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CH",Radio Swiss Jazz
+http://stream.srg-ssr.ch/srgssr/rsj/aac/96
 
 #EXTINF:-1 tvg-logo="https://www.80sforever.radio/favicon.ico" group-title="CH",80s Forever - We Keep The 80s Alive
 https://premium.shoutcastsolutions.com/radio/8050/256.mp3
@@ -251,41 +251,41 @@ http://strm112.1.fm/costadelmarchillout_mobile_mp3
 #EXTINF:-1 tvg-logo="http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",SRF Musikwelle
 http://stream.srg-ssr.ch/srgssr/srfmw/mp3/128
 
-#EXTINF:-1 tvg-logo="" group-title="CH",Radio Zürisee
-http://mp3.radio.ch/radiozuerisee128k
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Jmvwqen.jpg" group-title="CH",1.FM - Classic Rock Replay Radio
 http://strm112.1.fm/crock_mobile_mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",ip music 320
-http://live7.avf.ch:8000/ipmusic320
+#EXTINF:-1 tvg-logo="" group-title="CH",Radio Zürisee
+http://mp3.radio.ch/radiozuerisee128k
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Afterbeat Electronica Radio
 http://strm112.1.fm/electronica_mobile_mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - All Euro 80's Radio
-http://strm112.1.fm/80s_90s_mobile_mp3
+#EXTINF:-1 tvg-logo="" group-title="CH",ip music 320
+http://live7.avf.ch:8000/ipmusic320
 
 #EXTINF:-1 tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",Radio SRF 3
 https://stream.srg-ssr.ch/m/drs3/aacp_32
 
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - All Euro 80's Radio
+http://strm112.1.fm/80s_90s_mobile_mp3
+
 #EXTINF:-1 tvg-logo="" group-title="CH",Spoon Radio - Classic Rock
 https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac
-
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Top Fiesta Radio
-http://strm112.1.fm/spanishparty_mobile_mp3
 
 #EXTINF:-1 tvg-logo="http://www.rhonefm.ch/favicon/4/120x120.png" group-title="CH",Rhône FM
 http://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3
 
-#EXTINF:-1 tvg-logo="https://lounge-radio.com/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="CH",Lounge Radio
-http://de1.streamhosting.ch/
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Top Fiesta Radio
+http://strm112.1.fm/spanishparty_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CH",Spoon Radio - Rock Ballads
+https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Adult Urban Hits Choice Radio
 http://strm112.1.fm/oldschool_mobile_mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",Spoon Radio - Rock Ballads
-https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
+#EXTINF:-1 tvg-logo="https://lounge-radio.com/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="CH",Lounge Radio
+http://de1.streamhosting.ch/
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Electro Radio
 http://stream.radiojar.com/fkyxx4q35k0uv
@@ -299,6 +299,6 @@ http://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3
 #EXTINF:-1 tvg-logo="http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",Radio Suisse Classique
 https://stream.srg-ssr.ch/m/rsc_fr/mp3_128
 
-#EXTINF:-1 tvg-logo="https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png" group-title="CH",RSR La Premiere
-http://stream.srg-ssr.ch/srgssr/la-1ere/aac/96
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Chillout Lounge Radio
+http://strm112.1.fm/chilloutlounge_mobile_mp3
 

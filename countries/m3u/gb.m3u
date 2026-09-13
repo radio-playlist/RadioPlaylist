@@ -96,7 +96,7 @@ http://64.95.243.43:8002/stream
 http://stream.techno.fm/radio.mp3
 
 #EXTINF:-1 tvg-logo="http://www.1mix.co.uk/favicon.ico" group-title="GB",1Mix Radio Trance
-http://fr1.1mix.co.uk:8060/192
+http://fr2.1mix.co.uk:8060/192
 
 #EXTINF:-1 tvg-logo="http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="GB",LBC London (London stream) MP3
 http://media-ice.musicradio.com/LBCLondonMP3Low
@@ -125,11 +125,11 @@ https://radio.talksport.com/stream
 #EXTINF:-1 tvg-logo="" group-title="GB",Classic FM at the Movies
 http://media-sov.musicradio.com/ClassicFM-M-Movies
 
-#EXTINF:-1 tvg-logo="" group-title="GB",GBNews
-http://listen-gbnews.sharp-stream.com/gbnews.mp3
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24943q.png" group-title="GB",BBC Radio 5 Live (128k)
 http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="GB",GBNews
+http://listen-gbnews.sharp-stream.com/gbnews.mp3
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24940q.png" group-title="GB",BBC Radio 2 (128k)
 http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8
@@ -170,11 +170,11 @@ https://icecast.thisisdax.com/CapitalDanceMP3
 #EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/FOKCcOpam5-0m4VfrxvfzMdDK6I=/10x0:610x400/1400x1400/filters:focal(10x0:610x400):format(jpeg)/cdn.vox-cdn.com/assets/958975/bbc_world_service.jpeg" group-title="GB",BBC World Service
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
 
-#EXTINF:-1 tvg-logo="" group-title="GB",Virgin Radio Chilled
-https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web
-
 #EXTINF:-1 tvg-logo="" group-title="GB",Hard Rock Hell
 http://andromeda.shoutca.st:9254/stream
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Virgin Radio Chilled
+https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web
 
 #EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="GB",Naim Jazz [320k aac]
 http://mscp3.live-streams.nl:8340/jazz-high.aac
@@ -194,14 +194,14 @@ https://seva.ru/radio/stream
 #EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="GB",BBC World Service
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png" group-title="GB",Radio X London (MP3)
-http://media-the.musicradio.com/RadioXLondonMP3
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="GB",BBC Radio 3 (128k)
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6839q.png" group-title="GB",BBC Radio 4 Extra (128k)
 http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png" group-title="GB",Radio X London (MP3)
+http://media-the.musicradio.com/RadioXLondonMP3
 
 #EXTINF:-1 tvg-logo="https://android2.blob.core.windows.net/castmyurl/WeymouthRocks400.png" group-title="GB",Weymouth Rocks (Medium Bitrate)
 http://cast1.asurahosting.com:8621/med
@@ -269,11 +269,11 @@ https://bsj.lucasmultimedia.com:8002/stream.ogg
 #EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="GB",Naim Classical
 http://mscp3.live-streams.nl:8250/class-high.aac
 
-#EXTINF:-1 tvg-logo="http://www.nts.live/apple-touch-icon.png?v=47re43rrzb" group-title="GB",NTS Radio 2
-http://stream-relay-geo.ntslive.net/stream2
-
 #EXTINF:-1 tvg-logo="https://www.1mix.co.uk/favicon.ico" group-title="GB",1Mix Radio - Trance (UK) 320kb mp3
 http://fr2.1mix.co.uk:9000/320b
+
+#EXTINF:-1 tvg-logo="http://www.nts.live/apple-touch-icon.png?v=47re43rrzb" group-title="GB",NTS Radio 2
+http://stream-relay-geo.ntslive.net/stream2
 
 #EXTINF:-1 tvg-logo="https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg" group-title="GB",BritCom 2 - Pumpkin FM
 https://cast2.asurahosting.com/proxy/britcom2/stream

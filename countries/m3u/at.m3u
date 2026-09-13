@@ -69,7 +69,7 @@ http://radio886.at/streams/88.6_Classic_Rock/mp3
 https://orf-live.ors-shoutcast.at/vbg-q1a
 
 #EXTINF:-1 tvg-logo="" group-title="AT",Rock Antenne Österreich
-http://s3-webradio.webradio.de/rockantenne-oesterreich
+http://s1-webradio.webradio.de/rockantenne-oesterreich
 
 #EXTINF:-1 tvg-logo="http://jazz.w3.at/logo.png" group-title="AT",JazzW3
 http://jazz.w3.at:8000/w3jazz.mp3
@@ -177,16 +177,16 @@ http://streams.norawebstreams.de/oldieparty/mp3-192/vtuner/
 http://live.gruen-weiss.at/rgw.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="AT",1000-ELECTRONIC-DANCE-MUSIC
-http://1000-electronic-dance-music.stream.laut.fm/1000-electronic-dance-music?pl=m3u&t302=2026-09-01_04-04-16&uuid=aa54e120-0505-4420-9320-f57ff220cc5f
+http://1000-electronic-dance-music.stream.laut.fm/1000-electronic-dance-music?pl=m3u&t302=2026-09-11_05-11-02&uuid=0af2bcb6-1444-4da7-969e-b3ac748e6f42
 
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/favicon.ico" group-title="AT",Antenne Vorarlberg 80s Hits
 http://web.radio.antennevorarlberg.at/av-80er?aggregator=surfmusik
 
-#EXTINF:-1 tvg-logo="" group-title="AT",Freies Radio Österreich
-http://www.fro.at:8008/fro64.mp3
-
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png" group-title="AT",Antenne Vorarlberg Dance Radio
 https://web.radio.antennevorarlberg.at/av-dance
+
+#EXTINF:-1 tvg-logo="" group-title="AT",Freies Radio Österreich
+http://www.fro.at:8008/fro64.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="AT",Radio Harmonie
 http://host6.cartwall.at:9630/
@@ -224,11 +224,11 @@ http://www.fro.at:8008/fro-128.ogg
 #EXTINF:-1 tvg-logo="https://www.gruen-weiss.at/favicon.ico" group-title="AT",Radio Grün Weiß - HQ
 http://live.gruen-weiss.at/rgw.aac
 
-#EXTINF:-1 tvg-logo="https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png" group-title="AT",Arabella Tiamo
-https://frontend.streams.arabella.at/arabella-tiamo/stream/mp3?aggregator=arabella-playlistfile
-
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png" group-title="AT",Antenne Vorarlberg 90s Hits
 https://web.radio.antennevorarlberg.at/av-90er
+
+#EXTINF:-1 tvg-logo="https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png" group-title="AT",Arabella Tiamo
+https://frontend.streams.arabella.at/arabella-tiamo/stream/mp3?aggregator=arabella-playlistfile
 
 #EXTINF:-1 tvg-logo="" group-title="AT",Antenne Austro Hits
 https://live.antenne.at/auh
@@ -240,7 +240,7 @@ https://frontend.streams.arabella.at/arabella-90er?aggregator=arabella-playlistf
 http://darksynthradio.stream.laut.fm/darksynthradio?t302=2023-11-20_08-30-31&uuid=c4e07d87-378c-4318-bb0a-00c0fd1be5aa
 
 #EXTINF:-1 tvg-logo="https://antenneoesterreich.oe24.at/apple-touch-icon.png" group-title="AT",Antenna Österreich
-https://edge12.streamonkey.net/antoesterreich-live
+https://edge65.streamonkey.net/antoesterreich-live
 
 #EXTINF:-1 tvg-logo="" group-title="AT",KroneHit Radio
 http://onair-ha1.krone.at/kronehit.aac
@@ -248,11 +248,11 @@ http://onair-ha1.krone.at/kronehit.aac
 #EXTINF:-1 tvg-logo="" group-title="AT",NJoy Radio 88.2 Steiermark
 http://live.njoyradio.at/njoy
 
-#EXTINF:-1 tvg-logo="https://orfodon.org/system/accounts/avatars/111/374/623/444/743/699/original/3022673107e835ba.png" group-title="AT",Radio Vorarlberg HQ
-https://orf-live.ors-shoutcast.at/vbg-q2a
-
 #EXTINF:-1 tvg-logo="https://radio.gamesboro.org/static/uploads/browser_icon/original.1693066595.png" group-title="AT",Gamesboro Radio - Video Game Music 24/7
 https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://orfodon.org/system/accounts/avatars/111/374/623/444/743/699/original/3022673107e835ba.png" group-title="AT",Radio Vorarlberg HQ
+https://orf-live.ors-shoutcast.at/vbg-q2a
 
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/favicon.ico" group-title="AT",Antenne Vorarlberg Chillout Lounge
 https://web.radio.antennevorarlberg.at/av-chillout
@@ -269,11 +269,11 @@ https://orf-live.ors-shoutcast.at/sbg-q2a
 #EXTINF:-1 tvg-logo="https://orfodon.org/system/accounts/avatars/111/374/434/334/698/982/original/aad9486c4d8e92f2.png" group-title="AT",ORF Radio Niederösterreich
 https://orf-live.ors-shoutcast.at/noe-q1a
 
-#EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png" group-title="AT",Antenne Vorarlberg Musica Italiana
-https://web.radio.antennevorarlberg.at/av-italiana
-
 #EXTINF:-1 tvg-logo="" group-title="AT",Antenne Vorarlberg Chillout Lounge
 https://web.radio.antennevorarlberg.at/av-chillout
+
+#EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png" group-title="AT",Antenne Vorarlberg Musica Italiana
+https://web.radio.antennevorarlberg.at/av-italiana
 
 #EXTINF:-1 tvg-logo="https://www.antennevorarlberg.at/static/base/img/apple-touch-icon.168e05c8048c.png" group-title="AT",Antenne Vorarlberg Schlagerkult
 https://web.radio.antennevorarlberg.at/av-schlagerkult

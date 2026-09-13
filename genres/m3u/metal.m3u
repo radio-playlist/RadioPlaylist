@@ -71,11 +71,11 @@ http://bigrradio-edge1.cdnstream.com/5146_128
 #EXTINF:-1 tvg-logo="" group-title="US",HardRadio [MP3]
 http://144.217.29.205/
 
-#EXTINF:-1 tvg-logo="" group-title="DE",Epic Rock Radio
-https://securestreams6.autopo.st:2222/stream
-
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/62bb1e3ff5da69e05bc6e121" group-title="US",Nu Metal Radio
 http://stream.revma.ihrhls.com/zc9483/hls.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DE",Epic Rock Radio
+https://securestreams6.autopo.st:2222/stream
 
 #EXTINF:-1 tvg-logo="" group-title="DE",RADIO BOB! BOBs Gothic Rock
 http://streams.radiobob.de/gothic/mp3-192/streams.radiobob.de/
@@ -105,7 +105,7 @@ http://rockerradio.online/live.mp3
 http://79.120.77.11:8000/progmetal
 
 #EXTINF:-1 tvg-logo="http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM - MetalFM
-http://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6n9683q6%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1788249046
+http://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6nn3q021%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1789120545
 
 #EXTINF:-1 tvg-logo="" group-title="RU",CORE Radio!
 http://194.58.97.117:8000/coreradio
@@ -122,11 +122,11 @@ https://s44.myradiostream.com/6588/;?type=http&nocache=1571393528?0.959212781668
 #EXTINF:-1 tvg-logo="" group-title="DE",DrGnu - Prog Rock Classics
 http://streams.radiobob.de/progrock/mp3-192/mediaplayer/
 
-#EXTINF:-1 tvg-logo="" group-title="DE",DrGnu - Metallica
-http://streams.radiobob.de/metallica/mp3-192/mediaplayer/
-
 #EXTINF:-1 tvg-logo="http://www.my-radios.com/favicon.ico" group-title="US",ROCK FM Classic Rock
 https://audiotainment-sw.streamabc.net/atsw-classicrock-mp3-128-2538548?
+
+#EXTINF:-1 tvg-logo="" group-title="DE",DrGnu - Metallica
+http://streams.radiobob.de/metallica/mp3-192/mediaplayer/
 
 #EXTINF:-1 tvg-logo="" group-title="SE",Bandit Metal
 http://wr03-ice.stream.khz.se/wr03_mp3
@@ -198,7 +198,7 @@ https://rockfolk.ice.infomaniak.ch/rockfolk.mp3
 https://stream2.rockfm.lt/crf128.mp3
 
 #EXTINF:-1 tvg-logo="http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM - MetalFM
-http://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871?sABC=6n9p19ss%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1788615167
+http://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871?sABC=6nn2o296%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1789047446
 
 #EXTINF:-1 tvg-logo="https://www.metal-only.de/fileadmin/tpl//fav.ico" group-title="DE",METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!
 https://metal-only.sp.radio.fm/stream
@@ -222,7 +222,7 @@ http://79.111.119.111:8000/melodicpower
 http://79.120.77.11:8002/progmetal
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Punk4all
-http://punk4all.stream.laut.fm/punk4all?pl=m3u&t302=2026-09-01_06-50-26&uuid=35aa091b-f3d0-4805-bbf8-7d66380bcfb7
+http://punk4all.stream.laut.fm/punk4all?pl=m3u&t302=2026-09-11_14-38-32&uuid=d9ab8ad4-855b-48f9-8bd6-707524cc3aef
 
 #EXTINF:-1 tvg-logo="" group-title="US",HardRadio [AAC+]
 http://3634.cloudrad.io/stream/3//hardradio4.aac
@@ -242,23 +242,23 @@ http://79.111.14.76:8000/numetal
 #EXTINF:-1 tvg-logo="http://www.irock247.com/favicon.ico" group-title="CA",irock24/7
 https://streamer.radio.co/s493283a7e/listen
 
-#EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio METAL
-https://stream.0nlineradio.com/metal?ref=radiobrowser
-
 #EXTINF:-1 tvg-logo="" group-title="FR",Radio Metal
 https://radio3.pro-fhi.net/live/Radio%20Metal
 
-#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__12PUNKS.FM__ by rautemusik (rm.fm)
-https://12punks-high.rautemusik.fm/?ref=radiobrowser
+#EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio METAL
+https://stream.0nlineradio.com/metal?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="" group-title="Global",Radio ProRock
 http://91.232.4.33:9073/stream
 
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Folk Metal
-http://79.120.39.202:8000/folkmetal
+#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__12PUNKS.FM__ by rautemusik (rm.fm)
+https://12punks-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="RS",UnderGRAND Radio
 http://stream.zeno.fm/rp1swb5pgzzuv
+
+#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Folk Metal
+http://79.120.39.202:8000/folkmetal
 
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-rock_600x600.jpg" group-title="DE",- 1 A - Rock von 1A Radio
 https://1a-rock.radionetz.de/1a-rock.mp3
