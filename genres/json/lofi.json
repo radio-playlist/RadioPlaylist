@@ -14,8 +14,8 @@
     "tags": "info,lofi,radio france",
     "codec": "MP3",
     "bitrate": 32,
-    "votes": 4878,
-    "clickcount": 18
+    "votes": 4897,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "chillout,lofi",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1254,
-    "clickcount": 60
+    "votes": 1262,
+    "clickcount": 58
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "aesthetic,chillwave,futurefunk,lofi,vaporwave",
     "codec": "OGG",
     "bitrate": 64,
-    "votes": 1027,
-    "clickcount": 6
+    "votes": 1028,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "chillout,lofi,lofi beats,lofi hip hop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 613,
-    "clickcount": 6
+    "votes": 614,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "chill,lofi",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 415,
-    "clickcount": 1
+    "votes": 416,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -105,7 +105,7 @@
     "codec": "AAC",
     "bitrate": 128,
     "votes": 293,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -122,8 +122,26 @@
     "tags": "bollywood,hindi,indian,kollywood,lo-fi,lofi,malayalam,mollywood,tamil",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 188,
-    "clickcount": 21
+    "votes": 189,
+    "clickcount": 37
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "49902d2d-672d-4130-b42a-90592d0460c5",
+    "name": "0R - LO-FI || LoFi, Chill, Study, Hip Hop, Relax, Background, Calm, Instrumental, Smooth, Beats, Coffee, Work, Focus, Soft, Chillhop",
+    "url": "https://0nlineradio.radioho.st/0r-lo-fi?ref=radio-browser26",
+    "url_resolved": "https://0nlineradio.radioho.st/0r-lo-fi?ref=radio-browser26",
+    "homepage": "https://plus.rm.fm/",
+    "favicon": "https://i.ibb.co/v6hT16qV/LOFI.png",
+    "countrycode": "DE",
+    "state": "Berlin",
+    "language": "german",
+    "tags": "calm,chill,easy listening,easy music,learn,lo-fi,lofi,lofi hip hop,lofi study beats,smooth,student",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 134,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -141,25 +159,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 130,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "49902d2d-672d-4130-b42a-90592d0460c5",
-    "name": "0R - LO-FI || LoFi, Chill, Study, Hip Hop, Relax, Background, Calm, Instrumental, Smooth, Beats, Coffee, Work, Focus, Soft, Chillhop",
-    "url": "https://0nlineradio.radioho.st/0r-lo-fi?ref=radio-browser26",
-    "url_resolved": "https://0nlineradio.radioho.st/0r-lo-fi?ref=radio-browser26",
-    "homepage": "https://plus.rm.fm/",
-    "favicon": "https://i.ibb.co/v6hT16qV/LOFI.png",
-    "countrycode": "DE",
-    "state": "Berlin",
-    "language": "german",
-    "tags": "calm,chill,easy listening,easy music,learn,lo-fi,lofi,lofi hip hop,lofi study beats,smooth,student",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 129,
-    "clickcount": 25
+    "clickcount": 3
   },
   {
     "id": null,
@@ -177,7 +177,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 103,
-    "clickcount": 1
+    "clickcount": 3
   },
   {
     "id": null,
@@ -194,8 +194,8 @@
     "tags": "chill,chillout,electronic,house,intelligent drum and bass,intelligent drum&bass,liquid,liquid drum and bas,liquid funk,lofi,phonk,relax",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 83,
-    "clickcount": 12
+    "votes": 86,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -213,7 +213,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 82,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -231,7 +231,7 @@
     "codec": "AAC",
     "bitrate": 63,
     "votes": 79,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -249,7 +249,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 66,
-    "clickcount": 6
+    "clickcount": 5
   },
   {
     "id": null,
@@ -267,7 +267,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 53,
-    "clickcount": 0
+    "clickcount": 3
   },
   {
     "id": null,
@@ -285,7 +285,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 50,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -303,7 +303,7 @@
     "codec": "OGG",
     "bitrate": 64,
     "votes": 46,
-    "clickcount": 3
+    "clickcount": 13
   },
   {
     "id": null,
@@ -320,8 +320,8 @@
     "tags": "lo-fi,lofi",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 41,
-    "clickcount": 7
+    "votes": 42,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -339,7 +339,7 @@
     "codec": "OGG",
     "bitrate": 128,
     "votes": 41,
-    "clickcount": 6
+    "clickcount": 4
   },
   {
     "id": null,
@@ -356,7 +356,7 @@
     "tags": "jazz,lofi,radio,sigthwave,vaporwave",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 39,
+    "votes": 40,
     "clickcount": 1
   },
   {
@@ -375,7 +375,25 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 37,
-    "clickcount": 0
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "2df8d43a-3950-4596-b854-cd8aa1c2c236",
+    "name": "neverland",
+    "url": "https://stream-166.zeno.fm/oaqigxpfjzqvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvYXFpZ3hwZmp6cXZ2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjFnRWVwSWpIUXJXVElZSU1pLVlrenciLCJpYXQiOjE3NDgxMzU4OTUsImV4cCI6MTc0ODEzNTk1NX0.b4Llu6iAJk1NPa2U9OhIjm_3CZQyLuRJZWiNecQWBdY",
+    "url_resolved": "https://stream-166.zeno.fm/oaqigxpfjzqvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvYXFpZ3hwZmp6cXZ2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjFnRWVwSWpIUXJXVElZSU1pLVlrenciLCJpYXQiOjE3NDgxMzU4OTUsImV4cCI6MTc0ODEzNTk1NX0.b4Llu6iAJk1NPa2U9OhIjm_3CZQyLuRJZWiNecQWBdY",
+    "homepage": "https://www.facebook.com/NeverlandFandub/",
+    "favicon": "https://discord.do/wp-content/uploads/2023/08/Neverland-Fandub.jpg",
+    "countrycode": "AR",
+    "state": "",
+    "language": "#spanish,español argentina,japanese,japones",
+    "tags": "anime,anime radio,jazz,lofi",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 33,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -393,25 +411,7 @@
     "codec": "AAC",
     "bitrate": 0,
     "votes": 33,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "2df8d43a-3950-4596-b854-cd8aa1c2c236",
-    "name": "neverland",
-    "url": "https://stream-166.zeno.fm/oaqigxpfjzqvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvYXFpZ3hwZmp6cXZ2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjFnRWVwSWpIUXJXVElZSU1pLVlrenciLCJpYXQiOjE3NDgxMzU4OTUsImV4cCI6MTc0ODEzNTk1NX0.b4Llu6iAJk1NPa2U9OhIjm_3CZQyLuRJZWiNecQWBdY",
-    "url_resolved": "https://stream-166.zeno.fm/oaqigxpfjzqvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvYXFpZ3hwZmp6cXZ2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjFnRWVwSWpIUXJXVElZSU1pLVlrenciLCJpYXQiOjE3NDgxMzU4OTUsImV4cCI6MTc0ODEzNTk1NX0.b4Llu6iAJk1NPa2U9OhIjm_3CZQyLuRJZWiNecQWBdY",
-    "homepage": "https://www.facebook.com/NeverlandFandub/",
-    "favicon": "https://discord.do/wp-content/uploads/2023/08/Neverland-Fandub.jpg",
-    "countrycode": "AR",
-    "state": "",
-    "language": "#spanish,español argentina,japanese,japones",
-    "tags": "anime,anime radio,jazz,lofi",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 32,
-    "clickcount": 16
+    "clickcount": 8
   },
   {
     "id": null,
@@ -428,8 +428,8 @@
     "tags": "lo-fi,lofi,lofi beats",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 28,
-    "clickcount": 5
+    "votes": 30,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -446,7 +446,7 @@
     "tags": "ambient,dance pop,indie pop,k-pop,lofi,pop",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 24,
+    "votes": 26,
     "clickcount": 13
   },
   {
@@ -465,7 +465,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 15,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -482,8 +482,8 @@
     "tags": "16-bit,8-bit,background music,chiptune,jrpg,lofi,pixel music,relaxing,retro game music,video game music",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 13,
-    "clickcount": 3
+    "votes": 14,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -500,8 +500,26 @@
     "tags": "ai,ambient,chill,instrumental,japanese,koto,lofi,piano,rain,study",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 9,
-    "clickcount": 5
+    "votes": 10,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "658d23e7-8a2e-4221-a8f0-cb4b7e406b8f",
+    "name": "Hotmix Lo-Fi",
+    "url": "https://streaming.hotmixradio.com/hotmix-lofi-en-mp3?provider=radiobrowser",
+    "url_resolved": "https://streaming.hotmixradio.com/hotmix-lofi-en-mp3?provider=radiobrowser",
+    "homepage": "https://hotmixradio.com/",
+    "favicon": "https://cdn.hotmixradio.com/hotmix-lo-fi-en-mp3.jpg",
+    "countrycode": "FR",
+    "state": "",
+    "language": "",
+    "tags": "lofi,lofi beats,lofi hip hop,lofi study beats",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 7,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -518,8 +536,26 @@
     "tags": "lofi,lofi hip hop",
     "codec": "MP3",
     "bitrate": 128,
+    "votes": 6,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f4722411-69a1-413d-9922-5017d5aef925",
+    "name": "Special-Radio",
+    "url": "https://stream.laut.fm/special-radio",
+    "url_resolved": "https://special-radio.stream.laut.fm/special-radio?t302=2026-09-16_18-39-10&uuid=fd042711-a888-a6dd-e7fa-a2e8458cc7e4",
+    "homepage": "https://www.anmacha.de/special-radio",
+    "favicon": "https://assets.laut.fm/a32f99500d9bc3864c7b619152c8e6e9?t=_120x120",
+    "countrycode": "DE",
+    "state": "Thuringia",
+    "language": "english,german",
+    "tags": "alternative,café,café lounge,chill-out,chillout,classic,easy listening,entspannung,filmmusik,focustime,home office,indie,jazz,jazzbar,klassik,lo-fi,lofi,lounge,love,lovemusic,lovesongs,meditation,movie,movies,night,nightbar,orchestral,relax,series,smooth,smooth jazz,soundtracks",
+    "codec": "MP3",
+    "bitrate": 128,
     "votes": 5,
-    "clickcount": 4
+    "clickcount": 1
   },
   {
     "id": null,
@@ -537,43 +573,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 4,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "658d23e7-8a2e-4221-a8f0-cb4b7e406b8f",
-    "name": "Hotmix Lo-Fi",
-    "url": "https://streaming.hotmixradio.com/hotmix-lofi-en-mp3?provider=radiobrowser",
-    "url_resolved": "https://streaming.hotmixradio.com/hotmix-lofi-en-mp3?provider=radiobrowser",
-    "homepage": "https://hotmixradio.com/",
-    "favicon": "https://cdn.hotmixradio.com/hotmix-lo-fi-en-mp3.jpg",
-    "countrycode": "FR",
-    "state": "",
-    "language": "",
-    "tags": "lofi,lofi beats,lofi hip hop,lofi study beats",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f4722411-69a1-413d-9922-5017d5aef925",
-    "name": "Special-Radio",
-    "url": "https://stream.laut.fm/special-radio",
-    "url_resolved": "https://special-radio.stream.laut.fm/special-radio?t302=2026-09-11_13-55-08&uuid=2b7ad1f3-0508-4c64-95fb-b62f079f8ce3",
-    "homepage": "https://www.anmacha.de/special-radio",
-    "favicon": "https://assets.laut.fm/a32f99500d9bc3864c7b619152c8e6e9?t=_120x120",
-    "countrycode": "DE",
-    "state": "Thuringia",
-    "language": "english,german",
-    "tags": "alternative,café,café lounge,chill-out,chillout,classic,easy listening,entspannung,filmmusik,focustime,home office,indie,jazz,jazzbar,klassik,lo-fi,lofi,lounge,love,lovemusic,lovesongs,meditation,movie,movies,night,nightbar,orchestral,relax,series,smooth,smooth jazz,soundtracks",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4,
-    "clickcount": 1
+    "clickcount": 6
   },
   {
     "id": null,
@@ -591,7 +591,7 @@
     "codec": "AAC",
     "bitrate": 64,
     "votes": 3,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -609,7 +609,7 @@
     "codec": "MP3",
     "bitrate": 256,
     "votes": 3,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -627,7 +627,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 2,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -635,7 +635,7 @@
     "stationuuid": "11d36148-d486-47a7-8440-4f0dd731c944",
     "name": "Zocker-FM",
     "url": "https://stream.laut.fm/zockerfm",
-    "url_resolved": "https://zockerfm.stream.laut.fm/zockerfm?t302=2026-09-11_13-05-00&uuid=5d2d4aa7-2d64-4599-a3ca-2068152a4394",
+    "url_resolved": "https://zockerfm.stream.laut.fm/zockerfm?t302=2026-09-16_18-48-09&uuid=ce3e932d-36b5-2b65-1258-87a40b430c3d",
     "homepage": "https://www.anmacha.de/zocker-fm",
     "favicon": "https://assets.laut.fm/9721c8d3b2da107f0341ce2e5c01bc9a?t=_120x120",
     "countrycode": "DE",
@@ -645,7 +645,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -663,7 +663,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -681,7 +681,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -699,7 +699,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -717,7 +717,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 1,
-    "clickcount": 6
+    "clickcount": 0
   },
   {
     "id": null,
@@ -736,6 +736,24 @@
     "bitrate": 192,
     "votes": 1,
     "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f44adcbb-a3bc-4f20-baff-9530c8ac3651",
+    "name": "Il Camillofono",
+    "url": "https://radio.celodex.com/stream/camillofono.mp3",
+    "url_resolved": "https://radio.celodex.com/stream/camillofono.mp3",
+    "homepage": "https://radio.celodex.com/",
+    "favicon": "",
+    "countrycode": "IT",
+    "state": "",
+    "language": "italian",
+    "tags": "ambient,chill,lofi,relax",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -771,7 +789,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 1,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -789,7 +807,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1,
-    "clickcount": 1
+    "clickcount": 3
   },
   {
     "id": null,
@@ -807,7 +825,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 0,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -824,24 +842,6 @@
     "tags": "ai,ambient,focus,instrumental,japanese,koto,lofi,piano,sleep",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 0,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f44adcbb-a3bc-4f20-baff-9530c8ac3651",
-    "name": "Il Camillofono",
-    "url": "https://radio.celodex.com/stream/camillofono.mp3",
-    "url_resolved": "https://radio.celodex.com/stream/camillofono.mp3",
-    "homepage": "https://radio.celodex.com/",
-    "favicon": "",
-    "countrycode": "IT",
-    "state": "",
-    "language": "italian",
-    "tags": "ambient,chill,lofi,relax",
-    "codec": "MP3",
-    "bitrate": 128,
     "votes": 0,
     "clickcount": 1
   }

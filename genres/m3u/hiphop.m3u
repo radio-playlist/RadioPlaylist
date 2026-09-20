@@ -18,7 +18,7 @@ http://bigrradio.cdnstream1.com/5105_128
 https://listen-msmn.sharp-stream.com/nme2.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Deutschrap
-http://stream.laut.fm/deutschrap
+http://deutschrap.stream.laut.fm/deutschrap?t302=2026-09-16_07-51-30&uuid=291328e7-89cc-479e-ddfb-c01dc526b3fa
 
 #EXTINF:-1 tvg-logo="" group-title="UG",Uganda DJs
 https://stream.zeno.fm/muzrp86994zuv
@@ -30,7 +30,7 @@ https://ice5.somafm.com/fluid-128-mp3
 http://icy.unitedradio.it/105HipHopRnB.mp3
 
 #EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - hip hop turnup
-http://ilm.stream27.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzg5MTA5OTI3JmQ9ZmM1YzE2NTg0MDBjOTEyMDg4Mzc
+http://ilm.stream35.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzg5NTQzNDAwJmQ9OGQ1MTNlZGVjYThmZGZjODdhODc
 
 #EXTINF:-1 tvg-logo="" group-title="RU",HIP HOP RADIO
 https://tntradio.hostingradio.ru:8027/hhr128.mp3
@@ -38,11 +38,11 @@ https://tntradio.hostingradio.ru:8027/hhr128.mp3
 #EXTINF:-1 tvg-logo="https://trace.ci/wp-content/uploads/2019/11/cropped-cropped-favicon-100x100.png" group-title="CI",Trace FM Côte d’Ivoire
 http://stream.trace.tv/trace_fm_ci-midfi.aac
 
-#EXTINF:-1 tvg-logo="" group-title="ZA",94.7
-http://25503.live.streamtheworld.com:3690/FM947AAC_SC
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1gH75m/rb-top100clubcharts.png" group-title="DE",# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
 https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts
+
+#EXTINF:-1 tvg-logo="" group-title="ZA",94.7
+http://22333.live.streamtheworld.com/FM947AAC_SC
 
 #EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Hip Hop
 http://195.150.20.8/HIPHOP
@@ -60,7 +60,7 @@ http://gdsfm.out.airtime.pro:8000/gdsfm_a
 http://streams.bigfm.de/bigfm-deutschrap-128-aac
 
 #EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - US Only Rap&HipHop Radio
-https://ilm.stream35.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzg5MTE3NzIzJmQ9ZWI2ZDViYmQzMTUwMGE5MDJjZDU
+https://ilm.stream27.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzg5NTUzMTAzJmQ9ZjkwNDBhMzhkODQwMmMzN2M4NmM
 
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio REMIX
 https://stream.0nlineradio.com/remix?ref=radiobrowser
@@ -69,7 +69,7 @@ https://stream.0nlineradio.com/remix?ref=radiobrowser
 http://icy.unitedradio.it/105RapItalia.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Jamz
-http://15113.live.streamtheworld.com/977_JAMZ_SC
+http://15113.live.streamtheworld.com:3690/977_JAMZ_SC
 
 #EXTINF:-1 tvg-logo="" group-title="DE",OLDSCHOOL HIPHOP
 http://stream.laut.fm/oldschool-hiphop
@@ -110,11 +110,11 @@ https://icast.connectmedia.hu/5401/live.mp3
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__90S__ by rautemusik (rm.fm)
 https://90s-high.rautemusik.fm/?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="http://www.radiosalomon.si/img/favicon.png" group-title="SI",Radio Salomon
-http://84.52.138.44/Salomon
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.urbano106.com/wp-content/uploads/2018/10/LOGO-PARA-WEBS.png" group-title="CR",Urbano 106 - 105.9 FM - San José, Costa Rica
 https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1
+
+#EXTINF:-1 tvg-logo="http://www.radiosalomon.si/img/favicon.png" group-title="SI",Radio Salomon
+http://84.52.138.44/Salomon
 
 #EXTINF:-1 tvg-logo="https://www.ubuntu.fm/sites/default/files//favicons/apple-touch-icon.png" group-title="ZA",UbuntuFM
 https://streaming.coollective.nl:8443/UbuntuFM
@@ -124,9 +124,6 @@ https://deutschrap-charts-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__TRAP__ by rautemusik (rm.fm)
 https://trap-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s13330q.png" group-title="BM",ZFB 94.9 "Power 95" Hamilton
-http://us3.internet-radio.com:8026/live
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-pop_600x600.jpg" group-title="DE",- 0 N - Pop on Radio
 https://0n-pop.radionetz.de/0n-pop.mp3
@@ -164,11 +161,11 @@ http://sc.ipip.cz:8206/;stream
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/bec6ab25-e799-4958-aae6-6c1fc0dfa0cb.png" group-title="GR",Corfu Dee Jay 97.5
 https://sh.onweb.gr:7083/stream?type=http&nocache=35812
 
-#EXTINF:-1 tvg-logo="http://www.rtbfradioplayer.be/favicon.ico" group-title="BE",RTBF Tarmac
-https://radios.rtbf.be/tarmac-128.mp3
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgmQsmPW/festival-vibes.png" group-title="DE",House vs. Hip-Hop, Rap, Deutschrap, R&B, Trap, Techno, House, EDM, Deep House, Hardstyle, Trance, Drum & Bass, Lo-Fi, Chillout, Festival, Club, Party, Afterhour, Beats, Underground, Hype, Techno, TechHouse - Top 40 Charts - DJ Mixtape RADIO
 https://breakz-office.rautemusik.fm/?ref=rb-festival
+
+#EXTINF:-1 tvg-logo="http://www.rtbfradioplayer.be/favicon.ico" group-title="BE",RTBF Tarmac
+https://radios.rtbf.be/tarmac-128.mp3
 
 #EXTINF:-1 tvg-logo="http://www.104.6rtl.com/assets/icons/icon-152x152.png" group-title="DE",104.6 RTL Best of Black
 http://stream.104.6rtl.com/rtl-black/mp3-128/radio-browser.info/
@@ -185,11 +182,11 @@ https://breakz-high.rautemusik.fm/?ref=radiobrowserinfo
 #EXTINF:-1 tvg-logo="" group-title="DE",BLACKBEATS.FM
 http://stream3.blackbeats.fm/;
 
-#EXTINF:-1 tvg-logo="https://melody888.gr/images/fav1.png" group-title="GR",Melody 88.8
-http://stream.melody888.gr:48500/melody.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="DE",BPMcast
 http://stream.laut.fm/bpmcast
+
+#EXTINF:-1 tvg-logo="https://melody888.gr/images/fav1.png" group-title="GR",Melody 88.8
+http://stream.melody888.gr:48500/melody.mp3
 
 #EXTINF:-1 tvg-logo="http://674.fm/favicon.ico" group-title="DE",674FM
 http://audio.674.fm/stream
@@ -248,11 +245,11 @@ http://23.81.33.82:24914/stream
 #EXTINF:-1 tvg-logo="https://mrg.fm/img/planethiphop125.jpg" group-title="US",Planet HipHop (MRG.fm)
 http://listen.mrg.fm:8100/stream
 
-#EXTINF:-1 tvg-logo="http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM - BoomFM Classics
-http://fluxfm.streamabc.net/flx-boomfmclassics-mp3-320-4725180?sABC=6nn3os73%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1789116275
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CL8S62xj/Top-100-Paerybreak-Z.jpg" group-title="DE",# TOP 100 - PartyBreakZ @ DJ Mixe, Partyremixe, Remix Radio, Remix Charts, DJ Remix, Mashup, Remix Hits, Deejay Remix Radio, Partymix, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-partybreakz
+
+#EXTINF:-1 tvg-logo="http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM - BoomFM Classics
+http://fluxfm.streamabc.net/flx-boomfmclassics-mp3-320-4725180?sABC=6nnn6565%230%23r30o443r1929r059s085628511796n57%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1789551973
 
 #EXTINF:-1 tvg-logo="" group-title="DE",DefJay Urban
 http://icepool.silvacast.com/DEFJAYcom.mp3
@@ -263,29 +260,29 @@ http://eu2.fastcast4u.com:3610/stream/1/
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/62bc4b9b51f455e9a386fdd1/62be3ea967ffbeb32ccfe453_android-chrome-256x256.png" group-title="GB",Reprezent Radio
 https://radio.canstream.co.uk:8022/live.mp3
 
+#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="FR",Générations Lyon
+http://radiosun.ice.infomaniak.ch/radiosun-high.mp3
+
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-hits_600x600.jpg" group-title="DE",- 0 N - Hits on Radio
+https://0n-hits.radionetz.de/0n-hits.aac
+
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Jamz Radio
 http://strm112.1.fm/jamz_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio 2000er
 https://stream.0nlineradio.com/2000er?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-hits_600x600.jpg" group-title="DE",- 0 N - Hits on Radio
-https://0n-hits.radionetz.de/0n-hits.aac
-
-#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="FR",Générations Lyon
-http://radiosun.ice.infomaniak.ch/radiosun-high.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HXhMnpX/CLUBDJ-RADIO.jpg" group-title="DE",#CLUB RADIO - DEIN DJ @ HOME - - DJ Remix & Charts, , Electronic Music, EDM, House, Deep House, Techno, Melodic House & Techno, Top40, Latin, Reggaeton, Urban, HipHop, Club & Party Radio
+https://breakz-2012-high.rautemusik.fm/?ref=rb-deindj
 
 #EXTINF:-1 tvg-logo="" group-title="DE",RauteMusik Deutschrap
 http://deutschrap-high.rautemusik.fm/
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HXhMnpX/CLUBDJ-RADIO.jpg" group-title="DE",#CLUB RADIO - DEIN DJ @ HOME - - DJ Remix & Charts, , Electronic Music, EDM, House, Deep House, Techno, Melodic House & Techno, Top40, Latin, Reggaeton, Urban, HipHop, Club & Party Radio
-https://breakz-2012-high.rautemusik.fm/?ref=rb-deindj
 
 #EXTINF:-1 tvg-logo="" group-title="BA",Balkan Hip-Hop Radio
 http://centova.dukahosting.com:2022/stream
 
 #EXTINF:-1 tvg-logo="http://www.size-radio.com/favicon.ico" group-title="FR",Size Radio
-http://n04.radiojar.com/atr1e8aswa5tv
+http://n0c.radiojar.com/atr1e8aswa5tv
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-pop_600x600.jpg" group-title="DE",- 0 N - Pop on Radio
 https://0n-pop.radionetz.de/0n-pop.aac
@@ -301,4 +298,7 @@ http://s20.myradiostream.com:6738/;listen.pls
 
 #EXTINF:-1 tvg-logo="" group-title="US",Hot 95.9
 https://ice.zradio.org/h/high.mp3
+
+#EXTINF:-1 tvg-logo="https://zipfm.net/wp-content/uploads/2023/12/logo.svg" group-title="JM",Zip FM 103 FM
+https://stream.zeno.fm/c0ytcn43vxquv
 

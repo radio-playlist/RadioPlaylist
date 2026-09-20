@@ -18,7 +18,7 @@ http://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
 http://strm112.1.fm/caferadio_mobile_mp3
 
 #EXTINF:-1 tvg-logo="https://uploads.candelaestereo.com/1/2019/06/cropped-logo-candela-llama-100x100.png" group-title="CO",Candela Estéreo Bogotá (HJPU 101.9)
-http://27373.live.streamtheworld.com/CANDELAESTEREO_SC
+http://27583.live.streamtheworld.com:3690/CANDELAESTEREO_SC
 
 #EXTINF:-1 tvg-logo="http://radiobachata.net/favicon.ico" group-title="DO",Radio Bachata
 http://perseus.shoutca.st:8312/;stream/1
@@ -57,7 +57,7 @@ https://stream.0nlineradio.com/remix?ref=radiobrowser
 http://strm112.1.fm/bossanova_mobile_mp3
 
 #EXTINF:-1 tvg-logo="http://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png?v2" group-title="MX",XHTIM "La Mejor" 90.7 FM Tijuana, BN
-http://18303.live.streamtheworld.com/XHTIM_SC
+http://18213.live.streamtheworld.com/XHTIM_SC
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Laut.FM jazzrockfusion
 http://stream.laut.fm/jazzrockfusion
@@ -89,11 +89,11 @@ https://breakz-office.rautemusik.fm/?ref=rb-festival
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Monte Carlo - Bossa Nova
 https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp?listening-from-radio-garden=1645969315
 
-#EXTINF:-1 tvg-logo="https://www.funx.nl/apple-touch-icon.png" group-title="NL",NPO FunX Latin
-http://icecast.omroep.nl/funx-latinfb-bb-mp3
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bbRPNdd/charts-mainstage.jpg" group-title="DE",# Mainstage Charts - Your FESTIVAL Radio @ EDM - TECHNO - DJ MIXTAPES - RAVE -  LATIN - REGGAETON - MOOMBAHTON - RnB - DJ Charts - HIPHOP - ELECTRO - DEEP HOUSE -  DANCE - LOUNGE - CHILLOUT - SUMMER - IBIZA HOUSE - WEDDING - BACH - SOULFUL - BEACH - CLUB -  GERMANY DJ RADIO - PARTY - BREAKZ - POOL - POP - URBAN - HOT NEW MUSIC
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-mainstage
+
+#EXTINF:-1 tvg-logo="https://www.funx.nl/apple-touch-icon.png" group-title="NL",NPO FunX Latin
+http://icecast.omroep.nl/funx-latinfb-bb-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",my105 - Ritmo Latino
 http://stream01.my105.ch/my105ritmolatino.mp3
@@ -125,20 +125,20 @@ http://mediaserv33.live-streams.nl:8034/live
 #EXTINF:-1 tvg-logo="" group-title="DE",Onda Latina
 http://stream.laut.fm/ondalatina
 
+#EXTINF:-1 tvg-logo="https://swissgroove.ch/favicon.ico" group-title="CH",SWISS GROOVE
+https://relay2.swissgroove.ch/;
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QhPqw8N.jpg" group-title="MX",Viva El Mariachi
 https://stream-144.zeno.fm/gs4xg5s0csmtv?zs=DiHqEIidR0ejJ3Bwp-pUKA
 
-#EXTINF:-1 tvg-logo="https://swissgroove.ch/favicon.ico" group-title="CH",SWISS GROOVE
-https://relay2.swissgroove.ch/;
+#EXTINF:-1 tvg-logo="" group-title="PT",Rádio nove3cinco
+http://centova.radio.com.pt:9522/;
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Радио Монте Карло - Bossa Nova
 https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp
 
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="GR",Radio Art - Latin Jazz
 http://air.radioart.com/fLatin_jazz.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="PT",Rádio nove3cinco
-http://centova.radio.com.pt:9522/;
 
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="FR",Latina Fiesta
 http://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
@@ -200,11 +200,11 @@ http://79.120.39.202:8002/salsa
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio LATIN
 https://stream.0nlineradio.com/latin?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="GR",Radio Art - Romantic Latin
-https://live.radioart.com/fRomantic_latin.mp3
-
 #EXTINF:-1 tvg-logo="https://colosalstereo.com/IMG/BotonRadio.png" group-title="CR",Colosal FM 88.3
 https://5eac7b031d945.streamlock.net/canal3/canal3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="GR",Radio Art - Romantic Latin
+https://live.radioart.com/fRomantic_latin.mp3
 
 #EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="CO",Durisima Radio Online
 http://stream.laut.fm/durisimaradio
@@ -213,7 +213,7 @@ http://stream.laut.fm/durisimaradio
 https://mambo.newradio.it/stream
 
 #EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - the sun
-http://ilm.stream35.radiohost.de/ilm_ilovethesun_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzg5MDcyODc0JmQ9Nzc5NDNmMTk5MjI5ODg5ZWIxMzQ
+http://ilm.stream27.radiohost.de/ilm_ilovethesun_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzg5NTA1MzQxJmQ9YWJlOTVlYWRiMGNkYjFhYTcwYzE
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m0J7g21/main-mornin-party-night.jpg" group-title="DE",# Mainstream Mornings & Party Nights - (Morning/Day: Mainstream, Top 40, Charts - Evening/Night: Party, House, Techno, DJ Mixes, Live DJs)
 https://breakz-high.rautemusik.fm/?ref=maindjatnightrb
@@ -251,11 +251,11 @@ http://novafm106.media.friktoria.net:8000/novafm106.mp3
 #EXTINF:-1 tvg-logo="" group-title="MX",Exa FM Comitán - 95.7 FM - XHCTS-FM - Radio Cañón / NTR Medios de Comunicación - Comitán, CS
 https://streaming.servicioswebmx.com/8242/stream
 
-#EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2016/03/webradio_deejay_gasolina-320x320.png" group-title="IT",Deejay Gasolina
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://radio1550.com/wp-content/uploads/2025/01/cropped-cropped-PWA-512X512-192x192.png" group-title="PE",Radio 1550, La Radio Joven. Huancayo. 88.9 FM.
 https://streaming.virtugo.digital:8002/stream
+
+#EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2016/03/webradio_deejay_gasolina-320x320.png" group-title="IT",Deejay Gasolina
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Musicaplus Radio
 http://stream.laut.fm/musicaplus
@@ -299,6 +299,6 @@ https://listen.labonita.torontocast.stream/
 #EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="IT",Deejay Gasolina
 https://streamcdnr7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/931d72949d13bf3d7499e1550371871a.webp" group-title="ES",Radio Líder Santiago
-https://server8.emitironline.com:18520/stream
+#EXTINF:-1 tvg-logo="" group-title="GB",Bar Latina Radio
+https://s2.citrus3.com:2000/stream/barlatinaradio
 

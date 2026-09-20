@@ -71,11 +71,11 @@ http://stream.zeno.fm/s70bvdgqks8uv
 #EXTINF:-1 tvg-logo="" group-title="LV",European Hit Radio - Dance
 http://stream.europeanhitradio.com:8000/Stream_24.aac
 
-#EXTINF:-1 tvg-logo="" group-title="Global",naxi radio - house
-http://naxidigital-house128.streaming.rs:8000/;stream.nsv
-
 #EXTINF:-1 tvg-logo="" group-title="GR",Galaxy 92
 http://netradio.live24.gr/galaxy9292
+
+#EXTINF:-1 tvg-logo="" group-title="Global",naxi radio - house
+http://naxidigital-house128.streaming.rs:8000/;stream.nsv
 
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Retrowave
 http://79.120.39.202:9125/
@@ -132,7 +132,7 @@ http://air.radioart.com/fChillout.mp3
 http://myradio24.org/5129_320
 
 #EXTINF:-1 tvg-logo="http://somafm.com/img3/deepspaceone-400.jpg" group-title="US",SomaFM Deep Space One (32k AAC)
-https://ice5.somafm.com/deepspaceone-32-aac
+https://ice2.somafm.com/deepspaceone-32-aac
 
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio REMIX
 https://stream.0nlineradio.com/remix?ref=radiobrowser
@@ -170,14 +170,17 @@ https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
 #EXTINF:-1 tvg-logo="" group-title="DE",Laut.fm Housebomb
 http://housebomb-fn.stream.laut.fm/housebomb-fn?t302=2018-02-10_16-10-52&uuid=bff87322-9a02-49f3-9ac6-a2c1457286dc
 
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-electro_600x600.jpg" group-title="DE",- 0 N - Electro on Radio
-https://0n-electro.radionetz.de/0n-electro.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="US",Deeper Shades Of House
 http://andromeda.housejunkie.ca:8000/radio.mp3
 
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-electro_600x600.jpg" group-title="DE",- 0 N - Electro on Radio
+https://0n-electro.radionetz.de/0n-electro.mp3
+
 #EXTINF:-1 tvg-logo="" group-title="GR",Best Radio 92.6
 http://netradio.live24.gr/best1222
+
+#EXTINF:-1 tvg-logo="https://radioparty.pl/assets/img/logo.png" group-title="PL",Radio Party - Kanał Główny
+https://s2.radioparty.pl:8015/stream?nocache=4171
 
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Progressive House
 http://79.111.119.111:9021/
@@ -185,11 +188,8 @@ http://79.111.119.111:9021/
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s155539/images/logod.png" group-title="GB",TMM 2 (HQ)
 https://listen-msmn.sharp-stream.com/nme2high.mp3
 
-#EXTINF:-1 tvg-logo="https://radioparty.pl/assets/img/logo.png" group-title="PL",Radio Party - Kanał Główny
-https://s2.radioparty.pl:8015/stream?nocache=4171
-
 #EXTINF:-1 tvg-logo="" group-title="Global",HappyHardcore.com
-https://www.happyhardcore.com/livestreams/p/u6/
+https://www.happyhardcore.com/livestreams/p/u9/
 
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Dub Techno [2]
 http://79.120.39.202:8000/dubtechno
@@ -210,7 +210,7 @@ http://station.waveradio.org/soviet.mp3
 https://orf-live.ors-shoutcast.at/fm4-q2a
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/defcon400.png" group-title="US",SomaFM DEF CON Radio (128k AAC)
-https://ice2.somafm.com/defcon-128-aac
+https://ice6.somafm.com/defcon-128-aac
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Drum 'n' Bass [2]
 http://79.111.14.76:8000/drumbass
@@ -248,26 +248,26 @@ https://cast1.torontocast.com:2130/stream
 #EXTINF:-1 tvg-logo="" group-title="ES",LOCAFM REMEMBER
 http://s02.fjperezdj.com:8035/live
 
-#EXTINF:-1 tvg-logo="https://nrj.ua/images/NRJ.png" group-title="UA",NRJ Ukraine
-https://cast.mediaonline.net.ua/nrj320
-
 #EXTINF:-1 tvg-logo="https://www.trancebase.fm/media/icons/trb/apple-touch-icon.png" group-title="DE",TranceBase.FM - AAC+ 40k
 http://listen.trancebase.fm/tunein-aacisdn-pls
 
+#EXTINF:-1 tvg-logo="https://nrj.ua/images/NRJ.png" group-title="UA",NRJ Ukraine
+https://cast.mediaonline.net.ua/nrj320
+
 #EXTINF:-1 tvg-logo="https://radia.cz/static/favicon.ico" group-title="CZ",ABradio Chillout
 http://mp3stream4.abradio.cz/chillout128.mp3
+
+#EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="RU",Radio Caprice - Minimal Tech House [3]
+http://79.111.119.111:8004/mintechhouse
+
+#EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Minimal Tech House [2]
+http://79.111.119.111:8000/mintechhouse
 
 #EXTINF:-1 tvg-logo="https://noisefm.ru/thumbnail.jpg" group-title="RU",Noise FM - EDM Radio
 http://play.sas-media.ru/play_256
 
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="FR",Allzic Radio Chill Out
 http://allzic53.ice.infomaniak.ch/allzic53.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Minimal Tech House [2]
-http://79.111.119.111:8000/mintechhouse
-
-#EXTINF:-1 tvg-logo="http://radcap.ru/graf2/rclogo.png" group-title="RU",Radio Caprice - Minimal Tech House [3]
-http://79.111.119.111:8004/mintechhouse
 
 #EXTINF:-1 tvg-logo="" group-title="ES",LOCA FM TechHouse
 http://s02.fjperezdj.com:8046/live
@@ -287,11 +287,11 @@ https://stream.technolovers.fm/bass-house?ref=radiobrowser
 #EXTINF:-1 tvg-logo="" group-title="US",CHICAGO HOUSE
 https://stream.radio.co/sae989fe39/listen
 
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25987/images/logog.jpg" group-title="AR",Metro 95.1
-https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3
-
 #EXTINF:-1 tvg-logo="https://d2f0ora2gkri0g.cloudfront.net/e3/34/e3349467-8202-41e1-9d8b-32c65faa943a.png" group-title="Global",C-Dance
 http://198.100.145.187:18304/;
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25987/images/logog.jpg" group-title="AR",Metro 95.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3
 
 #EXTINF:-1 tvg-logo="https://radiorecord.ru/icons/apple-touch-icon.png" group-title="RU",Radio Record 00's
 https://radiorecord.hostingradio.ru/200096.aacp

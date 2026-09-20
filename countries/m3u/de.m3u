@@ -54,7 +54,7 @@ http://mp3channels.webradio.antenne.de/chillout
 http://streams.90s90s.de/eurodance/mp3-192/radiode/
 
 #EXTINF:-1 tvg-logo="http://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="DE",Radio Eins
-http://f141.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3JAU8Yh27WVBV6ksmKYFjWerKdr&token=nojPAdLYbngvemvTGYeK-O4UpSvtI8K_Is3GSmpabK0&tvf=N6_FnYg_1BhmMTQxLnJuZGZuay5jb20
+http://d141.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3JOfW1eL3yzIi7oB4YbRHhdkFLg&token=-KUXTXHyZccUM8laaUzvldLiS3Mk_Yg6q1AILUO9gQA&tvf=4p6vOh_K1RhkMTQxLnJuZGZuay5jb20
 
 #EXTINF:-1 tvg-logo="http://www.inforadio.de/content/dam/rbb/rbb/logos/touch/inf-128.png" group-title="DE",Inforadio
 http://dispatcher.rndfnk.com/rbb/inforadio/live/mp3/mid
@@ -81,7 +81,7 @@ https://0n-80s.radionetz.de/0n-80s.mp3
 http://tuner.country108.com/;
 
 #EXTINF:-1 tvg-logo="https://www.br.de/favicon.ico" group-title="DE",B5 aktuell
-http://dispatcher.rndfnk.com/br/br24/live/mp3/mid
+http://streams.br.de/b5aktuell_2.m3u
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/a09246_33fe4aef6e5f4f17b605a8d8645ff015%7emv2.png/v1/fill/w_32%2ch_32%2clg_1%2cusm_0.66_1.00_0.01/a09246_33fe4aef6e5f4f17b605a8d8645ff015%7emv2.png" group-title="DE",Reggae Radio Rastamusic.com
 http://origin-rastamusic.streamguys1.com/rastamusic.mp3
@@ -90,7 +90,7 @@ http://origin-rastamusic.streamguys1.com/rastamusic.mp3
 http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Deutschrap
-http://stream.laut.fm/deutschrap
+http://deutschrap.stream.laut.fm/deutschrap?t302=2026-09-16_07-51-30&uuid=291328e7-89cc-479e-ddfb-c01dc526b3fa
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Sunshine Live - Classics
 http://stream.sunshine-live.de/classics/mp3-192/stream.sunshine-live.de/
@@ -102,7 +102,7 @@ http://mp3.ffh.de/radioffh/hqlivestream.mp3
 http://mp3channels.webradio.antenne.de/classic-rock-live
 
 #EXTINF:-1 tvg-logo="https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png" group-title="DE",80s80s Radio
-http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6nn32sp1%230%23r30o443r1929r059s085628511796n57%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1789079489
+http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6nn9pn5r%230%23r30o443r1929r059s085628511796n57%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1789512286
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Total instrumental
 http://stream.laut.fm/total-instrumental
@@ -122,20 +122,20 @@ https://trance-high.rautemusik.fm/?ref=radiobrowser
 #EXTINF:-1 tvg-logo="" group-title="DE",Hit Radio FFH - Eurodance
 http://mp3.ffh.de/ffhchannels/hqeurodance.mp3?aw_0_req.gdpr=true
 
-#EXTINF:-1 tvg-logo="http://1000oldies.de/apple-icon-120x120.png" group-title="DE",Laut.FM 1000 Oldies
-http://1000oldies.stream.laut.fm/1000oldies?t302=2018-01-16_15-40-29&uuid=37780fea-d865-4439-9a4a-66f3ec1715a0
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-90s_600x600.jpg" group-title="DE",- 0 N - 90s on Radio
 https://0n-90s.radionetz.de/0n-90s.mp3
+
+#EXTINF:-1 tvg-logo="http://1000oldies.de/apple-icon-120x120.png" group-title="DE",Laut.FM 1000 Oldies
+http://1000oldies.stream.laut.fm/1000oldies?t302=2018-01-16_15-40-29&uuid=37780fea-d865-4439-9a4a-66f3ec1715a0
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Sunshine Live - Lounge
 http://stream.sunshine-live.de/lounge/mp3-192/stream.sunshine-live.de/
 
-#EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - hip hop turnup
-http://ilm.stream27.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzg5MTA5OTI3JmQ9ZmM1YzE2NTg0MDBjOTEyMDg4Mzc
-
 #EXTINF:-1 tvg-logo="" group-title="DE",Technolovers DEEP HOUSE
 https://stream.technolovers.fm/deep-house?ref=radiobrowser
+
+#EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - hip hop turnup
+http://ilm.stream35.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzg5NTQzNDAwJmQ9OGQ1MTNlZGVjYThmZGZjODdhODc
 
 #EXTINF:-1 tvg-logo="" group-title="DE",RADIO BOB! BOBs Metal
 http://streams.radiobob.de/bob-metal/mp3-192/streams.radiobob.de/
@@ -188,11 +188,11 @@ https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
 #EXTINF:-1 tvg-logo="https://www.ndr.de//apple-touch-icon-57x57.png" group-title="DE",NDR 2
 https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
 
-#EXTINF:-1 tvg-logo="https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM
-http://streams.fluxfm.de/live/mp3-320/audio/
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TmRLJsp/EDM-TL.jpg" group-title="DE",Technolovers EDM
 https://stream.technolovers.fm/edm?ref=radiobrowser
+
+#EXTINF:-1 tvg-logo="https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM
+http://streams.fluxfm.de/live/mp3-320/audio/
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Antenne Bayern - Oldies but Goldies
 http://mp3channels.webradio.antenne.de/oldies-but-goldies
@@ -218,11 +218,11 @@ http://stream.laut.fm/emc
 #EXTINF:-1 tvg-logo="" group-title="DE",1000 Discohits
 http://stream.laut.fm/1000discohits
 
-#EXTINF:-1 tvg-logo="https://www.ndr.de/apple-touch-icon-120x120.png" group-title="DE",NDR Info (Niedersachsen)
-http://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1gH75m/rb-top100clubcharts.png" group-title="DE",# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
 https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts
+
+#EXTINF:-1 tvg-logo="https://www.ndr.de/apple-touch-icon-120x120.png" group-title="DE",NDR Info (Niedersachsen)
+http://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.berliner-rundfunk.de/production/static/1693298496587/icons/icon_64.a80y02808w0.png" group-title="DE",Berliner Rundfunk 91.4
 http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/
@@ -231,7 +231,7 @@ http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/
 http://stream.sunshine-live.de/edm/mp3-192/stream.sunshine-live.de/
 
 #EXTINF:-1 tvg-logo="" group-title="DE",deutschrap
-http://stream.laut.fm/deutschrap
+http://deutschrap.stream.laut.fm/deutschrap?t302=2026-09-16_03-42-30&uuid=66f8767e-94cd-12f9-acb3-e8e130e82eb2
 
 #EXTINF:-1 tvg-logo="https://www.radio.at/images/broadcasts/07/41/2273/2/c300.png" group-title="DE",SWR1 BW
 https://liveradio.swr.de/sw282p3/swr1bw/play.mp3
@@ -239,11 +239,11 @@ https://liveradio.swr.de/sw282p3/swr1bw/play.mp3
 #EXTINF:-1 tvg-logo="http://www.fritz.de/content/dam/rbb/rbb/logos/touch/fritz-128.png" group-title="DE",Fritz
 http://dispatcher.rndfnk.com/rbb/fritz/live/mp3/mid
 
-#EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="DE",WDR 3
-http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
-
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/34491.v5.png" group-title="DE",Rock Antenne Heavy Metal
 https://mp3channels.webradio.rockantenne.de/heavy-metal
+
+#EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="DE",WDR 3
+http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-2000s_600x600.jpg" group-title="DE",- 0 N - 2000s on Radio
 https://0n-2000s.radionetz.de/0n-2000s.mp3
@@ -254,11 +254,11 @@ http://stream.sunshine-live.de/festival/mp3-192/stream.sunshine-live.de/
 #EXTINF:-1 tvg-logo="" group-title="DE",WDR COSMO
 http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
 
-#EXTINF:-1 tvg-logo="https://1000goldschlager.de/apple-icon-120x120.png" group-title="DE",1000 Goldschlager
-https://1000goldschlager.stream.laut.fm/1000goldschlager
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jMmvLjz/TOP100-DJ-CHARTS-RADIO.png" group-title="DE",# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts
+
+#EXTINF:-1 tvg-logo="https://1000goldschlager.de/apple-icon-120x120.png" group-title="DE",1000 Goldschlager
+https://1000goldschlager.stream.laut.fm/1000goldschlager
 
 #EXTINF:-1 tvg-logo="http://www.antenne.de/logos/antenne-bayern/apple-touch-icon.png" group-title="DE",Antenne Bayern - 80er Kulthits
 http://stream.antenne.de/80er-kulthits

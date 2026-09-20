@@ -101,11 +101,11 @@ https://ice3.abradio.cz/povidka128.mp3
 #EXTINF:-1 tvg-logo="https://radia.cz/static/favicon.ico" group-title="CZ",Hitrádio FM
 http://ice.abradio.cz/hitradiofm128.mp3
 
-#EXTINF:-1 tvg-logo="https://plus.rozhlas.cz/sites/default/files/favicon_plus.ico" group-title="CZ",ČRo Plus
-http://amp.cesnet.cz:8000/cro-plus-256.ogg
-
 #EXTINF:-1 tvg-logo="https://www.funkstar.eu/favicon.ico" group-title="CZ",Funkstar Radio
 https://funkstar.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="https://plus.rozhlas.cz/sites/default/files/favicon_plus.ico" group-title="CZ",ČRo Plus
+http://amp.cesnet.cz:8000/cro-plus-256.ogg
 
 #EXTINF:-1 tvg-logo="" group-title="CZ",Kiss Radio
 http://icecast4.play.cz/kiss128.mp3
@@ -164,20 +164,20 @@ http://mp3stream4.abradio.cz/depeche128.mp3
 #EXTINF:-1 tvg-logo="http://www.classicpraha.cz/static/images/favicon.ico" group-title="CZ",Classic Praha
 http://icecast8.play.cz/classic128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CZ",Rádio Samson
-http://icecast8.play.cz/samsonfm128.mp3
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9MPpLH6b/6067b0e51f4e27fc0549b36ac5c01f91.jpg" group-title="CZ",Evropa 2 - Radio
 https://ice.actve.net/fm-evropa2-128
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Rádio Samson
+http://icecast8.play.cz/samsonfm128.mp3
 
 #EXTINF:-1 tvg-logo="https://radia.cz/favicon.ico" group-title="CZ",Dance Club Radio
 https://ice4.abradio.cz/dance128.mp3
 
-#EXTINF:-1 tvg-logo="http://hitradiocity.cz/design/favicons/apple-icon-120x120.png" group-title="CZ",hitradio City zona Lasky
-http://ice.abradio.cz/cityzl128.mp3
-
 #EXTINF:-1 tvg-logo="https://www.kiss.cz/assets/favicon/apple-touch-icon.png" group-title="CZ",Kiss Radio - 128MP3
 https://icecast1.play.cz/kissdelta128.mp3
+
+#EXTINF:-1 tvg-logo="http://hitradiocity.cz/design/favicons/apple-icon-120x120.png" group-title="CZ",hitradio City zona Lasky
+http://ice.abradio.cz/cityzl128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CZ",Comedy Club R@dio DIANA
 https://westradio.cz/radio/8010/radio.mp3
@@ -224,26 +224,26 @@ http://ice.abradio.cz/rockmax256.mp3
 #EXTINF:-1 tvg-logo="" group-title="CZ",Radio City FM
 http://ice.abradio.cz/cityfm128.mp3
 
-#EXTINF:-1 tvg-logo="http://heyradio.cz/favicon.ico" group-title="CZ",HEY rádio
-http://icecast3.play.cz/hey-radio128.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CZ",Rádio Jih
 http://icecast6.play.cz/jih128.mp3
+
+#EXTINF:-1 tvg-logo="http://heyradio.cz/favicon.ico" group-title="CZ",HEY rádio
+http://icecast3.play.cz/hey-radio128.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Evropa_2_Logo.png/200px-Evropa_2_Logo.png" group-title="CZ",Evropa 2 - Actve
 https://ice.actve.net/fm-evropa2-128
 
-#EXTINF:-1 tvg-logo="https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130" group-title="CZ",Frekvence 1 - Youradio Osmdesátky
-http://ice.actve.net/web-80
-
 #EXTINF:-1 tvg-logo="https://jazz.rozhlas.cz/sites/default/files/favicon_jazz.ico" group-title="CZ",ČRo Jazz
 http://amp.cesnet.cz:8000/cro-jazz.flac
 
-#EXTINF:-1 tvg-logo="" group-title="CZ",Svobodný vysílač
-http://stream.svobodny-vysilac.cz:8000/live.mp3
+#EXTINF:-1 tvg-logo="https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130" group-title="CZ",Frekvence 1 - Youradio Osmdesátky
+http://ice.actve.net/web-80
 
 #EXTINF:-1 tvg-logo="http://hitradiocitybrno.cz/design/favicons/apple-icon-120x120.png" group-title="CZ",Hitrádio City Brno
 http://ice.abradio.cz/magicbrno128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Svobodný vysílač
+http://stream.svobodny-vysilac.cz:8000/live.mp3
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s10545/images/logog.jpg" group-title="CZ",Hitrádio Faktor
 https://ice.abradio.cz/faktor128.mp3
@@ -279,13 +279,13 @@ http://icecast1.play.cz:8000/kisspublikum128aac
 http://icecast6.play.cz/signal-brno128.mp3
 
 #EXTINF:-1 tvg-logo="https://www.radio1.cz/favicon.ico" group-title="CZ",RADIO1
-http://icecast6.play.cz/radio1-128.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="CZ",We House Radio (AAC+ High)
-https://stream.zunradio.cz/zun1.aac
+http://icecast2.play.cz/radio1-64.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CZ",Haná
 http://icecast8.play.cz/hana128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",We House Radio (AAC+ High)
+https://stream.zunradio.cz/zun1.aac
 
 #EXTINF:-1 tvg-logo="http://plus.rozhlas.cz/favicon.ico" group-title="CZ",ČRo Plus
 https://rozhlas.stream/plus_mp3_128.mp3
