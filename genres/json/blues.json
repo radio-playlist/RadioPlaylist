@@ -14,8 +14,8 @@
     "tags": "blues,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 65048,
-    "clickcount": 176
+    "votes": 65237,
+    "clickcount": 157
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "blues",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 13910,
-    "clickcount": 37
+    "votes": 13968,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -50,7 +50,7 @@
     "tags": "blues",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 11722,
+    "votes": 11758,
     "clickcount": 27
   },
   {
@@ -59,7 +59,7 @@
     "stationuuid": "961e719c-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - True Blues",
     "url": "http://www.181.fm/stream/pls/181-blues.pls",
-    "url_resolved": "http://listen.181fm.com/181-blues_128k.mp3",
+    "url_resolved": "https://listen.181fm.com/181-blues_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "http://www.181.fm/favicon.ico",
     "countrycode": "US",
@@ -68,8 +68,8 @@
     "tags": "blues,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7382,
-    "clickcount": 9
+    "votes": 7423,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -86,26 +86,8 @@
     "tags": "60s,60s and 70s.,70's,70er,70s,80's,80er,80s,90's,90er,90s,blues,blues rock,classic blues,classic hits,classic hits 60s 70a 80s,classic rock,classic rock  50's 60's 70's 80's 90's,classic rock music,classic rock oldies,classic rock oldies soul,classic rock; alternative rock indie,country,entretenimiento,fm,hard rock,high quality audio,hits,local radio,melodic hard rock,music,music 70s 80s 90s,musica,oldies,pop rock,public radio,radio,real classic rock,rhythm and blues,rock,soft rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4679,
-    "clickcount": 124
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "e240cca5-20a3-45e8-9ea9-2b86d4ce3528",
-    "name": "Exclusively Elvis Presley",
-    "url": "http://streaming.exclusive.radio/er/elvispresley/icecast.audio",
-    "url_resolved": "http://streaming.exclusive.radio/er/elvispresley/icecast.audio",
-    "homepage": "https://exclusive.radio/",
-    "favicon": "",
-    "countrycode": "AE",
-    "state": "",
-    "language": "english",
-    "tags": "blues,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3532,
-    "clickcount": 16
+    "votes": 4714,
+    "clickcount": 131
   },
   {
     "id": null,
@@ -122,8 +104,26 @@
     "tags": "70s,80s,90s,blues,blues rock,classic rock,pop rock,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3527,
-    "clickcount": 8
+    "votes": 3543,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "e240cca5-20a3-45e8-9ea9-2b86d4ce3528",
+    "name": "Exclusively Elvis Presley",
+    "url": "http://streaming.exclusive.radio/er/elvispresley/icecast.audio",
+    "url_resolved": "http://streaming.exclusive.radio/er/elvispresley/icecast.audio",
+    "homepage": "https://exclusive.radio/",
+    "favicon": "",
+    "countrycode": "AE",
+    "state": "",
+    "language": "english",
+    "tags": "blues,rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 3540,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -140,26 +140,8 @@
     "tags": "alternative,blues,dance,eclectic,electronic,experimental,funk,grime,hip hop,house,indie,jazz,metal,pop,punk,r&b,reggae,rock,ska,soul,techno,world",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 3279,
-    "clickcount": 76
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a438e66d-2ba7-46b4-89c9-01bc4204e161",
-    "name": "Grolloo Radio",
-    "url": "https://uk1.streamingpulse.com/ssl/grollooradio",
-    "url_resolved": "https://uk1.streamingpulse.com/ssl/grollooradio",
-    "homepage": "https://grollooradio.nl/",
-    "favicon": "",
-    "countrycode": "NL",
-    "state": "",
-    "language": "",
-    "tags": "americana,blues,cajun,country,nederpop,soul",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 2549,
-    "clickcount": 4
+    "votes": 3299,
+    "clickcount": 78
   },
   {
     "id": null,
@@ -176,8 +158,26 @@
     "tags": "blues,louisiana,new orleans",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 2544,
-    "clickcount": 5
+    "votes": 2560,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "a438e66d-2ba7-46b4-89c9-01bc4204e161",
+    "name": "Grolloo Radio",
+    "url": "https://uk1.streamingpulse.com/ssl/grollooradio",
+    "url_resolved": "https://uk1.streamingpulse.com/ssl/grollooradio",
+    "homepage": "https://grollooradio.nl/",
+    "favicon": "",
+    "countrycode": "NL",
+    "state": "",
+    "language": "",
+    "tags": "americana,blues,cajun,country,nederpop,soul",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 2553,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -194,8 +194,8 @@
     "tags": "blues,chicago,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2364,
-    "clickcount": 7
+    "votes": 2374,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -212,8 +212,8 @@
     "tags": "blues,blues rock,hard rock,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2073,
-    "clickcount": 41
+    "votes": 2091,
+    "clickcount": 42
   },
   {
     "id": null,
@@ -230,8 +230,8 @@
     "tags": "blues,jazz,milano",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 1839,
-    "clickcount": 16
+    "votes": 1841,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -248,8 +248,8 @@
     "tags": "blues",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1798,
-    "clickcount": 14
+    "votes": 1816,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -267,7 +267,7 @@
     "codec": "MP3",
     "bitrate": 256,
     "votes": 1758,
-    "clickcount": 9
+    "clickcount": 5
   },
   {
     "id": null,
@@ -284,8 +284,8 @@
     "tags": "blues,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1675,
-    "clickcount": 4
+    "votes": 1677,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -303,7 +303,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1501,
-    "clickcount": 11
+    "clickcount": 2
   },
   {
     "id": null,
@@ -320,8 +320,8 @@
     "tags": "blues",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1445,
-    "clickcount": 10
+    "votes": 1456,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -338,8 +338,8 @@
     "tags": "blues,texas",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 1377,
-    "clickcount": 3
+    "votes": 1385,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -356,8 +356,8 @@
     "tags": "blues,harmonica",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 1355,
-    "clickcount": 1
+    "votes": 1359,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -374,8 +374,8 @@
     "tags": "blues,discovery bay,gospel",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1333,
-    "clickcount": 2
+    "votes": 1335,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -392,8 +392,8 @@
     "tags": "blues,blues rock,pinguin radio",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1160,
-    "clickcount": 6
+    "votes": 1162,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -410,7 +410,7 @@
     "tags": "blues,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1059,
+    "votes": 1061,
     "clickcount": 0
   },
   {
@@ -428,8 +428,8 @@
     "tags": "blues,country blues",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 1042,
-    "clickcount": 1
+    "votes": 1052,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -446,8 +446,8 @@
     "tags": "blues,folk,pop rock,university radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1030,
-    "clickcount": 7
+    "votes": 1046,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -464,8 +464,8 @@
     "tags": "blues",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1021,
-    "clickcount": 8
+    "votes": 1022,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -500,8 +500,8 @@
     "tags": "blues,chicago blues",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 959,
-    "clickcount": 3
+    "votes": 963,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -518,8 +518,8 @@
     "tags": "blues,classic rock,oldies",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 921,
-    "clickcount": 2
+    "votes": 923,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -536,8 +536,8 @@
     "tags": "blues",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 889,
-    "clickcount": 4
+    "votes": 890,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -554,8 +554,8 @@
     "tags": "blues",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 854,
-    "clickcount": 6
+    "votes": 857,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -572,8 +572,8 @@
     "tags": "blues,blues rock,classic blues",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 814,
-    "clickcount": 6
+    "votes": 815,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -590,8 +590,8 @@
     "tags": "blues,jazz,latin jazz,smooth jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 811,
-    "clickcount": 2
+    "votes": 812,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -608,8 +608,8 @@
     "tags": "blues,classic jazz,cool jazz,free jazz,jazz,jazz fusion,latin jazz,nu-jazz,vocal jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 803,
-    "clickcount": 4
+    "votes": 805,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -626,8 +626,8 @@
     "tags": "blues,bluesrock,canada,country,delta blues,guitar,guitarist,jazz,mississippi,rock,rock and blues,soft blues",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 741,
-    "clickcount": 64
+    "votes": 761,
+    "clickcount": 44
   },
   {
     "id": null,
@@ -645,25 +645,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 656,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f9b39c50-863a-484b-8110-181b12009cb1",
-    "name": "Radio Caprice - Chicago Blues",
-    "url": "http://79.111.14.76:8002/chicagoblues",
-    "url_resolved": "http://79.111.14.76:8002/chicagoblues",
-    "homepage": "http://radcap.ru/chicagoblues.html",
-    "favicon": "http://radcap.ru/apple-touch-icon.png",
-    "countrycode": "RU",
-    "state": "",
-    "language": "english",
-    "tags": "blues,chicago blues,classic blues",
-    "codec": "AAC+",
-    "bitrate": 48,
-    "votes": 602,
-    "clickcount": 2
+    "clickcount": 8
   },
   {
     "id": null,
@@ -680,8 +662,26 @@
     "tags": "blues,blues rock,classic blues,country blues,rhythm and blues*",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 599,
-    "clickcount": 0
+    "votes": 622,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f9b39c50-863a-484b-8110-181b12009cb1",
+    "name": "Radio Caprice - Chicago Blues",
+    "url": "http://79.111.14.76:8002/chicagoblues",
+    "url_resolved": "http://79.111.14.76:8002/chicagoblues",
+    "homepage": "http://radcap.ru/chicagoblues.html",
+    "favicon": "http://radcap.ru/apple-touch-icon.png",
+    "countrycode": "RU",
+    "state": "",
+    "language": "english",
+    "tags": "blues,chicago blues,classic blues",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "votes": 604,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -698,8 +698,8 @@
     "tags": "blues,disco,funk,funky,fusion,jazz,lounge,smooth jazz,soul",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 598,
-    "clickcount": 5
+    "votes": 599,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -716,8 +716,8 @@
     "tags": "blues,mediaset,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 580,
-    "clickcount": 0
+    "votes": 582,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -734,7 +734,7 @@
     "tags": "acoustic,blues",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 574,
+    "votes": 576,
     "clickcount": 2
   },
   {
@@ -752,8 +752,8 @@
     "tags": "blues,classic rock,metal,punk,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 542,
-    "clickcount": 0
+    "votes": 545,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -770,8 +770,8 @@
     "tags": "60s,70s,80s,alternative rock,bluegrass,blues,blues rock,chicago blues,classic blues,classic hits,classic rock,country blues,hits,pop rock,rhythm and blues (1960s randb (eg. the rolling stones)),rock,soft rock,top hits",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 540,
-    "clickcount": 23
+    "votes": 543,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -825,7 +825,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 526,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -843,7 +843,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 519,
-    "clickcount": 0
+    "clickcount": 2
   },
   {
     "id": null,
@@ -861,7 +861,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 514,
-    "clickcount": 7
+    "clickcount": 13
   },
   {
     "id": null,
@@ -878,8 +878,8 @@
     "tags": "blues,rock,rolling stones",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 484,
-    "clickcount": 3
+    "votes": 486,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -896,8 +896,8 @@
     "tags": "blues,bossa nova,jazz",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 437,
-    "clickcount": 4
+    "votes": 439,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -914,7 +914,7 @@
     "tags": "blues,country,music",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 409,
+    "votes": 410,
     "clickcount": 1
   },
   {
@@ -932,8 +932,8 @@
     "tags": "blues,r&b,rhythm & blues,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 367,
-    "clickcount": 0
+    "votes": 370,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -949,9 +949,9 @@
     "language": "serbian",
     "tags": "alternative,blues,funk,hard rock,jazz,metal,post rock,punk,underground",
     "codec": "MP3",
-    "bitrate": 0,
+    "bitrate": 320,
     "votes": 359,
-    "clickcount": 4
+    "clickcount": 6
   },
   {
     "id": null,
@@ -969,7 +969,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 359,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -986,8 +986,8 @@
     "tags": "blues,classic jazz,folk,jazz,public radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 352,
-    "clickcount": 1
+    "votes": 354,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1004,8 +1004,8 @@
     "tags": "blues",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 338,
-    "clickcount": 1
+    "votes": 339,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1041,7 +1041,25 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 318,
-    "clickcount": 1
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96232d01-0601-11e8-ae97-52543be04c81",
+    "name": "Hawaii Public Radio HPR-1 (KHPR)",
+    "url": "http://khpr-ice.streamguys1.com/khpr2",
+    "url_resolved": "http://khpr-ice.streamguys1.com/khpr2",
+    "homepage": "http://hawaiipublicradio.org/",
+    "favicon": "http://hawaiipublicradio.org/apple-touch-icon.png",
+    "countrycode": "US",
+    "state": "Hawaii",
+    "language": "english",
+    "tags": "blues,jazz,news,npr,public radio,talk,world music",
+    "codec": "MP3",
+    "bitrate": 64,
+    "votes": 302,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1059,25 +1077,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 301,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96232d01-0601-11e8-ae97-52543be04c81",
-    "name": "Hawaii Public Radio HPR-1 (KHPR)",
-    "url": "http://khpr-ice.streamguys1.com/khpr2",
-    "url_resolved": "http://khpr-ice.streamguys1.com/khpr2",
-    "homepage": "http://hawaiipublicradio.org/",
-    "favicon": "http://hawaiipublicradio.org/apple-touch-icon.png",
-    "countrycode": "US",
-    "state": "Hawaii",
-    "language": "english",
-    "tags": "blues,jazz,news,npr,public radio,talk,world music",
-    "codec": "MP3",
-    "bitrate": 64,
-    "votes": 301,
-    "clickcount": 4
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1094,26 +1094,8 @@
     "tags": "blues,folk,music",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 269,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "7c67f9b4-7a55-48f5-bf55-1f0c51760ef0",
-    "name": "Texas Rebel Radio",
-    "url": "https://ice41.securenetsystems.net/KNAF?playSessionID=6CC4A665-B891-1B7E-1922BD6BD5D4109F",
-    "url_resolved": "https://ice41.securenetsystems.net/KNAF?playSessionID=6CC4A665-B891-1B7E-1922BD6BD5D4109F",
-    "homepage": "https://texasrebelradio.com/",
-    "favicon": "",
-    "countrycode": "US",
-    "state": "Texas",
-    "language": "american english",
-    "tags": "blues,country,sports",
-    "codec": "AAC+",
-    "bitrate": 32,
-    "votes": 265,
-    "clickcount": 5
+    "votes": 271,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1130,8 +1112,26 @@
     "tags": "blues,classical,contemporary,eclectic programming,folk,jazz,local programming,news,news talk music,public radio,talk",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 265,
+    "votes": 267,
     "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "7c67f9b4-7a55-48f5-bf55-1f0c51760ef0",
+    "name": "Texas Rebel Radio",
+    "url": "https://ice41.securenetsystems.net/KNAF?playSessionID=6CC4A665-B891-1B7E-1922BD6BD5D4109F",
+    "url_resolved": "https://ice41.securenetsystems.net/KNAF?playSessionID=6CC4A665-B891-1B7E-1922BD6BD5D4109F",
+    "homepage": "https://texasrebelradio.com/",
+    "favicon": "",
+    "countrycode": "US",
+    "state": "Texas",
+    "language": "american english",
+    "tags": "blues,country,sports",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "votes": 266,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1149,7 +1149,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 263,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1167,7 +1167,7 @@
     "codec": "AAC",
     "bitrate": 80,
     "votes": 262,
-    "clickcount": 3
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1184,8 +1184,8 @@
     "tags": "blues,non-commercial,non-profit,swing",
     "codec": "MP3",
     "bitrate": 32,
-    "votes": 258,
-    "clickcount": 3
+    "votes": 259,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1203,7 +1203,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 258,
-    "clickcount": 1
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1220,8 +1220,8 @@
     "tags": "blues,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 255,
-    "clickcount": 2
+    "votes": 257,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1239,7 +1239,7 @@
     "codec": "AAC",
     "bitrate": 64,
     "votes": 254,
-    "clickcount": 10
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1257,7 +1257,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 244,
-    "clickcount": 3
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1275,7 +1275,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 225,
-    "clickcount": 4
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1311,7 +1311,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 223,
-    "clickcount": 14
+    "clickcount": 17
   },
   {
     "id": null,
@@ -1364,8 +1364,8 @@
     "tags": "1920s,1960s,1970s,blues,classic,dance,gospel,jazz,jazz funk,pop jazz,pop rock,rhythm and blues,rock,singer-songwriter,smooth,soul,traditional",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 207,
-    "clickcount": 10
+    "votes": 208,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1383,7 +1383,7 @@
     "codec": "MP3",
     "bitrate": 96,
     "votes": 196,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1401,7 +1401,7 @@
     "codec": "AAC",
     "bitrate": 48,
     "votes": 192,
-    "clickcount": 3
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1419,7 +1419,7 @@
     "codec": "MP3",
     "bitrate": 96,
     "votes": 191,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1437,7 +1437,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 190,
-    "clickcount": 2
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1473,7 +1473,7 @@
     "codec": "AAC+",
     "bitrate": 32,
     "votes": 189,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1491,7 +1491,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 188,
-    "clickcount": 5
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1499,7 +1499,7 @@
     "stationuuid": "3191969c-1d2d-4df1-a569-5bc9e99c1598",
     "name": "Buffalo",
     "url": "http://stream.laut.fm/buffalo",
-    "url_resolved": "http://buffalo.stream.laut.fm/buffalo?t302=2026-09-16_06-28-01&uuid=9320cd79-604b-7ae8-31ff-56204ad8ca8b",
+    "url_resolved": "http://buffalo.stream.laut.fm/buffalo?uuid=e8e4d5a8-b19e-e4ab-8f98-1a8062596876&t302=2026-09-26_06-30-50",
     "homepage": "https://illerradios.de/",
     "favicon": "",
     "countrycode": "",
@@ -1509,7 +1509,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 179,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1527,7 +1527,7 @@
     "codec": "AAC+",
     "bitrate": 80,
     "votes": 177,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1544,8 +1544,8 @@
     "tags": "americana,bluegrass,blues,commercial-free,country,folk,freeform,garage,indie rock,jazz,new releases,pop,power pop,psychedelia,pub rock,punk,r&b,rock,rock'n'roll,rockabilly,roots rock,soul",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 175,
-    "clickcount": 3
+    "votes": 176,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1562,8 +1562,8 @@
     "tags": "blues,r&b,rhythm & blues,soul",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 169,
-    "clickcount": 17
+    "votes": 170,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1581,7 +1581,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 168,
-    "clickcount": 0
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1599,7 +1599,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 166,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1617,7 +1617,7 @@
     "codec": "MP3",
     "bitrate": 64,
     "votes": 165,
-    "clickcount": 8
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1635,7 +1635,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 163,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1652,8 +1652,8 @@
     "tags": "blues,blues rock,bluesrock,chicago blues,country blues,indie,indie rock,roots,roots music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 159,
-    "clickcount": 5
+    "votes": 162,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1688,8 +1688,8 @@
     "tags": "blues",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 153,
-    "clickcount": 1
+    "votes": 154,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1707,7 +1707,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 151,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1724,6 +1724,24 @@
     "tags": "blues,classical,jazz,world music",
     "codec": "AAC",
     "bitrate": 48,
+    "votes": 149,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "866bbebe-56e1-4db9-9299-6e477e6f1754",
+    "name": "Радио Эрмитаж Санкт-Петербург 90.1 FM",
+    "url": "https://hermitage.hostingradio.ru/hermitage128.mp3",
+    "url_resolved": "https://hermitage.hostingradio.ru/hermitage128.mp3",
+    "homepage": "https://top-radio.ru/sankt-peterburg/ermitazh",
+    "favicon": "null",
+    "countrycode": "RU",
+    "state": "",
+    "language": "russian",
+    "tags": "78,blues,jazz,music,radio hermitage,spb",
+    "codec": "MP3",
+    "bitrate": 256,
     "votes": 148,
     "clickcount": 1
   },
@@ -1741,9 +1759,9 @@
     "language": "brazilian portuguese",
     "tags": "blues,folk,progressive rock,psychedelic rock",
     "codec": "MP3",
-    "bitrate": 0,
+    "bitrate": 192,
     "votes": 147,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1761,42 +1779,24 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 146,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "866bbebe-56e1-4db9-9299-6e477e6f1754",
-    "name": "Радио Эрмитаж Санкт-Петербург 90.1 FM",
-    "url": "https://hermitage.hostingradio.ru/hermitage128.mp3",
-    "url_resolved": "https://hermitage.hostingradio.ru/hermitage128.mp3",
-    "homepage": "https://top-radio.ru/sankt-peterburg/ermitazh",
-    "favicon": "null",
-    "countrycode": "RU",
-    "state": "",
-    "language": "russian",
-    "tags": "78,blues,jazz,music,radio hermitage,spb",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 143,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "02da1082-5c2b-4db7-9465-a6f7ba25813b",
-    "name": "Mystery Train Radio",
-    "url": "https://streamer.radio.co/sf662f27c0/listen",
-    "url_resolved": "https://streamer.radio.co/sf662f27c0/listen",
-    "homepage": "https://www.mysterytrainradio.com/",
-    "favicon": "",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "americana,blues,eclectic,folk,indie,rock",
-    "codec": "AAC",
-    "bitrate": 192,
-    "votes": 142,
     "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "e9fd4c54-4e08-4311-8d7e-3a5f65a72465",
+    "name": "GRRIF",
+    "url": "https://rjb.ice.infomaniak.ch/rjb-high.mp3",
+    "url_resolved": "https://rjb.ice.infomaniak.ch/rjb-high.mp3",
+    "homepage": "https://www.grrif.ch/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "french",
+    "tags": "blues,eclectic,electronic,indie,rock,soul",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 143,
+    "clickcount": 5
   }
 ]

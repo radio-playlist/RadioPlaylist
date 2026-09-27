@@ -14,8 +14,8 @@
     "tags": "death metal,heavy metal,industrial,metalcore,thrash metal",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 8769,
-    "clickcount": 21
+    "votes": 8777,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "chill,chillout,dancehall,reggae,relax,relaxation,relaxing,tropical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8386,
-    "clickcount": 31
+    "votes": 8408,
+    "clickcount": 37
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "easy listening,piano",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6235,
-    "clickcount": 12
+    "votes": 6258,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 47,
-    "votes": 5947,
-    "clickcount": 11
+    "votes": 5956,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -77,7 +77,7 @@
     "stationuuid": "9620b36f-0601-11e8-ae97-52543be04c81",
     "name": "CFRB News/Talk 1010 (Toronto, ON)",
     "url": "http://provisioning.streamtheworld.com/pls/CFRBAMAAC.pls",
-    "url_resolved": "http://18303.live.streamtheworld.com:3690/CFRBAMAAC_SC",
+    "url_resolved": "http://18183.live.streamtheworld.com/CFRBAMAAC_SC",
     "homepage": "https://www.iheartradio.ca/newstalk-1010",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png",
     "countrycode": "CA",
@@ -86,8 +86,8 @@
     "tags": "commercial,local news,news,news talk",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 5417,
-    "clickcount": 16
+    "votes": 5419,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "public radio",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 5107,
-    "clickcount": 44
+    "votes": 5128,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "news,talk",
     "codec": "AAC",
     "bitrate": 143,
-    "votes": 4824,
-    "clickcount": 24
+    "votes": 4836,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "60s,60s and 70s.,70's,70er,70s,80's,80er,80s,90's,90er,90s,blues,blues rock,classic blues,classic hits,classic hits 60s 70a 80s,classic rock,classic rock  50's 60's 70's 80's 90's,classic rock music,classic rock oldies,classic rock oldies soul,classic rock; alternative rock indie,country,entretenimiento,fm,hard rock,high quality audio,hits,local radio,melodic hard rock,music,music 70s 80s 90s,musica,oldies,pop rock,public radio,radio,real classic rock,rhythm and blues,rock,soft rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4679,
-    "clickcount": 124
+    "votes": 4714,
+    "clickcount": 131
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "progressive rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4629,
-    "clickcount": 3
+    "votes": 4638,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -176,8 +176,8 @@
     "tags": "1980's,80s,80s radio,80s rock,the best decade 80s radio around.,the best of 80's",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3832,
-    "clickcount": 24
+    "votes": 3841,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -194,8 +194,8 @@
     "tags": "70s,80s,90s,blues,blues rock,classic rock,pop rock,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3527,
-    "clickcount": 8
+    "votes": 3543,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -212,8 +212,8 @@
     "tags": "news",
     "codec": "AAC+",
     "bitrate": 40,
-    "votes": 3429,
-    "clickcount": 7
+    "votes": 3438,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -230,25 +230,7 @@
     "tags": "ambient,ambient and relaxation music,nature,rainorshine,relax,relaxation,relaxation music,relaxing,sounds of nature",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3405,
-    "clickcount": 15
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "aa6ee95d-e208-4592-a121-047056106596",
-    "name": "Ancient FM",
-    "url": "https://mediaserv73.live-streams.nl:18058/stream",
-    "url_resolved": "https://mediaserv73.live-streams.nl:18058/stream",
-    "homepage": "https://www.ancientfm.com/",
-    "favicon": "",
-    "countrycode": "CA",
-    "state": "Ontario",
-    "language": "english,french",
-    "tags": "ancient music,classical,folk,medieval,mittelalter,renaissance",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3282,
+    "votes": 3413,
     "clickcount": 16
   },
   {
@@ -266,8 +248,26 @@
     "tags": "jazz",
     "codec": "OGG",
     "bitrate": 1500,
-    "votes": 3281,
-    "clickcount": 10
+    "votes": 3297,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "aa6ee95d-e208-4592-a121-047056106596",
+    "name": "Ancient FM",
+    "url": "https://mediaserv73.live-streams.nl:18058/stream",
+    "url_resolved": "https://mediaserv73.live-streams.nl:18058/stream",
+    "homepage": "https://www.ancientfm.com/",
+    "favicon": "",
+    "countrycode": "CA",
+    "state": "Ontario",
+    "language": "english,french",
+    "tags": "ancient music,classical,folk,medieval,mittelalter,renaissance",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 3287,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -284,8 +284,8 @@
     "tags": "60's,60s,70's,70er,70s,80's,80er,80s,90's,90er,90s,black metal,classic hits,classic metal,classic rock,entretenimiento,fm,hard rock,heavy metal,local radio,metal,music,musica,oldies,public radio,radio,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2771,
-    "clickcount": 65
+    "votes": 2798,
+    "clickcount": 61
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "commercial,quebec city,talk",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 2562,
-    "clickcount": 6
+    "votes": 2563,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -320,8 +320,8 @@
     "tags": "80's,alternative,new wave,synthpop",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2519,
-    "clickcount": 21
+    "votes": 2535,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -338,8 +338,8 @@
     "tags": "classic metal,hard rock,hardcore,heavy metal,metal,thrash",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2332,
-    "clickcount": 7
+    "votes": 2339,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -356,8 +356,8 @@
     "tags": "aereoporto,airport,ambient,chill,chillout,easy listening,house,lounge,smooth,smooth jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2250,
-    "clickcount": 121
+    "votes": 2260,
+    "clickcount": 97
   },
   {
     "id": null,
@@ -374,8 +374,8 @@
     "tags": "progressive rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2120,
-    "clickcount": 17
+    "votes": 2127,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -392,7 +392,7 @@
     "tags": "bach,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2066,
+    "votes": 2069,
     "clickcount": 8
   },
   {
@@ -410,8 +410,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1970,
-    "clickcount": 3
+    "votes": 1974,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -428,8 +428,8 @@
     "tags": "information,talk & speech",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 1958,
-    "clickcount": 17
+    "votes": 1964,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -446,8 +446,8 @@
     "tags": "blues rock,country rock,garage rock,southern rock,stoner rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1832,
-    "clickcount": 4
+    "votes": 1839,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -464,8 +464,8 @@
     "tags": "00's,00s,192kbps,1970s,1980s,1990s,70's,70s,80's,80s,90's,90s,charts,classic hits,classic rock,dance,entretenimiento,fm,high quality audio,hits,local news,local radio,misc,music,musica,news,oldies,ontario,pop,pop music,pop rock,public radio,radio,rock,talk,top 100,top hits,top40,toronto,webradio",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1650,
-    "clickcount": 49
+    "votes": 1660,
+    "clickcount": 53
   },
   {
     "id": null,
@@ -481,9 +481,9 @@
     "language": "english",
     "tags": "chill,chill house,chillout,chillout+lounge,club dance,club house,community radio,dance,deep,deep house,electronic,fm,high quality audio,hits,house,music,news,public radio,radio,soulful house",
     "codec": "MP3",
-    "bitrate": 0,
-    "votes": 1494,
-    "clickcount": 125
+    "bitrate": 128,
+    "votes": 1510,
+    "clickcount": 112
   },
   {
     "id": null,
@@ -500,7 +500,7 @@
     "tags": "classical,mozart",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1479,
+    "votes": 1486,
     "clickcount": 2
   },
   {
@@ -518,8 +518,8 @@
     "tags": "96.1,96.1 fm,music,news,pop,talk",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 1474,
-    "clickcount": 16
+    "votes": 1478,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -536,7 +536,7 @@
     "tags": "1970s,1980s,1990s,70's,70er,70s,70s disco,80's,80er,80s,90's,90er,90s,anni 70,anni 80,anni 90,classic hip hop,classic hits,classic hits 60s 70a 80s,club house,dance,dance music,dance pop,dancefloor,disco,disco funk,discomusic 70,discomusic 80,dj,dj mix,dj mixes,dj remix,dj sets,electronic,euro disco,eurodance,fm,funky,funky 70,goldies,high quality audio,hip-hop and rap oldies,hits,house,italo disco,music,music 70s 80s 90s,musica,musica anni 70,musica anni 80,oldies,oldschool,pop,pop music,public radio,radio,rap,studio 54,techno,vintage music,vintage radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1416,
+    "votes": 1420,
     "clickcount": 55
   },
   {
@@ -554,7 +554,7 @@
     "tags": "classic rock,commercial",
     "codec": "AAC+",
     "bitrate": 57,
-    "votes": 1336,
+    "votes": 1341,
     "clickcount": 9
   },
   {
@@ -572,8 +572,8 @@
     "tags": "70,80,90,classic italian pop,italian pop,musica italiana",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1315,
-    "clickcount": 2
+    "votes": 1317,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -590,8 +590,8 @@
     "tags": "1980,1980s,1980s hits,80's,80er,80s,anni 80,classic hits,club dance,club hits,dance,dance music,dance pop,disco,dj,dj mix,dj mixes,dj remix,electronic,fm,hits,italo dance,italo disco,italo-disco,italy,local radio,mixed,music,musica,musica anni 80,oldies,pop,pop dance,pop music,public radio,radio,radio anni 80,the best of 80's",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1273,
-    "clickcount": 22
+    "votes": 1280,
+    "clickcount": 39
   },
   {
     "id": null,
@@ -608,8 +608,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1252,
-    "clickcount": 2
+    "votes": 1258,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -626,7 +626,7 @@
     "tags": "classical,instrumental,piano",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1182,
+    "votes": 1184,
     "clickcount": 3
   },
   {
@@ -645,25 +645,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1170,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "7c84ac30-1a0f-42f7-8b0d-40b5c6548abf",
-    "name": "DKFM Shoegaze Radio",
-    "url": "https://kathy.torontocast.com:2005/stream",
-    "url_resolved": "https://kathy.torontocast.com:2005/stream",
-    "homepage": "https://decayfm.com/",
-    "favicon": "https://i0.wp.com/decayfm.com/wp-content/uploads/2018/12/cropped-512-1.jpg?fit=180%2c180&#038;ssl=1",
-    "countrycode": "CA",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1154,
-    "clickcount": 8
+    "clickcount": 2
   },
   {
     "id": null,
@@ -680,8 +662,26 @@
     "tags": "192kbps,chillout,chillout+lounge,classic hits,club,cool jazz,cool music seduction,fm,high quality audio,jazz,jazz fusion,jazz lounge,local radio,lounge,lounge music,lounge radio,music,musica,oldies,public radio,radio,relax,relax music,relaxation,relaxing,smooth,smooth jazz,smooth lounge,vocal jazz,vocal lounge",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1153,
-    "clickcount": 30
+    "votes": 1161,
+    "clickcount": 41
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "7c84ac30-1a0f-42f7-8b0d-40b5c6548abf",
+    "name": "DKFM Shoegaze Radio",
+    "url": "https://kathy.torontocast.com:2005/stream",
+    "url_resolved": "https://kathy.torontocast.com:2005/stream",
+    "homepage": "https://decayfm.com/",
+    "favicon": "https://i0.wp.com/decayfm.com/wp-content/uploads/2018/12/cropped-512-1.jpg?fit=180%2c180&#038;ssl=1",
+    "countrycode": "CA",
+    "state": "",
+    "language": "",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1159,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -698,8 +698,8 @@
     "tags": "chinese,news,talk",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 1096,
-    "clickcount": 8
+    "votes": 1097,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -734,7 +734,7 @@
     "tags": "60's,70's,classic rock,hard rock,heavy metal",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1087,
+    "votes": 1089,
     "clickcount": 2
   },
   {
@@ -752,8 +752,8 @@
     "tags": "70s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1071,
-    "clickcount": 3
+    "votes": 1073,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -770,7 +770,7 @@
     "tags": "ambient,cool music seduction,easy listening,love,love songs,slow,slow radio,slowly musics,soft adult contemporary",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1043,
+    "votes": 1044,
     "clickcount": 0
   },
   {
@@ -788,8 +788,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 1041,
-    "clickcount": 5
+    "votes": 1043,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -806,7 +806,7 @@
     "tags": "music",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1021,
+    "votes": 1022,
     "clickcount": 1
   },
   {
@@ -824,8 +824,8 @@
     "tags": "classical,strauss",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1003,
-    "clickcount": 3
+    "votes": 1004,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -842,8 +842,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 948,
-    "clickcount": 3
+    "votes": 960,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -859,9 +859,9 @@
     "language": "english",
     "tags": "70s,80s,90s,classic hits,toronto",
     "codec": "AAC",
-    "bitrate": 130,
-    "votes": 939,
-    "clickcount": 6
+    "bitrate": 134,
+    "votes": 941,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -869,7 +869,7 @@
     "stationuuid": "9647a6e3-0601-11e8-ae97-52543be04c81",
     "name": "Business News Network Audio Channel",
     "url": "http://provisioning.streamtheworld.com/pls/TV_BNNAAC.pls",
-    "url_resolved": "http://18233.live.streamtheworld.com:3690/TV_BNNAAC_SC",
+    "url_resolved": "http://29324.live.streamtheworld.com:3690/TV_BNNAAC_SC",
     "homepage": "http://www.bnn.ca/",
     "favicon": "http://www.bnn.ca/pf/resources/images/bnn-bloomberg/favicon.ico?d=46",
     "countrycode": "CA",
@@ -878,8 +878,8 @@
     "tags": "business news,business programs",
     "codec": "AAC+",
     "bitrate": 40,
-    "votes": 922,
-    "clickcount": 5
+    "votes": 924,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -887,7 +887,7 @@
     "stationuuid": "9647a60a-0601-11e8-ae97-52543be04c81",
     "name": "CP24 Audio Channel - Toronto, ON",
     "url": "http://provisioning.streamtheworld.com/pls/TV_CP24AAC.pls",
-    "url_resolved": "http://26103.live.streamtheworld.com/TV_CP24AAC_SC",
+    "url_resolved": "http://18183.live.streamtheworld.com/TV_CP24AAC_SC",
     "homepage": "http://www.cp24.com/",
     "favicon": "",
     "countrycode": "CA",
@@ -898,24 +898,6 @@
     "bitrate": 40,
     "votes": 909,
     "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "89b63085-db05-4c2b-86a4-ee2f17ed2018",
-    "name": "# 100 GREATEST CLASSICAL MUSIC",
-    "url": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
-    "url_resolved": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
-    "homepage": "https://100-greatest-network.torontocast.stream/",
-    "favicon": "https://static.wixstatic.com/media/f361b3_f977feb1ff14484cb53e8bf0fbff1801~mv2.jpg",
-    "countrycode": "CA",
-    "state": "Ontario",
-    "language": "english",
-    "tags": "baroque,chamber,chamber music,classical,classical baroque,classical music,classical piano,community radio,entertainment,fm,local news,music,musica,opera,public radio,radio,symphonic,traditional opera",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 889,
-    "clickcount": 17
   },
   {
     "id": null,
@@ -931,9 +913,27 @@
     "language": "english",
     "tags": "club dance,community radio,dance music,deep house,deephouse,electronic,electronic dance music,fm,high quality audio,hits,house,house/soulful/deep house,music,public radio,radio,soulful house,vocal deep",
     "codec": "MP3",
-    "bitrate": 0,
+    "bitrate": 128,
+    "votes": 894,
+    "clickcount": 18
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "d1229ae6-3fa4-4d02-8d83-7b6ab8b6b08e",
+    "name": "Radio Canada Ici Première - Montréal, QC",
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/master.m3u8",
+    "url_resolved": "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/master.m3u8",
+    "homepage": "https://ici.radio-canada.ca/ohdio/premiere",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ICI_Radio-Canada_Premi%C3%A8re.svg/200px-ICI_Radio-Canada_Premi%C3%A8re.svg.png",
+    "countrycode": "CA",
+    "state": "Quebec",
+    "language": "french",
+    "tags": "radio publique",
+    "codec": "AAC",
+    "bitrate": 48,
     "votes": 884,
-    "clickcount": 16
+    "clickcount": 8
   },
   {
     "id": null,
@@ -968,26 +968,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 879,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "d1229ae6-3fa4-4d02-8d83-7b6ab8b6b08e",
-    "name": "Radio Canada Ici Première - Montréal, QC",
-    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/master.m3u8",
-    "url_resolved": "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/master.m3u8",
-    "homepage": "https://ici.radio-canada.ca/ohdio/premiere",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ICI_Radio-Canada_Premi%C3%A8re.svg/200px-ICI_Radio-Canada_Premi%C3%A8re.svg.png",
-    "countrycode": "CA",
-    "state": "Quebec",
-    "language": "french",
-    "tags": "radio publique",
-    "codec": "AAC",
-    "bitrate": 48,
-    "votes": 878,
-    "clickcount": 2
+    "votes": 880,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1004,8 +986,8 @@
     "tags": "bollywood,community radio,ethnic programming,multicultural,multilingual,south asian",
     "codec": "AAC",
     "bitrate": 32,
-    "votes": 830,
-    "clickcount": 1
+    "votes": 839,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1022,8 +1004,8 @@
     "tags": "classical,vivaldi",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 828,
-    "clickcount": 3
+    "votes": 829,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1058,7 +1040,7 @@
     "tags": "baroque,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 813,
+    "votes": 814,
     "clickcount": 0
   },
   {
@@ -1076,26 +1058,8 @@
     "tags": "blues,classic jazz,cool jazz,free jazz,jazz,jazz fusion,latin jazz,nu-jazz,vocal jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 803,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "7f1ae162-78ab-41c1-8e49-1e3d3df39d73",
-    "name": "RDMIX ITALIAN VINTAGE 70 80 90",
-    "url": "https://maggie.torontocast.com:2020/stream/rdmixitalianvintage",
-    "url_resolved": "https://maggie.torontocast.com:2020/stream/rdmixitalianvintage",
-    "homepage": "https://radiodimensionemix.torontocast.stream/",
-    "favicon": "",
-    "countrycode": "CA",
-    "state": "Ontario",
-    "language": "english,italian",
-    "tags": "70's,70s,80's,80s,90's,90s,classic italian pop,italian,italian oldies,italian pop,italian rock,musica italiana",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 800,
-    "clickcount": 3
+    "votes": 805,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1112,8 +1076,26 @@
     "tags": "acid,acid jazz,ambient,canada,classic jazz,free jazz,hip hop,instrumental music,instrumentales,jazz,jazz fusion,latin jazz,nu-jazz,piano jazz,relax,relaxing,smooth jazz,toronto,trumpeth",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 794,
-    "clickcount": 45
+    "votes": 802,
+    "clickcount": 52
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "7f1ae162-78ab-41c1-8e49-1e3d3df39d73",
+    "name": "RDMIX ITALIAN VINTAGE 70 80 90",
+    "url": "https://maggie.torontocast.com:2020/stream/rdmixitalianvintage",
+    "url_resolved": "https://maggie.torontocast.com:2020/stream/rdmixitalianvintage",
+    "homepage": "https://radiodimensionemix.torontocast.stream/",
+    "favicon": "",
+    "countrycode": "CA",
+    "state": "Ontario",
+    "language": "english,italian",
+    "tags": "70's,70s,80's,80s,90's,90s,classic italian pop,italian,italian oldies,italian pop,italian rock,musica italiana",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 801,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1130,8 +1112,8 @@
     "tags": "90's,90s,eurodance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 786,
-    "clickcount": 1
+    "votes": 789,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1148,44 +1130,8 @@
     "tags": "soundtracks,video game",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 769,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96221be6-0601-11e8-ae97-52543be04c81",
-    "name": "CKYC 93.7 \"Country 93\" Owen Sound, ON",
-    "url": "http://bayshore.leanstream.co/CKYCFM",
-    "url_resolved": "http://bayshore.leanstream.co/CKYCFM",
-    "homepage": "http://www.country93.ca/",
-    "favicon": "",
-    "countrycode": "CA",
-    "state": "Ontario",
-    "language": "english",
-    "tags": "commercial,country,owen sound",
-    "codec": "AAC",
-    "bitrate": 64,
-    "votes": 744,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "35c763cc-3412-4d5c-a2f4-da1208bb2f4b",
-    "name": "RDMIX LOVE SONGS",
-    "url": "http://maggie.torontocast.com:8022/stream",
-    "url_resolved": "http://maggie.torontocast.com:8022/stream",
-    "homepage": "https://radiodimensionemix.torontocast.stream/",
-    "favicon": "",
-    "countrycode": "CA",
-    "state": "Ontario",
-    "language": "english",
-    "tags": "love,love song,love songs,relax,romantic",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 742,
-    "clickcount": 1
+    "votes": 770,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1202,8 +1148,44 @@
     "tags": "blues,bluesrock,canada,country,delta blues,guitar,guitarist,jazz,mississippi,rock,rock and blues,soft blues",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 741,
-    "clickcount": 64
+    "votes": 761,
+    "clickcount": 44
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96221be6-0601-11e8-ae97-52543be04c81",
+    "name": "CKYC 93.7 \"Country 93\" Owen Sound, ON",
+    "url": "http://bayshore.leanstream.co/CKYCFM",
+    "url_resolved": "http://bayshore.leanstream.co/CKYCFM",
+    "homepage": "http://www.country93.ca/",
+    "favicon": "",
+    "countrycode": "CA",
+    "state": "Ontario",
+    "language": "english",
+    "tags": "commercial,country,owen sound",
+    "codec": "AAC",
+    "bitrate": 65,
+    "votes": 744,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "35c763cc-3412-4d5c-a2f4-da1208bb2f4b",
+    "name": "RDMIX LOVE SONGS",
+    "url": "http://maggie.torontocast.com:8022/stream",
+    "url_resolved": "http://maggie.torontocast.com:8022/stream",
+    "homepage": "https://radiodimensionemix.torontocast.stream/",
+    "favicon": "",
+    "countrycode": "CA",
+    "state": "Ontario",
+    "language": "english",
+    "tags": "love,love song,love songs,relax,romantic",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 743,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1239,7 +1221,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 707,
-    "clickcount": 0
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1256,8 +1238,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 692,
-    "clickcount": 14
+    "votes": 698,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1274,8 +1256,8 @@
     "tags": "acid jazz,canada,fusion jazz,guirar,instrumental,jazz,lounge,sax,sensual,smooth jazz,soft,soft jazz,trumpeth",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 655,
-    "clickcount": 19
+    "votes": 664,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -1292,7 +1274,7 @@
     "tags": "classic rock,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 650,
+    "votes": 652,
     "clickcount": 0
   },
   {
@@ -1310,8 +1292,8 @@
     "tags": "news,talk radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 629,
-    "clickcount": 6
+    "votes": 631,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1328,8 +1310,8 @@
     "tags": "60s,70s,80s,classic rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 615,
-    "clickcount": 1
+    "votes": 617,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1345,27 +1327,9 @@
     "language": "english",
     "tags": "sports,talk,toronto",
     "codec": "AAC+",
-    "bitrate": 47,
-    "votes": 598,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961ed1e1-0601-11e8-ae97-52543be04c81",
-    "name": "CHUP \"Soft Rock 97.7\" Calgary, AB",
-    "url": "http://rawlco.leanstream.co/CHUPFM-MP3",
-    "url_resolved": "http://rawlco.leanstream.co/CHUPFM-MP3",
-    "homepage": "http://www.softrock977.com/",
-    "favicon": "",
-    "countrycode": "CA",
-    "state": "Alberta",
-    "language": "english",
-    "tags": "soft rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 591,
-    "clickcount": 1
+    "bitrate": 48,
+    "votes": 603,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1382,8 +1346,26 @@
     "tags": "50's,50s,oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 591,
-    "clickcount": 2
+    "votes": 593,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "961ed1e1-0601-11e8-ae97-52543be04c81",
+    "name": "CHUP \"Soft Rock 97.7\" Calgary, AB",
+    "url": "http://rawlco.leanstream.co/CHUPFM-MP3",
+    "url_resolved": "http://rawlco.leanstream.co/CHUPFM-MP3",
+    "homepage": "http://www.softrock977.com/",
+    "favicon": "",
+    "countrycode": "CA",
+    "state": "Alberta",
+    "language": "english",
+    "tags": "soft rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 592,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1401,7 +1383,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 568,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1418,8 +1400,8 @@
     "tags": "heavy metal",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 562,
-    "clickcount": 5
+    "votes": 565,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1436,8 +1418,8 @@
     "tags": "public radio",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 551,
-    "clickcount": 16
+    "votes": 554,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1454,8 +1436,8 @@
     "tags": "60s,oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 549,
-    "clickcount": 0
+    "votes": 551,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1473,7 +1455,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 545,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1491,7 +1473,25 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 539,
-    "clickcount": 2
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "dff9392e-26ba-4874-af56-5e4ddbefc270",
+    "name": "CBC Radio 1 Vancouver",
+    "url": "https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8",
+    "url_resolved": "https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8",
+    "homepage": "https://www.cbc.ca/listen/live-radio",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/archive/3/3b/20210720194227%21CBC_logo.svg",
+    "countrycode": "CA",
+    "state": "British Columbia",
+    "language": "",
+    "tags": "news,public radio",
+    "codec": "AAC",
+    "bitrate": 48,
+    "votes": 533,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -1508,7 +1508,7 @@
     "tags": "classical,hard rock,heavy metal,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 529,
+    "votes": 530,
     "clickcount": 2
   },
   {
@@ -1527,25 +1527,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 529,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "dff9392e-26ba-4874-af56-5e4ddbefc270",
-    "name": "CBC Radio 1 Vancouver",
-    "url": "https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8",
-    "url_resolved": "https://cbcradiolive.akamaized.net/hls/live/2041050/ES_R1PVC/master.m3u8",
-    "homepage": "https://www.cbc.ca/listen/live-radio",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/archive/3/3b/20210720194227%21CBC_logo.svg",
-    "countrycode": "CA",
-    "state": "British Columbia",
-    "language": "",
-    "tags": "news,public radio",
-    "codec": "AAC",
-    "bitrate": 48,
-    "votes": 529,
-    "clickcount": 20
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1562,8 +1544,8 @@
     "tags": "country,thetford mines",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 527,
-    "clickcount": 0
+    "votes": 528,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1580,8 +1562,8 @@
     "tags": "commercial,modern rock,toronto",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 514,
-    "clickcount": 13
+    "votes": 516,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1617,7 +1599,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 494,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1635,7 +1617,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 491,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1653,7 +1635,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 487,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1670,8 +1652,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 446,
-    "clickcount": 5
+    "votes": 448,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9623da57-0601-11e8-ae97-52543be04c81",
+    "name": "CKOM News/Talk 650 (Saskatoon, SK)",
+    "url": "http://rawlco.leanstream.co/CKOMAM",
+    "url_resolved": "http://rawlco.leanstream.co/CKOMAM",
+    "homepage": "http://ckom.com/",
+    "favicon": "http://media.socastsrm.com/uploads/station/541/fbShare.png?r=20302",
+    "countrycode": "CA",
+    "state": "Saskatchewan",
+    "language": "english",
+    "tags": "news,news talk,sport,talk",
+    "codec": "AAC+",
+    "bitrate": 32,
+    "votes": 441,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1688,25 +1688,7 @@
     "tags": "local news,public radio,talk",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 438,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9623da57-0601-11e8-ae97-52543be04c81",
-    "name": "CKOM News/Talk 650 (Saskatoon, SK)",
-    "url": "http://rawlco.leanstream.co/CKOMAM",
-    "url_resolved": "http://rawlco.leanstream.co/CKOMAM",
-    "homepage": "http://ckom.com/",
-    "favicon": "http://media.socastsrm.com/uploads/station/541/fbShare.png?r=20302",
-    "countrycode": "CA",
-    "state": "Saskatchewan",
-    "language": "english",
-    "tags": "news,news talk,sport,talk",
-    "codec": "AAC+",
-    "bitrate": 31,
-    "votes": 434,
+    "votes": 439,
     "clickcount": 1
   },
   {
@@ -1724,8 +1706,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 433,
-    "clickcount": 1
+    "votes": 435,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1742,8 +1724,8 @@
     "tags": "multicultural,multilingual",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 429,
-    "clickcount": 9
+    "votes": 431,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1751,7 +1733,7 @@
     "stationuuid": "9034682c-5121-11e8-a4d1-52543be04c81",
     "name": "WEFUNK",
     "url": "http://www.wefunkradio.com/play/radio.pls",
-    "url_resolved": "https://s-14.wefunkradio.com:8443/wefunk64.mp3",
+    "url_resolved": "https://s-09.wefunkradio.com:8443/wefunk64.mp3",
     "homepage": "http://www.wefunkradio.com/",
     "favicon": "https://cache.wefunkradio.com/images-small/apple-touch-icon.png",
     "countrycode": "CA",
@@ -1760,7 +1742,7 @@
     "tags": "funk,hip hop,soul",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 427,
+    "votes": 429,
     "clickcount": 10
   },
   {
@@ -1778,8 +1760,8 @@
     "tags": "rock",
     "codec": "AAC",
     "bitrate": 198,
-    "votes": 420,
-    "clickcount": 6
+    "votes": 421,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -1798,5 +1780,23 @@
     "bitrate": 96,
     "votes": 415,
     "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "7c75ac34-cf40-4bb7-9892-7a5e67cee487",
+    "name": "Lighthouse VOAR-FM",
+    "url": "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1",
+    "url_resolved": "https://usa4.fastcast4u.com/proxy/lighthousefm?mp=/1",
+    "homepage": "https://lighthousefm.org/",
+    "favicon": "https://lighthousefm.org/favicon.ico",
+    "countrycode": "CA",
+    "state": "Newfoundland and Labrador",
+    "language": "english",
+    "tags": "gospel",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 415,
+    "clickcount": 1
   }
 ]

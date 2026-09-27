@@ -182,11 +182,11 @@ http://traxx023.ice.infomaniak.ch/traxx023-1.mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Absolute 70's Pop Radio
 http://strm112.1.fm/70s_mobile_mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Club 1 Radio
-http://strm112.1.fm/club_mobile_mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.fm Otto's Classical music
 https://strm112.1.fm/classical_mobile_aac
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Club 1 Radio
+http://strm112.1.fm/club_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Kontrafunk (MP3 192)
 https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3
@@ -251,11 +251,11 @@ http://strm112.1.fm/crock_mobile_mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",Radio Zürisee
 http://mp3.radio.ch/radiozuerisee128k
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Afterbeat Electronica Radio
-http://strm112.1.fm/electronica_mobile_mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",ip music 320
 http://live7.avf.ch:8000/ipmusic320
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Afterbeat Electronica Radio
+http://strm112.1.fm/electronica_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - All Euro 80's Radio
 http://strm112.1.fm/80s_90s_mobile_mp3
@@ -269,20 +269,20 @@ https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac
 #EXTINF:-1 tvg-logo="http://www.rhonefm.ch/favicon/4/120x120.png" group-title="CH",Rhône FM
 http://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Top Fiesta Radio
-http://strm112.1.fm/spanishparty_mobile_mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",Spoon Radio - Rock Ballads
 https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Adult Urban Hits Choice Radio
-http://strm112.1.fm/oldschool_mobile_mp3
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Top Fiesta Radio
+http://strm112.1.fm/spanishparty_mobile_mp3
+
+#EXTINF:-1 tvg-logo="http://www.truehouse.net/favicon.ico" group-title="CH",True House Radio
+https://stream.truehouse.net:8443/house
 
 #EXTINF:-1 tvg-logo="https://lounge-radio.com/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="CH",Lounge Radio
 http://de1.streamhosting.ch/
 
-#EXTINF:-1 tvg-logo="http://www.truehouse.net/favicon.ico" group-title="CH",True House Radio
-https://stream.truehouse.net:8443/house
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Adult Urban Hits Choice Radio
+http://strm112.1.fm/oldschool_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Electro Radio
 http://stream.radiojar.com/fkyxx4q35k0uv
@@ -299,6 +299,6 @@ http://strm112.1.fm/chilloutlounge_mobile_mp3
 #EXTINF:-1 tvg-logo="https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png" group-title="CH",RSR La Premiere
 http://stream.srg-ssr.ch/srgssr/la-1ere/aac/96
 
-#EXTINF:-1 tvg-logo="" group-title="CH",Radio SRF Virus - Indie Rock
-http://streaming.swisstxt.ch/m/drsvirus/mp3_128
+#EXTINF:-1 tvg-logo="https://ch.az-cdn.ch/static/3.3.2/radiomelody/device-icons/48x48.png" group-title="CH",Radio Melody
+https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1685221374
 

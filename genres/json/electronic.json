@@ -14,8 +14,8 @@
     "tags": "electronic,frisky,new york city,progressive",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 53627,
-    "clickcount": 94
+    "votes": 53760,
+    "clickcount": 73
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "clubhouse,dance,electronic,house,melodic,techno,trance",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 51091,
-    "clickcount": 96
+    "votes": 51169,
+    "clickcount": 148
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "clubhouse,dance,electronic,house,melodic,techno,trance",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 48160,
-    "clickcount": 65
+    "votes": 48218,
+    "clickcount": 76
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "dance,electronic,house",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 37544,
-    "clickcount": 62
+    "votes": 37621,
+    "clickcount": 61
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "electronic,funk,music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 30904,
-    "clickcount": 31
+    "votes": 30959,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "electronic,techno,trance",
     "codec": "AAC",
     "bitrate": 256,
-    "votes": 22284,
-    "clickcount": 34
+    "votes": 22342,
+    "clickcount": 42
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "dance,electronic,minimal,techno",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 18728,
-    "clickcount": 60
+    "votes": 18765,
+    "clickcount": 55
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "electronic",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 16521,
-    "clickcount": 12
+    "votes": 16576,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "dance,electronic,house",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 16323,
-    "clickcount": 14
+    "votes": 16347,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -176,8 +176,8 @@
     "tags": "dance,electro,electronic,house,music",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 15968,
-    "clickcount": 31
+    "votes": 15984,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -194,8 +194,8 @@
     "tags": "dance,dance music,edm,electro,electronic,house",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 15401,
-    "clickcount": 59
+    "votes": 15443,
+    "clickcount": 60
   },
   {
     "id": null,
@@ -203,7 +203,7 @@
     "stationuuid": "961173b5-0601-11e8-ae97-52543be04c81",
     "name": "SomaFM Lush (128k MP3)",
     "url": "https://somafm.com/lush.pls",
-    "url_resolved": "https://ice2.somafm.com/lush-128-mp3",
+    "url_resolved": "https://ice5.somafm.com/lush-128-mp3",
     "homepage": "https://somafm.com/lush/",
     "favicon": "https://somafm.com/img3/lush-400.jpg",
     "countrycode": "US",
@@ -212,7 +212,7 @@
     "tags": "electronic,femalevocals,lounge,mellow,vocal",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12267,
+    "votes": 12271,
     "clickcount": 19
   },
   {
@@ -230,8 +230,8 @@
     "tags": "alternative,hiphop,electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11758,
-    "clickcount": 13
+    "votes": 11806,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -248,8 +248,8 @@
     "tags": "electronic,melodic trance,music,trance,uplifting trance",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 10343,
-    "clickcount": 25
+    "votes": 10368,
+    "clickcount": 35
   },
   {
     "id": null,
@@ -266,8 +266,8 @@
     "tags": "electronic,metal,rock,spanish rock",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 7463,
-    "clickcount": 6
+    "votes": 7474,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -284,8 +284,8 @@
     "tags": "beat,deep,deep house,electronic,house",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 6440,
-    "clickcount": 7
+    "votes": 6460,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "ambient,dance,electronic,instrumental",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6349,
-    "clickcount": 3
+    "votes": 6364,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -320,26 +320,8 @@
     "tags": "electro,electro house,electronic,hits,progressive psytrance,progressive trance,psytrance,trance,vocal trance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 6126,
-    "clickcount": 36
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96159295-0601-11e8-ae97-52543be04c81",
-    "name": "Hi On Line Lounge Radio",
-    "url": "http://mediaserv33.live-streams.nl:8036/live",
-    "url_resolved": "http://mediaserv33.live-streams.nl:8036/live",
-    "homepage": "http://www.hionline.eu/lounge/",
-    "favicon": "",
-    "countrycode": "NL",
-    "state": "",
-    "language": "",
-    "tags": "320kbps,electronic,lounge",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 5912,
-    "clickcount": 11
+    "votes": 6160,
+    "clickcount": 44
   },
   {
     "id": null,
@@ -356,8 +338,8 @@
     "tags": "dance,electronic,lounge",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 5821,
-    "clickcount": 15
+    "votes": 5838,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -374,8 +356,8 @@
     "tags": "deep house,electro house,electronic,elektro,elektronik,house,progressive house,vocal house",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 5707,
-    "clickcount": 33
+    "votes": 5724,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -391,8 +373,8 @@
     "language": "english,spanish",
     "tags": "big room,club house,dance,deep house,drum and bass,dubstep,dutch house,edm,electro house,electronic,future house,hardstyle,melbourne bounce,progressive house,remember,tech house,techno,trance,tropical house",
     "codec": "AAC",
-    "bitrate": 0,
-    "votes": 5547,
+    "bitrate": 128,
+    "votes": 5571,
     "clickcount": 24
   },
   {
@@ -410,8 +392,8 @@
     "tags": "dance,ehr,electronic",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 4945,
-    "clickcount": 2
+    "votes": 4952,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -428,8 +410,8 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4790,
-    "clickcount": 3
+    "votes": 4813,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -446,7 +428,7 @@
     "tags": "electronic,house,naxi",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4777,
+    "votes": 4795,
     "clickcount": 2
   },
   {
@@ -464,8 +446,8 @@
     "tags": "80s,electronic,retrowave,synthwave",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 4719,
-    "clickcount": 11
+    "votes": 4724,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -482,8 +464,8 @@
     "tags": "club house,dance,edm,electro,electro house,electronic,electronic dance music,electronica,electropop,house,pop dance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 4650,
-    "clickcount": 31
+    "votes": 4658,
+    "clickcount": 56
   },
   {
     "id": null,
@@ -500,8 +482,8 @@
     "tags": "dubstep,edm,electro,electronic,pop,techno,trance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4524,
-    "clickcount": 10
+    "votes": 4531,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -518,8 +500,8 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 4460,
-    "clickcount": 12
+    "votes": 4497,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -536,8 +518,8 @@
     "tags": "dance,electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4420,
-    "clickcount": 2
+    "votes": 4436,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -554,8 +536,8 @@
     "tags": "#,#charts,#club,#djmix,#mashup,#radio,#top100,00s,90s,beachclub,charts,chill house,chillout,chillout+lounge,club,club dance,club dance electronic house trance,club house,clubbing,dance house club  electronic techhouse,deejay,deep house,deep music,dj,dj mixes,dj remix,dj sets,edm,electro,electro techno,electronic,funky house,future house,hardstyle/handsup/edm,hip hop,hip-hop,hiphop,house,hypertechno,ibiza,latin,latin music,latin pop,lounge music,mashup,melodic house,minimal,minimal techno,moombahton,pop,progressive house,r&b,r&b/urban,rap hiphop rnb,rave,reggaeton,remixed,remixes,singlecharts,soulful house,sundowner,sunset,tech house,techno,top 40,top100,vocal deep",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 4301,
-    "clickcount": 179
+    "votes": 4343,
+    "clickcount": 190
   },
   {
     "id": null,
@@ -572,8 +554,8 @@
     "tags": "dance,electronic,house",
     "codec": "OGG",
     "bitrate": 0,
-    "votes": 4203,
-    "clickcount": 2
+    "votes": 4210,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -590,8 +572,8 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4130,
-    "clickcount": 9
+    "votes": 4136,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -608,8 +590,8 @@
     "tags": "electronic,events,house,live,techno",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3731,
-    "clickcount": 10
+    "votes": 3733,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -626,8 +608,8 @@
     "tags": "acir,acir online,cdmx,ciudad de méxico,club dance,clásicos,clásicos en inglés,dance,dance music,dance radio online,edm,electronic,electronic beats,electronic dance music,electronic music,entretenimiento,español,estación,eurodance,grupo acir,iheart,iheart radio,mexico city,mix,mix fm,moi merino,music,música,música electrónica,música en inglés,oldies,online,online only,radio,radio online,retro,valle de méxico",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 3304,
-    "clickcount": 12
+    "votes": 3314,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -644,8 +626,8 @@
     "tags": "alternative,blues,dance,eclectic,electronic,experimental,funk,grime,hip hop,house,indie,jazz,metal,pop,punk,r&b,reggae,rock,ska,soul,techno,world",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 3279,
-    "clickcount": 76
+    "votes": 3299,
+    "clickcount": 78
   },
   {
     "id": null,
@@ -662,8 +644,8 @@
     "tags": "electronic,trance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3154,
-    "clickcount": 2
+    "votes": 3165,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -680,8 +662,8 @@
     "tags": "club dance,dance,edm,electro,electro house,electronic,electronic dance music,electronic music,electronica,electropop,elektro,elektronik,house,houseparty",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3079,
-    "clickcount": 19
+    "votes": 3090,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -698,8 +680,8 @@
     "tags": "electronic",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 3013,
-    "clickcount": 4
+    "votes": 3016,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -716,8 +698,8 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2939,
-    "clickcount": 4
+    "votes": 2952,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -734,8 +716,8 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2835,
-    "clickcount": 11
+    "votes": 2844,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -752,8 +734,8 @@
     "tags": "#chillout,chillout,electronic",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 2812,
-    "clickcount": 9
+    "votes": 2824,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -769,9 +751,9 @@
     "language": "",
     "tags": "electronic",
     "codec": "AAC",
-    "bitrate": 340,
-    "votes": 2732,
-    "clickcount": 12
+    "bitrate": 303,
+    "votes": 2746,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -779,7 +761,7 @@
     "stationuuid": "6f73bc13-3c4b-11e8-b74d-52543be04c81",
     "name": "SomaFM Deep Space One (32k AAC)",
     "url": "https://somafm.com/deepspaceone32.pls",
-    "url_resolved": "https://ice2.somafm.com/deepspaceone-32-aac",
+    "url_resolved": "https://ice6.somafm.com/deepspaceone-32-aac",
     "homepage": "https://somafm.com/deepspaceone/",
     "favicon": "http://somafm.com/img3/deepspaceone-400.jpg",
     "countrycode": "US",
@@ -788,8 +770,8 @@
     "tags": "ambient,electronic,space",
     "codec": "AAC",
     "bitrate": 32,
-    "votes": 2698,
-    "clickcount": 4
+    "votes": 2702,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -806,8 +788,8 @@
     "tags": "charts,dance,dj remix,edm,electro,electronic,hiphop,hits,latin,mashup,mixtapes,pop,rap hiphop rnb,reggaeton,remix,remixes,rnb,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2676,
-    "clickcount": 4
+    "votes": 2683,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -824,8 +806,8 @@
     "tags": "#mashup,bass,beach music,breaks,breakz,breakzfm,charts,chill,chill house,chillout,club,club dance electronic house trance,clubbing,dance,deejay,deep house,dj mix,dj mixes,dj remix,dj sets,djmix,edm,electronic,electronic dance music,electronic music,electropop,hard techno,high energy,house,houseparty,hypertechno,latin pop,local radio,lounge,mashup,mixtape,music non stop,online,online radio,party,partymix,partymusik,pool beach bar,promodj,public radio,rap hiphop rnb,reggaeton,remix,remixed,remixes,rnb,smooth,techno,top 40,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2612,
-    "clickcount": 52
+    "votes": 2631,
+    "clickcount": 59
   },
   {
     "id": null,
@@ -842,8 +824,8 @@
     "tags": "commercial-free,electronic,minimal,minimal techno,no ads,tech minimal,techno",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2459,
-    "clickcount": 16
+    "votes": 2470,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -860,8 +842,8 @@
     "tags": "orf,alternative mainstream,electronic,pop,rock,public radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2436,
-    "clickcount": 43
+    "votes": 2443,
+    "clickcount": 39
   },
   {
     "id": null,
@@ -879,7 +861,7 @@
     "codec": "MP3",
     "bitrate": 96,
     "votes": 2412,
-    "clickcount": 6
+    "clickcount": 8
   },
   {
     "id": null,
@@ -896,8 +878,8 @@
     "tags": "100.9,100.9 fm,100.9fm,beat,beats,cdmx,ciudad de mexico,ciudad de méxico,ciudad mexico,dance,dance music,electro,electro deep,electro house,electronic,electronic music,electronica,estación,mex,mexico,mexico city,mx,música electrónica,nrm comunicaciones,radio,valle de méxico",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 2363,
-    "clickcount": 2
+    "votes": 2368,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -914,8 +896,8 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2199,
-    "clickcount": 2
+    "votes": 2202,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -932,8 +914,8 @@
     "tags": "commercial,dance,electronic,house",
     "codec": "AAC+",
     "bitrate": 122,
-    "votes": 2173,
-    "clickcount": 53
+    "votes": 2176,
+    "clickcount": 52
   },
   {
     "id": null,
@@ -950,8 +932,8 @@
     "tags": "deep house,electro deep,electronic,house,remix,vocal",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2147,
-    "clickcount": 4
+    "votes": 2163,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -968,8 +950,8 @@
     "tags": "darktechno,electronic,techno",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 2120,
-    "clickcount": 13
+    "votes": 2128,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -986,8 +968,8 @@
     "tags": "#,#charts,#dj,#hits,#mixtapes,00s,90s,adult contemporary,charts,chill house,chillout,club,club dance,clubbing,dance,dance music,deejay,deejay remix,dj remix,dj sets,edm,electro house,electronic,hiphop,hits,house,houseparty,latin music,latin pop,livestream,madewithheart,moombahton,non-stop,pop,pop dance,pop music,popular,rave,reggaeton,remix,rnb,summer,summer hits,summer lounge,summer radio,summer tunes,techno,top 100,top 40,top 40 hits,top charts,top hits,urban,yearmix",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2047,
-    "clickcount": 31
+    "votes": 2057,
+    "clickcount": 48
   },
   {
     "id": null,
@@ -1004,8 +986,8 @@
     "tags": "electronic,house,techno",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1970,
-    "clickcount": 4
+    "votes": 1973,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1022,8 +1004,26 @@
     "tags": "dance,deep house,electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1941,
-    "clickcount": 9
+    "votes": 1956,
+    "clickcount": 11
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "68c4dc06-824c-4a00-9f76-a13e181c6f2d",
+    "name": "Radio Party - Kanał Główny",
+    "url": "https://s2.radioparty.pl:8015/stream?nocache=4171",
+    "url_resolved": "https://s2.radioparty.pl:8015/stream?nocache=4171",
+    "homepage": "https://radioparty.pl/ramowka/glowny",
+    "favicon": "https://radioparty.pl/assets/img/logo.png",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "electronic,party,rap",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1938,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -1040,8 +1040,8 @@
     "tags": "dance,deephouse,electro,electronic,techhouse,techno",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1929,
-    "clickcount": 3
+    "votes": 1932,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1058,44 +1058,8 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1912,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "68c4dc06-824c-4a00-9f76-a13e181c6f2d",
-    "name": "Radio Party - Kanał Główny",
-    "url": "https://s2.radioparty.pl:8015/stream?nocache=4171",
-    "url_resolved": "https://s2.radioparty.pl:8015/stream?nocache=4171",
-    "homepage": "https://radioparty.pl/ramowka/glowny",
-    "favicon": "https://radioparty.pl/assets/img/logo.png",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "electronic,party,rap",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 1889,
-    "clickcount": 35
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9640449d-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Caprice - Progressive House",
-    "url": "http://79.111.119.111:9021/",
-    "url_resolved": "http://79.111.119.111:9021/",
-    "homepage": "http://radcap.ru/",
-    "favicon": "http://radcap.ru/apple-touch-icon.png",
-    "countrycode": "RU",
-    "state": "",
-    "language": "",
-    "tags": "electronic,house,progressive house",
-    "codec": "AAC+",
-    "bitrate": 320,
-    "votes": 1874,
-    "clickcount": 6
+    "votes": 1914,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1112,8 +1076,26 @@
     "tags": "alternative,hiphop,electronic",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1858,
-    "clickcount": 5
+    "votes": 1878,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9640449d-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Caprice - Progressive House",
+    "url": "http://79.111.119.111:9021/",
+    "url_resolved": "http://79.111.119.111:9021/",
+    "homepage": "http://radcap.ru/",
+    "favicon": "http://radcap.ru/apple-touch-icon.png",
+    "countrycode": "RU",
+    "state": "",
+    "language": "",
+    "tags": "electronic,house,progressive house",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "votes": 1875,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1130,7 +1112,7 @@
     "tags": "dance,electronic,happy hardcore,hardcore,upbeat",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1850,
+    "votes": 1851,
     "clickcount": 3
   },
   {
@@ -1148,8 +1130,8 @@
     "tags": "dub techno,electronic,radcap",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 1809,
-    "clickcount": 9
+    "votes": 1810,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1166,8 +1148,8 @@
     "tags": "dance,deejay,dj,edm,electronic,elektro,handsup,hardstyle,hits,techno,trance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1777,
-    "clickcount": 7
+    "votes": 1789,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1184,8 +1166,8 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1723,
-    "clickcount": 4
+    "votes": 1727,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1202,8 +1184,8 @@
     "tags": "chillstep,dnb,drum & bass,drum and bass,dubstep,edm,electronic,future bass,house,synthwave",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1695,
-    "clickcount": 30
+    "votes": 1700,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -1220,8 +1202,8 @@
     "tags": "chillout,electronic,lounge,retro electronica,retrowave,soviet",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1632,
-    "clickcount": 2
+    "votes": 1633,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1238,26 +1220,8 @@
     "tags": "orf,alternative mainstream,electronic,pop,rock,public radio",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1612,
-    "clickcount": 105
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "5b59ea80-6ce9-11e8-b15b-52543be04c81",
-    "name": "SomaFM DEF CON Radio (128k AAC)",
-    "url": "https://somafm.com/defcon130.pls",
-    "url_resolved": "https://ice6.somafm.com/defcon-128-aac",
-    "homepage": "https://somafm.com/defcon/",
-    "favicon": "https://somafm.com/img3/defcon400.png",
-    "countrycode": "US",
-    "state": "California",
-    "language": "english",
-    "tags": "ambient,chill,defcon,electronic,hacker,non-commercial",
-    "codec": "AAC",
-    "bitrate": 128,
-    "votes": 1597,
-    "clickcount": 11
+    "votes": 1623,
+    "clickcount": 114
   },
   {
     "id": null,
@@ -1274,8 +1238,26 @@
     "tags": "drum & bass,drum 'n' bass,drum and bass,electronic,radcap",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 1591,
-    "clickcount": 5
+    "votes": 1603,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "5b59ea80-6ce9-11e8-b15b-52543be04c81",
+    "name": "SomaFM DEF CON Radio (128k AAC)",
+    "url": "https://somafm.com/defcon130.pls",
+    "url_resolved": "https://ice6.somafm.com/defcon-128-aac",
+    "homepage": "https://somafm.com/defcon/",
+    "favicon": "https://somafm.com/img3/defcon400.png",
+    "countrycode": "US",
+    "state": "California",
+    "language": "english",
+    "tags": "ambient,chill,defcon,electronic,hacker,non-commercial",
+    "codec": "AAC",
+    "bitrate": 128,
+    "votes": 1602,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1291,9 +1273,9 @@
     "language": "english",
     "tags": "chill,chill house,chillout,chillout+lounge,club dance,club house,community radio,dance,deep,deep house,electronic,fm,high quality audio,hits,house,music,news,public radio,radio,soulful house",
     "codec": "MP3",
-    "bitrate": 0,
-    "votes": 1494,
-    "clickcount": 125
+    "bitrate": 128,
+    "votes": 1510,
+    "clickcount": 112
   },
   {
     "id": null,
@@ -1310,8 +1292,8 @@
     "tags": "ambient techno,electro techno,electronic,hard techno,minimal techno,techno",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1456,
-    "clickcount": 4
+    "votes": 1465,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1328,8 +1310,8 @@
     "tags": "dark psytrance,electronic,progressive psytrance,psytrance,trance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1446,
-    "clickcount": 10
+    "votes": 1454,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -1346,8 +1328,8 @@
     "tags": "electronic,house,progressive,techno,trance",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 1427,
-    "clickcount": 7
+    "votes": 1429,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1364,26 +1346,8 @@
     "tags": "1970s,1980s,1990s,70's,70er,70s,70s disco,80's,80er,80s,90's,90er,90s,anni 70,anni 80,anni 90,classic hip hop,classic hits,classic hits 60s 70a 80s,club house,dance,dance music,dance pop,dancefloor,disco,disco funk,discomusic 70,discomusic 80,dj,dj mix,dj mixes,dj remix,dj sets,electronic,euro disco,eurodance,fm,funky,funky 70,goldies,high quality audio,hip-hop and rap oldies,hits,house,italo disco,music,music 70s 80s 90s,musica,musica anni 70,musica anni 80,oldies,oldschool,pop,pop music,public radio,radio,rap,studio 54,techno,vintage music,vintage radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1416,
+    "votes": 1420,
     "clickcount": 55
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "54b85bd0-8b71-11e9-ad01-52543be04c81",
-    "name": "Darksynth Radio",
-    "url": "http://stream.laut.fm/darksynthradio",
-    "url_resolved": "http://stream.laut.fm/darksynthradio",
-    "homepage": "https://laut.fm/darksynthradio",
-    "favicon": "",
-    "countrycode": "AT",
-    "state": "Vienna",
-    "language": "",
-    "tags": "80s,darkwave,electronic,electropop,gothic,industrial,minimal wave,synthpop",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1374,
-    "clickcount": 10
   },
   {
     "id": null,
@@ -1400,8 +1364,26 @@
     "tags": "dance,dance pop,electronic,house,new music,pop",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 1371,
-    "clickcount": 10
+    "votes": 1381,
+    "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "54b85bd0-8b71-11e9-ad01-52543be04c81",
+    "name": "Darksynth Radio",
+    "url": "http://stream.laut.fm/darksynthradio",
+    "url_resolved": "http://stream.laut.fm/darksynthradio",
+    "homepage": "https://laut.fm/darksynthradio",
+    "favicon": "",
+    "countrycode": "AT",
+    "state": "Vienna",
+    "language": "",
+    "tags": "80s,darkwave,electronic,electropop,gothic,industrial,minimal wave,synthpop",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1377,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1417,9 +1399,9 @@
     "language": "",
     "tags": "electronic",
     "codec": "AAC",
-    "bitrate": 123,
-    "votes": 1293,
-    "clickcount": 14
+    "bitrate": 147,
+    "votes": 1300,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1436,7 +1418,7 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1282,
+    "votes": 1284,
     "clickcount": 0
   },
   {
@@ -1454,8 +1436,8 @@
     "tags": "1980,1980s,1980s hits,80's,80er,80s,anni 80,classic hits,club dance,club hits,dance,dance music,dance pop,disco,dj,dj mix,dj mixes,dj remix,electronic,fm,hits,italo dance,italo disco,italo-disco,italy,local radio,mixed,music,musica,musica anni 80,oldies,pop,pop dance,pop music,public radio,radio,radio anni 80,the best of 80's",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1273,
-    "clickcount": 22
+    "votes": 1280,
+    "clickcount": 39
   },
   {
     "id": null,
@@ -1472,7 +1454,7 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1255,
+    "votes": 1265,
     "clickcount": 4
   },
   {
@@ -1490,8 +1472,8 @@
     "tags": "electronic,progressive trance,techno,trance",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 1254,
-    "clickcount": 4
+    "votes": 1263,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1508,8 +1490,8 @@
     "tags": "dance,electronic,pop,top 40",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1251,
-    "clickcount": 15
+    "votes": 1260,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -1526,8 +1508,8 @@
     "tags": "chillout,electronic,trip hop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1214,
-    "clickcount": 5
+    "votes": 1216,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1544,8 +1526,8 @@
     "tags": "electronic,minimal,minimal tech house,minimal techno,radcap,tech house",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 1193,
-    "clickcount": 6
+    "votes": 1206,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1562,7 +1544,7 @@
     "tags": "electronic,minimal,minimal tech house,minimal techno,radcap,tech house",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 1192,
+    "votes": 1202,
     "clickcount": 6
   },
   {
@@ -1580,8 +1562,8 @@
     "tags": "dance,dnb,drum and bass,dubstep,electronic,top40,trance,various",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1190,
-    "clickcount": 10
+    "votes": 1193,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1599,7 +1581,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1189,
-    "clickcount": 3
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1616,8 +1598,8 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1163,
-    "clickcount": 13
+    "votes": 1172,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1634,8 +1616,8 @@
     "tags": "electronic,house,techno",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1150,
-    "clickcount": 48
+    "votes": 1154,
+    "clickcount": 42
   },
   {
     "id": null,
@@ -1651,8 +1633,8 @@
     "language": "",
     "tags": "electronic",
     "codec": "MP3",
-    "bitrate": 0,
-    "votes": 1134,
+    "bitrate": 128,
+    "votes": 1137,
     "clickcount": 1
   },
   {
@@ -1670,8 +1652,8 @@
     "tags": "2000er,2000s,classic,deep techno,dub techno,electro,electronic,electronica,minimal,minimal techno,techno",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1126,
-    "clickcount": 9
+    "votes": 1132,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1688,8 +1670,8 @@
     "tags": "bass,club house,deep house,electro,electronic,elektro,house,progressive house",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1112,
-    "clickcount": 5
+    "votes": 1115,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1706,8 +1688,8 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1100,
-    "clickcount": 2
+    "votes": 1102,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1724,8 +1706,8 @@
     "tags": "club,dance,dj sets,electronic,mixes,sessions",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1097,
-    "clickcount": 2
+    "votes": 1101,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1742,8 +1724,8 @@
     "tags": "95.1,95.1 fm,argentina,buenos aires,ciudad de buenos aires,dance,electronic,entertainment,estación,fm,metro,radio,talk,urbano",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 1094,
-    "clickcount": 32
+    "votes": 1096,
+    "clickcount": 30
   },
   {
     "id": null,
@@ -1760,8 +1742,8 @@
     "tags": "electronic",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 1049,
-    "clickcount": 3
+    "votes": 1059,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1778,8 +1760,8 @@
     "tags": "electronic",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 1045,
-    "clickcount": 0
+    "votes": 1047,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1796,7 +1778,25 @@
     "tags": "#,beach,beachclub,chill,chillout,chillout+lounge,dj remix,electro,electro techno,electronic,festival,lounge,melodic house,melodic house & techno,melodic techno,pool beach bar,rave,relax,sea sounds,techno",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1021,
-    "clickcount": 32
+    "votes": 1026,
+    "clickcount": 27
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "55e5a025-8c6e-41ba-9397-b564f71f1b4b",
+    "name": "Radio Techno Dance Kneginec",
+    "url": "http://stream.zeno.fm/8d2pyzm5wp8uv",
+    "url_resolved": "http://stream.zeno.fm/8d2pyzm5wp8uv",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "HR",
+    "state": "",
+    "language": "",
+    "tags": "electronic",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 994,
+    "clickcount": 2
   }
 ]

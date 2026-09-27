@@ -105,7 +105,7 @@ http://rockerradio.online/live.mp3
 http://79.120.77.11:8000/progmetal
 
 #EXTINF:-1 tvg-logo="http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM - MetalFM
-http://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6nnn7577%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1789556087
+http://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6no7n62s%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1790420527
 
 #EXTINF:-1 tvg-logo="" group-title="RU",CORE Radio!
 http://194.58.97.117:8000/coreradio
@@ -155,20 +155,20 @@ https://0n-rock.radionetz.de/0n-rock.mp3
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png" group-title="RU",Radio Caprice - Melodic Death Metal
 http://79.120.77.11:8000/melodicdeath
 
-#EXTINF:-1 tvg-logo="" group-title="DE",Hazzard of Darkness
-http://hazzardstream.de:7777/listen1
-
 #EXTINF:-1 tvg-logo="" group-title="FR",Metal Invasion Radio
 https://radio.metal-invasion.fr/radio/8000/stream96
+
+#EXTINF:-1 tvg-logo="" group-title="DE",Hazzard of Darkness
+http://hazzardstream.de:7777/listen1
 
 #EXTINF:-1 tvg-logo="https://stream.radiosar.pl/logo.png" group-title="PL",Radio SAR - Studencka Agencja Radiowa
 https://stream.radiosar.pl/hdmain.mp3
 
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png" group-title="RU",Radio Caprice - Symphonic Power Metal
-http://213.141.131.10:8000/symphopower
-
 #EXTINF:-1 tvg-logo="https://image.atsw.de/atsw/production/2024-05/rockfm_metal_600x600.jpg" group-title="DE",ROCK FM METAL
 http://stream.regenbogen2.de/metal/mp3-128
+
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png" group-title="RU",Radio Caprice - Symphonic Power Metal
+http://213.141.131.10:8000/symphopower
 
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/s3/cruiser-production/2022/07/160994f8-296b-4cd8-97a0-34c9111cdd9d/400x400_fip-metal-20222x_2.webp" group-title="FR",FIP Metal
 https://icecast.radiofrance.fr/fipmetal-hifi.aac?id=radiofrance
@@ -201,16 +201,16 @@ https://stream2.rockfm.lt/crf128.mp3
 https://metal-only.sp.radio.fm/stream
 
 #EXTINF:-1 tvg-logo="http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM - MetalFM
-http://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871?sABC=6nn9562q%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1789482541
+http://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871?sABC=6no685pp%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1790346700
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Brutal Death Metal
 http://79.111.119.111:8000/brutaldeathmetal
 
-#EXTINF:-1 tvg-logo="https://www.christianhardrock.net/apple-touch-icon.png" group-title="US",CRnet Hard Rock (128)
-https://shoutcast.christianrock.net/stream/3/
-
 #EXTINF:-1 tvg-logo="http://aggregatorservice.loverad.io/wp-content/uploads/2018/07/radiobob-streamicon_wacken.png" group-title="DE",RADIO BOB! BOBs Wacken Nonstop (192kbit)
 http://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de/
+
+#EXTINF:-1 tvg-logo="https://www.christianhardrock.net/apple-touch-icon.png" group-title="US",CRnet Hard Rock (128)
+https://shoutcast.christianrock.net/stream/3/
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Rock Antenne Modern Rock
 http://stream.rockantenne.de/modern-rock/stream/mp3
@@ -220,6 +220,9 @@ http://79.111.119.111:8000/melodicpower
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Progressive Metal
 http://79.120.77.11:8002/progmetal
+
+#EXTINF:-1 tvg-logo="" group-title="DE",Punk4all
+http://punk4all.stream.laut.fm/punk4all
 
 #EXTINF:-1 tvg-logo="" group-title="US",HardRadio [AAC+]
 http://3634.cloudrad.io/stream/3//hardradio4.aac
@@ -251,11 +254,11 @@ http://91.232.4.33:9073/stream
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__12PUNKS.FM__ by rautemusik (rm.fm)
 https://12punks-high.rautemusik.fm/?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="RS",UnderGRAND Radio
-http://stream.zeno.fm/rp1swb5pgzzuv
-
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Folk Metal
 http://79.120.39.202:8000/folkmetal
+
+#EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="RS",UnderGRAND Radio
+http://stream.zeno.fm/rp1swb5pgzzuv
 
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-rock_600x600.jpg" group-title="DE",- 1 A - Rock von 1A Radio
 https://1a-rock.radionetz.de/1a-rock.mp3
@@ -272,20 +275,20 @@ http://79.120.77.11:8000/funeraldoom
 #EXTINF:-1 tvg-logo="" group-title="DE",RauteMusik Wacken Radio
 http://wackenradio-high.rautemusik.fm/
 
-#EXTINF:-1 tvg-logo="" group-title="DE",laut.fm Fantasyradio
-http://stream.laut.fm/fantasyradio
-
 #EXTINF:-1 tvg-logo="https://1055rock.gr/wp-content/uploads/2021/11/favicon2.jpg" group-title="GR",1055 Rock - Thessaloniki
 https://radio.1055rock.gr:31056/live
+
+#EXTINF:-1 tvg-logo="" group-title="DE",laut.fm Fantasyradio
+http://stream.laut.fm/fantasyradio
 
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__ROCK__ by rautemusik (rm.fm)
 https://rock-high.rautemusik.fm/?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="" group-title="Global",Polygon.FM - Loud Russian (fastcast)
-https://eu6.fastcast4u.com/proxy/lrm?mp=/stream
-
 #EXTINF:-1 tvg-logo="https://images.radiobob.de/files/2024-01/bob_stream-tile_nu-metal.jpg?fm=jpg&w=180&h=180&dpr=2" group-title="DE",Radio BOB - Nu Metal (mp3 192)
 https://streams.radiobob.de/numetal/mp3-192/
+
+#EXTINF:-1 tvg-logo="" group-title="Global",Polygon.FM - Loud Russian (fastcast)
+https://eu6.fastcast4u.com/proxy/lrm?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-heavymetal_600x600.jpg" group-title="DE",- 0 N - Heavy Metal on Radio
 https://0n-heavymetal.radionetz.de/0n-heavymetal.aac
@@ -298,7 +301,4 @@ https://stream.radiofrance.fr/fipmetal/fipmetal_hifi.m3u8
 
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/b8qjdagwc9d8.png" group-title="RU",Radio Caprice - Viking Metal
 http://79.111.14.76:8000/vikingmetal
-
-#EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="CN",夜愿电台Nightwish Radio
-https://stream.zeno.fm/98wt67yfky8uv
 

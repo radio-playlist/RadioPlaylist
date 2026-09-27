@@ -47,9 +47,6 @@ http://s3.voscast.com:10038/
 #EXTINF:-1 tvg-logo="" group-title="ES",Radio Marca
 https://sonic.mediatelekom.net/9316/stream
 
-#EXTINF:-1 tvg-logo="" group-title="YE",. quran
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg" group-title="DZ",إذاعة القرآن الكريم
 https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
 
@@ -134,9 +131,6 @@ http://stream.radiojar.com/0tpy1h0kxtzuv
 #EXTINF:-1 tvg-logo="" group-title="GE",Radio Amra
 https://streamer.radio.co/s34b5469e0/listen
 
-#EXTINF:-1 tvg-logo="" group-title="DZ",. إذاعة ماهر المعيقلي
-https://backup.qurango.net/radio/maher
-
 #EXTINF:-1 tvg-logo="" group-title="NL",Concertzender Baroque
 http://streams.greenhost.nl:8080/barok
 
@@ -152,17 +146,17 @@ https://streaming.tdiradio.com/radiolola.mp3
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="DE",WDR 3
 http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="US",Whisperings Solo Piano Radio
-http://pianosolo.streamguys.net/live
-
 #EXTINF:-1 tvg-logo="" group-title="TN",قراءات متنوعة
 https://qurango.net/radio/mix
 
-#EXTINF:-1 tvg-logo="" group-title="DZ",.مختصر السيرة
-https://qurango.net/radio/almukhtasar_fi_alsiyra
+#EXTINF:-1 tvg-logo="" group-title="US",Whisperings Solo Piano Radio
+http://pianosolo.streamguys.net/live
 
 #EXTINF:-1 tvg-logo="" group-title="DZ",..مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
+
+#EXTINF:-1 tvg-logo="" group-title="DZ",.مختصر السيرة
+https://qurango.net/radio/almukhtasar_fi_alsiyra
 
 #EXTINF:-1 tvg-logo="" group-title="IQ",.. مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
@@ -190,9 +184,6 @@ https://mediaserv73.live-streams.nl:18058/stream
 
 #EXTINF:-1 tvg-logo="https://www.klassik1.de/favicon.png" group-title="DE",KLASSIK 1
 http://icepool.silvacast.com/KLASSIK1.mp3
-
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Classical Piano
-http://79.120.39.202:9069/;
 
 #EXTINF:-1 tvg-logo="" group-title="RO",Radio Trinitas
 http://81.196.25.70:8000/
@@ -251,11 +242,11 @@ https://qurango.net/radio/salma
 #EXTINF:-1 tvg-logo="" group-title="MA",.. مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
 
-#EXTINF:-1 tvg-logo="" group-title="DZ",al quran radio
-https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="GB",BBC Radio 3 (128k)
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DZ",al quran radio
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
 
 #EXTINF:-1 tvg-logo="http://api.play.cz/static/radio_logo/t200/cro3.png" group-title="CZ",ČRo Vltava
 http://icecast5.play.cz/cro3-128.mp3
@@ -299,6 +290,15 @@ https://qurango.net/radio/sahabah
 #EXTINF:-1 tvg-logo="https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png" group-title="CA",Calm Radio - Bach
 http://streams.calmradio.com:6828/stream
 
+#EXTINF:-1 tvg-logo="" group-title="DE",EPIC CLASSICAL - Classical Music For Sleep
+https://stream.epic-classical.com/classical-music-for-sleep
+
 #EXTINF:-1 tvg-logo="" group-title="SK",SRo3: Rádio Devín
 http://icecast.stv.livebox.sk/devin_128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="EG",تفسير بن عثيمين
+https://qurango.net/radio/tafseer
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s25028q.png" group-title="DE",Klassik Radio - Opera
+http://stream.klassikradio.de/opera/mp3-128/www.klassikradio.de/
 

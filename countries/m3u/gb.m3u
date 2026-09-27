@@ -96,7 +96,7 @@ http://64.95.243.43:8002/stream
 http://stream.techno.fm/radio.mp3
 
 #EXTINF:-1 tvg-logo="http://www.1mix.co.uk/favicon.ico" group-title="GB",1Mix Radio Trance
-http://fr2.1mix.co.uk:8060/192
+http://fr2.1mix.co.uk:8000/192
 
 #EXTINF:-1 tvg-logo="http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="GB",LBC London (London stream) MP3
 http://media-ice.musicradio.com/LBCLondonMP3Low
@@ -128,14 +128,14 @@ http://media-sov.musicradio.com/ClassicFM-M-Movies
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24943q.png" group-title="GB",BBC Radio 5 Live (128k)
 http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="GB",GBNews
-http://listen-gbnews.sharp-stream.com/gbnews.mp3
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24940q.png" group-title="GB",BBC Radio 2 (128k)
 http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24939q.png" group-title="GB",BBC Radio 1
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="GB",GBNews
+http://listen-gbnews.sharp-stream.com/gbnews.mp3
 
 #EXTINF:-1 tvg-logo="https://danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="GB",DanceRadioUK - Dance UK
 http://uk2.internet-radio.com:8024/stream
@@ -170,9 +170,6 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
 #EXTINF:-1 tvg-logo="https://www.capitaldance.com/assets_v4r/capitaldance/img/favicon-196x196.png" group-title="GB",Capital Dance
 https://icecast.thisisdax.com/CapitalDanceMP3
 
-#EXTINF:-1 tvg-logo="" group-title="GB",Hard Rock Hell
-http://andromeda.shoutca.st:9254/stream
-
 #EXTINF:-1 tvg-logo="" group-title="GB",Virgin Radio Chilled
 https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web
 
@@ -191,11 +188,11 @@ http://media-ice.musicradio.com/GoldMP3
 #EXTINF:-1 tvg-logo="https://seva.ru/radio/radio.png" group-title="GB",Радио Сева (Radio Seva Novgorodsev)
 https://seva.ru/radio/stream
 
-#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="GB",BBC World Service
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="GB",BBC Radio 3 (128k)
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="GB",BBC World Service
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6839q.png" group-title="GB",BBC Radio 4 Extra (128k)
 http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8
@@ -221,11 +218,11 @@ http://media-the.musicradio.com/HeartNorthLancsCumbria
 #EXTINF:-1 tvg-logo="https://www.danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="GB",Dance UK Radio danceradiouk
 http://51.89.148.171:8022/stream
 
-#EXTINF:-1 tvg-logo="" group-title="GB",Radio Caroline
-http://sc6.radiocaroline.net:8040/;stream.mp3
-
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s155539/images/logod.png" group-title="GB",TMM 2 (HQ)
 https://listen-msmn.sharp-stream.com/nme2high.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Radio Caroline
+http://sc6.radiocaroline.net:8040/;stream.mp3
 
 #EXTINF:-1 tvg-logo="http://www.nts.live/favicon.ico" group-title="GB",NTS Radio 1
 http://stream-relay-geo.ntslive.net/stream
@@ -254,11 +251,11 @@ http://stream.nonstopplay.co.uk/nsp-192k-mp3
 #EXTINF:-1 tvg-logo="https://www.1mix.co.uk/forum/styles/acidtech/theme/images/site_logo.gif" group-title="GB",1Mix Radio - Trance (UK) 32kb aac+
 http://fr2.1mix.co.uk:9000/aacb
 
-#EXTINF:-1 tvg-logo="" group-title="GB",TrancePulse FM
-http://live.trance.ie:8000/stream
-
 #EXTINF:-1 tvg-logo="https://herald.musicradio.com/media/02a3caa1-dacf-47b1-ad54-c10728b66cd9.png" group-title="GB",LBC News
 https://media-ssl.musicradio.com/LBCNewsUK
+
+#EXTINF:-1 tvg-logo="" group-title="GB",TrancePulse FM
+http://live.trance.ie:8000/stream
 
 #EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="GB",Naim Radio [lossless flac]
 http://mscp3.live-streams.nl:8360/flac.flac
@@ -266,11 +263,11 @@ http://mscp3.live-streams.nl:8360/flac.flac
 #EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="GB",Naim Classical
 http://mscp3.live-streams.nl:8250/class-high.aac
 
-#EXTINF:-1 tvg-logo="https://bsj.fm/assets/img/bsj-favicon.ico" group-title="GB",BSJ.FM Best Smooth Jazz
-https://bsj.lucasmultimedia.com:8002/stream.ogg
-
 #EXTINF:-1 tvg-logo="https://www.1mix.co.uk/favicon.ico" group-title="GB",1Mix Radio - Trance (UK) 320kb mp3
 http://fr2.1mix.co.uk:9000/320b
+
+#EXTINF:-1 tvg-logo="https://bsj.fm/assets/img/bsj-favicon.ico" group-title="GB",BSJ.FM Best Smooth Jazz
+https://bsj.lucasmultimedia.com:8002/stream.ogg
 
 #EXTINF:-1 tvg-logo="http://www.nts.live/apple-touch-icon.png?v=47re43rrzb" group-title="GB",NTS Radio 2
 http://stream-relay-geo.ntslive.net/stream2
@@ -301,4 +298,7 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low
 
 #EXTINF:-1 tvg-logo="" group-title="GB",1Mix Radio - Trance #1 (UK) 320kb mp3
 http://fr2.1mix.co.uk:9000/320
+
+#EXTINF:-1 tvg-logo="http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png" group-title="GB",Radio X London
+http://media-the.musicradio.com/RadioXLondon
 

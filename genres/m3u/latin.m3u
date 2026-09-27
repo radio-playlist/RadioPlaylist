@@ -18,7 +18,7 @@ http://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
 http://strm112.1.fm/caferadio_mobile_mp3
 
 #EXTINF:-1 tvg-logo="https://uploads.candelaestereo.com/1/2019/06/cropped-logo-candela-llama-100x100.png" group-title="CO",Candela Estéreo Bogotá (HJPU 101.9)
-http://27583.live.streamtheworld.com:3690/CANDELAESTEREO_SC
+http://27343.live.streamtheworld.com:3690/CANDELAESTEREO_SC
 
 #EXTINF:-1 tvg-logo="http://radiobachata.net/favicon.ico" group-title="DO",Radio Bachata
 http://perseus.shoutca.st:8312/;stream/1
@@ -57,7 +57,7 @@ https://stream.0nlineradio.com/remix?ref=radiobrowser
 http://strm112.1.fm/bossanova_mobile_mp3
 
 #EXTINF:-1 tvg-logo="http://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png?v2" group-title="MX",XHTIM "La Mejor" 90.7 FM Tijuana, BN
-http://18213.live.streamtheworld.com/XHTIM_SC
+http://14223.live.streamtheworld.com:3690/XHTIM_SC
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Laut.FM jazzrockfusion
 http://stream.laut.fm/jazzrockfusion
@@ -73,9 +73,6 @@ https://liveaudio.lamusica.com/LA_KXOL_icy
 
 #EXTINF:-1 tvg-logo="" group-title="DO",Tropical 100 Mix
 https://stream-107.zeno.fm/esgo1lafgtstv?zs=o1G7UIERS3Gdtn2B7Jdt7Q
-
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="FR",Latina Kizomba
-http://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3
 
 #EXTINF:-1 tvg-logo="https://www.ubuntu.fm/sites/default/files//favicons/apple-touch-icon.png" group-title="ZA",UbuntuFM
 https://streaming.coollective.nl:8443/UbuntuFM
@@ -140,9 +137,6 @@ https://mc-mcbossa.hostingradio.ru/mcbossa96.aacp
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="GR",Radio Art - Latin Jazz
 http://air.radioart.com/fLatin_jazz.mp3
 
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="FR",Latina Fiesta
-http://latinafiesta.ice.infomaniak.ch/latinafiesta.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-reggae_600x600.jpg" group-title="DE",- 0 N - Reggae on Radio
 https://0n-reggae.radionetz.de/0n-reggae.mp3
 
@@ -170,11 +164,11 @@ http://s2.myradiostream.com:4520/listen.m4a
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/297/6544fa9112c3f.png" group-title="US",Viva FM Orlando 99.5 Orange County/103.7 Osceola County
 https://stream.broadcastserver.net:2020/stream/wvvo?_=23526
 
-#EXTINF:-1 tvg-logo="https://www.radioplay.bg/assets/logos/citylatin.png" group-title="BG",City Latin
-https://play.global.audio/citylatin.aac
-
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/6542c38fa019d6dc1648908c" group-title="MX",MEGA 96.3 (Los Ángeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los Ángeles, California, EUA
 https://liveaudio.lamusica.com/LA_KXOL_icy
+
+#EXTINF:-1 tvg-logo="https://www.radioplay.bg/assets/logos/citylatin.png" group-title="BG",City Latin
+https://play.global.audio/citylatin.aac
 
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="FR",Latina @Work
 http://latinawork.ice.infomaniak.ch/latinawork.mp3
@@ -206,6 +200,9 @@ https://5eac7b031d945.streamlock.net/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="GR",Radio Art - Romantic Latin
 https://live.radioart.com/fRomantic_latin.mp3
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0J7g21/main-mornin-party-night.jpg" group-title="DE",# Mainstream Mornings & Party Nights - (Morning/Day: Mainstream, Top 40, Charts - Evening/Night: Party, House, Techno, DJ Mixes, Live DJs)
+https://breakz-high.rautemusik.fm/?ref=maindjatnightrb
+
 #EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="CO",Durisima Radio Online
 http://stream.laut.fm/durisimaradio
 
@@ -213,10 +210,7 @@ http://stream.laut.fm/durisimaradio
 https://mambo.newradio.it/stream
 
 #EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - the sun
-http://ilm.stream27.radiohost.de/ilm_ilovethesun_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzg5NTA1MzQxJmQ9YWJlOTVlYWRiMGNkYjFhYTcwYzE
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m0J7g21/main-mornin-party-night.jpg" group-title="DE",# Mainstream Mornings & Party Nights - (Morning/Day: Mainstream, Top 40, Charts - Evening/Night: Party, House, Techno, DJ Mixes, Live DJs)
-https://breakz-high.rautemusik.fm/?ref=maindjatnightrb
+http://ilm.stream35.radiohost.de/ilm_ilovethesun_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkwMzY5NTg3JmQ9ZjY2NmEwMjQxMmI3MTgzYWRjODE
 
 #EXTINF:-1 tvg-logo="https://lh3.ggpht.com/a4M_Oyz2Jek1bkcRe8I7v3A8clEOoOI8Y-NiYuuICuw0wOHwaZgMUit4rRgC18mGZMo_=w300" group-title="DE",Laut.FM Mojo
 http://stream.laut.fm/mojo
@@ -224,11 +218,11 @@ http://stream.laut.fm/mojo
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s240544/images/logod.png" group-title="NI",Stereo Beso 94.5 FM
 https://a9.asurahosting.com:7140/radio.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio URBAN
-https://stream.0nlineradio.com/urban?ref=radiobrowser
-
 #EXTINF:-1 tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/262fe18f-9207-459e-b41f-96c5d9269613.jpg" group-title="AE",Exclusively Linda Ronstadt
 http://2.mystreaming.net/er/lindaronstadt/icecast.audio
+
+#EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio URBAN
+https://stream.0nlineradio.com/urban?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="https://www.radioplay.bg/assets/logos/citylatin.png" group-title="BG",City Latin
 https://play.global.audio/citylatinhi.aac
@@ -301,4 +295,10 @@ https://streamcdnr7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayga
 
 #EXTINF:-1 tvg-logo="" group-title="GB",Bar Latina Radio
 https://s2.citrus3.com:2000/stream/barlatinaradio
+
+#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/931d72949d13bf3d7499e1550371871a.webp" group-title="ES",Radio Líder Santiago
+https://server8.emitironline.com:18520/stream
+
+#EXTINF:-1 tvg-logo="https://yosoyfm.com/favicon.ico" group-title="MX",Soy 101.7 (Veracruz) - 101.7 FM - XHPR-FM - Grupo Radio Digital - Boca del Río, Veracruz
+https://stream.zeno.fm/uemgdeyam5zuv
 
