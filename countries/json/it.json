@@ -14,8 +14,8 @@
     "tags": "news,public radio,rai",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 42301,
-    "clickcount": 144
+    "votes": 42390,
+    "clickcount": 154
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "classic rock,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 37802,
-    "clickcount": 48
+    "votes": 37896,
+    "clickcount": 47
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "news talk",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 35472,
-    "clickcount": 180
+    "votes": 35625,
+    "clickcount": 280
   },
   {
     "id": null,
@@ -68,26 +68,8 @@
     "tags": "hits,mediaset,pop,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 34223,
-    "clickcount": 83
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96181819-0601-11e8-ae97-52543be04c81",
-    "name": "Rai Radio 2",
-    "url": "http://icestreaming.rai.it/2.mp3",
-    "url_resolved": "http://icestreaming.rai.it/2.mp3",
-    "homepage": "http://www.radio2.rai.it/",
-    "favicon": "",
-    "countrycode": "IT",
-    "state": "Lazio",
-    "language": "italian",
-    "tags": "public radio,rai",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 30117,
-    "clickcount": 48
+    "votes": 34292,
+    "clickcount": 149
   },
   {
     "id": null,
@@ -104,8 +86,8 @@
     "tags": "dance,padova",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 27556,
-    "clickcount": 15
+    "votes": 27577,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -122,8 +104,8 @@
     "tags": "anni 80,anni 90,balera,dance,folk,italiana,liscio,oldies,pop,popolare,tradizione",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 24988,
-    "clickcount": 37
+    "votes": 25312,
+    "clickcount": 76
   },
   {
     "id": null,
@@ -140,8 +122,8 @@
     "tags": "classical,culture,public radio,rai",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 23457,
-    "clickcount": 71
+    "votes": 23507,
+    "clickcount": 96
   },
   {
     "id": null,
@@ -158,8 +140,8 @@
     "tags": "adult contemporary,mediaset,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 18809,
-    "clickcount": 88
+    "votes": 18854,
+    "clickcount": 81
   },
   {
     "id": null,
@@ -176,8 +158,8 @@
     "tags": "mediaset,pop rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 17183,
-    "clickcount": 75
+    "votes": 17227,
+    "clickcount": 96
   },
   {
     "id": null,
@@ -194,8 +176,8 @@
     "tags": "90s,eurodance,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 15913,
-    "clickcount": 31
+    "votes": 15943,
+    "clickcount": 29
   },
   {
     "id": null,
@@ -212,8 +194,8 @@
     "tags": "80s,noventa padovana",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 13539,
-    "clickcount": 53
+    "votes": 13593,
+    "clickcount": 66
   },
   {
     "id": null,
@@ -230,8 +212,8 @@
     "tags": "320 kbps,70,70 80 hits,70 80 hits hq,70 music,70-80,70-80 hits,80,80 music,high quality audio,hq",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 13472,
-    "clickcount": 19
+    "votes": 13504,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -248,8 +230,8 @@
     "tags": "70s,classic rock,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 13413,
-    "clickcount": 8
+    "votes": 13460,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -266,8 +248,8 @@
     "tags": "80s,classic rock,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12128,
-    "clickcount": 15
+    "votes": 12167,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -284,8 +266,8 @@
     "tags": "dance",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 11977,
-    "clickcount": 14
+    "votes": 11990,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -302,8 +284,8 @@
     "tags": "roma,sport,talk",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 11758,
-    "clickcount": 19
+    "votes": 11782,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -320,8 +302,8 @@
     "tags": "80s,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 10568,
-    "clickcount": 9
+    "votes": 10582,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -338,8 +320,8 @@
     "tags": "italian pop",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 10272,
-    "clickcount": 222
+    "votes": 10326,
+    "clickcount": 247
   },
   {
     "id": null,
@@ -356,8 +338,8 @@
     "tags": "hard rock,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 9991,
-    "clickcount": 3
+    "votes": 10017,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -374,8 +356,8 @@
     "tags": "roma,sport,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8708,
-    "clickcount": 9
+    "votes": 8711,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -392,8 +374,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8192,
-    "clickcount": 51
+    "votes": 8202,
+    "clickcount": 62
   },
   {
     "id": null,
@@ -410,7 +392,7 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7986,
+    "votes": 8012,
     "clickcount": 57
   },
   {
@@ -428,26 +410,8 @@
     "tags": "catholic,christian,erba,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7512,
-    "clickcount": 18
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "48ca9396-9e19-11e9-a787-52543be04c81",
-    "name": "Virgin Radio Rock Ballads",
-    "url": "http://icy.unitedradio.it/Virgin_06.mp3",
-    "url_resolved": "http://icy.unitedradio.it/Virgin_06.mp3",
-    "homepage": "https://www.virginradio.it/sezioni/2015/virgin-radio-rock-ballads",
-    "favicon": "",
-    "countrycode": "IT",
-    "state": "Lombardia",
-    "language": "italian",
-    "tags": "ballads,mediaset",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 7379,
-    "clickcount": 7
+    "votes": 7522,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -464,8 +428,26 @@
     "tags": "adult contemporary,mediaset,pop",
     "codec": "AAC+",
     "bitrate": 95,
-    "votes": 7371,
-    "clickcount": 48
+    "votes": 7398,
+    "clickcount": 69
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "48ca9396-9e19-11e9-a787-52543be04c81",
+    "name": "Virgin Radio Rock Ballads",
+    "url": "http://icy.unitedradio.it/Virgin_06.mp3",
+    "url_resolved": "http://icy.unitedradio.it/Virgin_06.mp3",
+    "homepage": "https://www.virginradio.it/sezioni/2015/virgin-radio-rock-ballads",
+    "favicon": "",
+    "countrycode": "IT",
+    "state": "Lombardia",
+    "language": "italian",
+    "tags": "ballads,mediaset",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 7387,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -482,8 +464,8 @@
     "tags": "dance,electronica,napoli",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7159,
-    "clickcount": 84
+    "votes": 7180,
+    "clickcount": 91
   },
   {
     "id": null,
@@ -500,8 +482,8 @@
     "tags": "1970s,1980s,70's,70s,70s disco,80,80's,80s,classic hits",
     "codec": "AAC+",
     "bitrate": 192,
-    "votes": 6378,
-    "clickcount": 31
+    "votes": 6393,
+    "clickcount": 47
   },
   {
     "id": null,
@@ -518,8 +500,8 @@
     "tags": "70s,italian,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6060,
-    "clickcount": 9
+    "votes": 6077,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -536,7 +518,7 @@
     "tags": "politics,talk",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 6021,
+    "votes": 6033,
     "clickcount": 29
   },
   {
@@ -554,8 +536,8 @@
     "tags": "hiphop,mediaset,rnb",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5771,
-    "clickcount": 4
+    "votes": 5776,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -572,26 +554,8 @@
     "tags": "hits",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5747,
-    "clickcount": 12
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "962867e2-0601-11e8-ae97-52543be04c81",
-    "name": "RMC Love Songs",
-    "url": "http://edge.radiomontecarlo.net/rmcweb006",
-    "url_resolved": "http://edge.radiomontecarlo.net/rmcweb006",
-    "homepage": "http://www.radiomontecarlo.net/",
-    "favicon": "",
-    "countrycode": "IT",
-    "state": "Lombardia",
-    "language": "italian",
-    "tags": "love songs,mediaset,soft adult contemporary,soft music",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 5611,
-    "clickcount": 9
+    "votes": 5754,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -608,8 +572,26 @@
     "tags": "mediaset,mood",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5607,
-    "clickcount": 14
+    "votes": 5621,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "962867e2-0601-11e8-ae97-52543be04c81",
+    "name": "RMC Love Songs",
+    "url": "http://edge.radiomontecarlo.net/rmcweb006",
+    "url_resolved": "http://edge.radiomontecarlo.net/rmcweb006",
+    "homepage": "http://www.radiomontecarlo.net/",
+    "favicon": "",
+    "countrycode": "IT",
+    "state": "Lombardia",
+    "language": "italian",
+    "tags": "love songs,mediaset,soft adult contemporary,soft music",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 5616,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -626,8 +608,8 @@
     "tags": "adult contemporary,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5535,
-    "clickcount": 194
+    "votes": 5553,
+    "clickcount": 202
   },
   {
     "id": null,
@@ -644,8 +626,8 @@
     "tags": "public radio,rai",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 5213,
-    "clickcount": 18
+    "votes": 5229,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -662,8 +644,8 @@
     "tags": "dance,electronica,genova,house",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 4990,
-    "clickcount": 12
+    "votes": 5002,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -680,8 +662,8 @@
     "tags": "classical,classical music,rai",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 4743,
-    "clickcount": 8
+    "votes": 4757,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -698,8 +680,8 @@
     "tags": "sport",
     "codec": "AAC+",
     "bitrate": 36,
-    "votes": 4663,
-    "clickcount": 49
+    "votes": 4682,
+    "clickcount": 52
   },
   {
     "id": null,
@@ -716,8 +698,8 @@
     "tags": "comedy,mediaset,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4654,
-    "clickcount": 9
+    "votes": 4666,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -734,8 +716,8 @@
     "tags": "80s,italian,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4649,
-    "clickcount": 7
+    "votes": 4660,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -752,26 +734,8 @@
     "tags": "music",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 4178,
+    "votes": 4206,
     "clickcount": 44
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "266c9ba9-7fad-11e8-a43d-52543be04c81",
-    "name": "MUSIC STAR Roger Waters - Pink Floyd",
-    "url": "http://icy.unitedradio.it/VirginRogerWaters.mp3",
-    "url_resolved": "http://icy.unitedradio.it/VirginRogerWaters.mp3",
-    "homepage": "http://www.virginradio.it/sezioni/1926/music-star-roger-waters-pink-floyd",
-    "favicon": "",
-    "countrycode": "IT",
-    "state": "Lombardia",
-    "language": "italian",
-    "tags": "classic rock,mediaset",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4109,
-    "clickcount": 3
   },
   {
     "id": null,
@@ -788,8 +752,26 @@
     "tags": "hits,new hits",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 4109,
-    "clickcount": 9
+    "votes": 4118,
+    "clickcount": 13
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "266c9ba9-7fad-11e8-a43d-52543be04c81",
+    "name": "MUSIC STAR Roger Waters - Pink Floyd",
+    "url": "http://icy.unitedradio.it/VirginRogerWaters.mp3",
+    "url_resolved": "http://icy.unitedradio.it/VirginRogerWaters.mp3",
+    "homepage": "http://www.virginradio.it/sezioni/1926/music-star-roger-waters-pink-floyd",
+    "favicon": "",
+    "countrycode": "IT",
+    "state": "Lombardia",
+    "language": "italian",
+    "tags": "classic rock,mediaset",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 4111,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -806,8 +788,8 @@
     "tags": "talk",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 3997,
-    "clickcount": 6
+    "votes": 4006,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -824,8 +806,8 @@
     "tags": "italian pop,mediaset",
     "codec": "AAC",
     "bitrate": 95,
-    "votes": 3960,
-    "clickcount": 2
+    "votes": 3981,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -842,26 +824,8 @@
     "tags": "pop,public radio,rai,sport",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3850,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "27c3e080-2908-11e9-a80b-52543be04c81",
-    "name": "Virgin Radio Rock '90",
-    "url": "http://icy.unitedradio.it/Virgin_03.mp3",
-    "url_resolved": "http://icy.unitedradio.it/Virgin_03.mp3",
-    "homepage": "https://www.virginradio.it/sezioni/1992/virgin-radio-rock-90",
-    "favicon": "",
-    "countrycode": "IT",
-    "state": "Lombardia",
-    "language": "italian",
-    "tags": "90s,classic rock,mediaset",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3837,
-    "clickcount": 9
+    "votes": 3857,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -878,7 +842,25 @@
     "tags": "as roma,sports talk",
     "codec": "AAC+",
     "bitrate": 0,
-    "votes": 3827,
+    "votes": 3857,
+    "clickcount": 14
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "27c3e080-2908-11e9-a80b-52543be04c81",
+    "name": "Virgin Radio Rock '90",
+    "url": "http://icy.unitedradio.it/Virgin_03.mp3",
+    "url_resolved": "http://icy.unitedradio.it/Virgin_03.mp3",
+    "homepage": "https://www.virginradio.it/sezioni/1992/virgin-radio-rock-90",
+    "favicon": "",
+    "countrycode": "IT",
+    "state": "Lombardia",
+    "language": "italian",
+    "tags": "90s,classic rock,mediaset",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 3845,
     "clickcount": 12
   },
   {
@@ -896,8 +878,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3783,
-    "clickcount": 78
+    "votes": 3812,
+    "clickcount": 59
   },
   {
     "id": null,
@@ -914,8 +896,8 @@
     "tags": "disco,funk,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3703,
-    "clickcount": 4
+    "votes": 3712,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -932,8 +914,8 @@
     "tags": "talk",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 3635,
-    "clickcount": 11
+    "votes": 3642,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -950,8 +932,8 @@
     "tags": "lounge,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3180,
-    "clickcount": 4
+    "votes": 3196,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -968,26 +950,8 @@
     "tags": "local,news,varied",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 3105,
-    "clickcount": 127
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961f0ae1-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Italia Anni 60 - Trentino Alto Adige",
-    "url": "http://ice10.fluidstream.net/anni60tn.aac",
-    "url_resolved": "http://ice10.fluidstream.net/anni60tn.aac",
-    "homepage": "http://www.radioitaliaanni60.it/index.php/taa-home",
-    "favicon": "http://www.radioitaliaanni60.it/templates/enar/images/favicon/apple-touch-icon-120x120.png",
-    "countrycode": "IT",
-    "state": "Trentino-Alto Adige/Südtirol",
-    "language": "italian",
-    "tags": "60s,70s,80s,90s,trento",
-    "codec": "AAC",
-    "bitrate": 64,
-    "votes": 3097,
-    "clickcount": 22
+    "votes": 3144,
+    "clickcount": 150
   },
   {
     "id": null,
@@ -1004,8 +968,26 @@
     "tags": "",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 3060,
-    "clickcount": 51
+    "votes": 3106,
+    "clickcount": 57
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "961f0ae1-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Italia Anni 60 - Trentino Alto Adige",
+    "url": "http://ice10.fluidstream.net/anni60tn.aac",
+    "url_resolved": "http://ice10.fluidstream.net/anni60tn.aac",
+    "homepage": "http://www.radioitaliaanni60.it/index.php/taa-home",
+    "favicon": "http://www.radioitaliaanni60.it/templates/enar/images/favicon/apple-touch-icon-120x120.png",
+    "countrycode": "IT",
+    "state": "Trentino-Alto Adige/Südtirol",
+    "language": "italian",
+    "tags": "60s,70s,80s,90s,trento",
+    "codec": "AAC",
+    "bitrate": 64,
+    "votes": 3101,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -1022,8 +1004,8 @@
     "tags": "mediaset,pop rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3022,
-    "clickcount": 0
+    "votes": 3034,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1040,8 +1022,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 2986,
-    "clickcount": 0
+    "votes": 2999,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1058,8 +1040,8 @@
     "tags": "independent,milano,news,non-commercial,popolare network",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 2945,
-    "clickcount": 28
+    "votes": 2952,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -1076,8 +1058,8 @@
     "tags": "70s,80s,90s,classic hits,rovereto",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2916,
-    "clickcount": 3
+    "votes": 2919,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1094,7 +1076,7 @@
     "tags": "assisi,love songs,mediaset,soft adult contemporary",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2829,
+    "votes": 2848,
     "clickcount": 0
   },
   {
@@ -1112,8 +1094,8 @@
     "tags": "business,business news,economics,finance,news talk,politics",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 2732,
-    "clickcount": 18
+    "votes": 2755,
+    "clickcount": 30
   },
   {
     "id": null,
@@ -1130,8 +1112,8 @@
     "tags": "dance,house,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2543,
-    "clickcount": 4
+    "votes": 2550,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1148,8 +1130,8 @@
     "tags": "hiphop,italian,mediaset,rap",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2519,
-    "clickcount": 7
+    "votes": 2522,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1166,8 +1148,8 @@
     "tags": "mediaset,pop rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2463,
-    "clickcount": 1
+    "votes": 2464,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1184,8 +1166,8 @@
     "tags": "classic italian pop,love songs",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 2435,
-    "clickcount": 5
+    "votes": 2447,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1202,7 +1184,7 @@
     "tags": "italian,italian pop,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2428,
+    "votes": 2444,
     "clickcount": 8
   },
   {
@@ -1220,7 +1202,7 @@
     "tags": "assisi,italy,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2372,
+    "votes": 2374,
     "clickcount": 5
   },
   {
@@ -1238,8 +1220,8 @@
     "tags": "milano,music,news,popolare network",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 2272,
-    "clickcount": 2
+    "votes": 2287,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1256,8 +1238,8 @@
     "tags": "commercial,dance,electronic,house",
     "codec": "AAC+",
     "bitrate": 122,
-    "votes": 2176,
-    "clickcount": 52
+    "votes": 2182,
+    "clickcount": 59
   },
   {
     "id": null,
@@ -1274,8 +1256,8 @@
     "tags": "italian,news,pop,talk",
     "codec": "AAC+",
     "bitrate": 122,
-    "votes": 2148,
-    "clickcount": 146
+    "votes": 2160,
+    "clickcount": 196
   },
   {
     "id": null,
@@ -1292,7 +1274,7 @@
     "tags": "blues rock,hard rock,mediaset,rock,rock and roll,rolling stones",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2106,
+    "votes": 2107,
     "clickcount": 2
   },
   {
@@ -1310,8 +1292,8 @@
     "tags": "90s,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2085,
-    "clickcount": 6
+    "votes": 2091,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1328,8 +1310,8 @@
     "tags": "classic hits,talk",
     "codec": "AAC+",
     "bitrate": 122,
-    "votes": 2064,
-    "clickcount": 15
+    "votes": 2079,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -1346,8 +1328,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 2042,
-    "clickcount": 21
+    "votes": 2055,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1364,8 +1346,8 @@
     "tags": "ladin,public radio,rai,regional service",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2022,
-    "clickcount": 11
+    "votes": 2030,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -1382,8 +1364,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1940,
-    "clickcount": 1
+    "votes": 1944,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1400,8 +1382,8 @@
     "tags": "italian pop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1935,
-    "clickcount": 4
+    "votes": 1942,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1418,8 +1400,8 @@
     "tags": "80s",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 1918,
-    "clickcount": 4
+    "votes": 1919,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1436,8 +1418,8 @@
     "tags": "hits,mediaset,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1864,
-    "clickcount": 1
+    "votes": 1867,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1454,26 +1436,8 @@
     "tags": "folk music,italian,pop",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 1843,
+    "votes": 1853,
     "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "962dbeab-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Blackout",
-    "url": "http://stream.radioblackout.org/blackout.mp3",
-    "url_resolved": "http://stream.radioblackout.org/blackout.mp3",
-    "homepage": "http://radioblackout.org/",
-    "favicon": "http://cdn-radiotime-logos.tunein.com/s95186q.png",
-    "countrycode": "IT",
-    "state": "Piemonte",
-    "language": "italian",
-    "tags": "alternative rock,punk,talk",
-    "codec": "OGG",
-    "bitrate": 0,
-    "votes": 1843,
-    "clickcount": 14
   },
   {
     "id": null,
@@ -1490,26 +1454,26 @@
     "tags": "blues,jazz,milano",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 1841,
-    "clickcount": 17
+    "votes": 1847,
+    "clickcount": 18
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "1a5184ae-7917-41b3-86c2-e0240e2c3b07",
-    "name": "Rai Radio 1",
-    "url": "http://icestreaming.rai.it/1.mp3",
-    "url_resolved": "http://icestreaming.rai.it/1.mp3",
-    "homepage": "https://www.raiplaysound.it/radio1",
-    "favicon": "https://radio-streaming.it/assets/image/radio/180/rairadio1logo.png",
+    "stationuuid": "962dbeab-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Blackout",
+    "url": "http://stream.radioblackout.org/blackout.mp3",
+    "url_resolved": "http://stream.radioblackout.org/blackout.mp3",
+    "homepage": "http://radioblackout.org/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s95186q.png",
     "countrycode": "IT",
-    "state": "",
+    "state": "Piemonte",
     "language": "italian",
-    "tags": "public radio",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 1834,
-    "clickcount": 14
+    "tags": "alternative rock,punk,talk",
+    "codec": "OGG",
+    "bitrate": 0,
+    "votes": 1846,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -1526,8 +1490,8 @@
     "tags": "1970s,1980s,70's,70er,70s,70s disco,80,80's,80er,80s,boogie",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1812,
-    "clickcount": 8
+    "votes": 1816,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1544,8 +1508,26 @@
     "tags": "musica italiana",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1811,
-    "clickcount": 25
+    "votes": 1816,
+    "clickcount": 45
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "cb74060e-8b0b-45f0-8e6b-e2f8c6c1a152",
+    "name": "Radio Romanista",
+    "url": "https://romanista.newradio.it/stream",
+    "url_resolved": "https://romanista.newradio.it/stream",
+    "homepage": "https://www.radioromanista.it/",
+    "favicon": "",
+    "countrycode": "IT",
+    "state": "Lazio",
+    "language": "italian",
+    "tags": "roma,sport,talk",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 1776,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1563,25 +1545,7 @@
     "codec": "MP3",
     "bitrate": 256,
     "votes": 1772,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "cb74060e-8b0b-45f0-8e6b-e2f8c6c1a152",
-    "name": "Radio Romanista",
-    "url": "https://romanista.newradio.it/stream",
-    "url_resolved": "https://romanista.newradio.it/stream",
-    "homepage": "https://www.radioromanista.it/",
-    "favicon": "",
-    "countrycode": "IT",
-    "state": "Lazio",
-    "language": "italian",
-    "tags": "roma,sport,talk",
-    "codec": "AAC+",
-    "bitrate": 64,
-    "votes": 1746,
-    "clickcount": 6
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1598,26 +1562,8 @@
     "tags": "fusion,mediaset,nu-jazz,world music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1744,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "8326841b-66b6-4bc7-8a9f-abac1604d5a8",
-    "name": "Radio Rai 1",
-    "url": "http://icestreaming.rai.it/1.mp3",
-    "url_resolved": "http://icestreaming.rai.it/1.mp3",
-    "homepage": "https://www.raiplaysound.it/radio1",
-    "favicon": "https://www.rai.it/cropgd/560x292/dl/img/2019/01/07/1280x720_1546854278675_conferenza%20radio1.jpg",
-    "countrycode": "IT",
-    "state": "Lazio",
-    "language": "italian",
-    "tags": "general,music,news",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 1706,
-    "clickcount": 26
+    "votes": 1749,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1634,7 +1580,7 @@
     "tags": "art rock,experimental rock,mediaset,pink floyd,progressive rock,psychedelia,psychedelic rock,rock,space rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1689,
+    "votes": 1693,
     "clickcount": 2
   },
   {
@@ -1652,8 +1598,8 @@
     "tags": "electronica,pop,top 40",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 1664,
-    "clickcount": 46
+    "votes": 1667,
+    "clickcount": 58
   },
   {
     "id": null,
@@ -1671,7 +1617,43 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1635,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "42932f35-f4f2-11e8-a471-52543be04c81",
+    "name": "RDS Relax",
+    "url": "https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8",
+    "url_resolved": "https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8",
+    "homepage": "https://rdsrelax.it/",
+    "favicon": "",
+    "countrycode": "IT",
+    "state": "Lazio",
+    "language": "italian",
+    "tags": "easy listening,relax",
+    "codec": "AAC",
+    "bitrate": 129,
+    "votes": 1634,
     "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "6b4d2d9d-1435-44aa-b5ee-1db50f833ddc",
+    "name": "Venice Classic Radio",
+    "url": "https://uk2.streamingpulse.com/ssl/vcr1",
+    "url_resolved": "https://uk2.streamingpulse.com/ssl/vcr1",
+    "homepage": "https://www.veniceclassicradio.eu/",
+    "favicon": "",
+    "countrycode": "IT",
+    "state": "",
+    "language": "english,italian",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1633,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1694,38 +1676,20 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "6b4d2d9d-1435-44aa-b5ee-1db50f833ddc",
-    "name": "Venice Classic Radio",
-    "url": "https://uk2.streamingpulse.com/ssl/vcr1",
-    "url_resolved": "https://uk2.streamingpulse.com/ssl/vcr1",
-    "homepage": "https://www.veniceclassicradio.eu/",
-    "favicon": "",
+    "stationuuid": "96286dce-0601-11e8-ae97-52543be04c81",
+    "name": "RMC Marine",
+    "url": "http://edge.radiomontecarlo.net/rmcweb010",
+    "url_resolved": "http://edge.radiomontecarlo.net/rmcweb010",
+    "homepage": "http://www.radiomontecarlo.net/",
+    "favicon": "http://www.radiomontecarlo.net/favicon_1.ico?v=1722509813463",
     "countrycode": "IT",
-    "state": "",
-    "language": "english,italian",
-    "tags": "classical",
+    "state": "Lombardia",
+    "language": "italian",
+    "tags": "chillout,latin jazz,lounge,mediaset,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1628,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "42932f35-f4f2-11e8-a471-52543be04c81",
-    "name": "RDS Relax",
-    "url": "https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8",
-    "url_resolved": "https://stream.rds.radio/audio/rdsrelax.stream_aac/playlist.m3u8",
-    "homepage": "https://rdsrelax.it/",
-    "favicon": "",
-    "countrycode": "IT",
-    "state": "Lazio",
-    "language": "italian",
-    "tags": "easy listening,relax",
-    "codec": "AAC",
-    "bitrate": 129,
-    "votes": 1627,
-    "clickcount": 11
+    "votes": 1587,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1742,26 +1706,8 @@
     "tags": "ballads,mediaset,soft rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1584,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96286dce-0601-11e8-ae97-52543be04c81",
-    "name": "RMC Marine",
-    "url": "http://edge.radiomontecarlo.net/rmcweb010",
-    "url_resolved": "http://edge.radiomontecarlo.net/rmcweb010",
-    "homepage": "http://www.radiomontecarlo.net/",
-    "favicon": "http://www.radiomontecarlo.net/favicon_1.ico?v=1722509813463",
-    "countrycode": "IT",
-    "state": "Lombardia",
-    "language": "italian",
-    "tags": "chillout,latin jazz,lounge,mediaset,soul",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1582,
-    "clickcount": 8
+    "votes": 1586,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1778,8 +1724,8 @@
     "tags": "adult contemporary,pop,top 40",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 1572,
-    "clickcount": 6
+    "votes": 1573,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1796,7 +1742,61 @@
     "tags": "disco,mediaset,party",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1559,
+    "votes": 1561,
     "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "06d08b6f-e656-4ce9-ae3c-f352bd6bd924",
+    "name": "RADIO NOSTALGIA PIEMONTE",
+    "url": "http://rn1.fluidstream.eu/nostalgia_pv.mp3?FLID=1&aw_0_req.gdpr=true&type=.mp3",
+    "url_resolved": "http://rn1.fluidstream.eu/nostalgia_pv.mp3?FLID=1&aw_0_req.gdpr=true&type=.mp3",
+    "homepage": "http://www.nostalgia.it/",
+    "favicon": "http://players1.fluidstream.it/RadioNostalgiaPV/images/logo320.png",
+    "countrycode": "IT",
+    "state": "",
+    "language": "",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 1501,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "329bd9db-eda0-11e8-a471-52543be04c81",
+    "name": "Radio Balla Balla",
+    "url": "http://players.fluidstream.net/radioballaballa.pls",
+    "url_resolved": "http://ice09.fluidstream.net/ballaballa.mp3?FLID=6",
+    "homepage": "http://www.radioballaballa.fm/",
+    "favicon": "http://static.wixstatic.com/media/12c6d6_1c1a32e349ba40b385a0c39b2c37b92f.png_srz_p_384_384_75_22_0.50_1.20_0.00_png_srz",
+    "countrycode": "IT",
+    "state": "Calabria",
+    "language": "italian",
+    "tags": "belvedere marittimo,folk music,local music",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1500,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "14274755-9b92-4dcb-8dee-d474bfc8a8fd",
+    "name": "RTR 99 Canale Pooh",
+    "url": "https://rtr99.fluidstream.eu/rtr99_pooh.mp3",
+    "url_resolved": "https://rtr99.fluidstream.eu/rtr99_pooh.mp3",
+    "homepage": "https://www.rtr99.it/",
+    "favicon": "https://www.rtr99.it/onair/CanalePooh/OnAir.jpg?x=9f2sj07zxxhpl2i1aocli",
+    "countrycode": "IT",
+    "state": "Lazio",
+    "language": "italian",
+    "tags": "italian pop,pop rock",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 1489,
+    "clickcount": 5
   }
 ]

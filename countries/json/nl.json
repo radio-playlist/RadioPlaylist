@@ -14,8 +14,8 @@
     "tags": "clubhouse,dance,electronic,house,melodic,techno,trance",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 51169,
-    "clickcount": 148
+    "votes": 51240,
+    "clickcount": 123
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "clubhouse,dance,electronic,house,melodic,techno,trance",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 48218,
-    "clickcount": 76
+    "votes": 48274,
+    "clickcount": 72
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 18148,
-    "clickcount": 223
+    "votes": 18209,
+    "clickcount": 217
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "evergreens,talk",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 12469,
-    "clickcount": 127
+    "votes": 12513,
+    "clickcount": 122
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "classic rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 11374,
-    "clickcount": 7
+    "votes": 11397,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "00's,80's,90's,classic hits,hits",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7850,
-    "clickcount": 64
+    "votes": 7884,
+    "clickcount": 75
   },
   {
     "id": null,
@@ -122,8 +122,26 @@
     "tags": "classic rock,mp3,rock",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 6312,
-    "clickcount": 19
+    "votes": 6327,
+    "clickcount": 32
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96159295-0601-11e8-ae97-52543be04c81",
+    "name": "Hi On Line Lounge Radio",
+    "url": "http://mediaserv33.live-streams.nl:8036/live",
+    "url_resolved": "http://mediaserv33.live-streams.nl:8036/live",
+    "homepage": "http://www.hionline.eu/lounge/",
+    "favicon": "",
+    "countrycode": "NL",
+    "state": "",
+    "language": "",
+    "tags": "320kbps,electronic,lounge",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 5939,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -140,8 +158,8 @@
     "tags": "60's,70's,80's,evergreens",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 5574,
-    "clickcount": 34
+    "votes": 5594,
+    "clickcount": 55
   },
   {
     "id": null,
@@ -158,8 +176,8 @@
     "tags": "80s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4533,
-    "clickcount": 16
+    "votes": 4550,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -176,8 +194,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4421,
-    "clickcount": 10
+    "votes": 4435,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -194,8 +212,8 @@
     "tags": "dance,electro,house,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4406,
-    "clickcount": 36
+    "votes": 4415,
+    "clickcount": 56
   },
   {
     "id": null,
@@ -212,8 +230,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 4072,
-    "clickcount": 57
+    "votes": 4091,
+    "clickcount": 74
   },
   {
     "id": null,
@@ -230,8 +248,8 @@
     "tags": "90s,dance,eurobeat,italo,italodance,italohouse",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3941,
-    "clickcount": 17
+    "votes": 3948,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -248,7 +266,7 @@
     "tags": "320kbps,jazz",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3456,
+    "votes": 3469,
     "clickcount": 7
   },
   {
@@ -266,8 +284,8 @@
     "tags": "dance,house,retro,techno,trance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3327,
-    "clickcount": 9
+    "votes": 3329,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -284,8 +302,8 @@
     "tags": "klassiek",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3173,
-    "clickcount": 9
+    "votes": 3184,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -302,8 +320,8 @@
     "tags": "pop rock,top 40",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3108,
-    "clickcount": 11
+    "votes": 3127,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -320,7 +338,7 @@
     "tags": "classics,dutch,variety",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2990,
+    "votes": 2997,
     "clickcount": 2
   },
   {
@@ -338,8 +356,8 @@
     "tags": "320kbps,african,ethnic,latin,latino,reggae,world music",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2832,
-    "clickcount": 2
+    "votes": 2837,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -356,8 +374,8 @@
     "tags": "hits",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2728,
-    "clickcount": 3
+    "votes": 2738,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -374,8 +392,8 @@
     "tags": "alternative rock,community radio,indie pop,pinguinradio",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2617,
-    "clickcount": 5
+    "votes": 2631,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -392,8 +410,8 @@
     "tags": "hardcore,hardcore techno,hard techno,hardstyle,frenchcore,terrorcore",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 2576,
-    "clickcount": 13
+    "votes": 2579,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -410,8 +428,8 @@
     "tags": "americana,blues,cajun,country,nederpop,soul",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2553,
-    "clickcount": 4
+    "votes": 2557,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -419,7 +437,7 @@
     "stationuuid": "39874081-8a87-45ca-a67f-52bae3372ae8",
     "name": "Radio 10 60's & 70's Hits",
     "url": "http://playerservices.streamtheworld.com/pls/TLPSTR18.pls",
-    "url_resolved": "http://28973.live.streamtheworld.com/TLPSTR18_SC",
+    "url_resolved": "http://22533.live.streamtheworld.com/TLPSTR18_SC",
     "homepage": "https://www.radio10.nl/60s-en-70s-hits",
     "favicon": "https://www.radio10.nl/favicon.ico",
     "countrycode": "NL",
@@ -428,8 +446,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2373,
-    "clickcount": 15
+    "votes": 2380,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -446,8 +464,8 @@
     "tags": "christmas music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2285,
-    "clickcount": 17
+    "votes": 2287,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -464,8 +482,8 @@
     "tags": "dance,electro,house,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2237,
-    "clickcount": 9
+    "votes": 2246,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -482,8 +500,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2211,
-    "clickcount": 44
+    "votes": 2226,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -500,8 +518,8 @@
     "tags": "baroque,classical,early music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2205,
-    "clickcount": 7
+    "votes": 2215,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -518,8 +536,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2133,
-    "clickcount": 0
+    "votes": 2138,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -536,8 +554,8 @@
     "tags": "business,business news,netherlands,news",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 2084,
-    "clickcount": 6
+    "votes": 2087,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -554,8 +572,8 @@
     "tags": "classic hits,crooner,entertainer,great american songbook,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2075,
-    "clickcount": 4
+    "votes": 2079,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -572,8 +590,8 @@
     "tags": "ambient,dance,deep house,downtempo,edm,house,nu-jazz,progressive,techno",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2072,
-    "clickcount": 7
+    "votes": 2078,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -590,8 +608,8 @@
     "tags": "arabic",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2071,
-    "clickcount": 8
+    "votes": 2078,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -608,7 +626,7 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1910,
+    "votes": 1911,
     "clickcount": 1
   },
   {
@@ -626,8 +644,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1863,
-    "clickcount": 31
+    "votes": 1868,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -645,7 +663,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 1805,
-    "clickcount": 3
+    "clickcount": 4
   },
   {
     "id": null,
@@ -662,8 +680,8 @@
     "tags": "hiphop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1766,
-    "clickcount": 1
+    "votes": 1769,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -680,8 +698,8 @@
     "tags": "classic hits 60s 70a 80s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1671,
-    "clickcount": 0
+    "votes": 1690,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -698,8 +716,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 160,
-    "votes": 1655,
-    "clickcount": 7
+    "votes": 1662,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -716,8 +734,8 @@
     "tags": "soft pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1593,
-    "clickcount": 17
+    "votes": 1604,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -734,8 +752,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1527,
-    "clickcount": 120
+    "votes": 1565,
+    "clickcount": 183
   },
   {
     "id": null,
@@ -752,8 +770,8 @@
     "tags": "local news,news",
     "codec": "AAC",
     "bitrate": 32,
-    "votes": 1516,
-    "clickcount": 48
+    "votes": 1518,
+    "clickcount": 73
   },
   {
     "id": null,
@@ -770,8 +788,8 @@
     "tags": "classical,klassiek",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1486,
-    "clickcount": 8
+    "votes": 1501,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -788,8 +806,8 @@
     "tags": "early hardstyle,euphoric hardstyle,freestyle,hardstyle,jumpstyle,raw,raw hardstyle",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1456,
-    "clickcount": 12
+    "votes": 1477,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -797,7 +815,7 @@
     "stationuuid": "961e765a-0601-11e8-ae97-52543be04c81",
     "name": "Sky Radio 90's Hits",
     "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05.mp3",
-    "url_resolved": "http://25243.live.streamtheworld.com:80/SRGSTR05.mp3",
+    "url_resolved": "http://22343.live.streamtheworld.com:80/SRGSTR05.mp3",
     "homepage": "http://www.skyradio.nl/",
     "favicon": "http://www.skyradio.nl/favicon.ico",
     "countrycode": "NL",
@@ -806,8 +824,8 @@
     "tags": "90s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1434,
-    "clickcount": 3
+    "votes": 1447,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -824,8 +842,8 @@
     "tags": "folk,oldies,pop,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1433,
-    "clickcount": 8
+    "votes": 1436,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -842,8 +860,8 @@
     "tags": "60s,70s,oldies",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1419,
-    "clickcount": 4
+    "votes": 1420,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -860,8 +878,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1315,
-    "clickcount": 2
+    "votes": 1317,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -878,8 +896,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1230,
-    "clickcount": 4
+    "votes": 1233,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -896,8 +914,8 @@
     "tags": "reggae",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1186,
-    "clickcount": 4
+    "votes": 1187,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -914,8 +932,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1172,
-    "clickcount": 1
+    "votes": 1182,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -932,8 +950,8 @@
     "tags": "blues,blues rock,pinguin radio",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1162,
-    "clickcount": 3
+    "votes": 1164,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -950,8 +968,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1106,
-    "clickcount": 61
+    "votes": 1114,
+    "clickcount": 64
   },
   {
     "id": null,
@@ -968,8 +986,8 @@
     "tags": "dance,house",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1105,
-    "clickcount": 6
+    "votes": 1107,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -986,8 +1004,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1103,
-    "clickcount": 8
+    "votes": 1105,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1004,7 +1022,7 @@
     "tags": "alternative,indie",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1095,
+    "votes": 1097,
     "clickcount": 1
   },
   {
@@ -1022,8 +1040,8 @@
     "tags": "alternative,alternative / indie,indie,indie pop,indie rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1086,
-    "clickcount": 8
+    "votes": 1093,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1040,8 +1058,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1057,
-    "clickcount": 1
+    "votes": 1058,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1057,9 +1075,9 @@
     "language": "dutch",
     "tags": "70's,80's,non-stop",
     "codec": "AAC+",
-    "bitrate": 95,
-    "votes": 1037,
-    "clickcount": 3
+    "bitrate": 96,
+    "votes": 1045,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1076,8 +1094,8 @@
     "tags": "evergreens,nostalgia,oldies",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1012,
-    "clickcount": 11
+    "votes": 1014,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1094,8 +1112,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 993,
-    "clickcount": 37
+    "votes": 998,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -1111,9 +1129,9 @@
     "language": "dutch",
     "tags": "70's,80's,90's,hits",
     "codec": "AAC+",
-    "bitrate": 95,
-    "votes": 984,
-    "clickcount": 36
+    "bitrate": 96,
+    "votes": 989,
+    "clickcount": 47
   },
   {
     "id": null,
@@ -1130,8 +1148,8 @@
     "tags": "classic,classical,opera",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 984,
-    "clickcount": 0
+    "votes": 985,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1148,26 +1166,8 @@
     "tags": "slow",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 981,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "c344992c-b881-11e9-acb2-52543be04c81",
-    "name": "L1 Radio",
-    "url": "http://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3",
-    "url_resolved": "http://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3",
-    "homepage": "https://l1.nl/programmagids/",
-    "favicon": "https://s.regiogroei.cloud/img/favicons/l1/apple-touch-icon.png?v=1709566299847",
-    "countrycode": "NL",
-    "state": "",
-    "language": "dutch",
-    "tags": "limburg,lokaal,nieuws,regionaal",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 955,
-    "clickcount": 2
+    "votes": 982,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1184,8 +1184,26 @@
     "tags": "1970s,1980s,70s,80s,disco,funk,luxury jazz,soul",
     "codec": "OGG",
     "bitrate": 1411,
-    "votes": 946,
-    "clickcount": 22
+    "votes": 963,
+    "clickcount": 31
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c344992c-b881-11e9-acb2-52543be04c81",
+    "name": "L1 Radio",
+    "url": "http://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3",
+    "url_resolved": "http://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3",
+    "homepage": "https://l1.nl/programmagids/",
+    "favicon": "https://s.regiogroei.cloud/img/favicons/l1/apple-touch-icon.png?v=1709566299847",
+    "countrycode": "NL",
+    "state": "",
+    "language": "dutch",
+    "tags": "limburg,lokaal,nieuws,regionaal",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 958,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1202,7 +1220,7 @@
     "tags": "chillout,lounge,smooth jazz",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 931,
+    "votes": 949,
     "clickcount": 5
   },
   {
@@ -1220,8 +1238,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 929,
-    "clickcount": 88
+    "votes": 937,
+    "clickcount": 83
   },
   {
     "id": null,
@@ -1239,7 +1257,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 922,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1247,7 +1265,7 @@
     "stationuuid": "9623a1a9-0601-11e8-ae97-52543be04c81",
     "name": "Radio 538 Ibiza",
     "url": "http://playerservices.streamtheworld.com/m3u/TLPSTR19.m3u",
-    "url_resolved": "http://22613.live.streamtheworld.com/TLPSTR19_SC",
+    "url_resolved": "http://29043.live.streamtheworld.com/TLPSTR19_SC",
     "homepage": "https://www.538.nl/",
     "favicon": "https://www.538.nl/icons/apple-icon-120x120.png",
     "countrycode": "NL",
@@ -1257,7 +1275,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 913,
-    "clickcount": 3
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1274,7 +1292,7 @@
     "tags": "soul",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 858,
+    "votes": 861,
     "clickcount": 1
   },
   {
@@ -1292,26 +1310,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 851,
-    "clickcount": 25
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9621245c-0601-11e8-ae97-52543be04c81",
-    "name": "Radio 538 Nonstop",
-    "url": "http://playerservices.streamtheworld.com/m3u/TLPSTR09.m3u",
-    "url_resolved": "http://22353.live.streamtheworld.com/TLPSTR09_SC",
-    "homepage": "https://www.538.nl/",
-    "favicon": "",
-    "countrycode": "NL",
-    "state": "",
-    "language": "dutch",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 825,
-    "clickcount": 2
+    "votes": 855,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -1328,8 +1328,26 @@
     "tags": "business,news,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 822,
-    "clickcount": 34
+    "votes": 830,
+    "clickcount": 33
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9621245c-0601-11e8-ae97-52543be04c81",
+    "name": "Radio 538 Nonstop",
+    "url": "http://playerservices.streamtheworld.com/m3u/TLPSTR09.m3u",
+    "url_resolved": "http://22553.live.streamtheworld.com:3690/TLPSTR09_SC",
+    "homepage": "https://www.538.nl/",
+    "favicon": "",
+    "countrycode": "NL",
+    "state": "",
+    "language": "dutch",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 826,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1345,9 +1363,9 @@
     "language": "",
     "tags": "",
     "codec": "AAC+",
-    "bitrate": 96,
-    "votes": 819,
-    "clickcount": 57
+    "bitrate": 95,
+    "votes": 825,
+    "clickcount": 78
   },
   {
     "id": null,
@@ -1365,7 +1383,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 819,
-    "clickcount": 8
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1382,8 +1400,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 814,
-    "clickcount": 35
+    "votes": 817,
+    "clickcount": 43
   },
   {
     "id": null,
@@ -1401,7 +1419,7 @@
     "codec": "AAC",
     "bitrate": 64,
     "votes": 814,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1418,8 +1436,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 752,
-    "clickcount": 18
+    "votes": 759,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1436,8 +1454,8 @@
     "tags": "hardcore,hardstyle",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 739,
-    "clickcount": 2
+    "votes": 745,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1454,8 +1472,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 734,
-    "clickcount": 15
+    "votes": 738,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1472,8 +1490,8 @@
     "tags": "progressive rock,symphonic rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 733,
-    "clickcount": 2
+    "votes": 735,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1491,7 +1509,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 732,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1508,8 +1526,8 @@
     "tags": "soft pop",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 721,
-    "clickcount": 5
+    "votes": 725,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1544,25 +1562,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 638,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "2c938122-4a94-11e9-a4d7-52543be04c81",
-    "name": "Oude Piraten Hits",
-    "url": "http://server-67.stream-server.nl:8910/stream",
-    "url_resolved": "http://server-67.stream-server.nl:8910/stream",
-    "homepage": "http://www.oudepiratenhits.nl/",
-    "favicon": "",
-    "countrycode": "NL",
-    "state": "",
-    "language": "dutch",
-    "tags": "piratenhits",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 637,
+    "votes": 639,
     "clickcount": 0
   },
   {
@@ -1580,8 +1580,26 @@
     "tags": "folk,oldies,piratenhits",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 632,
-    "clickcount": 19
+    "votes": 638,
+    "clickcount": 17
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "2c938122-4a94-11e9-a4d7-52543be04c81",
+    "name": "Oude Piraten Hits",
+    "url": "http://server-67.stream-server.nl:8910/stream",
+    "url_resolved": "http://server-67.stream-server.nl:8910/stream",
+    "homepage": "http://www.oudepiratenhits.nl/",
+    "favicon": "",
+    "countrycode": "NL",
+    "state": "",
+    "language": "dutch",
+    "tags": "piratenhits",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 638,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1598,8 +1616,8 @@
     "tags": "dance,edm,funk,house,rnb,soul",
     "codec": "MP3",
     "bitrate": 185,
-    "votes": 627,
-    "clickcount": 11
+    "votes": 631,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1607,7 +1625,7 @@
     "stationuuid": "961a69c1-0601-11e8-ae97-52543be04c81",
     "name": "Radio 538 Party",
     "url": "http://playerservices.streamtheworld.com/m3u/TLPSTR16.m3u",
-    "url_resolved": "http://25223.live.streamtheworld.com/TLPSTR16_SC",
+    "url_resolved": "http://29023.live.streamtheworld.com:3690/TLPSTR16_SC",
     "homepage": "https://www.538.nl/",
     "favicon": "https://www.538.nl/favicon.ico",
     "countrycode": "NL",
@@ -1616,8 +1634,8 @@
     "tags": "party",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 622,
-    "clickcount": 4
+    "votes": 624,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1634,8 +1652,8 @@
     "tags": "",
     "codec": "OGG",
     "bitrate": 1411,
-    "votes": 616,
-    "clickcount": 3
+    "votes": 623,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1643,7 +1661,7 @@
     "stationuuid": "3046ced9-d322-4098-a8cd-e3c38f60cccb",
     "name": "KINK80s",
     "url": "http://playerservices.streamtheworld.com/pls/KINK_DNA.pls",
-    "url_resolved": "http://22343.live.streamtheworld.com/KINK_DNA_SC",
+    "url_resolved": "http://20133.live.streamtheworld.com:3690/KINK_DNA_SC",
     "homepage": "https://kink.nl/",
     "favicon": "https://kink.nl/static/icon.png",
     "countrycode": "NL",
@@ -1653,7 +1671,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 612,
-    "clickcount": 3
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1661,7 +1679,7 @@
     "stationuuid": "960df206-0601-11e8-ae97-52543be04c81",
     "name": "Sky Radio Lovesongs",
     "url": "http://provisioning.streamtheworld.com/pls/SRGSTR03AAC.pls",
-    "url_resolved": "http://22323.live.streamtheworld.com/SRGSTR03AAC_SC",
+    "url_resolved": "http://22613.live.streamtheworld.com:3690/SRGSTR03AAC_SC",
     "homepage": "http://www.skyradio.nl/",
     "favicon": "http://www.skyradio.nl/favicon.ico",
     "countrycode": "NL",
@@ -1671,6 +1689,42 @@
     "codec": "AAC+",
     "bitrate": 64,
     "votes": 604,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "01a9ba90-6601-490f-bc74-64b611b032d4",
+    "name": "Radio Veronica",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA",
+    "homepage": "https://www.radioveronica.nl/",
+    "favicon": "https://cmde4gpbhib.b-cdn.net/w_320,h_320,q_85/4k3hucsw1kfn-radio-veronica-programma-thumbnail.jpg",
+    "countrycode": "NL",
+    "state": "",
+    "language": "dutch",
+    "tags": "greatest hits,pop rock",
+    "codec": "FLV",
+    "bitrate": 0,
+    "votes": 595,
+    "clickcount": 32
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "7627033e-6f42-11e9-af37-52543be04c81",
+    "name": "Hi On Line Radio - Classical",
+    "url": "http://mediaserv30.live-streams.nl:8088/live",
+    "url_resolved": "http://mediaserv30.live-streams.nl:8088/live",
+    "homepage": "https://www.hionline.eu/",
+    "favicon": "",
+    "countrycode": "NL",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 592,
     "clickcount": 2
   },
   {
@@ -1688,26 +1742,8 @@
     "tags": "latin",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 591,
+    "votes": 592,
     "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "01a9ba90-6601-490f-bc74-64b611b032d4",
-    "name": "Radio Veronica",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA",
-    "homepage": "https://www.radioveronica.nl/",
-    "favicon": "https://cmde4gpbhib.b-cdn.net/w_320,h_320,q_85/4k3hucsw1kfn-radio-veronica-programma-thumbnail.jpg",
-    "countrycode": "NL",
-    "state": "",
-    "language": "dutch",
-    "tags": "greatest hits,pop rock",
-    "codec": "FLV",
-    "bitrate": 0,
-    "votes": 585,
-    "clickcount": 28
   },
   {
     "id": null,
@@ -1724,8 +1760,8 @@
     "tags": "offshore radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 585,
-    "clickcount": 2
+    "votes": 586,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1743,7 +1779,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 561,
-    "clickcount": 7
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1760,43 +1796,7 @@
     "tags": "70s,80s,90s,hits",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 548,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "b843da8a-7308-11e9-af37-52543be04c81",
-    "name": "Olympia Classics",
-    "url": "http://streams.olympia-classics.nl/classics",
-    "url_resolved": "http://streams.olympia-classics.nl/classics",
-    "homepage": "https://www.olympia-classics.nl/",
-    "favicon": "",
-    "countrycode": "NL",
-    "state": "",
-    "language": "dutch",
-    "tags": "1960s,1970s,1980s,1990s,60s,70s,80s,90s",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 543,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9103990d-f203-410e-8764-0cd81b415e6d",
-    "name": "QMUSIC NEDERLAND",
-    "url": "https://stream.qmusic.nl/qmusic/mp3",
-    "url_resolved": "https://stream.qmusic.nl/qmusic/mp3",
-    "homepage": "https://qmusic.nl/",
-    "favicon": "https://qmusic.nl/favicon.ico",
-    "countrycode": "NL",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 533,
-    "clickcount": 16
+    "votes": 555,
+    "clickcount": 12
   }
 ]

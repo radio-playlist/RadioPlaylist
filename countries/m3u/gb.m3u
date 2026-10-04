@@ -77,11 +77,11 @@ http://media-ice.musicradio.com/HeartLondon
 #EXTINF:-1 tvg-logo="http://lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="GB",LBC London News
 http://media-ice.musicradio.com/LBC1152
 
-#EXTINF:-1 tvg-logo="" group-title="GB",Classic FM UK
-http://media-the.musicradio.com/ClassicFM
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s25419q.png" group-title="GB",BBC Radio 4 (128k)
 http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Classic FM UK
+http://media-the.musicradio.com/ClassicFM
 
 #EXTINF:-1 tvg-logo="" group-title="GB",Heart UK
 http://media-ice.musicradio.com/HeartUKMP3
@@ -96,7 +96,7 @@ http://64.95.243.43:8002/stream
 http://stream.techno.fm/radio.mp3
 
 #EXTINF:-1 tvg-logo="http://www.1mix.co.uk/favicon.ico" group-title="GB",1Mix Radio Trance
-http://fr2.1mix.co.uk:8000/192
+http://fr2.1mix.co.uk:8060/192
 
 #EXTINF:-1 tvg-logo="http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="GB",LBC London (London stream) MP3
 http://media-ice.musicradio.com/LBCLondonMP3Low
@@ -161,11 +161,11 @@ http://radio.linn.co.uk:8004/autodj
 #EXTINF:-1 tvg-logo="" group-title="GB",Exclusively Dire Straits
 https://streaming.exclusive.radio/er/direstraits/icecast.audio
 
-#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="GB",BBC World Service
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/FOKCcOpam5-0m4VfrxvfzMdDK6I=/10x0:610x400/1400x1400/filters:focal(10x0:610x400):format(jpeg)/cdn.vox-cdn.com/assets/958975/bbc_world_service.jpeg" group-title="GB",BBC World Service
 https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
+
+#EXTINF:-1 tvg-logo="https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png" group-title="GB",BBC World Service
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.capitaldance.com/assets_v4r/capitaldance/img/favicon-196x196.png" group-title="GB",Capital Dance
 https://icecast.thisisdax.com/CapitalDanceMP3
@@ -176,11 +176,11 @@ https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web
 #EXTINF:-1 tvg-logo="https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png" group-title="GB",Naim Jazz [320k aac]
 http://mscp3.live-streams.nl:8340/jazz-high.aac
 
-#EXTINF:-1 tvg-logo="https://bbc.co.uk/favicon.ico" group-title="GB",BBC World Service for East Asia
-https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
-
 #EXTINF:-1 tvg-logo="https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png" group-title="GB",Smooth Radio London 102.2
 http://media-the.musicradio.com/SmoothLondonMP3
+
+#EXTINF:-1 tvg-logo="https://bbc.co.uk/favicon.ico" group-title="GB",BBC World Service for East Asia
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
 
 #EXTINF:-1 tvg-logo="http://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="GB",Gold AM 1548 London
 http://media-ice.musicradio.com/GoldMP3
@@ -191,11 +191,11 @@ https://seva.ru/radio/stream
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="GB",BBC Radio 3 (128k)
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="GB",BBC World Service
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6839q.png" group-title="GB",BBC Radio 4 Extra (128k)
 http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="GB",BBC World Service
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png" group-title="GB",Radio X London (MP3)
 http://media-the.musicradio.com/RadioXLondonMP3
@@ -299,6 +299,6 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low
 #EXTINF:-1 tvg-logo="" group-title="GB",1Mix Radio - Trance #1 (UK) 320kb mp3
 http://fr2.1mix.co.uk:9000/320
 
-#EXTINF:-1 tvg-logo="http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png" group-title="GB",Radio X London
-http://media-the.musicradio.com/RadioXLondon
+#EXTINF:-1 tvg-logo="https://www.celsoazevedo.com/files/2025/magic.png" group-title="GB",Magic Radio UK
+https://stream-mz.hellorayo.co.uk/magicnational.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=mag
 

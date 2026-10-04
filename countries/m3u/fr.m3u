@@ -152,11 +152,11 @@ http://icecast.radiofrance.fr/fipreggae-hifi.aac
 #EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png" group-title="FR",france info (lofi)
 http://direct.franceinfo.fr/live/franceinfo-lofi.mp3
 
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="FR",Latina
-http://start-latina.ice.infomaniak.ch/start-latina-high.mp3
-
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="FR",OUI FM
 https://ouifm.ice.infomaniak.ch/ouifm-high.mp3
+
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="FR",Latina
+http://start-latina.ice.infomaniak.ch/start-latina-high.mp3
 
 #EXTINF:-1 tvg-logo="https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/favicons/favicon128.png" group-title="FR",Europe 2
 http://europe2.lmn.fm/europe2.mp3
@@ -167,11 +167,11 @@ https://audio.bfmtv.com/bfmradio_128.mp3
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Piano Jazz
 http://jzr-piano.ice.infomaniak.ch/jzr-piano.mp3
 
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon" group-title="FR",Urban Hit Maroc
-https://urbanhitrai.ice.infomaniak.ch/urbanhitrai.mp3
-
 #EXTINF:-1 tvg-logo="https://www.morow.com/favicon.ico" group-title="FR",Morow Prog Rock Radio
 http://stream.fr.morow.com:8080/morow_hi.aacp
+
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon" group-title="FR",Urban Hit Maroc
+https://urbanhitrai.ice.infomaniak.ch/urbanhitrai.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="FR",Chante France 70's
 http://stream.chantefrance.com/cf-70
@@ -227,11 +227,11 @@ http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.mp3
 #EXTINF:-1 tvg-logo="https://www.algorythmeradio.com/assets/images/icon-algo.ico" group-title="FR",Algorythme Drum & Bass
 https://radio9.pro-fhi.net/flux-endvtlna/stream
 
-#EXTINF:-1 tvg-logo="" group-title="FR",RFI Persian
-http://live02.rfi.fr/rfienpersan-64k.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="FR",La Grosse Radio Rock
 http://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="FR",RFI Persian
+http://live02.rfi.fr/rfienpersan-64k.mp3
 
 #EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Lounge
 http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3
@@ -251,6 +251,9 @@ http://icecast.radiofrance.fr/fipgroove-hifi.aac
 #EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png" group-title="FR",France Info
 http://icecast.radiofrance.fr/franceinfo-hifi.aac
 
+#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/035a5e15d396c67a.png" group-title="FR",RTL
+https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://en.rfi.fr/android-chrome-192x192.png" group-title="FR",RFI Anglais - English
 http://live02.rfi.fr/rfienanglais-64.mp3
 
@@ -259,9 +262,6 @@ https://eu10.fastcast4u.com:8120/
 
 #EXTINF:-1 tvg-logo="" group-title="FR",France Maghreb 2 Province
 http://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
-
-#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/035a5e15d396c67a.png" group-title="FR",RTL
-https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="FR",123 All Classic Rock
 http://str4uice.streamakaci.com/4uclassicrock.mp3
@@ -272,11 +272,11 @@ https://rfiafrique64k.ice.infomaniak.ch/rfimonde-64.mp3
 #EXTINF:-1 tvg-logo="" group-title="FR",France Culture
 http://direct.franceculture.fr/live/franceculture-lofi.mp3
 
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="FR",France Bleu Roussillon
-http://direct.francebleu.fr/live/fbroussillon-midfi.mp3
-
 #EXTINF:-1 tvg-logo="https://www.europe1.fr/build/e1/images/favicon-120x120.png" group-title="FR",Europe1
 http://stream.europe1.fr/europe1.aac
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="FR",France Bleu Roussillon
+http://direct.francebleu.fr/live/fbroussillon-midfi.mp3
 
 #EXTINF:-1 tvg-logo="https://image.radioking.io/radios/669715/logo/e0191854-a603-41f5-9729-121a1f215f57.jpeg" group-title="FR",Radio Choco
 https://listen.radioking.com/radio/669715/stream/733765

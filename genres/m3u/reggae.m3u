@@ -15,7 +15,7 @@ http://origin-rastamusic.streamguys1.com/rastamusic.mp3
 http://alphaboys-live.streamguys1.com/alphaboys.mp3
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/reggae400.jpg" group-title="US",SomaFM Heavyweight Reggae (256k MP3)
-https://ice2.somafm.com/reggae-256-mp3
+https://ice5.somafm.com/reggae-256-mp3
 
 #EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="FR",FIP Reggae
 http://icecast.radiofrance.fr/fipreggae-hifi.aac
@@ -62,9 +62,6 @@ https://listen.radioking.com/radio/50473/stream/87415
 #EXTINF:-1 tvg-logo="http://www.fipradio.fr/dist/favicons/logo-120.png" group-title="FR",FIP autour du reggae
 http://direct.fipradio.fr/live/fip-webradio6.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Roots Reggae
-http://79.111.119.111:9047/
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.urbano106.com/wp-content/uploads/2018/10/LOGO-PARA-WEBS.png" group-title="CR",Urbano 106 - 105.9 FM - San José, Costa Rica
 https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1
 
@@ -73,9 +70,6 @@ http://icecast.omroep.nl/funx-reggaefb-bb-mp3
 
 #EXTINF:-1 tvg-logo="https://www.ubuntu.fm/sites/default/files//favicons/apple-touch-icon.png" group-title="ZA",UbuntuFM
 https://streaming.coollective.nl:8443/UbuntuFM
-
-#EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Reggae
-http://195.150.20.7/REGGAE
 
 #EXTINF:-1 tvg-logo="" group-title="FR",Allzic Radio Reggae
 http://allzic43.ice.infomaniak.ch/allzic43.mp3
@@ -99,7 +93,7 @@ https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
 https://starchild.radioca.st/
 
 #EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="DE",radioeins-rbb-56 kbit/s
-http://d141.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3JqOb4ndswfgbCd3Dpt0PXuBZAc&token=2TNm2D081idorJtq9bAZsHr05tx1ohhPpvokFagCOEM&tvf=eq10fH_N2BhkMTQxLnJuZGZuay5jb20
+http://f111.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3K4ezWNz61EKiw0pjjN5BYQItsy&token=hx_dYQ4o1wBeilu7gtF5xapGitFArMbwu57YlaxREIw&tvf=Bs7Em1Za2hhmMTExLnJuZGZuay5jb20
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7d4435_7b92a4f288274c54a86dd8ea48b985a6~mv2.png/v1/fill/w_208,h_92,al_c,usm_0.66_1.00_0.01/7d4435_7b92a4f288274c54a86dd8ea48b985a6~mv2.png" group-title="LC",The Wave 94.5 & 93.7 Castries
 http://ice66.securenetsystems.net/THEWAVE
@@ -138,7 +132,7 @@ http://wstxradio2.serverroom.net:8340/;
 https://radio.intamixx.uk:8443/radio2
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/reggae400.jpg" group-title="US",SomaFM Heavyweight Reggae (32k AAC)
-https://ice6.somafm.com/reggae-32-aac
+https://ice5.somafm.com/reggae-32-aac
 
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/ufIfkfDXSl/vignette.png" group-title="FR",OUI FM REGGAE
 https://ouifmganja.ice.infomaniak.ch/ouifmganja-128.mp3
@@ -212,17 +206,14 @@ http://185.14.203.115:8004/stream?type=http&nocache=109
 #EXTINF:-1 tvg-logo="" group-title="GD",Hot Shotz Radio - Grenada
 http://usa1.fastcast4u.com:3292/stream
 
-#EXTINF:-1 tvg-logo="" group-title="NL",Ice Radio The Alternative
-https://stream.iceradio.nl/iceradio
-
 #EXTINF:-1 tvg-logo="https://bootboyradio.net/wp-content/uploads/2021/02/cropped-900logosquare-192x192.jpg" group-title="GB",Boot Boy Radio
 https://streaming04.liveboxstream.uk/proxy/dwain?mp=/stream
 
+#EXTINF:-1 tvg-logo="" group-title="NL",Ice Radio The Alternative
+https://stream.iceradio.nl/iceradio
+
 #EXTINF:-1 tvg-logo="" group-title="GB",Netil Radio
 https://netilradio.out.airtime.pro/netilradio_a
-
-#EXTINF:-1 tvg-logo="https://www.c-lab.fr/apple-icon-120x120.png" group-title="FR",C Lab
-http://stream.c-lab.fr:8001/c-lab
 
 #EXTINF:-1 tvg-logo="https://stylzfm.com/sites/default/files/favicon.ico" group-title="JM",Stylz FM
 https://stream.zeno.fm/0d1hpcmqqy5tv
@@ -253,9 +244,6 @@ http://s1.slotex.pl:7604/
 
 #EXTINF:-1 tvg-logo="https://openbroadcast.ch/static/assets/manifest/icon-triangle-white.91b2fd954957.png" group-title="CH",open broadcast radio
 http://stream.openbroadcast.ch/320.mp3
-
-#EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Reggae + FAKTY
-http://195.150.20.7/REGGAEF
 
 #EXTINF:-1 tvg-logo="https://lh3.ggpht.com/a4M_Oyz2Jek1bkcRe8I7v3A8clEOoOI8Y-NiYuuICuw0wOHwaZgMUit4rRgC18mGZMo_=w300" group-title="DE",Laut.FM Raus
 http://stream.laut.fm/raus
@@ -301,4 +289,16 @@ https://drive.uber.radio/uber/lrreggae/icecast.audio
 
 #EXTINF:-1 tvg-logo="" group-title="GB",XL:UK Radio
 https://s3.radio.co/s113a5dc46/listen
+
+#EXTINF:-1 tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/343/kreolkoneksyon-radio.ce0c7492.jpg" group-title="RE",Kreolkoneksyon Radio
+https://listen.radioking.com/radio/511600/stream/569401
+
+#EXTINF:-1 tvg-logo="" group-title="GR",Monkey Bros
+http://n01.radiojar.com/5tyqrwpgpfeuv?rj-ttl=5&rj-tok=AAABeL13ku4Ae8jgeSRH6aWTyA
+
+#EXTINF:-1 tvg-logo="https://rm.fm/favicon.ico" group-title="DE",RauteMusik - CARRIBEAN WAVE
+https://streams.rautemusik.fm/caribbean-wave/mp3-192/?ref=radiobrowser
+
+#EXTINF:-1 tvg-logo="" group-title="AE",StarBox Reggae
+https://drive.uber.radio/uber/starboxreggae/icecast.audio
 

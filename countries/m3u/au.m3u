@@ -92,17 +92,17 @@ https://onlineradiobox.com/json/au/islandwhitsundays/play?platform=web
 #EXTINF:-1 tvg-logo="http://fbiradio.com/favicon/apple-touch-icon.png" group-title="AU",2FBI "FBi Radio" 94.5 FM Sydney, NSW
 https://streamer.fbiradio.com/stream
 
-#EXTINF:-1 tvg-logo="https://www.abc.net.au/favicon.ico" group-title="AU",ABC News Radio
-http://abc.streamguys1.com/live/newsradio/icecast.audio
-
 #EXTINF:-1 tvg-logo="https://www.sbs.com.au/_next/static/img/language/app-icon_128x128-18ef105.png" group-title="AU",SBS PopAsia
 https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web
 
-#EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="AU",Nova 91.9
-https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac
+#EXTINF:-1 tvg-logo="https://www.abc.net.au/favicon.ico" group-title="AU",ABC News Radio
+http://abc.streamguys1.com/live/newsradio/icecast.audio
 
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="AU",Australian Digital Radio Network - Old Time Radio Channel 4 - Films, Horror, Sci Fi, Adventure (MP3)
 http://abm21.com.au:8000/CONTAINER5
+
+#EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="AU",Nova 91.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac
 
 #EXTINF:-1 tvg-logo="http://www.rrr.org.au/assets/main/assets/public/favicon/favicon-192.a118bf57.png" group-title="AU",3RRR "Triple R" 102.7 FM Melbourne, VIC (low bitrate live stream)
 http://realtime.rrr.org.au/p1l
@@ -130,6 +130,9 @@ http://voiceofislam.appsunder.com:8000/voiceofislam.mp3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QCHF7jZ/Drum-and-Bass-square.jpg" group-title="AU",LiSTNR - Drum & Bass
 https://wz0liw.scahw.com.au/live/drumnbass_128.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRTcyQh.png" group-title="AU",MyFM Perth
+https://halo.streamerr.co/listen/myfmperth/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/core-assets/music/fallback-country.png" group-title="AU",ABC Country HLS
 https://mediaserviceslive.akamaized.net/hls/live/2038322/abccountry/index.m3u8
@@ -170,11 +173,11 @@ https://ais-arn.streamguys1.com/au_008_icy
 #EXTINF:-1 tvg-logo="" group-title="AU",3AW 693  Melbourne, VIC, Australia Talk AM 693
 https://playerservices.streamtheworld.com/api/livestream-redirect/3AW.mp3
 
-#EXTINF:-1 tvg-logo="http://www.abc.net.au/core-assets/triplej/favicon-32x32.png" group-title="AU",Tripple J JJJ
-http://abc.streamguys1.com/live/triplejnsw/icecast.audio
-
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="AU",Australian Digital Radio Network - Pink Floyd (MP3)
 http://abm21.com.au:8000/CONTAINER148
+
+#EXTINF:-1 tvg-logo="http://www.abc.net.au/core-assets/triplej/favicon-32x32.png" group-title="AU",Tripple J JJJ
+http://abc.streamguys1.com/live/triplejnsw/icecast.audio
 
 #EXTINF:-1 tvg-logo="" group-title="AU",1116 SEN Melbourne
 http://13.54.221.214:8000/sen.mp3
@@ -191,11 +194,11 @@ https://cast4.asurahosting.com/proxy/2sm1269/stream
 #EXTINF:-1 tvg-logo="https://triplem.listnr.com/wp-content/uploads/2024/04/cropped-mmm-favicon-180x180.png" group-title="AU",Triple M 80s
 http://legacy.scahw.com.au/280s_32
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBZD4yz/89102254-2856298334439483-8500983319628873728-n.jpg" group-title="AU",Smooth FM 91.5 - Melbourne - 91.5 FM (AAC+ 320k)
-http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320.aac
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pPjxdHL/87942553-2883129141777223-4694288285457973248-n.jpg" group-title="AU",Smooth FM 95.3 - Sydney - 95.3 FM (AAC+ 320k)
 http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC320.aac
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZBZD4yz/89102254-2856298334439483-8500983319628873728-n.jpg" group-title="AU",Smooth FM 91.5 - Melbourne - 91.5 FM (AAC+ 320k)
+http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH915_AAC320.aac
 
 #EXTINF:-1 tvg-logo="" group-title="AU",2SM Sydney 1269AM
 https://cast4.asurahosting.com/proxy/2sm1269/stream
@@ -206,11 +209,11 @@ https://d11fwwlrb0wuhh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/cropped-nql_cns_4ca-512x512-favicon.png?w=180" group-title="AU",4CA 846 AM Far North QLD Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC_SC
 
-#EXTINF:-1 tvg-logo="" group-title="AU",Andrew Haug Metal  Radio
-http://streamer.radio.co/s6a349b3a2/listen
-
 #EXTINF:-1 tvg-logo="https://www.rrr.org.au/assets/main/assets/public/favicon/favicon-192.a118bf57.png" group-title="AU",3RRR Melbourne
 http://realtime.rrr.org.au/p1h
+
+#EXTINF:-1 tvg-logo="" group-title="AU",Andrew Haug Metal  Radio
+http://streamer.radio.co/s6a349b3a2/listen
 
 #EXTINF:-1 tvg-logo="" group-title="AU",Totally Radio - 60s (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_60S_S01.mp3
@@ -227,11 +230,11 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_GRTST_HIT
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/favicon.ico" group-title="AU",ABC Radio Australia 20220701
 https://mediaserviceslive.akamaized.net/hls/live/2038266/ramulti/masterhq.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="AU",Australian Digital Radio Network - Britpop Best Selling All Time (MP3)
-http://abm21.com.au:8000/CONTAINER32
-
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/core-assets/jazz/favicon-32x32.png" group-title="AU",ABC Jazz HLS
 https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="AU",Australian Digital Radio Network - Britpop Best Selling All Time (MP3)
+http://abm21.com.au:8000/CONTAINER32
 
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="AU",Australian Digital Radio Network - Madonna (MP3)
 http://abm21.com.au:8000/CONTAINER145
@@ -257,23 +260,26 @@ http://s1.voscast.com:10442/stream
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="AU",Australian Digital Radio Network - 1970s Pop Charting (MP3)
 http://abm21.com.au:8000/CONTAINER82
 
-#EXTINF:-1 tvg-logo="" group-title="AU",Totally Radio - 00s (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01.mp3
-
 #EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/db/5c/35809/1/c175.png" group-title="AU",ABC Classic HLS
 https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.4bc.com.au/wp-content/uploads/sites/10/2023/01/4BC.png" group-title="AU",4BC - Brisbane - 882 AM (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3
+#EXTINF:-1 tvg-logo="" group-title="AU",Totally Radio - 00s (MP3)
+http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01.mp3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X4Wwcn2/Totally-Radio-Rock-qj8jjmigi7f6eerdvuo7e2wtp2otgopbg1unaq3fxc.jpg" group-title="AU",Totally Radio - Rock (AAC)
 http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01AAC.aac
+
+#EXTINF:-1 tvg-logo="https://www.4bc.com.au/wp-content/uploads/sites/10/2023/01/4BC.png" group-title="AU",4BC - Brisbane - 882 AM (MP3)
+http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3
 
 #EXTINF:-1 tvg-logo="http://www.nova969.com.au/assets/nova/icons/favicon/apple-touch-icon.png" group-title="AU",Nova 96.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC48.aac
 
 #EXTINF:-1 tvg-logo="https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png" group-title="AU",hit104.7 Canberra
 https://ais-arn.streamguys1.com/au_005/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.abc.net.au/core-assets/triplej/favicon-32x32.png" group-title="AU",triple j (NSW)
+https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="AU",Three D Radio
 http://sounds.threedradio.com:8000/stream
@@ -293,12 +299,6 @@ http://abm22.com.au:8000/CONTAINER102
 #EXTINF:-1 tvg-logo="https://www.smooth.com.au/assets/smooth/icons/favicon/apple-touch-icon.png" group-title="AU",Smooth-Relax
 http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC.aac
 
-#EXTINF:-1 tvg-logo="https://www.abc.net.au/core-assets/triplej/favicon-32x32.png" group-title="AU",triple j (NSW)
-https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="AU",Australian Digital Radio Network - Led Zeppelin (MP3)
 http://abm21.com.au:8000/CONTAINER147
-
-#EXTINF:-1 tvg-logo="https://www.abc.net.au/favicon.ico" group-title="AU",ABC 702kHz AM Sydney NSW Local Radio 20220701
-https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8
 

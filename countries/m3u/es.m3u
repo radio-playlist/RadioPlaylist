@@ -21,7 +21,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3
 http://c2.auracast.net:8048/stream
 
 #EXTINF:-1 tvg-logo="https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png" group-title="ES",Rock FM
-http://flucast25-h-cloud.flumotion.com/cope/rockfm-low.mp3
+http://flucast02-h-cloud.flumotion.com/cope/rockfm-low.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="ES",_80 EXITOS
 https://80sexitos.stream.laut.fm/80sexitos
@@ -62,11 +62,11 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.
 #EXTINF:-1 tvg-logo="http://www.absolutechillout.com/favicon.ico" group-title="ES",Absolute Chillout
 http://edge4.peta.live365.net/b05055_128mp3
 
-#EXTINF:-1 tvg-logo="https://www.megastar.fm/estaticos/apple-touch-icon-192x192.png" group-title="ES",MegaStarFM
-http://flucast01-h-cloud.flumotion.com/cope/megastar.mp3
-
 #EXTINF:-1 tvg-logo="http://e00-marca.uecdn.es/favicon.ico" group-title="ES",Radio Marca Barcelona
 http://radioweb.radiomarcabarcelona.com:9000/stream
+
+#EXTINF:-1 tvg-logo="https://www.megastar.fm/estaticos/apple-touch-icon-192x192.png" group-title="ES",MegaStarFM
+http://flucast-bl04.flumotion.com/cope/megastar.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="ES",Radio Marca Madrid
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL_SC
@@ -81,13 +81,13 @@ http://stream.zeno.fm/s70bvdgqks8uv
 https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="ES",Cope Sevilla
-http://wecast05-h-cloud.flumotion.com/copesedes/sevilla.mp3
+http://wecast12-h-cloud.flumotion.com/copesedes/sevilla.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="ES",ONDA CERO (España)
 https://atres-live.ondacero.es/live/ondacero/bitrate_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hp9JgkDT82.png" group-title="ES",Radiolé
-http://27943.live.streamtheworld.com/RADIOLEAAC_SC
+http://28573.live.streamtheworld.com/RADIOLEAAC_SC
 
 #EXTINF:-1 tvg-logo="http://www.locafm.com/assets/img/favicon/apple-icon-120x120.png" group-title="ES",Loca FM live
 http://s3.we4stream.com:8045/liv
@@ -99,7 +99,7 @@ http://livestreaming3.esradio.fm/stream64.mp3
 http://locafm02.we4stream.com:8015/live
 
 #EXTINF:-1 tvg-logo="https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png" group-title="ES",RockFM 101.7
-http://flucast05-h-cloud.flumotion.com/cope/rockfm.aac
+http://flucast21-h-cloud.flumotion.com/cope/rockfm.aac
 
 #EXTINF:-1 tvg-logo="https://www.chocolatefm.com/apple-touch-icon.png" group-title="ES",Chocolate FM HD
 http://streaming5.elitecomunicacion.es:8030/live.mp3
@@ -147,7 +147,7 @@ http://livestreaming9.esradio.fm/aaclive32
 https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3&lang=es
 
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/109189.v2.png" group-title="ES",Radio España
-https://stream-280.surfernetwork.com/7ywx2u45vv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3eXd4MnU0NXZ2OHV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InNZbjJqMERBVFd1SW8wSUJaV0dOcFEiLCJpYXQiOjE3OTA0MjY1MzAsImV4cCI6MTc5MDQyNjU5MH0.bcwaIIJxrzcxLo7mmbm8dkqiKBxzTY3DsOqbSQXlBXQ
+https://stream-280.surfernetwork.com/7ywx2u45vv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3eXd4MnU0NXZ2OHV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkdvRmRLa05NUVFHbFprLUMxWFRuTkEiLCJpYXQiOjE3OTA4NjIyNzcsImV4cCI6MTc5MDg2MjMzN30.zYwGS8Kb7sgeBU4rF6ZwK7Ve4avJdRApqOgliqCi3BE
 
 #EXTINF:-1 tvg-logo="http://www.radiomaria.es/favicon.ico" group-title="ES",Radio Maria Spain Espana
 http://dreamsiteradiocp.com:8060/;stream.mp3
@@ -195,13 +195,10 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
 https://80sexitos.stream.laut.fm/80sexitos
 
 #EXTINF:-1 tvg-logo="https://cadenaser.com/pf/resources/img/favicon.png?d=320" group-title="ES",Cadena SER - Radio Valencia
-http://19993.live.streamtheworld.com/SER_VALENCIA_SC
+http://23603.live.streamtheworld.com/SER_VALENCIA_SC
 
 #EXTINF:-1 tvg-logo="https://www.locafm.com/assets/img/favicon/apple-icon-120x120.png" group-title="ES",Loca FM 80s
 http://s02.fjperezdj.com:8075/live
-
-#EXTINF:-1 tvg-logo="https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png" group-title="ES",COPE Albacete
-https://wecast02-o-cloud.flumotion.com/copesedes/albacete.mp3
 
 #EXTINF:-1 tvg-logo="https://s.libertaddigital.com/2024/08/20/1200/627/esradio/esradio-redes.jpg" group-title="ES",EsRadio Principal
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-low.mp3
@@ -233,11 +230,11 @@ http://s02.fjperezdj.com:8035/live
 #EXTINF:-1 tvg-logo="" group-title="ES",Loca FM chillout
 http://s02.fjperezdj.com:8006/live
 
+#EXTINF:-1 tvg-logo="https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png" group-title="ES",COPE Málaga
+http://flucast-rb04-02.flumotion.com/cope/net1.mp3
+
 #EXTINF:-1 tvg-logo="https://cadenaser00.epimg.net/favicon.png" group-title="ES",Cadena SER - Ràdio Barcelona
 https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3
-
-#EXTINF:-1 tvg-logo="https://www.cope.es/favicon/cope/apple-touch-icon-192x192.png" group-title="ES",COPE Málaga
-http://flucast11-o-cloud.flumotion.com/cope/net1.mp3
 
 #EXTINF:-1 tvg-logo="https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png" group-title="ES",Cadena 100
 https://cadena100-cope.flumotion.com/chunks.m3u8
@@ -278,11 +275,11 @@ https://stream.tunerplay.com/radio/8040/radio.mp3
 #EXTINF:-1 tvg-logo="https://s.libertaddigital.com/2024/08/20/1200/627/esradio/esradio-redes.jpg" group-title="ES",EsRadio (MP3 HQ)
 https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3
 
-#EXTINF:-1 tvg-logo="https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png" group-title="ES",RadioBlues Flac
-https://streams.radiomast.io/radioblues-flac
-
 #EXTINF:-1 tvg-logo="" group-title="ES",C. DIAL Baladas
 https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3
+
+#EXTINF:-1 tvg-logo="https://bluesflac.com/wp-content/uploads/2019/11/cropped-skull-1-180x180.png" group-title="ES",RadioBlues Flac
+https://streams.radiomast.io/radioblues-flac
 
 #EXTINF:-1 tvg-logo="" group-title="ES",Inselradio Mallorca
 http://addrad.io/445fxk9
@@ -290,15 +287,18 @@ http://addrad.io/445fxk9
 #EXTINF:-1 tvg-logo="" group-title="ES",Emision moviles
 http://stream.produccionesdale.com:8899/moviles
 
-#EXTINF:-1 tvg-logo="" group-title="ES",Euskadi irratia
-http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3
-
 #EXTINF:-1 tvg-logo="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.rtve.es/play/radio/radio-3/&size=16" group-title="ES",RNE Radio 3
 https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ES",Euskadi irratia
+http://mp3-eitb.stream.flumotion.com/eitb/euskadiirratia.mp3
 
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s48765q.png" group-title="ES",Qfm
 http://51.255.235.165:5092/;
 
 #EXTINF:-1 tvg-logo="" group-title="ES",Misterio FM
 https://stream-38.zeno.fm/zr1ntv61fchvv?zs=B6YIARuRSaujjyuQoZxg0g
+
+#EXTINF:-1 tvg-logo="https://www.radio.es/images/broadcasts/a2/7d/103588/1/c300.png" group-title="ES",Pure Ibiza Radio
+https://pureibizaradio.clubbingradios.com:9518/PureIbizaRadio
 

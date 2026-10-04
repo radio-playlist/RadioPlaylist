@@ -14,8 +14,8 @@
     "tags": "news,talk",
     "codec": "MP3",
     "bitrate": 56,
-    "votes": 163849,
-    "clickcount": 619
+    "votes": 164411,
+    "clickcount": 596
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 141961,
-    "clickcount": 37
+    "votes": 142286,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "music,news,persian,rfe-rl,talk",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 100748,
-    "clickcount": 49
+    "votes": 100995,
+    "clickcount": 43
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "iran,news,persian",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 96821,
-    "clickcount": 76
+    "votes": 97240,
+    "clickcount": 90
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "africa,news",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 88858,
-    "clickcount": 130
+    "votes": 89172,
+    "clickcount": 113
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "news,world music",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 57712,
-    "clickcount": 74
+    "votes": 57806,
+    "clickcount": 70
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 55317,
-    "clickcount": 87
+    "votes": 55428,
+    "clickcount": 101
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "news,talk",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 52590,
-    "clickcount": 41
+    "votes": 52679,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "moscow,music,news,russia,talk",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 45590,
-    "clickcount": 62
+    "votes": 45664,
+    "clickcount": 50
   },
   {
     "id": null,
@@ -176,8 +176,8 @@
     "tags": "music,news,talk",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 42502,
-    "clickcount": 40
+    "votes": 42560,
+    "clickcount": 44
   },
   {
     "id": null,
@@ -194,26 +194,8 @@
     "tags": "news,public radio,rai",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 42301,
-    "clickcount": 144
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "94f5bf2e-641d-11e8-b15b-52543be04c81",
-    "name": "Радио НВ",
-    "url": "http://91.218.212.84:8000/radionv.mp3",
-    "url_resolved": "http://91.218.212.84:8000/radionv.mp3",
-    "homepage": "https://radio.nv.ua/ru",
-    "favicon": "https://d3e54v103j8qbb.cloudfront.net/static/designer_favicon.5ea478d03e.png",
-    "countrycode": "UA",
-    "state": "Kiev",
-    "language": "ukrainian",
-    "tags": "news,politics",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 39125,
-    "clickcount": 48
+    "votes": 42390,
+    "clickcount": 154
   },
   {
     "id": null,
@@ -230,8 +212,8 @@
     "tags": "cultural news,live,news,news talk,spanish,sports news",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 30098,
-    "clickcount": 206
+    "votes": 30235,
+    "clickcount": 317
   },
   {
     "id": null,
@@ -248,8 +230,8 @@
     "tags": "news,news talk,political talk,politics,public radio,talk",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 30060,
-    "clickcount": 173
+    "votes": 30122,
+    "clickcount": 137
   },
   {
     "id": null,
@@ -266,8 +248,8 @@
     "tags": "news",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 29828,
-    "clickcount": 33
+    "votes": 29880,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -284,8 +266,8 @@
     "tags": "conspiracies,conspiracy theories,information,news,survivalism,talk",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 28464,
-    "clickcount": 53
+    "votes": 28486,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -302,8 +284,8 @@
     "tags": "folk,news,pop,talk",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 26768,
-    "clickcount": 42
+    "votes": 26820,
+    "clickcount": 55
   },
   {
     "id": null,
@@ -320,8 +302,8 @@
     "tags": "conservative,info,mp3,news,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 26425,
-    "clickcount": 69
+    "votes": 26504,
+    "clickcount": 78
   },
   {
     "id": null,
@@ -338,7 +320,7 @@
     "tags": "information,news,news talk,political talk,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 23939,
+    "votes": 23989,
     "clickcount": 202
   },
   {
@@ -356,8 +338,8 @@
     "tags": "news",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 23605,
-    "clickcount": 51
+    "votes": 23644,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -374,8 +356,8 @@
     "tags": "cultural,music,news,prague,rfe-rl,talk",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 23385,
-    "clickcount": 17
+    "votes": 23451,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -392,8 +374,8 @@
     "tags": "information,news",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 22091,
-    "clickcount": 55
+    "votes": 22163,
+    "clickcount": 57
   },
   {
     "id": null,
@@ -401,7 +383,7 @@
     "stationuuid": "961f5a7a-0601-11e8-ae97-52543be04c81",
     "name": "Blu Radio, señal nacional (HJCK, 89.9 MHz FM, Bogotá / HJN42, 96.3 MHz, San Martín, Meta / HJH87, 103.1 MHz, Paipa, Boyacá / HJOM, 1090 KHz, Cartagena de Indias / HJM47 103.1 MHz, Algeciras, Huila / HJQ43, 94.1 MHz, Bugalagrande, Valle del Cauca)",
     "url": "http://playerservices.streamtheworld.com/m3u/BLURADIO.m3u",
-    "url_resolved": "http://26483.live.streamtheworld.com/BLURADIO_SC",
+    "url_resolved": "http://24503.live.streamtheworld.com/BLURADIO_SC",
     "homepage": "http://www.bluradio.com/",
     "favicon": "http://www.bluradio.com/favicon.ico",
     "countrycode": "CO",
@@ -410,8 +392,8 @@
     "tags": "armenian,bogotá,caribbean music,live sports,neiva,news,news radio,pereira,sports news,sports talk,talk radio,tunja,villavicencio",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 21403,
-    "clickcount": 19
+    "votes": 21441,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -428,8 +410,8 @@
     "tags": "aac,news,talk",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 21287,
-    "clickcount": 566
+    "votes": 21396,
+    "clickcount": 641
   },
   {
     "id": null,
@@ -446,8 +428,8 @@
     "tags": "music,news",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 19997,
-    "clickcount": 20
+    "votes": 20024,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -455,7 +437,7 @@
     "stationuuid": "962f7516-0601-11e8-ae97-52543be04c81",
     "name": "Caracol Radio Colombia (HJGL 100.9 / HJCY 810 AM, Bogotá) [AAC]",
     "url": "http://playerservices.streamtheworld.com/m3u/CARACOL_RADIOAAC.m3u",
-    "url_resolved": "http://26523.live.streamtheworld.com/CARACOL_RADIOAAC_SC",
+    "url_resolved": "http://27343.live.streamtheworld.com:3690/CARACOL_RADIOAAC_SC",
     "homepage": "http://www.caracol.com.co/",
     "favicon": "http://www.caracol.com.co/pf/resources/caracol-colombia/touch-icon-ipad.png?d=323",
     "countrycode": "CO",
@@ -464,8 +446,8 @@
     "tags": "news,talk radio",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 19747,
-    "clickcount": 26
+    "votes": 19817,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -482,8 +464,8 @@
     "tags": "news,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 19068,
-    "clickcount": 370
+    "votes": 19190,
+    "clickcount": 402
   },
   {
     "id": null,
@@ -500,8 +482,8 @@
     "tags": "news,talk",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 19023,
-    "clickcount": 18
+    "votes": 19054,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -518,8 +500,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 18148,
-    "clickcount": 223
+    "votes": 18209,
+    "clickcount": 217
   },
   {
     "id": null,
@@ -536,8 +518,8 @@
     "tags": "news,talk",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 17794,
-    "clickcount": 31
+    "votes": 17803,
+    "clickcount": 50
   },
   {
     "id": null,
@@ -554,8 +536,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 15800,
-    "clickcount": 19
+    "votes": 15838,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -572,8 +554,8 @@
     "tags": "duna média,news,public radio,talk",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 15480,
-    "clickcount": 19
+    "votes": 15515,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -590,8 +572,8 @@
     "tags": "news,talk",
     "codec": "MP3",
     "bitrate": 56,
-    "votes": 15279,
-    "clickcount": 170
+    "votes": 15322,
+    "clickcount": 331
   },
   {
     "id": null,
@@ -608,8 +590,8 @@
     "tags": "dorenko,moscow,news,talk",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 14850,
-    "clickcount": 11
+    "votes": 14866,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -626,26 +608,8 @@
     "tags": "music,news,talkshow",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 14464,
-    "clickcount": 23
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9618e0b5-0601-11e8-ae97-52543be04c81",
-    "name": "DIGI FM",
-    "url": "http://edge76.rdsnet.ro:84/digifm/digifm.mp3",
-    "url_resolved": "http://edge76.rdsnet.ro:84/digifm/digifm.mp3",
-    "homepage": "http://www.digi-fm.ro/",
-    "favicon": "http://www.digi-fm.ro/static/theme-repo/apple-touch-icon.png?v=2.0&cache=rls-2021111100-v9",
-    "countrycode": "RO",
-    "state": "",
-    "language": "romanian",
-    "tags": "music,news",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 14280,
-    "clickcount": 29
+    "votes": 14504,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -662,8 +626,26 @@
     "tags": "news",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 14272,
-    "clickcount": 275
+    "votes": 14343,
+    "clickcount": 270
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9618e0b5-0601-11e8-ae97-52543be04c81",
+    "name": "DIGI FM",
+    "url": "http://edge76.rdsnet.ro:84/digifm/digifm.mp3",
+    "url_resolved": "http://edge76.rdsnet.ro:84/digifm/digifm.mp3",
+    "homepage": "http://www.digi-fm.ro/",
+    "favicon": "http://www.digi-fm.ro/static/theme-repo/apple-touch-icon.png?v=2.0&cache=rls-2021111100-v9",
+    "countrycode": "RO",
+    "state": "",
+    "language": "romanian",
+    "tags": "music,news",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 14336,
+    "clickcount": 48
   },
   {
     "id": null,
@@ -671,7 +653,7 @@
     "stationuuid": "961af0bd-0601-11e8-ae97-52543be04c81",
     "name": "W Radio Colombia, Bogotá (HJCZ 690 AM; HJLN 99.9 MHz FM) Caracol Estéreo / Caracol Radio",
     "url": "http://playerservices.streamtheworld.com/m3u/WRADIO.m3u",
-    "url_resolved": "http://27383.live.streamtheworld.com:3690/WRADIO_SC",
+    "url_resolved": "http://26653.live.streamtheworld.com/WRADIO_SC",
     "homepage": "http://wradio.com.co/",
     "favicon": "http://wradio.com.co/pf/resources/wradio-colombia/touch-icon-ipad.png?d=172",
     "countrycode": "CO",
@@ -680,8 +662,8 @@
     "tags": "news,news and talk,talk radio",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 14268,
-    "clickcount": 14
+    "votes": 14297,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -698,8 +680,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 12613,
-    "clickcount": 275
+    "votes": 12690,
+    "clickcount": 206
   },
   {
     "id": null,
@@ -716,8 +698,8 @@
     "tags": "ard,information,news,public radio,rbb",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12018,
-    "clickcount": 72
+    "votes": 12042,
+    "clickcount": 78
   },
   {
     "id": null,
@@ -734,8 +716,8 @@
     "tags": "news,music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11930,
-    "clickcount": 28
+    "votes": 11956,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -752,8 +734,8 @@
     "tags": "news,talk",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 11810,
-    "clickcount": 7
+    "votes": 11849,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -770,8 +752,8 @@
     "tags": "news,politics,talk",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 11706,
-    "clickcount": 21
+    "votes": 11743,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -788,8 +770,8 @@
     "tags": "88.9,88.9 fm,acir,balada en español,baladas en español,cdmx,ciudad de méxico,espacio deportivo,español,estación,fm,fundación acir,grupo acir,hablada,iheart,iheart radio,informacion,información,informativa,mex,mx,news,noticias,noticias cortas,noticias en español,noticias locales,noticias y comentarios,panorama informativo,radio,radio hablada,rock en español",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 11678,
-    "clickcount": 25
+    "votes": 11709,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -806,8 +788,8 @@
     "tags": "culture,news,public service,information",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11418,
-    "clickcount": 443
+    "votes": 11501,
+    "clickcount": 474
   },
   {
     "id": null,
@@ -824,8 +806,8 @@
     "tags": "news,public radio,rtvs,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11409,
-    "clickcount": 22
+    "votes": 11422,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -842,8 +824,8 @@
     "tags": "entertainment,local music,news,sport",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 10803,
-    "clickcount": 10
+    "votes": 10828,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -860,8 +842,8 @@
     "tags": "greek,news,talk",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 10606,
-    "clickcount": 13
+    "votes": 10638,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -878,8 +860,8 @@
     "tags": "haber,haberler,news,türkçe",
     "codec": "AAC+",
     "bitrate": 63,
-    "votes": 10478,
-    "clickcount": 47
+    "votes": 10495,
+    "clickcount": 45
   },
   {
     "id": null,
@@ -896,8 +878,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 10424,
-    "clickcount": 5
+    "votes": 10433,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -914,26 +896,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 10305,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9615d27a-0601-11e8-ae97-52543be04c81",
-    "name": "ABC NewsRadio MP3",
-    "url": "http://www.abc.net.au/res/streaming/audio/mp3/news_radio.pls",
-    "url_resolved": "http://abc.streamguys1.com/live/newsradio/icecast.audio",
-    "homepage": "http://www.abc.net.au/newsradio/",
-    "favicon": "http://www.abc.net.au/favicon.ico",
-    "countrycode": "AU",
-    "state": "",
-    "language": "english",
-    "tags": "abc,news,newsradio,public radio",
-    "codec": "AAC+",
-    "bitrate": 56,
-    "votes": 10010,
-    "clickcount": 15
+    "votes": 10378,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -950,8 +914,26 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 10000,
-    "clickcount": 152
+    "votes": 10039,
+    "clickcount": 164
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9615d27a-0601-11e8-ae97-52543be04c81",
+    "name": "ABC NewsRadio MP3",
+    "url": "http://www.abc.net.au/res/streaming/audio/mp3/news_radio.pls",
+    "url_resolved": "http://abc.streamguys1.com/live/newsradio/icecast.audio",
+    "homepage": "http://www.abc.net.au/newsradio/",
+    "favicon": "http://www.abc.net.au/favicon.ico",
+    "countrycode": "AU",
+    "state": "",
+    "language": "english",
+    "tags": "abc,news,newsradio,public radio",
+    "codec": "AAC+",
+    "bitrate": 56,
+    "votes": 10029,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -968,8 +950,8 @@
     "tags": "news,talk",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 9952,
-    "clickcount": 36
+    "votes": 9997,
+    "clickcount": 40
   },
   {
     "id": null,
@@ -986,8 +968,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 9868,
-    "clickcount": 7
+    "votes": 9887,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1004,8 +986,8 @@
     "tags": "faroe islands,national,news,public service",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 9542,
-    "clickcount": 9
+    "votes": 9554,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1022,8 +1004,8 @@
     "tags": "music,news,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 9340,
-    "clickcount": 9
+    "votes": 9365,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1040,8 +1022,8 @@
     "tags": "news,talk",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 9155,
-    "clickcount": 14
+    "votes": 9197,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -1058,8 +1040,8 @@
     "tags": "cultural,local,news,talk",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 9119,
-    "clickcount": 7
+    "votes": 9139,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1067,7 +1049,7 @@
     "stationuuid": "961844bb-0601-11e8-ae97-52543be04c81",
     "name": "W Radio Ciudad de México (XEW-AM 900 kHz, XEW-FM 96.9 MHz) Televisa Radio",
     "url": "http://provisioning.streamtheworld.com/pls/W_RADIOAAC.pls",
-    "url_resolved": "http://26383.live.streamtheworld.com:3690/W_RADIOAAC_SC",
+    "url_resolved": "http://18123.live.streamtheworld.com:3690/W_RADIOAAC_SC",
     "homepage": "http://wradio.com.mx/",
     "favicon": "http://wradio.com.mx/pf/resources/wradiomx/favicon.ico?d=71",
     "countrycode": "MX",
@@ -1076,8 +1058,8 @@
     "tags": "adult contemporary,live sports,local news,mexico city,news,news talk,sports news,talk radio",
     "codec": "AAC+",
     "bitrate": 192,
-    "votes": 8815,
-    "clickcount": 4
+    "votes": 8824,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1094,8 +1076,8 @@
     "tags": "news,talk",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 8792,
-    "clickcount": 10
+    "votes": 8810,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -1112,8 +1094,8 @@
     "tags": "news",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 8619,
-    "clickcount": 225
+    "votes": 8689,
+    "clickcount": 202
   },
   {
     "id": null,
@@ -1130,8 +1112,8 @@
     "tags": "economic,news",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 8386,
-    "clickcount": 53
+    "votes": 8396,
+    "clickcount": 49
   },
   {
     "id": null,
@@ -1148,8 +1130,8 @@
     "tags": "entertainment,news,sports,talk",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 8122,
-    "clickcount": 8
+    "votes": 8137,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1166,8 +1148,8 @@
     "tags": "arabic music,general,local programming,news,talk",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 8107,
-    "clickcount": 44
+    "votes": 8125,
+    "clickcount": 40
   },
   {
     "id": null,
@@ -1184,8 +1166,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 8005,
-    "clickcount": 37
+    "votes": 8112,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -1202,8 +1184,8 @@
     "tags": "news,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7927,
-    "clickcount": 66
+    "votes": 7941,
+    "clickcount": 70
   },
   {
     "id": null,
@@ -1220,8 +1202,8 @@
     "tags": "news,public radio,český rozhlas",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7845,
-    "clickcount": 22
+    "votes": 7855,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -1238,26 +1220,8 @@
     "tags": "london,news,talk",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 7819,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "962e5ddc-0601-11e8-ae97-52543be04c81",
-    "name": "B5 aktuell",
-    "url": "http://streams.br.de/b5aktuell_2.m3u",
-    "url_resolved": "http://dispatcher.rndfnk.com/br/br24/live/mp3/mid",
-    "homepage": "https://www.br.de/radio/b5-aktuell/service/programm/",
-    "favicon": "https://www.br.de/favicon.ico",
-    "countrycode": "DE",
-    "state": "Bavaria",
-    "language": "german",
-    "tags": "ard,bayerischer rundfunk,information,news,public radio,talk",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 7598,
-    "clickcount": 6
+    "votes": 7825,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1274,8 +1238,26 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7594,
-    "clickcount": 10
+    "votes": 7617,
+    "clickcount": 13
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "962e5ddc-0601-11e8-ae97-52543be04c81",
+    "name": "B5 aktuell",
+    "url": "http://streams.br.de/b5aktuell_2.m3u",
+    "url_resolved": "http://dispatcher.rndfnk.com/br/br24/live/mp3/mid",
+    "homepage": "https://www.br.de/radio/b5-aktuell/service/programm/",
+    "favicon": "https://www.br.de/favicon.ico",
+    "countrycode": "DE",
+    "state": "Bavaria",
+    "language": "german",
+    "tags": "ard,bayerischer rundfunk,information,news,public radio,talk",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 7606,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1292,8 +1274,8 @@
     "tags": "documentaries,news,speech,talk",
     "codec": "AAC",
     "bitrate": 99,
-    "votes": 7484,
-    "clickcount": 11
+    "votes": 7496,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1310,26 +1292,8 @@
     "tags": "educational,entertainment,news",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 7210,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961d37d6-0601-11e8-ae97-52543be04c81",
-    "name": "RTBF La Première",
-    "url": "https://radios.rtbf.be/laprem1ere-64.aac",
-    "url_resolved": "https://radios.rtbf.be/laprem1ere-64.aac",
-    "homepage": "https://www.rtbf.be/lapremiere/",
-    "favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
-    "countrycode": "BE",
-    "state": "",
-    "language": "french",
-    "tags": "news,rtbf,variety",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 7174,
-    "clickcount": 29
+    "votes": 7231,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1346,26 +1310,44 @@
     "tags": "information,news",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 7172,
-    "clickcount": 90
+    "votes": 7199,
+    "clickcount": 109
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "daa9dfac-9b2a-41ff-b65e-3090a2b26cee",
-    "name": "UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac",
-    "homepage": "https://www.universal881.com/",
-    "favicon": "https://i.iheart.com/v3/re/new_assets/5ef0b2287ec97a064f3322c7",
-    "countrycode": "MX",
-    "state": "Ciudad de México",
-    "language": "spanish",
-    "tags": "88.1,88.1 fm,adult contemporary,cdmx,ciudad de mexico,ciudad de méxico,clasicos,clasicos en ingles,classics,estación,fm,grupo radio centro,hot adult contemporary,mex,mexico,mexico city,music,mx,méxico,música,news,noticias,noticias en español,noticias locales,noticias opinion,noticias y comentarios,oldies,radio,retro,universal",
-    "codec": "AAC+",
-    "bitrate": 128,
-    "votes": 7079,
-    "clickcount": 2
+    "stationuuid": "4aa68f72-39dd-44d2-b57f-099078a94755",
+    "name": "বাংলাদেশ বেতার ঢাকা ক",
+    "url": "http://as1.digitalsynapsebd.com:8582/;",
+    "url_resolved": "http://as1.digitalsynapsebd.com:8582/;",
+    "homepage": "http://www.betar.gov.bd/",
+    "favicon": "null",
+    "countrycode": "BD",
+    "state": "",
+    "language": "bangla",
+    "tags": "bangla music,bangla natok,news",
+    "codec": "MP3",
+    "bitrate": 64,
+    "votes": 7180,
+    "clickcount": 19
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "961d37d6-0601-11e8-ae97-52543be04c81",
+    "name": "RTBF La Première",
+    "url": "https://radios.rtbf.be/laprem1ere-64.aac",
+    "url_resolved": "https://radios.rtbf.be/laprem1ere-64.aac",
+    "homepage": "https://www.rtbf.be/lapremiere/",
+    "favicon": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+    "countrycode": "BE",
+    "state": "",
+    "language": "french",
+    "tags": "news,rtbf,variety",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 7179,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -1382,8 +1364,26 @@
     "tags": "music,news,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7062,
-    "clickcount": 51
+    "votes": 7092,
+    "clickcount": 76
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "daa9dfac-9b2a-41ff-b65e-3090a2b26cee",
+    "name": "UNIVERSAL Ciudad de México - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac",
+    "homepage": "https://www.universal881.com/",
+    "favicon": "https://i.iheart.com/v3/re/new_assets/5ef0b2287ec97a064f3322c7",
+    "countrycode": "MX",
+    "state": "Ciudad de México",
+    "language": "spanish",
+    "tags": "88.1,88.1 fm,adult contemporary,cdmx,ciudad de mexico,ciudad de méxico,clasicos,clasicos en ingles,classics,estación,fm,grupo radio centro,hot adult contemporary,mex,mexico,mexico city,music,mx,méxico,música,news,noticias,noticias en español,noticias locales,noticias opinion,noticias y comentarios,oldies,radio,retro,universal",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "votes": 7080,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1400,8 +1400,8 @@
     "tags": "news",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 6986,
-    "clickcount": 2
+    "votes": 6996,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1418,8 +1418,8 @@
     "tags": "classic hits,news",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 6913,
-    "clickcount": 0
+    "votes": 6937,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1436,8 +1436,8 @@
     "tags": "greek,news,news talk,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6899,
-    "clickcount": 6
+    "votes": 6922,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -1454,8 +1454,26 @@
     "tags": "news",
     "codec": "UNKNOWN",
     "bitrate": 384,
-    "votes": 6740,
-    "clickcount": 34
+    "votes": 6810,
+    "clickcount": 28
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "4e9c7844-5451-4a54-8bad-1174baba92fa",
+    "name": "Radio HRN La Voz de Honduras",
+    "url": "https://ice42.securenetsystems.net/HRN",
+    "url_resolved": "https://ice42.securenetsystems.net/HRN",
+    "homepage": "https://radiohrn.hn/",
+    "favicon": "https://radiohrn.hn/favicon.ico",
+    "countrycode": "HN",
+    "state": "Tegucigalpa",
+    "language": "spanish",
+    "tags": "information,news,talk radio",
+    "codec": "AAC",
+    "bitrate": 32,
+    "votes": 6605,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1472,8 +1490,8 @@
     "tags": "comedy,drama,news,talk",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 6505,
-    "clickcount": 260
+    "votes": 6566,
+    "clickcount": 305
   },
   {
     "id": null,
@@ -1490,8 +1508,8 @@
     "tags": "information,news",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6252,
-    "clickcount": 48
+    "votes": 6265,
+    "clickcount": 52
   },
   {
     "id": null,
@@ -1508,8 +1526,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 56,
-    "votes": 6249,
-    "clickcount": 13
+    "votes": 6259,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1526,8 +1544,8 @@
     "tags": "news",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 6152,
-    "clickcount": 40
+    "votes": 6169,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -1544,8 +1562,8 @@
     "tags": "local music,news,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6087,
-    "clickcount": 3
+    "votes": 6105,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1562,7 +1580,7 @@
     "tags": "africa,afrique,news,talk",
     "codec": "AAC+",
     "bitrate": 101,
-    "votes": 6025,
+    "votes": 6026,
     "clickcount": 8
   },
   {
@@ -1580,26 +1598,8 @@
     "tags": "news,russian,talk,новости,разговор,разговорное,россия,русский",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5886,
+    "votes": 5904,
     "clickcount": 24
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "962d550e-0601-11e8-ae97-52543be04c81",
-    "name": "Радио Родных Дорог",
-    "url": "http://stream1.radiord.ru:8000/live96.aac",
-    "url_resolved": "http://stream1.radiord.ru:8000/live96.aac",
-    "homepage": "http://radiord.ru/",
-    "favicon": "",
-    "countrycode": "RU",
-    "state": "Cheboksary",
-    "language": "russian",
-    "tags": "cheboksary,federal radiochanel,music,news,road,russia,sport",
-    "codec": "AAC",
-    "bitrate": 96,
-    "votes": 5755,
-    "clickcount": 5
   },
   {
     "id": null,
@@ -1616,8 +1616,26 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 5748,
+    "votes": 5784,
     "clickcount": 78
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "962d550e-0601-11e8-ae97-52543be04c81",
+    "name": "Радио Родных Дорог",
+    "url": "http://stream1.radiord.ru:8000/live96.aac",
+    "url_resolved": "http://stream1.radiord.ru:8000/live96.aac",
+    "homepage": "http://radiord.ru/",
+    "favicon": "",
+    "countrycode": "RU",
+    "state": "Cheboksary",
+    "language": "russian",
+    "tags": "cheboksary,federal radiochanel,music,news,road,russia,sport",
+    "codec": "AAC",
+    "bitrate": 96,
+    "votes": 5764,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1634,8 +1652,8 @@
     "tags": "entertainment,media,news,variety",
     "codec": "MP3",
     "bitrate": 112,
-    "votes": 5733,
-    "clickcount": 16
+    "votes": 5741,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1652,8 +1670,8 @@
     "tags": "entertainment,music,news",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5493,
-    "clickcount": 13
+    "votes": 5514,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1661,7 +1679,7 @@
     "stationuuid": "9620b36f-0601-11e8-ae97-52543be04c81",
     "name": "CFRB News/Talk 1010 (Toronto, ON)",
     "url": "http://provisioning.streamtheworld.com/pls/CFRBAMAAC.pls",
-    "url_resolved": "http://18183.live.streamtheworld.com/CFRBAMAAC_SC",
+    "url_resolved": "http://14223.live.streamtheworld.com:3690/CFRBAMAAC_SC",
     "homepage": "https://www.iheartradio.ca/newstalk-1010",
     "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png",
     "countrycode": "CA",
@@ -1670,25 +1688,7 @@
     "tags": "commercial,local news,news,news talk",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 5419,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961bdac0-0601-11e8-ae97-52543be04c81",
-    "name": "LBC London (London stream) MP3",
-    "url": "http://media-ice.musicradio.com/LBCLondonMP3Low",
-    "url_resolved": "http://media-ice.musicradio.com/LBCLondonMP3Low",
-    "homepage": "http://www.lbc.co.uk/online-listen-live-faq-3608",
-    "favicon": "http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "london,news,talk",
-    "codec": "MP3",
-    "bitrate": 48,
-    "votes": 5406,
+    "votes": 5422,
     "clickcount": 8
   },
   {
@@ -1706,8 +1706,26 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 5365,
+    "votes": 5418,
     "clickcount": 14
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "961bdac0-0601-11e8-ae97-52543be04c81",
+    "name": "LBC London (London stream) MP3",
+    "url": "http://media-ice.musicradio.com/LBCLondonMP3Low",
+    "url_resolved": "http://media-ice.musicradio.com/LBCLondonMP3Low",
+    "homepage": "http://www.lbc.co.uk/online-listen-live-faq-3608",
+    "favicon": "http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "london,news,talk",
+    "codec": "MP3",
+    "bitrate": 48,
+    "votes": 5412,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1724,8 +1742,8 @@
     "tags": "culture,information,kultur,local news,news,regional",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5169,
-    "clickcount": 45
+    "votes": 5181,
+    "clickcount": 62
   },
   {
     "id": null,
@@ -1742,8 +1760,8 @@
     "tags": "culture,information,kultur,local news,news,regional",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5120,
-    "clickcount": 14
+    "votes": 5123,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -1760,8 +1778,8 @@
     "tags": "entertainment,music,news",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 5007,
-    "clickcount": 13
+    "votes": 5010,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1778,25 +1796,7 @@
     "tags": "classic rock,information,news,pop,pop rock,rock",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 4952,
-    "clickcount": 10
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f0d68df6-4a17-4373-adee-1cbc034cb80b",
-    "name": "Waar Radio",
-    "url": "http://streaming.radionomy.com/JamendoLounge",
-    "url_resolved": "http://streaming.radionomy.com/JamendoLounge",
-    "homepage": "https://waarmedia.com/",
-    "favicon": "https://waarmedia.com/favicon.ico",
-    "countrycode": "IQ",
-    "state": "",
-    "language": "kurdish",
-    "tags": "folk music,news",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4921,
-    "clickcount": 20
+    "votes": 4968,
+    "clickcount": 9
   }
 ]

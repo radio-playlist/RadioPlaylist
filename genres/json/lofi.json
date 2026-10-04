@@ -14,8 +14,8 @@
     "tags": "info,lofi,radio france",
     "codec": "MP3",
     "bitrate": 32,
-    "votes": 4913,
-    "clickcount": 14
+    "votes": 4919,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "chillout,lofi",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1267,
-    "clickcount": 92
+    "votes": 1280,
+    "clickcount": 94
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "aesthetic,chillwave,futurefunk,lofi,vaporwave",
     "codec": "OGG",
     "bitrate": 64,
-    "votes": 1030,
-    "clickcount": 9
+    "votes": 1033,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -87,7 +87,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 416,
-    "clickcount": 14
+    "clickcount": 11
   },
   {
     "id": null,
@@ -105,7 +105,7 @@
     "codec": "AAC",
     "bitrate": 128,
     "votes": 293,
-    "clickcount": 9
+    "clickcount": 3
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "bollywood,hindi,indian,kollywood,lo-fi,lofi,malayalam,mollywood,tamil",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 192,
-    "clickcount": 55
+    "votes": 193,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -140,7 +140,7 @@
     "tags": "calm,chill,easy listening,easy music,learn,lo-fi,lofi,lofi hip hop,lofi study beats,smooth,student",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 139,
+    "votes": 147,
     "clickcount": 26
   },
   {
@@ -159,7 +159,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 131,
-    "clickcount": 7
+    "clickcount": 3
   },
   {
     "id": null,
@@ -177,7 +177,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 103,
-    "clickcount": 5
+    "clickcount": 6
   },
   {
     "id": null,
@@ -194,8 +194,8 @@
     "tags": "chill,chillout,electronic,house,intelligent drum and bass,intelligent drum&bass,liquid,liquid drum and bas,liquid funk,lofi,phonk,relax",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 86,
-    "clickcount": 24
+    "votes": 89,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -213,7 +213,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 83,
-    "clickcount": 3
+    "clickcount": 1
   },
   {
     "id": null,
@@ -231,7 +231,7 @@
     "codec": "AAC",
     "bitrate": 63,
     "votes": 79,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -248,8 +248,8 @@
     "tags": "hiphop,instrumental,instrumental music,lofi",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 66,
-    "clickcount": 11
+    "votes": 67,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -285,7 +285,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 50,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -303,7 +303,7 @@
     "codec": "OGG",
     "bitrate": 64,
     "votes": 46,
-    "clickcount": 3
+    "clickcount": 6
   },
   {
     "id": null,
@@ -321,7 +321,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 42,
-    "clickcount": 2
+    "clickcount": 4
   },
   {
     "id": null,
@@ -339,7 +339,7 @@
     "codec": "OGG",
     "bitrate": 128,
     "votes": 42,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -357,7 +357,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 40,
-    "clickcount": 0
+    "clickcount": 5
   },
   {
     "id": null,
@@ -375,7 +375,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 37,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -393,7 +393,43 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 34,
-    "clickcount": 19
+    "clickcount": 33
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "37404e52-c3de-497d-b528-8a7ea897f266",
+    "name": "LITT Live - Lofi - Chill & Instrumental Jazz Beats",
+    "url": "https://das-sa39.cdnstream1.com/5582_128",
+    "url_resolved": "https://das-sa39.cdnstream1.com/5582_128",
+    "homepage": "https://littlive.com/",
+    "favicon": "https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/6b67891f-ca25-461d-868f-664944bffac0.png",
+    "countrycode": "US",
+    "state": "",
+    "language": "english",
+    "tags": "lo-fi,lofi,lofi beats",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 34,
+    "clickcount": 12
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "427da114-be59-4272-9372-9af9e84a7f39",
+    "name": "ARA FM",
+    "url": "http://141.164.38.238/listen/ara_fm/radio.mp3",
+    "url_resolved": "http://141.164.38.238/listen/ara_fm/radio.mp3",
+    "homepage": "http://141.164.38.238/public/ara_fm",
+    "favicon": "",
+    "countrycode": "KR",
+    "state": "",
+    "language": "chinese,english,japanese,korean",
+    "tags": "ambient,dance pop,indie pop,k-pop,lofi,pop",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 33,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -411,43 +447,7 @@
     "codec": "AAC",
     "bitrate": 0,
     "votes": 33,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "37404e52-c3de-497d-b528-8a7ea897f266",
-    "name": "LITT Live - Lofi - Chill & Instrumental Jazz Beats",
-    "url": "https://das-sa39.cdnstream1.com/5582_128",
-    "url_resolved": "https://das-sa39.cdnstream1.com/5582_128",
-    "homepage": "https://littlive.com/",
-    "favicon": "https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/6b67891f-ca25-461d-868f-664944bffac0.png",
-    "countrycode": "US",
-    "state": "",
-    "language": "english",
-    "tags": "lo-fi,lofi,lofi beats",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 30,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "427da114-be59-4272-9372-9af9e84a7f39",
-    "name": "ARA FM",
-    "url": "http://141.164.38.238/listen/ara_fm/radio.mp3",
-    "url_resolved": "http://141.164.38.238/listen/ara_fm/radio.mp3",
-    "homepage": "http://141.164.38.238/public/ara_fm",
-    "favicon": "",
-    "countrycode": "KR",
-    "state": "",
-    "language": "chinese,english,japanese,korean",
-    "tags": "ambient,dance pop,indie pop,k-pop,lofi,pop",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 29,
-    "clickcount": 22
+    "clickcount": 0
   },
   {
     "id": null,
@@ -482,7 +482,7 @@
     "tags": "16-bit,8-bit,background music,chiptune,jrpg,lofi,pixel music,relaxing,retro game music,video game music",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 14,
+    "votes": 15,
     "clickcount": 9
   },
   {
@@ -501,7 +501,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 12,
-    "clickcount": 4
+    "clickcount": 1
   },
   {
     "id": null,
@@ -519,7 +519,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 10,
-    "clickcount": 5
+    "clickcount": 6
   },
   {
     "id": null,
@@ -537,7 +537,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 7,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -555,7 +555,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 7,
-    "clickcount": 3
+    "clickcount": 7
   },
   {
     "id": null,
@@ -563,7 +563,7 @@
     "stationuuid": "f4722411-69a1-413d-9922-5017d5aef925",
     "name": "Special-Radio",
     "url": "https://stream.laut.fm/special-radio",
-    "url_resolved": "https://special-radio.stream.laut.fm/special-radio?uuid=c469ea47-627d-7101-f918-2c135f44133c&t302=2026-09-26_18-43-58",
+    "url_resolved": "https://special-radio.stream.laut.fm/special-radio?t302=2026-10-01_19-29-56&uuid=f62fd503-30ef-5f27-4937-2a98b953cc42",
     "homepage": "https://www.anmacha.de/special-radio",
     "favicon": "https://assets.laut.fm/a32f99500d9bc3864c7b619152c8e6e9?t=_120x120",
     "countrycode": "DE",
@@ -573,7 +573,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 5,
-    "clickcount": 3
+    "clickcount": 4
   },
   {
     "id": null,
@@ -596,6 +596,24 @@
   {
     "id": null,
     "source": "radio_browser_github",
+    "stationuuid": "679aa37a-d316-4f8e-b82b-fd267c85056b",
+    "name": "Kafka Chill",
+    "url": "http://kafka.icu:8181/stream",
+    "url_resolved": "http://kafka.icu:8181/stream",
+    "homepage": "https://kafka.icu/",
+    "favicon": "https://kafka.icu/icon-256.png",
+    "countrycode": "GB",
+    "state": "",
+    "language": "",
+    "tags": "chillout,downtempo,lofi,lofi beats,lounge,mellow,relax,smooth",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 4,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
     "stationuuid": "76bea234-d802-4830-b8a3-84b2a2375cfb",
     "name": "SLS Digital Music",
     "url": "https://slsdigitalradio.com:8000/radio.mp3",
@@ -609,25 +627,7 @@
     "codec": "AAC",
     "bitrate": 64,
     "votes": 3,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "679aa37a-d316-4f8e-b82b-fd267c85056b",
-    "name": "Kafka Chill",
-    "url": "http://kafka.icu:8181/stream",
-    "url_resolved": "http://kafka.icu:8181/stream",
-    "homepage": "https://kafka.icu/",
-    "favicon": "https://kafka.icu/icon-256.png",
-    "countrycode": "GB",
-    "state": "",
-    "language": "",
-    "tags": "chillout,downtempo,lofi,lofi beats,lounge,mellow,relax,smooth",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 3,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -663,7 +663,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -671,7 +671,7 @@
     "stationuuid": "11d36148-d486-47a7-8440-4f0dd731c944",
     "name": "Zocker-FM",
     "url": "https://stream.laut.fm/zockerfm",
-    "url_resolved": "https://zockerfm.stream.laut.fm/zockerfm?uuid=2a73f68b-e7e6-69a3-48dd-385720a996bb&t302=2026-09-26_18-51-11",
+    "url_resolved": "https://zockerfm.stream.laut.fm/zockerfm?t302=2026-10-01_22-15-26&uuid=239a8be6-749e-65dd-49eb-e644682363b6",
     "homepage": "https://www.anmacha.de/zocker-fm",
     "favicon": "https://assets.laut.fm/9721c8d3b2da107f0341ce2e5c01bc9a?t=_120x120",
     "countrycode": "DE",
@@ -681,7 +681,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2,
-    "clickcount": 1
+    "clickcount": 6
   },
   {
     "id": null,
@@ -699,7 +699,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -716,6 +716,24 @@
     "tags": "brazilian music,chill,folk,interviews,jazz,local music,lofi,meditation music,mexican music,salsa",
     "codec": "MP3",
     "bitrate": 128,
+    "votes": 1,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "5afd3c62-ae78-41ed-b4ff-e722a6813026",
+    "name": "SYNO RADIO",
+    "url": "https://radiosyno.ddns.net/radio",
+    "url_resolved": "https://radiosyno.ddns.net/radio",
+    "homepage": "https://radiosyno.ddns.net/",
+    "favicon": "https://radiosyno.ddns.net/assets/img/favicon.png",
+    "countrycode": "FR",
+    "state": "",
+    "language": "french",
+    "tags": "ai music,bossa nova,chill,dance,deep house,lofi,pop,webradio",
+    "codec": "MP3",
+    "bitrate": 0,
     "votes": 1,
     "clickcount": 0
   },
@@ -735,7 +753,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1,
-    "clickcount": 1
+    "clickcount": 3
   },
   {
     "id": null,
@@ -771,7 +789,7 @@
     "codec": "AAC",
     "bitrate": 192,
     "votes": 1,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -789,7 +807,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 1,
-    "clickcount": 2
+    "clickcount": 7
   },
   {
     "id": null,
@@ -807,7 +825,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 1,
-    "clickcount": 2
+    "clickcount": 4
   },
   {
     "id": null,
@@ -884,6 +902,24 @@
   {
     "id": null,
     "source": "radio_browser_github",
+    "stationuuid": "e8aebee3-aeb9-4d6c-afea-a830bd006cac",
+    "name": "RadioTEDU Lo-Fi",
+    "url": "https://stream.radiotedu.com/lofi",
+    "url_resolved": "https://stream.radiotedu.com/lofi",
+    "homepage": "https://radiotedu.com/radyolar/lo-fi/",
+    "favicon": "https://radiotedu.com/wp-content/uploads/2026/08/radiotedu-station-logos-v2/radiotedu-lo-fi.png",
+    "countrycode": "TR",
+    "state": "Ankara",
+    "language": "turkish",
+    "tags": "ankara,focus,lofi,study",
+    "codec": "AAC",
+    "bitrate": 192,
+    "votes": 0,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
     "stationuuid": "80e812dc-48a3-4678-a7b5-429c2cba04ba",
     "name": "Meder FM",
     "url": "https://myradio24.org/7934",
@@ -897,6 +933,6 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 0,
-    "clickcount": 0
+    "clickcount": 1
   }
 ]
