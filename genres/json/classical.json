@@ -14,8 +14,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 72303,
-    "clickcount": 63
+    "votes": 72604,
+    "clickcount": 71
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 57405,
-    "clickcount": 162
+    "votes": 57523,
+    "clickcount": 198
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "classical,relax",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 55787,
-    "clickcount": 106
+    "votes": 55895,
+    "clickcount": 111
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 90,
-    "votes": 33957,
-    "clickcount": 29
+    "votes": 34134,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 33758,
-    "clickcount": 23
+    "votes": 33898,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "classical,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 28350,
-    "clickcount": 49
+    "votes": 28435,
+    "clickcount": 65
   },
   {
     "id": null,
@@ -122,26 +122,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 24801,
-    "clickcount": 62
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9608eb3e-0601-11e8-ae97-52543be04c81",
-    "name": "Rai Radio 3",
-    "url": "http://icestreaming.rai.it/3.mp3",
-    "url_resolved": "http://icestreaming.rai.it/3.mp3",
-    "homepage": "http://www.radio3.rai.it/",
-    "favicon": "",
-    "countrycode": "IT",
-    "state": "Lazio",
-    "language": "italian",
-    "tags": "classical,culture,public radio,rai",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 23507,
-    "clickcount": 96
+    "votes": 24905,
+    "clickcount": 40
   },
   {
     "id": null,
@@ -158,8 +140,26 @@
     "tags": "classical",
     "codec": "AAC+",
     "bitrate": 0,
-    "votes": 23493,
-    "clickcount": 51
+    "votes": 23588,
+    "clickcount": 42
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9608eb3e-0601-11e8-ae97-52543be04c81",
+    "name": "Rai Radio 3",
+    "url": "http://icestreaming.rai.it/3.mp3",
+    "url_resolved": "http://icestreaming.rai.it/3.mp3",
+    "homepage": "http://www.radio3.rai.it/",
+    "favicon": "",
+    "countrycode": "IT",
+    "state": "Lazio",
+    "language": "italian",
+    "tags": "classical,culture,public radio,rai",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 23559,
+    "clickcount": 89
   },
   {
     "id": null,
@@ -176,8 +176,8 @@
     "tags": "classical,jazz,music,public radio,radio france",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 22193,
-    "clickcount": 31
+    "votes": 22256,
+    "clickcount": 55
   },
   {
     "id": null,
@@ -194,8 +194,8 @@
     "tags": "classical",
     "codec": "AAC",
     "bitrate": 93,
-    "votes": 18074,
-    "clickcount": 259
+    "votes": 18229,
+    "clickcount": 247
   },
   {
     "id": null,
@@ -212,8 +212,8 @@
     "tags": "classical",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 14341,
-    "clickcount": 9
+    "votes": 14391,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -230,8 +230,8 @@
     "tags": "classic fm,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 13830,
-    "clickcount": 28
+    "votes": 13872,
+    "clickcount": 40
   },
   {
     "id": null,
@@ -248,8 +248,8 @@
     "tags": "classical,classical music,orchestral",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 13504,
-    "clickcount": 20
+    "votes": 13541,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -266,7 +266,7 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12107,
+    "votes": 12127,
     "clickcount": 9
   },
   {
@@ -284,8 +284,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11991,
-    "clickcount": 18
+    "votes": 12118,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 11030,
-    "clickcount": 36
+    "votes": 11101,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -320,8 +320,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 10946,
-    "clickcount": 27
+    "votes": 10982,
+    "clickcount": 45
   },
   {
     "id": null,
@@ -338,8 +338,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 10523,
-    "clickcount": 21
+    "votes": 10645,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -356,8 +356,8 @@
     "tags": "classical",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 9938,
-    "clickcount": 4
+    "votes": 9945,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -374,7 +374,7 @@
     "tags": "classical,public radio,srg ssr",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 9373,
+    "votes": 9397,
     "clickcount": 35
   },
   {
@@ -392,8 +392,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8669,
-    "clickcount": 12
+    "votes": 8701,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -410,8 +410,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 7918,
-    "clickcount": 19
+    "votes": 7944,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -428,8 +428,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 7810,
-    "clickcount": 15
+    "votes": 7841,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -446,8 +446,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 7757,
-    "clickcount": 12
+    "votes": 7803,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -464,8 +464,8 @@
     "tags": "classic,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7331,
-    "clickcount": 9
+    "votes": 7340,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -482,8 +482,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7245,
-    "clickcount": 9
+    "votes": 7281,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -500,8 +500,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7028,
-    "clickcount": 24
+    "votes": 7066,
+    "clickcount": 29
   },
   {
     "id": null,
@@ -518,8 +518,8 @@
     "tags": "aac,classical,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 6709,
-    "clickcount": 24
+    "votes": 6733,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -536,8 +536,8 @@
     "tags": "classical",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 6558,
-    "clickcount": 5
+    "votes": 6572,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -554,8 +554,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 6508,
-    "clickcount": 28
+    "votes": 6546,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -572,8 +572,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6476,
-    "clickcount": 24
+    "votes": 6512,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -590,8 +590,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6413,
-    "clickcount": 24
+    "votes": 6456,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -608,8 +608,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6239,
-    "clickcount": 17
+    "votes": 6259,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -626,8 +626,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6038,
-    "clickcount": 12
+    "votes": 6077,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -644,8 +644,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5571,
-    "clickcount": 12
+    "votes": 5586,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -662,7 +662,7 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5358,
+    "votes": 5361,
     "clickcount": 6
   },
   {
@@ -680,8 +680,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 5259,
-    "clickcount": 45
+    "votes": 5268,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -698,8 +698,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 4771,
-    "clickcount": 32
+    "votes": 4785,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -716,8 +716,8 @@
     "tags": "classical,classical music,rai",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 4757,
-    "clickcount": 23
+    "votes": 4763,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -734,8 +734,8 @@
     "tags": "classical",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 4691,
-    "clickcount": 33
+    "votes": 4758,
+    "clickcount": 30
   },
   {
     "id": null,
@@ -752,8 +752,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 4669,
-    "clickcount": 14
+    "votes": 4685,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -770,26 +770,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 4589,
-    "clickcount": 16
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ae185e7b-b269-4cc7-a3a4-93fd46334145",
-    "name": "Radio Amra",
-    "url": "https://streamer.radio.co/s34b5469e0/listen",
-    "url_resolved": "https://streamer.radio.co/s34b5469e0/listen",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "GE",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4495,
-    "clickcount": 10
+    "votes": 4615,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -806,8 +788,26 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4481,
-    "clickcount": 33
+    "votes": 4515,
+    "clickcount": 23
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "ae185e7b-b269-4cc7-a3a4-93fd46334145",
+    "name": "Radio Amra",
+    "url": "https://streamer.radio.co/s34b5469e0/listen",
+    "url_resolved": "https://streamer.radio.co/s34b5469e0/listen",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "GE",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 4503,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -824,8 +824,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4435,
-    "clickcount": 8
+    "votes": 4445,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -842,8 +842,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 4275,
-    "clickcount": 8
+    "votes": 4279,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -860,8 +860,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3981,
-    "clickcount": 17
+    "votes": 3997,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -878,8 +878,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3915,
-    "clickcount": 16
+    "votes": 3929,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -896,8 +896,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3892,
-    "clickcount": 10
+    "votes": 3924,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -914,8 +914,8 @@
     "tags": "classic,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3862,
-    "clickcount": 22
+    "votes": 3874,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -932,26 +932,8 @@
     "tags": "classical,junction city",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 3839,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "d52d7a3c-6547-4bd4-893e-c7599cd6f565",
-    "name": "..مختصر التفسير",
-    "url": "https://qurango.net/radio/mukhtasartafsir",
-    "url_resolved": "https://qurango.net/radio/mukhtasartafsir",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "DZ",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3739,
-    "clickcount": 20
+    "votes": 3845,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -968,8 +950,26 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3736,
-    "clickcount": 22
+    "votes": 3759,
+    "clickcount": 10
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "d52d7a3c-6547-4bd4-893e-c7599cd6f565",
+    "name": "..مختصر التفسير",
+    "url": "https://qurango.net/radio/mukhtasartafsir",
+    "url_resolved": "https://qurango.net/radio/mukhtasartafsir",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "DZ",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 3755,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -986,8 +986,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3715,
-    "clickcount": 22
+    "votes": 3737,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1004,8 +1004,8 @@
     "tags": "baroque,classical",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3680,
-    "clickcount": 21
+    "votes": 3694,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -1022,8 +1022,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3533,
-    "clickcount": 11
+    "votes": 3539,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -1040,8 +1040,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3482,
-    "clickcount": 57
+    "votes": 3511,
+    "clickcount": 51
   },
   {
     "id": null,
@@ -1058,8 +1058,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3477,
-    "clickcount": 15
+    "votes": 3489,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1076,8 +1076,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3410,
-    "clickcount": 12
+    "votes": 3423,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1094,8 +1094,8 @@
     "tags": "ancient music,classical,folk,medieval,mittelalter,renaissance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3292,
-    "clickcount": 16
+    "votes": 3297,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1112,7 +1112,7 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3268,
+    "votes": 3278,
     "clickcount": 9
   },
   {
@@ -1130,8 +1130,8 @@
     "tags": "classical,cultural,duna média,jazz,public radio",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3229,
-    "clickcount": 9
+    "votes": 3236,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1148,8 +1148,8 @@
     "tags": "classical,religion",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 3226,
-    "clickcount": 6
+    "votes": 3228,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1166,8 +1166,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3196,
-    "clickcount": 14
+    "votes": 3203,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -1184,8 +1184,26 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3110,
+    "votes": 3119,
     "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "e914900b-c469-4909-91b7-e7926606ada9",
+    "name": "تفسير القرآن الكريم",
+    "url": "https://qurango.net/radio/tafseer",
+    "url_resolved": "https://qurango.net/radio/tafseer",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "SA",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 3041,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1202,7 +1220,7 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3029,
+    "votes": 3038,
     "clickcount": 15
   },
   {
@@ -1220,26 +1238,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3029,
+    "votes": 3038,
     "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "e914900b-c469-4909-91b7-e7926606ada9",
-    "name": "تفسير القرآن الكريم",
-    "url": "https://qurango.net/radio/tafseer",
-    "url_resolved": "https://qurango.net/radio/tafseer",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "SA",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3023,
-    "clickcount": 16
   },
   {
     "id": null,
@@ -1256,8 +1256,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2997,
-    "clickcount": 16
+    "votes": 3034,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1274,8 +1274,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2992,
-    "clickcount": 13
+    "votes": 3003,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1292,8 +1292,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2984,
-    "clickcount": 11
+    "votes": 2988,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1310,7 +1310,7 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2981,
+    "votes": 2987,
     "clickcount": 11
   },
   {
@@ -1328,8 +1328,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2944,
-    "clickcount": 23
+    "votes": 2956,
+    "clickcount": 34
   },
   {
     "id": null,
@@ -1346,8 +1346,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2826,
-    "clickcount": 16
+    "votes": 2844,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1364,7 +1364,7 @@
     "tags": "classical",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 2790,
+    "votes": 2794,
     "clickcount": 2
   },
   {
@@ -1382,8 +1382,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2629,
-    "clickcount": 5
+    "votes": 2643,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1400,7 +1400,7 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2585,
+    "votes": 2598,
     "clickcount": 16
   },
   {
@@ -1418,8 +1418,8 @@
     "tags": "baroque,classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2526,
-    "clickcount": 19
+    "votes": 2533,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1436,26 +1436,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2481,
-    "clickcount": 14
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "5239ee66-a75a-43b2-97d4-ae5b240ebc34",
-    "name": ".. مختصر التفسير",
-    "url": "https://qurango.net/radio/mukhtasartafsir",
-    "url_resolved": "https://qurango.net/radio/mukhtasartafsir",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "MA",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2416,
-    "clickcount": 6
+    "votes": 2497,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1472,8 +1454,26 @@
     "tags": "classical",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 2406,
-    "clickcount": 66
+    "votes": 2435,
+    "clickcount": 64
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "5239ee66-a75a-43b2-97d4-ae5b240ebc34",
+    "name": ".. مختصر التفسير",
+    "url": "https://qurango.net/radio/mukhtasartafsir",
+    "url_resolved": "https://qurango.net/radio/mukhtasartafsir",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "MA",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 2422,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1490,8 +1490,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2378,
-    "clickcount": 8
+    "votes": 2395,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1508,8 +1508,8 @@
     "tags": "classical,cultural,jazz,vrt",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2367,
-    "clickcount": 15
+    "votes": 2383,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -1526,8 +1526,8 @@
     "tags": "classical,public radio,český rozhlas",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2358,
-    "clickcount": 13
+    "votes": 2365,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -1544,26 +1544,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 2320,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "1bc7ef20-6324-48c0-9ba1-5457fe8ef23a",
-    "name": ". القارئ محمد أيوب",
-    "url": "https://qurango.net/radio/mohammed_ayyub",
-    "url_resolved": "https://qurango.net/radio/mohammed_ayyub",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "EG",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2274,
-    "clickcount": 17
+    "votes": 2323,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1580,8 +1562,26 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2274,
-    "clickcount": 3
+    "votes": 2283,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "1bc7ef20-6324-48c0-9ba1-5457fe8ef23a",
+    "name": ". القارئ محمد أيوب",
+    "url": "https://qurango.net/radio/mohammed_ayyub",
+    "url_resolved": "https://qurango.net/radio/mohammed_ayyub",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "EG",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 2281,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -1598,8 +1598,8 @@
     "tags": "classical",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 2230,
-    "clickcount": 37
+    "votes": 2241,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -1616,8 +1616,8 @@
     "tags": "baroque,classical",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 2229,
-    "clickcount": 11
+    "votes": 2231,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1634,8 +1634,8 @@
     "tags": "baroque,classical,early music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2215,
-    "clickcount": 4
+    "votes": 2222,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1652,44 +1652,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2152,
-    "clickcount": 14
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "8c8be036-e206-462f-9ed9-65d36b214319",
-    "name": "radio maria iraq",
-    "url": "http://dreamsiteradiocp4.com:8046/stream",
-    "url_resolved": "http://dreamsiteradiocp4.com:8046/stream",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "IQ",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 64,
-    "votes": 2112,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "644f021d-19b2-4320-9354-94d449df2b73",
-    "name": "ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]",
-    "url": "http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3",
-    "url_resolved": "http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "RU",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 2110,
-    "clickcount": 3
+    "votes": 2164,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1706,8 +1670,44 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2102,
-    "clickcount": 16
+    "votes": 2117,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "8c8be036-e206-462f-9ed9-65d36b214319",
+    "name": "radio maria iraq",
+    "url": "http://dreamsiteradiocp4.com:8046/stream",
+    "url_resolved": "http://dreamsiteradiocp4.com:8046/stream",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "IQ",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 64,
+    "votes": 2116,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "644f021d-19b2-4320-9354-94d449df2b73",
+    "name": "ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]",
+    "url": "http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3",
+    "url_resolved": "http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "RU",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 2115,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1725,7 +1725,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 2098,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1742,8 +1742,8 @@
     "tags": "bach,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2071,
-    "clickcount": 11
+    "votes": 2074,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1760,8 +1760,8 @@
     "tags": "ambient,ambient and relaxation music,chillout,classic,classical,klassik,relax,relaxing",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2048,
-    "clickcount": 21
+    "votes": 2054,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -1778,8 +1778,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2046,
-    "clickcount": 8
+    "votes": 2052,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1796,7 +1796,7 @@
     "tags": "alternative,arts,classical,cultural,litera,public radio,rtvs",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2043,
-    "clickcount": 1
+    "votes": 2047,
+    "clickcount": 13
   }
 ]

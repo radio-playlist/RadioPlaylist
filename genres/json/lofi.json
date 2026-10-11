@@ -14,8 +14,8 @@
     "tags": "info,lofi,radio france",
     "codec": "MP3",
     "bitrate": 32,
-    "votes": 4919,
-    "clickcount": 13
+    "votes": 4930,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "chillout,lofi",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1280,
-    "clickcount": 94
+    "votes": 1291,
+    "clickcount": 89
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "aesthetic,chillwave,futurefunk,lofi,vaporwave",
     "codec": "OGG",
     "bitrate": 64,
-    "votes": 1033,
-    "clickcount": 2
+    "votes": 1035,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "chillout,lofi,lofi beats,lofi hip hop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 616,
-    "clickcount": 10
+    "votes": 619,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "chill,lofi",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 416,
-    "clickcount": 11
+    "votes": 418,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "bollywood,hindi,indian,kollywood,lo-fi,lofi,malayalam,mollywood,tamil",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 193,
-    "clickcount": 17
+    "votes": 197,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "calm,chill,easy listening,easy music,learn,lo-fi,lofi,lofi hip hop,lofi study beats,smooth,student",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 147,
-    "clickcount": 26
+    "votes": 155,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -159,7 +159,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 131,
-    "clickcount": 3
+    "clickcount": 1
   },
   {
     "id": null,
@@ -177,7 +177,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 103,
-    "clickcount": 6
+    "clickcount": 3
   },
   {
     "id": null,
@@ -194,7 +194,7 @@
     "tags": "chill,chillout,electronic,house,intelligent drum and bass,intelligent drum&bass,liquid,liquid drum and bas,liquid funk,lofi,phonk,relax",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 89,
+    "votes": 91,
     "clickcount": 8
   },
   {
@@ -213,7 +213,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 83,
-    "clickcount": 1
+    "clickcount": 3
   },
   {
     "id": null,
@@ -249,7 +249,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 67,
-    "clickcount": 5
+    "clickcount": 12
   },
   {
     "id": null,
@@ -285,7 +285,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 50,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -302,8 +302,26 @@
     "tags": "ambient,chillwave,citypop,disco,electronic,elevatormusic,futurefunk,japanesedisco,lofi,mallsoft,plunderphonics,retrowave,signalwave,slowed,synthwave,vaporwave",
     "codec": "OGG",
     "bitrate": 64,
-    "votes": 46,
-    "clickcount": 6
+    "votes": 47,
+    "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "fe4f625d-3fe6-4936-9d1e-4cce8620d209",
+    "name": "ISEKOI Radio | Chill Zone",
+    "url": "https://public.isekoi-radio.com/listen/chill/radio.flac",
+    "url_resolved": "https://public.isekoi-radio.com/listen/chill/radio.flac",
+    "homepage": "https://isekoi-radio.com/",
+    "favicon": "https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png",
+    "countrycode": "FR",
+    "state": "",
+    "language": "english,french",
+    "tags": "chill,chillout,electronic,house,intelligent drum and bass,intelligent drum&bass,liquid,liquid drum and bas,liquid funk,lofi,phonk,relax",
+    "codec": "OGG",
+    "bitrate": 128,
+    "votes": 43,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -321,25 +339,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 42,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "fe4f625d-3fe6-4936-9d1e-4cce8620d209",
-    "name": "ISEKOI Radio | Chill Zone",
-    "url": "https://public.isekoi-radio.com/listen/chill/radio.flac",
-    "url_resolved": "https://public.isekoi-radio.com/listen/chill/radio.flac",
-    "homepage": "https://isekoi-radio.com/",
-    "favicon": "https://i.postimg.cc/ncdMKNsn/LOGO-3-2-bg4.png",
-    "countrycode": "FR",
-    "state": "",
-    "language": "english,french",
-    "tags": "chill,chillout,electronic,house,intelligent drum and bass,intelligent drum&bass,liquid,liquid drum and bas,liquid funk,lofi,phonk,relax",
-    "codec": "OGG",
-    "bitrate": 128,
-    "votes": 42,
-    "clickcount": 2
+    "clickcount": 5
   },
   {
     "id": null,
@@ -357,7 +357,25 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 40,
-    "clickcount": 5
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "427da114-be59-4272-9372-9af9e84a7f39",
+    "name": "ARA FM",
+    "url": "http://141.164.38.238/listen/ara_fm/radio.mp3",
+    "url_resolved": "http://141.164.38.238/listen/ara_fm/radio.mp3",
+    "homepage": "http://141.164.38.238/public/ara_fm",
+    "favicon": "",
+    "countrycode": "KR",
+    "state": "",
+    "language": "chinese,english,japanese,korean",
+    "tags": "ambient,dance pop,indie pop,k-pop,lofi,pop",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 39,
+    "clickcount": 37
   },
   {
     "id": null,
@@ -380,6 +398,24 @@
   {
     "id": null,
     "source": "radio_browser_github",
+    "stationuuid": "37404e52-c3de-497d-b528-8a7ea897f266",
+    "name": "LITT Live - Lofi - Chill & Instrumental Jazz Beats",
+    "url": "https://das-sa39.cdnstream1.com/5582_128",
+    "url_resolved": "https://das-sa39.cdnstream1.com/5582_128",
+    "homepage": "https://littlive.com/",
+    "favicon": "https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/6b67891f-ca25-461d-868f-664944bffac0.png",
+    "countrycode": "US",
+    "state": "",
+    "language": "english",
+    "tags": "lo-fi,lofi,lofi beats",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 37,
+    "clickcount": 11
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
     "stationuuid": "2df8d43a-3950-4596-b854-cd8aa1c2c236",
     "name": "neverland",
     "url": "https://stream-166.zeno.fm/oaqigxpfjzqvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvYXFpZ3hwZmp6cXZ2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjFnRWVwSWpIUXJXVElZSU1pLVlrenciLCJpYXQiOjE3NDgxMzU4OTUsImV4cCI6MTc0ODEzNTk1NX0.b4Llu6iAJk1NPa2U9OhIjm_3CZQyLuRJZWiNecQWBdY",
@@ -393,43 +429,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 34,
-    "clickcount": 33
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "37404e52-c3de-497d-b528-8a7ea897f266",
-    "name": "LITT Live - Lofi - Chill & Instrumental Jazz Beats",
-    "url": "https://das-sa39.cdnstream1.com/5582_128",
-    "url_resolved": "https://das-sa39.cdnstream1.com/5582_128",
-    "homepage": "https://littlive.com/",
-    "favicon": "https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/6b67891f-ca25-461d-868f-664944bffac0.png",
-    "countrycode": "US",
-    "state": "",
-    "language": "english",
-    "tags": "lo-fi,lofi,lofi beats",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 34,
-    "clickcount": 12
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "427da114-be59-4272-9372-9af9e84a7f39",
-    "name": "ARA FM",
-    "url": "http://141.164.38.238/listen/ara_fm/radio.mp3",
-    "url_resolved": "http://141.164.38.238/listen/ara_fm/radio.mp3",
-    "homepage": "http://141.164.38.238/public/ara_fm",
-    "favicon": "",
-    "countrycode": "KR",
-    "state": "",
-    "language": "chinese,english,japanese,korean",
-    "tags": "ambient,dance pop,indie pop,k-pop,lofi,pop",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 33,
-    "clickcount": 21
+    "clickcount": 26
   },
   {
     "id": null,
@@ -446,8 +446,8 @@
     "tags": "lofi",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 33,
-    "clickcount": 0
+    "votes": 34,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -465,7 +465,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 16,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -483,7 +483,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 15,
-    "clickcount": 9
+    "clickcount": 7
   },
   {
     "id": null,
@@ -500,8 +500,8 @@
     "tags": "beats,chillhop,lofi,relax,study",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 12,
-    "clickcount": 1
+    "votes": 14,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -518,8 +518,8 @@
     "tags": "ai,ambient,chill,instrumental,japanese,koto,lofi,piano,rain,study",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 10,
-    "clickcount": 6
+    "votes": 11,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -536,8 +536,8 @@
     "tags": "lofi,lofi beats,lofi hip hop,lofi study beats",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7,
-    "clickcount": 0
+    "votes": 8,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -554,8 +554,8 @@
     "tags": "lofi,lofi hip hop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7,
-    "clickcount": 7
+    "votes": 8,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -591,7 +591,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 4,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -627,7 +627,7 @@
     "codec": "AAC",
     "bitrate": 64,
     "votes": 3,
-    "clickcount": 0
+    "clickcount": 2
   },
   {
     "id": null,
@@ -645,7 +645,25 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 2,
-    "clickcount": 1
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "0677809b-7a09-4151-9aaa-78021b566ed6",
+    "name": "irvess",
+    "url": "https://irvess.com/stream/irvess",
+    "url_resolved": "https://irvess.com/stream/irvess",
+    "homepage": "https://irvess.com/",
+    "favicon": "https://irvess.com/assets/img/icon-512.png",
+    "countrycode": "TR",
+    "state": "Konya",
+    "language": "dansk/oldnordisk,english,español chile,français - lëtzebuergesch,turkish",
+    "tags": "aura,electronic,lofi,night,phonk",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 2,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -663,7 +681,25 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2,
-    "clickcount": 0
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "a7c9d8fc-2100-42f3-a08b-2e8469966b62",
+    "name": "Hunter.fm O Canal Lo-Fi (High)",
+    "url": "https://live.hunter.fm/lofi_high",
+    "url_resolved": "https://live.hunter.fm/lofi_high",
+    "homepage": "https://hunter.fm/lofi/",
+    "favicon": "https://hunter.fm/favicon.ico",
+    "countrycode": "BR",
+    "state": "",
+    "language": "",
+    "tags": "lo-fi,lofi",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 2,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -681,7 +717,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2,
-    "clickcount": 6
+    "clickcount": 3
   },
   {
     "id": null,
@@ -699,7 +735,25 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2,
-    "clickcount": 3
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "80e812dc-48a3-4678-a7b5-429c2cba04ba",
+    "name": "Meder FM",
+    "url": "https://myradio24.org/7934",
+    "url_resolved": "https://myradio24.org/7934",
+    "homepage": "https://myradio24.com/7934",
+    "favicon": "",
+    "countrycode": "UA",
+    "state": "Kiev",
+    "language": "english,russian,ukrainian",
+    "tags": "dance,hits,lofi,pop music",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 2,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -717,7 +771,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -735,7 +789,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 1,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -753,25 +807,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "0677809b-7a09-4151-9aaa-78021b566ed6",
-    "name": "irvess",
-    "url": "https://irvess.com/stream/irvess",
-    "url_resolved": "https://irvess.com/stream/irvess",
-    "homepage": "https://irvess.com/",
-    "favicon": "https://irvess.com/assets/img/icon-512.png",
-    "countrycode": "TR",
-    "state": "Konya",
-    "language": "dansk/oldnordisk,english,español chile,français - lëtzebuergesch,turkish",
-    "tags": "aura,electronic,lofi,night,phonk",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 1,
-    "clickcount": 5
+    "clickcount": 4
   },
   {
     "id": null,
@@ -789,25 +825,7 @@
     "codec": "AAC",
     "bitrate": 192,
     "votes": 1,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a7c9d8fc-2100-42f3-a08b-2e8469966b62",
-    "name": "Hunter.fm O Canal Lo-Fi (High)",
-    "url": "https://live.hunter.fm/lofi_high",
-    "url_resolved": "https://live.hunter.fm/lofi_high",
-    "homepage": "https://hunter.fm/lofi/",
-    "favicon": "https://hunter.fm/favicon.ico",
-    "countrycode": "BR",
-    "state": "",
-    "language": "",
-    "tags": "lo-fi,lofi",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 1,
-    "clickcount": 7
+    "clickcount": 1
   },
   {
     "id": null,
@@ -843,7 +861,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1,
-    "clickcount": 1
+    "clickcount": 4
   },
   {
     "id": null,
@@ -861,7 +879,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 0,
-    "clickcount": 0
+    "clickcount": 3
   },
   {
     "id": null,
@@ -879,7 +897,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 0,
-    "clickcount": 1
+    "clickcount": 5
   },
   {
     "id": null,
@@ -897,7 +915,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 0,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -915,24 +933,6 @@
     "codec": "AAC",
     "bitrate": 192,
     "votes": 0,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "80e812dc-48a3-4678-a7b5-429c2cba04ba",
-    "name": "Meder FM",
-    "url": "https://myradio24.org/7934",
-    "url_resolved": "https://myradio24.org/7934",
-    "homepage": "https://myradio24.com/7934",
-    "favicon": "",
-    "countrycode": "UA",
-    "state": "Kiev",
-    "language": "english,russian,ukrainian",
-    "tags": "dance,hits,lofi,pop music",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 0,
-    "clickcount": 1
+    "clickcount": 4
   }
 ]

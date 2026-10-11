@@ -233,11 +233,11 @@ http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/128x128/profile/7/2/7/6/9c02-6f66-46db-b02b-4664055549dc.png" group-title="GB",Chill
 http://media-ice.musicradio.com/ChillMP3
 
-#EXTINF:-1 tvg-logo="http://www.1mix.co.uk/favicon.ico" group-title="GB",1Mix EDM Radio
-http://fr1.1mix.co.uk:8060/
-
 #EXTINF:-1 tvg-logo="" group-title="GB",Exclusively Supertramp
 https://streaming.exclusive.radio/er/supertramp/icecast.audio
+
+#EXTINF:-1 tvg-logo="http://www.1mix.co.uk/favicon.ico" group-title="GB",1Mix EDM Radio
+http://fr1.1mix.co.uk:8060/
 
 #EXTINF:-1 tvg-logo="https://www.radiocaroline.co.uk/favicon.ico" group-title="GB",Radio Caroline AAC 96 kbps
 http://78.129.202.200:8030/;
@@ -245,14 +245,14 @@ http://78.129.202.200:8030/;
 #EXTINF:-1 tvg-logo="" group-title="GB",Radio Caroline Flashback
 http://sc2.radiocaroline.net:10558/;
 
-#EXTINF:-1 tvg-logo="https://www.nonstopplay.com/wp-content/uploads/2022/12/favicon.png" group-title="GB",NonStopPlay Dance Radio
-http://stream.nonstopplay.co.uk/nsp-192k-mp3
+#EXTINF:-1 tvg-logo="https://herald.musicradio.com/media/02a3caa1-dacf-47b1-ad54-c10728b66cd9.png" group-title="GB",LBC News
+https://media-ssl.musicradio.com/LBCNewsUK
 
 #EXTINF:-1 tvg-logo="https://www.1mix.co.uk/forum/styles/acidtech/theme/images/site_logo.gif" group-title="GB",1Mix Radio - Trance (UK) 32kb aac+
 http://fr2.1mix.co.uk:9000/aacb
 
-#EXTINF:-1 tvg-logo="https://herald.musicradio.com/media/02a3caa1-dacf-47b1-ad54-c10728b66cd9.png" group-title="GB",LBC News
-https://media-ssl.musicradio.com/LBCNewsUK
+#EXTINF:-1 tvg-logo="https://www.nonstopplay.com/wp-content/uploads/2022/12/favicon.png" group-title="GB",NonStopPlay Dance Radio
+http://stream.nonstopplay.co.uk/nsp-192k-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="GB",TrancePulse FM
 http://live.trance.ie:8000/stream
@@ -275,11 +275,11 @@ http://stream-relay-geo.ntslive.net/stream2
 #EXTINF:-1 tvg-logo="https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg" group-title="GB",BritCom 2 - Pumpkin FM
 https://cast2.asurahosting.com/proxy/britcom2/stream
 
-#EXTINF:-1 tvg-logo="https://cdn2.editmysite.com/images/site/footer/og-image-placeholder-blank.png" group-title="GB",London Soul Radio
-http://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a
-
 #EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="GB",BBC Live News (128k)
 http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn2.editmysite.com/images/site/footer/og-image-placeholder-blank.png" group-title="GB",London Soul Radio
+http://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a
 
 #EXTINF:-1 tvg-logo="" group-title="GB",Exclusively AC/DC
 https://streaming.exclusive.radio/er/acdc/icecast.audio

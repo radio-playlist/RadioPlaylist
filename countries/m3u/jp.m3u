@@ -68,11 +68,11 @@ http://mnet.x10.mx/nhkfm.m3u8
 #EXTINF:-1 tvg-logo="https://plaza.one/icons/apple-touch-icon.png?v=7knqx0ar5k" group-title="JP",Nightwave Plaza MP3 182
 http://radio.plaza.one/mp3
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s260995g.png" group-title="JP",J-POP Powerplay
-https://kathy.torontocast.com:3560/
-
 #EXTINF:-1 tvg-logo="https://listen.moe/favicon.ico" group-title="JP",Listen.moe J-Pop (MP3)
 https://listen.moe/fallback
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s260995g.png" group-title="JP",J-POP Powerplay
+https://kathy.torontocast.com:3560/
 
 #EXTINF:-1 tvg-logo="" group-title="JP",OnlyHits Japan
 https://j.onlyhit.us/play
@@ -119,11 +119,11 @@ http://streaming.radio.co/se4a8e6a93/listen
 #EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/fc3d1b44-9881-4eb0-98a3-9594c00a2ffa/v96%20500x500%20logo%20for%20app.png/:/rs=w:114,h:114,m" group-title="JP",WVVV V96.9
 https://ice5.securenetsystems.net/WVVVFM
 
-#EXTINF:-1 tvg-logo="" group-title="JP",yamanakako from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)
-http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3
-
 #EXTINF:-1 tvg-logo="https://moremalc.com/japanhits188.jpg" group-title="JP",Japan Hits - asia DREAM radio
 http://quincy.torontocast.com:2020/stream.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="JP",yamanakako from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)
+http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3
 
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-120x120.png" group-title="JP",Opening Radio
 http://stream.zeno.fm/tza2ayy47qruv
@@ -134,14 +134,14 @@ https://tilderadio.org/listen
 #EXTINF:-1 tvg-logo="" group-title="JP",Shonan Beach FM 78.9 湘南ビーチ
 http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s260995g.png" group-title="JP",J-POP Powerplay
-https://kathy.torontocast.com:3560/
-
 #EXTINF:-1 tvg-logo="https://afngo.net/favicon.ico" group-title="JP",AFN GO TOKYO
 http://17633.live.streamtheworld.com:3690/AFNP_TKO_SC
 
 #EXTINF:-1 tvg-logo="" group-title="JP",大富ラジオ
 https://stream.zeno.fm/oaxp6mswcqltv
+
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s260995g.png" group-title="JP",J-POP Powerplay
+https://kathy.torontocast.com:3560/
 
 #EXTINF:-1 tvg-logo="" group-title="JP",J-Club Club Bandstand
 https://cast1.torontocast.com:2060/;.mp3
@@ -164,11 +164,11 @@ http://65.21.170.149:8000/stream
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="JP",Real Love Music - Radio Future Funk
 https://stream-152.zeno.fm/48533y95cnruv?zs=doyTUcjfTvCVtBOS3nlI8g
 
-#EXTINF:-1 tvg-logo="" group-title="JP",#Radio Quran
-https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
-
 #EXTINF:-1 tvg-logo="" group-title="JP",Gotanno FM 89.2
 https://radio.gotanno.love/;
+
+#EXTINF:-1 tvg-logo="" group-title="JP",#Radio Quran
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
 
 #EXTINF:-1 tvg-logo="https://miku.fm/static/uploads/browser_icon/60.1740888865.png" group-title="JP",Miku Radio
 https://miku.fm/listen/miku/flac
@@ -215,23 +215,23 @@ https://antares.dribbcast.com/proxy/jpop?mp=/s
 #EXTINF:-1 tvg-logo="https://images.radio.co/station_logos/se4a8e6a93.jpg" group-title="JP",羊飼いラジオ(Hitsujikai Radio / Shepherd radio)
 https://streaming.radio.co/se4a8e6a93/low
 
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png" group-title="JP",NHK WORLD RADIO 8
-https://master.nhkworld.jp/nhkworld-radio/playlist/rs5/live.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="JP",Japan2
 http://quincy.torontocast.com:2070/stream.mp3
 
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png" group-title="JP",NHK WORLD RADIO 8
+https://master.nhkworld.jp/nhkworld-radio/playlist/rs5/live.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="JP",Nonstop Casiopea
 https://nonstopcasiopea.radioca.st/
+
+#EXTINF:-1 tvg-logo="https://www.stereoanime.com/favicon.ico" group-title="JP",stereo anime
+https://radio.stereoanime.com/listen/stereoanime/128
 
 #EXTINF:-1 tvg-logo="" group-title="JP",.quran
 https://backup.qurango.net/radio/ahmad_khader_altarabulsi
 
 #EXTINF:-1 tvg-logo="http://radio.jphip.com/favicon.ico" group-title="JP",JPHiP Radio
 http://radio.jphip.com:8800/
-
-#EXTINF:-1 tvg-logo="https://www.stereoanime.com/favicon.ico" group-title="JP",stereo anime
-https://radio.stereoanime.com/listen/stereoanime/128
 
 #EXTINF:-1 tvg-logo="" group-title="JP",Kawaii Anime Radio
 http://158.69.227.214:8137/stream
@@ -242,11 +242,11 @@ https://stream.gensokyoradio.net/3
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="JP",NHK WORLD RADIO 11
 https://master.nhkworld.jp/nhkworld-radio/playlist/gs2/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hitsujikai-radio.com/&size=256" group-title="JP",羊飼いラジオ Hitsujikai Radio
-https://streaming.radio.co/se4a8e6a93/listen
-
 #EXTINF:-1 tvg-logo="https://stream.gensokyoradio.net/images/logo.png" group-title="JP",Gensokyo Radio (OGG)
 https://stream.gensokyoradio.net/2
+
+#EXTINF:-1 tvg-logo="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hitsujikai-radio.com/&size=256" group-title="JP",羊飼いラジオ Hitsujikai Radio
+https://streaming.radio.co/se4a8e6a93/listen
 
 #EXTINF:-1 tvg-logo="" group-title="JP",asia DREAM radio - Japan Hits
 https://quincy.torontocast.com:2020/stream.mp3
@@ -260,11 +260,11 @@ http://quincy.torontocast.com:2070/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="JP",J-Pop Powerplay
 https://kathy.torontocast.com:3560/;
 
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png" group-title="JP",NHK WORLD RADIO 12
-https://master.nhkworld.jp/nhkworld-radio/playlist/kai/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="JP",NHK WORLD RADIO 3
 http://shoutcast.wrn.org:8025/nhk41left
+
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png" group-title="JP",NHK WORLD RADIO 12
+https://master.nhkworld.jp/nhkworld-radio/playlist/kai/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.radioapi.me/radios/01J65CR99GVHS3A7CT7D53C415.jpg" group-title="JP",BOX : Japan City Pop - 日本のシティポップ
 https://play.streamafrica.net/japancitypop
@@ -293,12 +293,12 @@ http://radio.plaza.one/hls
 #EXTINF:-1 tvg-logo="null" group-title="JP",Abdulbasit Abdulsamad
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="JP",NHK WORLD RADIO 7
-https://master.nhkworld.jp/nhkworld-radio/playlist/rs2/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="JP",NHK WORLD RADIO 6
 http://streaming.edmradio.online:8025/nhk41right
 
-#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png" group-title="JP",NHK WORLD RADIO 9
-https://master.nhkworld.jp/nhkworld-radio/playlist/rs4/live.m3u8
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="JP",NHK WORLD RADIO 7
+https://master.nhkworld.jp/nhkworld-radio/playlist/rs2/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="JP",NHK WORLD RADIO
+https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media2/index.m3u8
 

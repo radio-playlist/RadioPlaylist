@@ -86,11 +86,11 @@ http://gdsfm.out.airtime.pro:8000/gdsfm_a
 #EXTINF:-1 tvg-logo="https://energy.ch/ech-new/images/ech/apple-touch-icon.png" group-title="CH",Energy Zürich (NRJ)
 http://broadcast.infomaniak.ch/energyzuerich-high.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - A List 80s
-http://strm112.1.fm/back280s_mobile_mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Ambient Psychill
 http://strm112.1.fm/ambientpsy_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - A List 80s
+http://strm112.1.fm/back280s_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Dance One Radio
 http://strm112.1.fm/dance_mobile_mp3
@@ -197,11 +197,11 @@ http://stream01.my105.ch/my105djnights.mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Absolute 90s Party Zone Radio
 http://strm112.1.fm/partyzone90s_mobile_mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Slow Jamz Radio
-http://strm112.1.fm/slowjamz_mobile_mp3
-
 #EXTINF:-1 tvg-logo="https://www.lfm.ch/wp-content/uploads/2021/07/cropped-radio-lausanne-fm-sa-icone-du-site-180x180.png" group-title="CH",LFM
 http://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Slow Jamz Radio
+http://strm112.1.fm/slowjamz_mobile_mp3
 
 #EXTINF:-1 tvg-logo="https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png" group-title="CH",RTS Option Musique
 http://stream.srg-ssr.ch/srgssr/option-musique/mp3/128
@@ -266,11 +266,11 @@ https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Top Fiesta Radio
 http://strm112.1.fm/spanishparty_mobile_mp3
 
-#EXTINF:-1 tvg-logo="http://www.truehouse.net/favicon.ico" group-title="CH",True House Radio
-https://stream.truehouse.net:8443/house
-
 #EXTINF:-1 tvg-logo="http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",Radio Suisse Classique
 https://stream.srg-ssr.ch/m/rsc_fr/mp3_128
+
+#EXTINF:-1 tvg-logo="http://www.truehouse.net/favicon.ico" group-title="CH",True House Radio
+https://stream.truehouse.net:8443/house
 
 #EXTINF:-1 tvg-logo="https://lounge-radio.com/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="CH",Lounge Radio
 http://de1.streamhosting.ch/

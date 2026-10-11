@@ -29,6 +29,9 @@ http://mp3channels.webradio.rockantenne.de/rockantenne
 #EXTINF:-1 tvg-logo="https://radioultra.ru/favicons/apple-touch-icon.png" group-title="RU",Radio Ultra
 http://nashe1.hostingradio.ru/ultra-192.mp3
 
+#EXTINF:-1 tvg-logo="https://icecast.anon.fm/favicon.png" group-title="RU",Anon.FM
+https://icecast.anon.fm/radio
+
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/seventies400.jpg" group-title="US",SomaFM Left Coast 70s (320k MP3)
 https://ice2.somafm.com/seventies-320-mp3
 
@@ -44,20 +47,17 @@ https://0n-classicrock.radionetz.de/0n-classicrock.mp3
 #EXTINF:-1 tvg-logo="http://maximum.ru/favicon.ico" group-title="RU",Радио Maximum
 https://maximum.hostingradio.ru/maximum128.mp3
 
-#EXTINF:-1 tvg-logo="https://icecast.anon.fm/favicon.png" group-title="RU",Anon.FM
-https://icecast.anon.fm/radio
-
 #EXTINF:-1 tvg-logo="https://radioparadise.com/apple-touch-icon.png" group-title="US",Radio Paradise Rock Mix 320k AAC
 http://stream.radioparadise.com/rock-320
 
 #EXTINF:-1 tvg-logo="" group-title="UA",Radio ROKS Hard'n'Heavy
 http://online.radioroks.ua/RadioROKS_HardnHeavy_HD
 
-#EXTINF:-1 tvg-logo="http://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="DE",Radio Eins
-http://f111.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3K567RgbAXUlXKklCDykCmZaDDc&token=Qfx-mDPhSlPx4G08BsZw1v-XDCmD049S1mGaY-Q8bkI&tvf=aKsGuoJm2hhmMTExLnJuZGZuay5jb20
-
 #EXTINF:-1 tvg-logo="" group-title="AE",Exclusively Pink Floyd
 https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio
+
+#EXTINF:-1 tvg-logo="http://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="DE",Radio Eins
+http://f111.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3K567RgbAXUlXKklCDykCmZaDDc&token=Qfx-mDPhSlPx4G08BsZw1v-XDCmD049S1mGaY-Q8bkI&tvf=aKsGuoJm2hhmMTExLnJuZGZuay5jb20
 
 #EXTINF:-1 tvg-logo="https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817" group-title="TR",Power POP
 https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
@@ -95,11 +95,11 @@ https://kathy.torontocast.com:2800/;
 #EXTINF:-1 tvg-logo="https://static.radios.com.br/img/apple-touch-icon.png" group-title="BR",Bons Tempos FM
 https://server02.ouvir.radio.br:8050/stream?1609720768800
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - High Voltage Radio
-http://strm112.1.fm/highvoltage_mobile_mp3
-
 #EXTINF:-1 tvg-logo="null" group-title="DZ",صوت الغد استراليا
 http://s4.voscast.com:7648/;stream.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - High Voltage Radio
+http://strm112.1.fm/highvoltage_mobile_mp3
 
 #EXTINF:-1 tvg-logo="http://www.radionica.rocks/themes/custom/radionica_barrio/favicon.ico" group-title="CO",Radiónica (HJYM 99.1 Bogotá) RTVC
 http://shoutcast.rtvc.gov.co:8010/;
@@ -122,11 +122,11 @@ https://stream.player.arrow.nl/arrowcr
 #EXTINF:-1 tvg-logo="https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png" group-title="BE",RTBF Classic 21
 https://radios.rtbf.be/classic21-128.mp3
 
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-90s_600x600.jpg" group-title="DE",- 0 N - 90s on Radio
-https://0n-90s.radionetz.de/0n-90s.mp3
-
 #EXTINF:-1 tvg-logo="http://1000oldies.de/apple-icon-120x120.png" group-title="DE",Laut.FM 1000 Oldies
 http://1000oldies.stream.laut.fm/1000oldies?t302=2018-01-16_15-40-29&uuid=37780fea-d865-4439-9a4a-66f3ec1715a0
+
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-90s_600x600.jpg" group-title="DE",- 0 N - 90s on Radio
+https://0n-90s.radionetz.de/0n-90s.mp3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SJFG3bt/soft-rock.jpg" group-title="DE",0nlineradio SOFT ROCK
 https://stream.0nlineradio.com/soft-rock?ref=radiobrowser
@@ -164,11 +164,11 @@ https://dc4.serverse.com/proxy/pearlfm/stream/1/
 #EXTINF:-1 tvg-logo="" group-title="HR",Otvoreni Radio
 https://stream.otvoreni.hr/otvoreni
 
-#EXTINF:-1 tvg-logo="" group-title="HU",Best FM
-http://stream.webthings.hu:8000/fm95-x-128.mp3
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_1bad7e5fb9a54196b2ac2c2fe71d6e4f~mv2.jpg" group-title="CA",# RdMix Classic Rock 70s 80s 90s
 https://cast1.torontocast.com:4610/stream
+
+#EXTINF:-1 tvg-logo="" group-title="HU",Best FM
+http://stream.webthings.hu:8000/fm95-x-128.mp3
 
 #EXTINF:-1 tvg-logo="https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM
 http://streams.fluxfm.de/live/mp3-320/audio/
@@ -212,11 +212,11 @@ https://maggie.torontocast.com:2020/stream/vibrazionirockradio
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="AE",Exclusive Radio – Queen
 https://streaming.exclusive.radio/er/queen/icecast.audio
 
-#EXTINF:-1 tvg-logo="" group-title="Global",Program 3 (Trójka)
-http://mp3.polskieradio.pl:8904/;.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="AE",Exclusively Elvis Presley
 http://streaming.exclusive.radio/er/elvispresley/icecast.audio
+
+#EXTINF:-1 tvg-logo="" group-title="Global",Program 3 (Trójka)
+http://mp3.polskieradio.pl:8904/;.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="DE",RADIO BOB! BOBs Best of Rock
 http://streams.radiobob.de/bob-bestofrock/mp3-192/streams.radiobob.de/
@@ -224,17 +224,17 @@ http://streams.radiobob.de/bob-bestofrock/mp3-192/streams.radiobob.de/
 #EXTINF:-1 tvg-logo="" group-title="FR",Alternative Radio
 https://www.radioking.com/play/alternative-radio-1
 
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="AE",Exclusively U2
-https://streaming.exclusive.radio/er/u2/icecast.audio
-
 #EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg" group-title="FR",FIP Rock
 http://icecast.radiofrance.fr/fiprock-hifi.aac
 
-#EXTINF:-1 tvg-logo="http://convoynetwork.com/assets/favicon.7a65c983.ico" group-title="MX",Convoy en vivo
-https://live.convoynetwork.com/stream
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="AE",Exclusively U2
+https://streaming.exclusive.radio/er/u2/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="http://convoynetwork.com/assets/favicon.7a65c983.ico" group-title="MX",Convoy en vivo
+https://live.convoynetwork.com/stream
 
 #EXTINF:-1 tvg-logo="" group-title="BD",Radio Vivid Voice
 https://stream.zeno.fm/xuin6ocdc2juv

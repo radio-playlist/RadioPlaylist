@@ -23,11 +23,11 @@ http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3
 #EXTINF:-1 tvg-logo="" group-title="DZ",إذاعة القرآن الكريم
 http://stream.radiojar.com/0tpy1h0kxtzuv
 
-#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio 3
-http://icestreaming.rai.it/3.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="BY",Новое радио
 https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio 3
+http://icestreaming.rai.it/3.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="FR",France Musique
 http://direct.francemusique.fr/live/francemusique-midfi.mp3
@@ -131,11 +131,11 @@ http://n0b.radiojar.com/0tpy1h0kxtzuv?
 #EXTINF:-1 tvg-logo="" group-title="TN",إذاعة القرآن الكريم
 http://stream.radiojar.com/0tpy1h0kxtzuv
 
-#EXTINF:-1 tvg-logo="" group-title="GE",Radio Amra
-https://streamer.radio.co/s34b5469e0/listen
-
 #EXTINF:-1 tvg-logo="" group-title="DZ",. إذاعة ماهر المعيقلي
 https://backup.qurango.net/radio/maher
+
+#EXTINF:-1 tvg-logo="" group-title="GE",Radio Amra
+https://streamer.radio.co/s34b5469e0/listen
 
 #EXTINF:-1 tvg-logo="" group-title="NL",Concertzender Baroque
 http://streams.greenhost.nl:8080/barok
@@ -158,11 +158,11 @@ http://wdr-wdr3-live.icecast.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
 #EXTINF:-1 tvg-logo="" group-title="US",Whisperings Solo Piano Radio
 http://pianosolo.streamguys.net/live
 
-#EXTINF:-1 tvg-logo="" group-title="DZ",..مختصر التفسير
-https://qurango.net/radio/mukhtasartafsir
-
 #EXTINF:-1 tvg-logo="" group-title="DZ",.مختصر السيرة
 https://qurango.net/radio/almukhtasar_fi_alsiyra
+
+#EXTINF:-1 tvg-logo="" group-title="DZ",..مختصر التفسير
+https://qurango.net/radio/mukhtasartafsir
 
 #EXTINF:-1 tvg-logo="" group-title="IQ",.. مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
@@ -200,14 +200,14 @@ http://immortalharmony.out.airtime.pro:8000/immortalharmony_a
 #EXTINF:-1 tvg-logo="" group-title="HU",Rádió 1
 https://icast.connectmedia.hu/5201/live.mp3
 
+#EXTINF:-1 tvg-logo="" group-title="SA",تفسير القرآن الكريم
+https://qurango.net/radio/tafseer
+
 #EXTINF:-1 tvg-logo="" group-title="US",Your Classical - Peaceful Piano
 http://peacefulpiano.stream.publicradio.org/peacefulpiano.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="TN",المختصر في التفسير
 https://qurango.net/radio/mukhtasartafsir
-
-#EXTINF:-1 tvg-logo="" group-title="SA",تفسير القرآن الكريم
-https://qurango.net/radio/tafseer
 
 #EXTINF:-1 tvg-logo="" group-title="DZ",اذاعة القرآن الكريم
 http://stream.radiojar.com/0tpy1h0kxtzuv
@@ -242,11 +242,11 @@ http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/
 #EXTINF:-1 tvg-logo="" group-title="DZ",beautiful recitation
 https://qurango.net/radio/salma
 
-#EXTINF:-1 tvg-logo="" group-title="MA",.. مختصر التفسير
-https://qurango.net/radio/mukhtasartafsir
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="GB",BBC Radio 3 (128k)
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MA",.. مختصر التفسير
+https://qurango.net/radio/mukhtasartafsir
 
 #EXTINF:-1 tvg-logo="" group-title="DZ",al quran radio
 https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
@@ -260,11 +260,11 @@ http://icecast5.play.cz/cro3-128.mp3
 #EXTINF:-1 tvg-logo="" group-title="RO",Radio România Muzical
 http://stream2.srr.ro:8022/
 
-#EXTINF:-1 tvg-logo="" group-title="EG",. القارئ محمد أيوب
-https://qurango.net/radio/mohammed_ayyub
-
 #EXTINF:-1 tvg-logo="" group-title="LY",تفسير بن عثيمين
 https://qurango.net/radio/tafseer
+
+#EXTINF:-1 tvg-logo="" group-title="EG",. القارئ محمد أيوب
+https://qurango.net/radio/mohammed_ayyub
 
 #EXTINF:-1 tvg-logo="https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png" group-title="TR",Alem Fm
 https://turkmedya.radyotvonline.net/alemfmaac
@@ -278,14 +278,14 @@ http://streams.greenhost.nl:8080/oudemuziek
 #EXTINF:-1 tvg-logo="" group-title="SA",. مختصر السيرة
 https://qurango.net/radio/almukhtasar_fi_alsiyra
 
+#EXTINF:-1 tvg-logo="" group-title="SA",.صور من حياة الصحابة
+https://qurango.net/radio/sahabah
+
 #EXTINF:-1 tvg-logo="" group-title="IQ",radio maria iraq
 http://dreamsiteradiocp4.com:8046/stream
 
 #EXTINF:-1 tvg-logo="" group-title="RU",ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]
 http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="SA",.صور من حياة الصحابة
-https://qurango.net/radio/sahabah
 
 #EXTINF:-1 tvg-logo="" group-title="AF",Al jazeera
 http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8

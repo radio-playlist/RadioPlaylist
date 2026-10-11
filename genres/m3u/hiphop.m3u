@@ -74,11 +74,11 @@ http://24293.live.streamtheworld.com:3690/977_JAMZ_SC
 #EXTINF:-1 tvg-logo="" group-title="DE",OLDSCHOOL HIPHOP
 http://stream.laut.fm/oldschool-hiphop
 
-#EXTINF:-1 tvg-logo="http://virginradiooman.com/favicon.ico" group-title="OM",Virgin Radio Oman
-http://uk5.internet-radio.com:8115/stream
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mtCKLC/aktHits.jpg" group-title="DE",# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
 https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
+
+#EXTINF:-1 tvg-logo="http://virginradiooman.com/favicon.ico" group-title="OM",Virgin Radio Oman
+http://uk5.internet-radio.com:8115/stream
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s155539/images/logod.png" group-title="GB",TMM 2 (HQ)
 https://listen-msmn.sharp-stream.com/nme2high.mp3
@@ -143,11 +143,11 @@ http://2000er.stream.laut.fm/2000er?t302=2018-03-11_09-46-13&uuid=4aedf967-8bec-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WDR_1LIVE_Logo_2016.svg/189px-WDR_1LIVE_Logo_2016.svg.png" group-title="DE",WDR 1Live - HipHop
 http://wdr-1live-hiphop.icecast.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3
 
-#EXTINF:-1 tvg-logo="http://www.superthrowbackparty.net/favicon.ico" group-title="US",Super Throwback Party Radio
-http://hestia.cdnstream.com/1543_128?cb=618512.mp3
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gc5TMjP/Top-200-Dj-Charts-breakz-logo.jpg" group-title="DE",#TOP 200 DJ CHARTS - JUST MUSIC - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS @ Festival Melodic House, Melodic Techno. Best 100 Lounge, Mixed Radio Station @ PartyHits / Schlager Remix Top 50
 https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
+
+#EXTINF:-1 tvg-logo="http://www.superthrowbackparty.net/favicon.ico" group-title="US",Super Throwback Party Radio
+http://hestia.cdnstream.com/1543_128?cb=618512.mp3
 
 #EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico" group-title="RU",Radio Caprice - Instrumental Hip-hop
 http://79.120.77.11:8000/instrumentalhiphop
@@ -179,11 +179,11 @@ https://deutschrap-classic-high.rautemusik.fm/?ref=radiobrowser
 #EXTINF:-1 tvg-logo="" group-title="DE",__BREAKZ.FM__ by rm.fm (rautemusik)
 https://breakz-high.rautemusik.fm/?ref=radiobrowserinfo
 
-#EXTINF:-1 tvg-logo="" group-title="DE",BLACKBEATS.FM
-http://stream3.blackbeats.fm/;
-
 #EXTINF:-1 tvg-logo="" group-title="DE",BPMcast
 http://stream.laut.fm/bpmcast
+
+#EXTINF:-1 tvg-logo="" group-title="DE",BLACKBEATS.FM
+http://stream3.blackbeats.fm/;
 
 #EXTINF:-1 tvg-logo="https://melody888.gr/images/fav1.png" group-title="GR",Melody 88.8
 http://stream.melody888.gr:48500/melody.mp3

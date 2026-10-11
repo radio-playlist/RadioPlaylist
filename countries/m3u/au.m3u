@@ -29,11 +29,11 @@ http://sbs-ice.streamguys1.com/sbschill
 #EXTINF:-1 tvg-logo="" group-title="AU",DiscoRhythm
 http://c3.radioboss.fm:8018/stream
 
-#EXTINF:-1 tvg-logo="https://d2nzqyyfd6k6c7.cloudfront.net/favicon_2.ico" group-title="AU",Smooth FM 95.3
-http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC48.aac?src=neweb
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SKY_News_Australia_logo.png" group-title="AU",Sky News Australia Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac
+
+#EXTINF:-1 tvg-logo="https://d2nzqyyfd6k6c7.cloudfront.net/favicon_2.ico" group-title="AU",Smooth FM 95.3
+http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953_AAC48.aac?src=neweb
 
 #EXTINF:-1 tvg-logo="http://www.abc.net.au/core-assets/triplej/favicon-32x32.png" group-title="AU",Triple J
 http://abc.streamguys1.com/live/triplejnsw/icecast.audio
@@ -71,11 +71,11 @@ http://46.4.40.246:8059/stream
 #EXTINF:-1 tvg-logo="" group-title="AU",Triple M Sydney
 http://legacy.scahw.com.au/2mmm_128
 
-#EXTINF:-1 tvg-logo="https://live-production.wcms.abc-cdn.net.au/7ee8a275df331791ce3b86c17aef1d50" group-title="AU",ABC Radio Sydney
-https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gb1pQJc/smoothrelax.png" group-title="AU",Smooth Relax Australia (AAC+ 320k)
 http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC320.aac
+
+#EXTINF:-1 tvg-logo="https://live-production.wcms.abc-cdn.net.au/7ee8a275df331791ce3b86c17aef1d50" group-title="AU",ABC Radio Sydney
+https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.kiis1011.com.au/wp-content/themes/arn/assets/favicons/favicon_kiis1011/apple-touch-icon.png" group-title="AU",KIIS 101.1
 https://ais-arn.streamguys1.com/au_001_icy
@@ -98,11 +98,11 @@ https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web
 #EXTINF:-1 tvg-logo="https://www.abc.net.au/favicon.ico" group-title="AU",ABC News Radio
 http://abc.streamguys1.com/live/newsradio/icecast.audio
 
-#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="AU",Australian Digital Radio Network - Old Time Radio Channel 4 - Films, Horror, Sci Fi, Adventure (MP3)
-http://abm21.com.au:8000/CONTAINER5
-
 #EXTINF:-1 tvg-logo="http://prod-filesbucket-7hmmorphht20.s3-ap-southeast-2.amazonaws.com/favicon_0.ico" group-title="AU",Nova 91.9
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac
+
+#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="AU",Australian Digital Radio Network - Old Time Radio Channel 4 - Films, Horror, Sci Fi, Adventure (MP3)
+http://abm21.com.au:8000/CONTAINER5
 
 #EXTINF:-1 tvg-logo="http://www.rrr.org.au/assets/main/assets/public/favicon/favicon-192.a118bf57.png" group-title="AU",3RRR "Triple R" 102.7 FM Melbourne, VIC (low bitrate live stream)
 http://realtime.rrr.org.au/p1l
@@ -209,17 +209,17 @@ https://d11fwwlrb0wuhh.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.4ca.com.au/wp-content/uploads/sites/14/2022/10/cropped-nql_cns_4ca-512x512-favicon.png?w=180" group-title="AU",4CA 846 AM Far North QLD Classic Hits
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAI_4CAAAC_SC
 
-#EXTINF:-1 tvg-logo="https://www.rrr.org.au/assets/main/assets/public/favicon/favicon-192.a118bf57.png" group-title="AU",3RRR Melbourne
-http://realtime.rrr.org.au/p1h
-
 #EXTINF:-1 tvg-logo="" group-title="AU",Andrew Haug Metal  Radio
 http://streamer.radio.co/s6a349b3a2/listen
 
-#EXTINF:-1 tvg-logo="" group-title="AU",Totally Radio - 60s (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_60S_S01.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="AU",澳大利亚SBS Radio 1
 https://sbs-ice.streamguys1.com/sbs1-sbs-web
+
+#EXTINF:-1 tvg-logo="https://www.rrr.org.au/assets/main/assets/public/favicon/favicon-192.a118bf57.png" group-title="AU",3RRR Melbourne
+http://realtime.rrr.org.au/p1h
+
+#EXTINF:-1 tvg-logo="" group-title="AU",Totally Radio - 60s (MP3)
+http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_60S_S01.mp3
 
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="AU",Australian Digital Radio Network - Miley Cyrus and Taylor Swift (MP3)
 http://abm21.com.au:8000/CONTAINER152
@@ -251,11 +251,11 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/6PR.mp3
 #EXTINF:-1 tvg-logo="https://live-production.wcms.abc-cdn.net.au/ca6ab5978de9c6130441e5518e335c3d" group-title="AU",ABC Radio Melbourne
 https://mediaserviceslive.akamaized.net/hls/live/2038300/localmelbourne/masterhq.m3u8
 
-#EXTINF:-1 tvg-logo="https://dbs.radioline.fr/pictures/radio_4367c1a121aef5cb0dae701812759a28/logo200.jpg" group-title="AU",Buddha
-https://legacy.scahw.com.au/2buddha_32
-
 #EXTINF:-1 tvg-logo="https://webertop.oss-cn-hongkong.topkee.top/u_400996516145270784/202211041155668.svg" group-title="AU",2AC澳洲华人电台粤语广播
 http://s1.voscast.com:10442/stream
+
+#EXTINF:-1 tvg-logo="https://dbs.radioline.fr/pictures/radio_4367c1a121aef5cb0dae701812759a28/logo200.jpg" group-title="AU",Buddha
+https://legacy.scahw.com.au/2buddha_32
 
 #EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="AU",Australian Digital Radio Network - 1970s Pop Charting (MP3)
 http://abm21.com.au:8000/CONTAINER82
@@ -263,11 +263,11 @@ http://abm21.com.au:8000/CONTAINER82
 #EXTINF:-1 tvg-logo="https://www.radio.de/images/broadcasts/db/5c/35809/1/c175.png" group-title="AU",ABC Classic HLS
 https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="AU",Totally Radio - 00s (MP3)
-http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01.mp3
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X4Wwcn2/Totally-Radio-Rock-qj8jjmigi7f6eerdvuo7e2wtp2otgopbg1unaq3fxc.jpg" group-title="AU",Totally Radio - Rock (AAC)
 http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_ROCK_S01AAC.aac
+
+#EXTINF:-1 tvg-logo="" group-title="AU",Totally Radio - 00s (MP3)
+http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_00S_S01.mp3
 
 #EXTINF:-1 tvg-logo="https://www.4bc.com.au/wp-content/uploads/sites/10/2023/01/4BC.png" group-title="AU",4BC - Brisbane - 882 AM (MP3)
 http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3
@@ -299,6 +299,6 @@ http://abm22.com.au:8000/CONTAINER102
 #EXTINF:-1 tvg-logo="https://www.smooth.com.au/assets/smooth/icons/favicon/apple-touch-icon.png" group-title="AU",Smooth-Relax
 http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTHRELAX_SYD_AAC.aac
 
-#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="AU",Australian Digital Radio Network - Led Zeppelin (MP3)
-http://abm21.com.au:8000/CONTAINER147
+#EXTINF:-1 tvg-logo="http://www.australiandigitalradio.com/favicon.ico" group-title="AU",Australian Digital Radio Network - Bob Dylan & Neil Young (MP3)
+http://abm21.com.au:8000/CONTAINER164
 
