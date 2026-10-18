@@ -33,7 +33,7 @@ http://servidor28.brlogic.com:8212/live
 https://centova5.transmissaodigital.com:20104/live
 
 #EXTINF:-1 tvg-logo="" group-title="BR",JB FM
-http://26683.live.streamtheworld.com/JBFMAAC_SC
+http://24453.live.streamtheworld.com:3690/JBFMAAC_SC
 
 #EXTINF:-1 tvg-logo="https://static.radios.com.br/img/apple-touch-icon.png" group-title="BR",Bons Tempos FM
 https://server02.ouvir.radio.br:8050/stream?1609720768800
@@ -81,7 +81,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULO
 https://radio.saopaulo01.com.br:10913/stream
 
 #EXTINF:-1 tvg-logo="" group-title="BR",Mix Rio 102.1 Rio de Janeiro, RJ
-http://24233.live.streamtheworld.com:3690/MIXRIOAAC_SC
+http://24233.live.streamtheworld.com/MIXRIOAAC_SC
 
 #EXTINF:-1 tvg-logo="" group-title="BR",CBN São Paulo
 https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac
@@ -185,6 +185,9 @@ https://servidor24.brlogic.com:7134/live
 #EXTINF:-1 tvg-logo="https://www.mgtradio.net/favicon.ico" group-title="BR",MGT GOSPEL
 https://cast.mgtradio.net/radio/8040/aac
 
+#EXTINF:-1 tvg-logo="" group-title="BR",Fay Só Forró das Antigas
+https://ssl.xcast.com.br:7132/stremig
+
 #EXTINF:-1 tvg-logo="https://public-rf-assets.minhawebradio.net/img/favicon.ico" group-title="BR",Rádio Máquina Instrumental
 https://servidor29-2.brlogic.com:8578/live
 
@@ -204,7 +207,10 @@ https://ice.fabricahost.com.br/metrosppop
 http://server01.ouvir.radio.br:8006/stream
 
 #EXTINF:-1 tvg-logo="http://brasilia.novabrasilfm.com.br/images/apple-touch-icon.png?1725267621" group-title="BR",Nova Brasil FM Brasília, DF (ZYC476, 97,5 MHz)
-http://27573.live.streamtheworld.com:3690/NOVABRASIL_BSBAAC_SC
+http://27403.live.streamtheworld.com/NOVABRASIL_BSBAAC_SC
+
+#EXTINF:-1 tvg-logo="" group-title="BR",Fay Só Forró das Antigas
+https://ssl.xcast.com.br:7132/stremig
 
 #EXTINF:-1 tvg-logo="" group-title="BR",Transamérica FM
 http://9595.brasilstream.com.br/stream
@@ -215,14 +221,14 @@ https://stream02.ouveai.com.br/8034/stream
 #EXTINF:-1 tvg-logo="https://www.groovewave.com/favicon.ico" group-title="BR",Groove Wave Lounge
 https://stm1.srvif.com:7576/;
 
+#EXTINF:-1 tvg-logo="" group-title="BR",Jovem Pan FM - Belo Horizonte - MG - 99.1 Mhz
+https://8062.brasilstream.com.br/stream?origem=task_site
+
 #EXTINF:-1 tvg-logo="" group-title="BR",Radio Energia 97 FM
 https://streaming.inweb.com.br/energia
 
 #EXTINF:-1 tvg-logo="" group-title="BR",Rádio Rap Brasil
 https://stream.zeno.fm/7c83b37e32quv
-
-#EXTINF:-1 tvg-logo="" group-title="BR",Jovem Pan FM - Belo Horizonte - MG - 99.1 Mhz
-https://8062.brasilstream.com.br/stream?origem=task_site
 
 #EXTINF:-1 tvg-logo="" group-title="BR",Rádio Batuta MPB - A webradio do Instituto Moreira Salles
 http://radioims.out.airtime.pro:8000/radioims_a
@@ -242,11 +248,14 @@ https://live.paineldj.com.br/proxy/jfloripa?mp=/stream
 #EXTINF:-1 tvg-logo="" group-title="BR",Só Brega
 http://stm18.xcast.com.br:8290/;
 
-#EXTINF:-1 tvg-logo="" group-title="BR",91 Rock - Curitiba (web)
-http://servidor40.brlogic.com:8044/live
+#EXTINF:-1 tvg-logo="" group-title="BR",Difusora Manaus 96,9
+http://69.16.236.247:9300/;mp3
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GE7jNgZWQAEcxNb?format=png&name=240x240" group-title="BR",Rádio Studio Flashback
 https://stream-163.zeno.fm/6gv76f1xruquv?zs=SvdWy-tsTtCXPZ9IZC0ASA
+
+#EXTINF:-1 tvg-logo="" group-title="BR",91 Rock - Curitiba (web)
+http://servidor40.brlogic.com:8044/live
 
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/004/753/770/thumb/apple-touch-icon.png" group-title="BR",Rádio I Love anos 80's
 https://shit-is-merda.stream.laut.fm/shit-is-merda
@@ -263,20 +272,20 @@ http://cast4.audiostream.com.br:8650/mp3
 #EXTINF:-1 tvg-logo="https://ar.radiodisney.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogoPlayer.94eccc39.jpg&w=320&q=75" group-title="BR",Rádio Disney - Brasil FM 91.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP_ADP.aac
 
-#EXTINF:-1 tvg-logo="https://mpbdovinilaodigital.blogspot.com/favicon.ico" group-title="BR",MPBdoVinilAoDigital
-http://192.99.14.210:8339/stream
-
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8829_1708517690.png" group-title="BR",Rádio Jovem Pan 100.9 FM
 https://stream.zeno.fm/c45wbq2us3buv
+
+#EXTINF:-1 tvg-logo="https://mpbdovinilaodigital.blogspot.com/favicon.ico" group-title="BR",MPBdoVinilAoDigital
+http://192.99.14.210:8339/stream
 
 #EXTINF:-1 tvg-logo="" group-title="BR",Radio Instrumental Gospel
 http://live8.livemus.com.br:27142/stream
 
-#EXTINF:-1 tvg-logo="" group-title="BR",Brasil de Fato
-https://s09.hstbr.net:8238/live?1514038524061
-
 #EXTINF:-1 tvg-logo="" group-title="BR",105 FM - SP
 http://www.appradio.app:8010//live
+
+#EXTINF:-1 tvg-logo="" group-title="BR",Brasil de Fato
+https://s09.hstbr.net:8238/live?1514038524061
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio170330_1608747125.jpg" group-title="BR",Progressive Earth Radio
 http://sv10.hdradios.net:6674/;
@@ -292,13 +301,4 @@ http://stm01.virtualcast.com.br:8190/live
 
 #EXTINF:-1 tvg-logo="" group-title="BR",Rádio Bandeirantes 90.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC
-
-#EXTINF:-1 tvg-logo="" group-title="BR",Caiçara (Porto Alegre)
-http://cast4.audiostream.com.br:8654/mp3
-
-#EXTINF:-1 tvg-logo="http://www.vip-radios.fm/favicon.ico" group-title="BR",Rádio Bossa Nova Brazil
-http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil
-
-#EXTINF:-1 tvg-logo="https://www.mgtradio.net/images/ouvir-radio-online.png" group-title="BR",MGT BREGA E RETRÔ
-https://cast.mgtradio.net/radio/8060/aac
 

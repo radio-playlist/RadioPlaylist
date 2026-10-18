@@ -95,9 +95,6 @@ http://64.95.243.43:8002/stream
 #EXTINF:-1 tvg-logo="https://techno.fm/favicon.ico" group-title="GB",Techno.FM
 http://stream.techno.fm/radio.mp3
 
-#EXTINF:-1 tvg-logo="http://www.1mix.co.uk/favicon.ico" group-title="GB",1Mix Radio Trance
-http://fr2.1mix.co.uk:8060/192
-
 #EXTINF:-1 tvg-logo="http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="GB",LBC London (London stream) MP3
 http://media-ice.musicradio.com/LBCLondonMP3Low
 
@@ -107,11 +104,11 @@ http://andromeda.shoutca.st:8031/
 #EXTINF:-1 tvg-logo="http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png" group-title="GB",Radio X
 http://media-the.musicradio.com/RadioXUK
 
-#EXTINF:-1 tvg-logo="http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png" group-title="GB",Radio X Manchester
-http://media-the.musicradio.com/RadioXManchester
-
 #EXTINF:-1 tvg-logo="" group-title="GB",LOVE.radio Only Love Songs 70s80s90s
 https://loveradio.streamingmedia.it/england
+
+#EXTINF:-1 tvg-logo="http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png" group-title="GB",Radio X Manchester
+http://media-the.musicradio.com/RadioXManchester
 
 #EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/arabic/images/icons/icon-128x128.png" group-title="GB",BBC Arabic Radio
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8
@@ -122,11 +119,11 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 tvg-logo="" group-title="GB",TalkSPORT
 https://radio.talksport.com/stream
 
-#EXTINF:-1 tvg-logo="" group-title="GB",Classic FM at the Movies
-http://media-sov.musicradio.com/ClassicFM-M-Movies
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24943q.png" group-title="GB",BBC Radio 5 Live (128k)
 http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Classic FM at the Movies
+http://media-sov.musicradio.com/ClassicFM-M-Movies
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24940q.png" group-title="GB",BBC Radio 2 (128k)
 http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8
@@ -137,11 +134,11 @@ http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/si
 #EXTINF:-1 tvg-logo="" group-title="GB",GBNews
 http://listen-gbnews.sharp-stream.com/gbnews.mp3
 
-#EXTINF:-1 tvg-logo="https://danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="GB",DanceRadioUK - Dance UK
-http://uk2.internet-radio.com:8024/stream
-
 #EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="https://danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png" group-title="GB",DanceRadioUK - Dance UK
+http://uk2.internet-radio.com:8024/stream
 
 #EXTINF:-1 tvg-logo="http://www.chilloutibizafm.com/favicon.ico" group-title="GB",Chillout Ibiza FM
 https://edge3.peta.live365.net/b05055_128mp3
@@ -185,11 +182,11 @@ https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia
 #EXTINF:-1 tvg-logo="http://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png" group-title="GB",Gold AM 1548 London
 http://media-ice.musicradio.com/GoldMP3
 
-#EXTINF:-1 tvg-logo="https://seva.ru/radio/radio.png" group-title="GB",Радио Сева (Radio Seva Novgorodsev)
-https://seva.ru/radio/stream
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24941q.png" group-title="GB",BBC Radio 3 (128k)
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="https://seva.ru/radio/radio.png" group-title="GB",Радио Сева (Radio Seva Novgorodsev)
+https://seva.ru/radio/stream
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6839q.png" group-title="GB",BBC Radio 4 Extra (128k)
 http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d128000.norewind.m3u8
@@ -200,11 +197,11 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlo
 #EXTINF:-1 tvg-logo="http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png" group-title="GB",Radio X London (MP3)
 http://media-the.musicradio.com/RadioXLondonMP3
 
-#EXTINF:-1 tvg-logo="https://android2.blob.core.windows.net/castmyurl/WeymouthRocks400.png" group-title="GB",Weymouth Rocks (Medium Bitrate)
-http://cast1.asurahosting.com:8621/med
-
 #EXTINF:-1 tvg-logo="https://truckers.fm/favicon.ico" group-title="GB",TruckersFM
 http://radio.truckers.fm/
+
+#EXTINF:-1 tvg-logo="https://android2.blob.core.windows.net/castmyurl/WeymouthRocks400.png" group-title="GB",Weymouth Rocks (Medium Bitrate)
+http://cast1.asurahosting.com:8621/med
 
 #EXTINF:-1 tvg-logo="https://www.celsoazevedo.com/files/2022/virgin-radio-uk.jpg" group-title="GB",Virgin Radio UK
 https://radio.virginradio.co.uk/stream
@@ -242,14 +239,14 @@ http://fr1.1mix.co.uk:8060/
 #EXTINF:-1 tvg-logo="https://www.radiocaroline.co.uk/favicon.ico" group-title="GB",Radio Caroline AAC 96 kbps
 http://78.129.202.200:8030/;
 
-#EXTINF:-1 tvg-logo="" group-title="GB",Radio Caroline Flashback
-http://sc2.radiocaroline.net:10558/;
-
 #EXTINF:-1 tvg-logo="https://herald.musicradio.com/media/02a3caa1-dacf-47b1-ad54-c10728b66cd9.png" group-title="GB",LBC News
 https://media-ssl.musicradio.com/LBCNewsUK
 
 #EXTINF:-1 tvg-logo="https://www.1mix.co.uk/forum/styles/acidtech/theme/images/site_logo.gif" group-title="GB",1Mix Radio - Trance (UK) 32kb aac+
 http://fr2.1mix.co.uk:9000/aacb
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Radio Caroline Flashback
+http://sc2.radiocaroline.net:10558/;
 
 #EXTINF:-1 tvg-logo="https://www.nonstopplay.com/wp-content/uploads/2022/12/favicon.png" group-title="GB",NonStopPlay Dance Radio
 http://stream.nonstopplay.co.uk/nsp-192k-mp3
@@ -269,11 +266,11 @@ http://fr2.1mix.co.uk:9000/320b
 #EXTINF:-1 tvg-logo="https://bsj.fm/assets/img/bsj-favicon.ico" group-title="GB",BSJ.FM Best Smooth Jazz
 https://bsj.lucasmultimedia.com:8002/stream.ogg
 
-#EXTINF:-1 tvg-logo="http://www.nts.live/apple-touch-icon.png?v=47re43rrzb" group-title="GB",NTS Radio 2
-http://stream-relay-geo.ntslive.net/stream2
-
 #EXTINF:-1 tvg-logo="https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg" group-title="GB",BritCom 2 - Pumpkin FM
 https://cast2.asurahosting.com/proxy/britcom2/stream
+
+#EXTINF:-1 tvg-logo="http://www.nts.live/apple-touch-icon.png?v=47re43rrzb" group-title="GB",NTS Radio 2
+http://stream-relay-geo.ntslive.net/stream2
 
 #EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="GB",BBC Live News (128k)
 http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d128000.norewind.m3u8
@@ -293,12 +290,15 @@ http://streaming04.liveboxstream.uk:8077/stream
 #EXTINF:-1 tvg-logo="" group-title="GB",SOUL RADIO Only Classic Soul
 https://listen.soulradio.uk/uk
 
-#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/somali/images/icons/icon-128x128.png" group-title="GB",BBC Somali Radio
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="GB",1Mix Radio - Trance #1 (UK) 320kb mp3
 http://fr2.1mix.co.uk:9000/320
 
+#EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/somali/images/icons/icon-128x128.png" group-title="GB",BBC Somali Radio
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_somali_radio.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.celsoazevedo.com/files/2025/magic.png" group-title="GB",Magic Radio UK
 https://stream-mz.hellorayo.co.uk/magicnational.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=mag
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Strange Radio - Pumpkin FM
+https://cast2.asurahosting.com/proxy/strangeradio/stream
 

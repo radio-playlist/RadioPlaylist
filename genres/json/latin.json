@@ -14,8 +14,8 @@
     "tags": "chr,dance,español,latin,latin music,latino,pop,pop latino,reggaeton,top 40,trap",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 32577,
-    "clickcount": 50
+    "votes": 32652,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "latin",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 21918,
-    "clickcount": 16
+    "votes": 21972,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "chr,dance,español,latin,latin music,latino,low bandwidth,pop,pop latino,reggaeton,top 40,trap",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 12505,
-    "clickcount": 14
+    "votes": 12535,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "latin,reggaeton",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12136,
-    "clickcount": 40
+    "votes": 12166,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "latin,pop,world music",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 8558,
-    "clickcount": 7
+    "votes": 8580,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -95,7 +95,7 @@
     "stationuuid": "9618c1b9-0601-11e8-ae97-52543be04c81",
     "name": "Candela Estéreo Bogotá (HJPU 101.9)",
     "url": "http://playerservices.streamtheworld.com/pls/CANDELAESTEREO.pls",
-    "url_resolved": "http://24483.live.streamtheworld.com:3690/CANDELAESTEREO_SC",
+    "url_resolved": "http://27583.live.streamtheworld.com/CANDELAESTEREO_SC",
     "homepage": "http://www.candelaestereo.com/",
     "favicon": "https://uploads.candelaestereo.com/1/2019/06/cropped-logo-candela-llama-100x100.png",
     "countrycode": "CO",
@@ -104,7 +104,7 @@
     "tags": "bogota,latin,latino",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 7211,
+    "votes": 7228,
     "clickcount": 10
   },
   {
@@ -122,8 +122,8 @@
     "tags": "bachata,latin",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6025,
-    "clickcount": 12
+    "votes": 6031,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "latin",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4836,
-    "clickcount": 19
+    "votes": 4844,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "#,#charts,#club,#djmix,#mashup,#radio,#top100,00s,90s,beachclub,charts,chill house,chillout,chillout+lounge,club,club dance,club dance electronic house trance,club house,clubbing,dance house club  electronic techhouse,deejay,deep house,deep music,dj,dj mixes,dj remix,dj sets,edm,electro,electro techno,electronic,funky house,future house,hardstyle/handsup/edm,hip hop,hip-hop,hiphop,house,hypertechno,ibiza,latin,latin music,latin pop,lounge music,mashup,melodic house,minimal,minimal techno,moombahton,pop,progressive house,r&b,r&b/urban,rap hiphop rnb,rave,reggaeton,remixed,remixes,singlecharts,soulful house,sundowner,sunset,tech house,techno,top 40,top100,vocal deep",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 4437,
-    "clickcount": 183
+    "votes": 4509,
+    "clickcount": 216
   },
   {
     "id": null,
@@ -176,7 +176,7 @@
     "tags": "60s,70s,80s,clasicos,latin,mexico city,oldies",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 4057,
+    "votes": 4061,
     "clickcount": 2
   },
   {
@@ -194,8 +194,8 @@
     "tags": "80s,cumbia,latin,latino,merengue,salsa",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 3971,
-    "clickcount": 3
+    "votes": 3983,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -212,8 +212,8 @@
     "tags": "jazz,latin,latin jazz,latino",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3876,
-    "clickcount": 6
+    "votes": 3881,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -230,8 +230,8 @@
     "tags": "chr,dance,español,hd,latin,latin music,latino,pop,pop latino,reggaeton,top 40,trap",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3623,
-    "clickcount": 8
+    "votes": 3628,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -248,8 +248,8 @@
     "tags": "latin,latino,world music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3196,
-    "clickcount": 4
+    "votes": 3201,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -266,7 +266,25 @@
     "tags": "320kbps,african,ethnic,latin,latino,reggae,world music",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2854,
+    "votes": 2864,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "a8c1c86e-e1c0-4e86-ba15-74c258ac0af9",
+    "name": "0nlineradio REMIX",
+    "url": "https://stream.0nlineradio.com/remix?ref=radiobrowser",
+    "url_resolved": "https://stream.0nlineradio.com/remix?ref=radiobrowser",
+    "homepage": "https://0nlineradio.com/",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "North Rhine-Westphalia",
+    "language": "english,german",
+    "tags": "charts,dance,dj remix,edm,electro,electronic,hiphop,hits,latin,mashup,mixtapes,pop,rap hiphop rnb,reggaeton,remix,remixes,rnb,urban",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 2697,
     "clickcount": 3
   },
   {
@@ -284,26 +302,8 @@
     "tags": "latin,pop",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 2692,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a8c1c86e-e1c0-4e86-ba15-74c258ac0af9",
-    "name": "0nlineradio REMIX",
-    "url": "https://stream.0nlineradio.com/remix?ref=radiobrowser",
-    "url_resolved": "https://stream.0nlineradio.com/remix?ref=radiobrowser",
-    "homepage": "https://0nlineradio.com/",
-    "favicon": "",
-    "countrycode": "DE",
-    "state": "North Rhine-Westphalia",
-    "language": "english,german",
-    "tags": "charts,dance,dj remix,edm,electro,electronic,hiphop,hits,latin,mashup,mixtapes,pop,rap hiphop rnb,reggaeton,remix,remixes,rnb,urban",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 2691,
-    "clickcount": 4
+    "votes": 2694,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -320,8 +320,8 @@
     "tags": "latin",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 2403,
-    "clickcount": 12
+    "votes": 2407,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -329,7 +329,7 @@
     "stationuuid": "96337005-0601-11e8-ae97-52543be04c81",
     "name": "XHTIM \"La Mejor\" 90.7 FM Tijuana, BN",
     "url": "http://playerservices.streamtheworld.com/pls/XHTIM.pls",
-    "url_resolved": "http://18213.live.streamtheworld.com/XHTIM_SC",
+    "url_resolved": "http://26313.live.streamtheworld.com/XHTIM_SC",
     "homepage": "http://www.lamejor.com.mx/#!/tijuana/home",
     "favicon": "http://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png?v2",
     "countrycode": "MX",
@@ -339,7 +339,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2145,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -356,8 +356,8 @@
     "tags": "#,#00s,#90,#dj,#partybreaks,#top100,charts,dance,dance house club  electronic techhouse,deep house,dj,dj mix,dj mixes,dj remix,electro house,electro techno,house,latin,latin music,latin pop,liveradio,mixtape,moombahton,partymix,pop,pop dance,r&b/urban,rap hiphop rnb,remix,remixed,remixes,techhouse,techno,top 40,top charts,top100,top40,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1665,
-    "clickcount": 37
+    "votes": 1685,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -374,8 +374,8 @@
     "tags": "funk,fusion,jazz,latin,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1663,
-    "clickcount": 6
+    "votes": 1668,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -392,8 +392,8 @@
     "tags": "dance,house,latin,reggaeton,urban",
     "codec": "AAC",
     "bitrate": 125,
-    "votes": 1605,
-    "clickcount": 21
+    "votes": 1617,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -410,8 +410,8 @@
     "tags": "96.3 fm,américa,california,entretenimiento,español,estación,fm,latin,latin music,latin pop,latino,latinoamérica,los angeles,mega,moi merino,música,música en español,música latina,norteamérica,pop en español,pop latino,radio,reggaetón,spanish broadcasting system,usa",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 1493,
-    "clickcount": 7
+    "votes": 1494,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -428,8 +428,8 @@
     "tags": "bachata,latin,merengue,salsa",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1233,
-    "clickcount": 6
+    "votes": 1236,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -447,7 +447,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1190,
-    "clickcount": 0
+    "clickcount": 4
   },
   {
     "id": null,
@@ -465,7 +465,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1163,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -483,7 +483,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 923,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -500,8 +500,8 @@
     "tags": "#,#00,#clubradio,#dj,#festival,#liveset,#partybreakz,#remix,#top100,afterhour,charts,club house,dance house club  electronic techhouse,deep house,deutschrap,dj remix,electro house,hiphop,house,latin,morning,rap,remixes,rnb,tech house,techno,top 40,top charts,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 659,
-    "clickcount": 20
+    "votes": 661,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -518,8 +518,8 @@
     "tags": "bossa,bossa nova,bossanova,jazz,latin,latin jazz,music",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 619,
-    "clickcount": 4
+    "votes": 620,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -536,7 +536,7 @@
     "tags": "#,+,-,0,00s,bach,beach,black,chill house,chillout+lounge,clubbing,dance,dancehall,deejay,deep house,dj mixes,dj remix,dj sets,edm,electro,hard techno,house,ibiza,ibiza club,latin,lounge,lounge music,mashup,mix,mixed,moombahton,new,new rave,pool beach bar,pop,pop dance,pop music,promodj,rave,reggaeton,remix,rnb,soul,soulful house,summer,sunshine,techno,top charts,top40,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 606,
+    "votes": 609,
     "clickcount": 29
   },
   {
@@ -555,7 +555,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 595,
-    "clickcount": 0
+    "clickcount": 4
   },
   {
     "id": null,
@@ -573,7 +573,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 573,
-    "clickcount": 3
+    "clickcount": 0
   },
   {
     "id": null,
@@ -589,9 +589,9 @@
     "language": "spanish",
     "tags": "102.1,102.1 fm,80s en español,balada,balada en español,balada pop,baladas,baladas en español,chihuahua,delicias,entretenimiento,español,estación,fm,latin,latin music,latin pop,latino,latino américa,latinoamerica,mex,mexico,moi merino,music,musica,musica clasica romantica,musica latina,musica latinoamericana,musica romantica,mx,méxico,música en español,norteamérica,pop latino,romantic,romantic music,romantica,romántica,románticas,sigma radio",
     "codec": "MP3",
-    "bitrate": 80,
-    "votes": 520,
-    "clickcount": 1
+    "bitrate": 75,
+    "votes": 521,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -608,7 +608,7 @@
     "tags": "afro,afro jazz,cuban,cuban jazz,jazz,latin,latin jazz",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 514,
+    "votes": 516,
     "clickcount": 2
   },
   {
@@ -626,7 +626,7 @@
     "tags": "bossa nova,latin,samba",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 503,
+    "votes": 507,
     "clickcount": 1
   },
   {
@@ -645,7 +645,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 452,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -662,8 +662,8 @@
     "tags": "chanson,culture,current focal points,folk,latin,science,sophisticated underground music,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 439,
-    "clickcount": 25
+    "votes": 441,
+    "clickcount": 40
   },
   {
     "id": null,
@@ -680,8 +680,8 @@
     "tags": "bachata,kultur,latin,latino,merengue bachata,musica latina,musica latinoamericana,salsa,salsa colombiana,spanish",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 424,
-    "clickcount": 3
+    "votes": 430,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -699,7 +699,7 @@
     "codec": "AAC",
     "bitrate": 0,
     "votes": 411,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -734,8 +734,8 @@
     "tags": "funk,jazz,latin,lounge,nu grooves,soul,world",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 346,
-    "clickcount": 5
+    "votes": 347,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -752,7 +752,7 @@
     "tags": "bossa nova,cuban music,latin,latin pop,merengue,salsa,tango,vallenato",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 345,
+    "votes": 346,
     "clickcount": 2
   },
   {
@@ -771,7 +771,7 @@
     "codec": "MP3",
     "bitrate": 96,
     "votes": 338,
-    "clickcount": 7
+    "clickcount": 5
   },
   {
     "id": null,
@@ -788,7 +788,7 @@
     "tags": "latin,pop,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 259,
+    "votes": 261,
     "clickcount": 0
   },
   {
@@ -807,7 +807,7 @@
     "codec": "AAC+",
     "bitrate": 96,
     "votes": 258,
-    "clickcount": 2
+    "clickcount": 4
   },
   {
     "id": null,
@@ -825,7 +825,7 @@
     "codec": "MP3",
     "bitrate": 96,
     "votes": 255,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -860,8 +860,8 @@
     "tags": "dancehall,latin,reggae,reggaeton",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 241,
-    "clickcount": 3
+    "votes": 242,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -879,7 +879,7 @@
     "codec": "AAC",
     "bitrate": 24,
     "votes": 238,
-    "clickcount": 5
+    "clickcount": 2
   },
   {
     "id": null,
@@ -915,7 +915,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 222,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -933,7 +933,7 @@
     "codec": "MP3",
     "bitrate": 96,
     "votes": 208,
-    "clickcount": 3
+    "clickcount": 4
   },
   {
     "id": null,
@@ -950,8 +950,8 @@
     "tags": "catholic,catholic radio,catholic talk,christian,latin,вяра,християнство",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 201,
-    "clickcount": 2
+    "votes": 205,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -986,8 +986,8 @@
     "tags": "dance,jazz,latin,oldies,pop,relax,rock",
     "codec": "AAC+",
     "bitrate": 224,
-    "votes": 185,
-    "clickcount": 2
+    "votes": 186,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1004,7 +1004,7 @@
     "tags": "classic salsa,latin,salsa",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 180,
+    "votes": 182,
     "clickcount": 1
   },
   {
@@ -1023,7 +1023,7 @@
     "codec": "AAC",
     "bitrate": 128,
     "votes": 163,
-    "clickcount": 3
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1041,7 +1041,7 @@
     "codec": "AAC",
     "bitrate": 48,
     "votes": 162,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1095,7 +1095,25 @@
     "codec": "AAC+",
     "bitrate": 64,
     "votes": 132,
-    "clickcount": 8
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "d2d15da1-84f8-4e02-91bb-4e0e7a223332",
+    "name": "open broadcast radio",
+    "url": "http://stream.openbroadcast.ch/320.mp3",
+    "url_resolved": "http://stream.openbroadcast.ch/320.mp3",
+    "homepage": "https://openbroadcast.ch/",
+    "favicon": "https://openbroadcast.ch/static/assets/manifest/icon-triangle-white.91b2fd954957.png",
+    "countrycode": "CH",
+    "state": "",
+    "language": "",
+    "tags": "afro,deep house,dub,eclectic,electronic,folk,funk,hip hop,house,jazz,latin,neo soul,pop,reggae,rnb,rock,soul,world music",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 129,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1113,25 +1131,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 127,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "d2d15da1-84f8-4e02-91bb-4e0e7a223332",
-    "name": "open broadcast radio",
-    "url": "http://stream.openbroadcast.ch/320.mp3",
-    "url_resolved": "http://stream.openbroadcast.ch/320.mp3",
-    "homepage": "https://openbroadcast.ch/",
-    "favicon": "https://openbroadcast.ch/static/assets/manifest/icon-triangle-white.91b2fd954957.png",
-    "countrycode": "CH",
-    "state": "",
-    "language": "",
-    "tags": "afro,deep house,dub,eclectic,electronic,folk,funk,hip hop,house,jazz,latin,neo soul,pop,reggae,rnb,rock,soul,world music",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 127,
-    "clickcount": 7
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1149,7 +1149,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 123,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1167,7 +1167,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 121,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1183,9 +1183,9 @@
     "language": "spanish",
     "tags": "entretenimiento,latin,latino,música variada,pop en español e inglés,salsa,tropical",
     "codec": "AAC",
-    "bitrate": 5280,
-    "votes": 119,
-    "clickcount": 0
+    "bitrate": 5314,
+    "votes": 120,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1221,7 +1221,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 116,
-    "clickcount": 6
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1239,7 +1239,7 @@
     "codec": "MP3",
     "bitrate": 96,
     "votes": 112,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1275,7 +1275,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 107,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1283,7 +1283,7 @@
     "stationuuid": "46f7daf1-4a78-11e9-a4d7-52543be04c81",
     "name": "i love radio - the sun",
     "url": "http://stream01.iloveradio.de/iloveradio15.mp3",
-    "url_resolved": "http://ilm.stream12.radiohost.de/ilm_ilovethesun_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkwODA4NDQzJmQ9ZmUzOThhZTU4NmYyMDhiZGJlYWU",
+    "url_resolved": "http://ilm.stream35.radiohost.de/ilm_ilovethesun_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkyMjE2NDE3JmQ9MzAzYjZiYzFlZTdjMjRiMWI4ZmQ",
     "homepage": "https://www.iloveradio.de/",
     "favicon": "https://www.iloveradio.de/favicon.ico",
     "countrycode": "DE",
@@ -1329,7 +1329,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 102,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1365,7 +1365,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 99,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1400,7 +1400,7 @@
     "tags": "hip-hop,hiphop,latin,moombahton,rap,reggaeton,rnb,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 83,
+    "votes": 84,
     "clickcount": 1
   },
   {
@@ -1419,7 +1419,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 79,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1436,8 +1436,8 @@
     "tags": "2000's,2000s,2010,2010's,2010s,2020,2020s,french,french music,french radio,french rap,hits,latin,latin music,latin pop,latino,latinoamérica,pop music,top 40 hits,top hits",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 76,
-    "clickcount": 17
+    "votes": 77,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1455,7 +1455,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 68,
-    "clickcount": 6
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1473,7 +1473,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 64,
-    "clickcount": 4
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1527,7 +1527,7 @@
     "codec": "AAC+",
     "bitrate": 96,
     "votes": 59,
-    "clickcount": 3
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1545,7 +1545,7 @@
     "codec": "AAC",
     "bitrate": 128,
     "votes": 59,
-    "clickcount": 5
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1653,7 +1653,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 47,
-    "clickcount": 4
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1725,7 +1725,43 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 36,
-    "clickcount": 4
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "15928e36-5a32-4841-9edc-13b4f4c4462c",
+    "name": "La Bonita X101",
+    "url": "https://listen.labonita.torontocast.stream/",
+    "url_resolved": "https://listen.labonita.torontocast.stream/",
+    "homepage": "https://www.labonita.sitiolink.com/",
+    "favicon": "",
+    "countrycode": "CA",
+    "state": "British Columbia",
+    "language": "espanish,spanish",
+    "tags": "2000s,70s,80s,90s,exitos,latin,latin music,mexican music,musica mexicana,musica romantica,oldies,regional mexican,romantica,spanish adult hits,spanish oldies,variedad",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 35,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "adfd10cf-ec13-482e-98c7-ba32a8b33879",
+    "name": "Bar Latina Radio",
+    "url": "https://s2.citrus3.com:2000/stream/barlatinaradio",
+    "url_resolved": "https://s2.citrus3.com:2000/stream/barlatinaradio",
+    "homepage": "https://www.barlatina.com/",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "London, England",
+    "language": "english",
+    "tags": "bachata,kizomba,latin,regaeton,salsa",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 35,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1759,42 +1795,6 @@
     "language": "spanish",
     "tags": "chile,latin,latin pop,latinoamérica,musica latina,musica latinoamericana",
     "codec": "MP3",
-    "bitrate": 0,
-    "votes": 34,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "15928e36-5a32-4841-9edc-13b4f4c4462c",
-    "name": "La Bonita X101",
-    "url": "https://listen.labonita.torontocast.stream/",
-    "url_resolved": "https://listen.labonita.torontocast.stream/",
-    "homepage": "https://www.labonita.sitiolink.com/",
-    "favicon": "",
-    "countrycode": "CA",
-    "state": "British Columbia",
-    "language": "espanish,spanish",
-    "tags": "2000s,70s,80s,90s,exitos,latin,latin music,mexican music,musica mexicana,musica romantica,oldies,regional mexican,romantica,spanish adult hits,spanish oldies,variedad",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 34,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "98408e5e-2a38-434a-b592-6dfc145cce46",
-    "name": "Deejay Gasolina",
-    "url": "https://streamcdnr7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/live.m3u8",
-    "url_resolved": "https://streamcdnr7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/live.m3u8",
-    "homepage": "https://www.deejay.it/",
-    "favicon": "https://www.deejay.it/favicon.ico",
-    "countrycode": "IT",
-    "state": "Lombardia",
-    "language": "italian",
-    "tags": "latin,latin music,latin pop,latina,musica latina,música latina",
-    "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 34,
     "clickcount": 2

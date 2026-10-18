@@ -107,17 +107,17 @@ http://stream.rusyn.fm/rusyny-low.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j51rcUO.png" group-title="SK",FUN RÁDIO DANCE
 http://stream.funradio.sk:8000/dance128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="SK",Radio Viva Metropol
-http://stream.sepia.sk:8000/viva128.mp3
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kz8TUOr.png" group-title="SK",FUN RÁDIO 80-90
 http://stream.funradio.sk:8000/80-90-128.mp3
 
-#EXTINF:-1 tvg-logo="http://cdn.funradio.sk/img/logo/apple-icon-120x120.png?v=2022-05-26-1422" group-title="SK",Fun Radio CZ
-http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1 tvg-logo="" group-title="SK",Radio Viva Metropol
+http://stream.sepia.sk:8000/viva128.mp3
 
 #EXTINF:-1 tvg-logo="https://www.beta.sk/wp-content/uploads/2020/08/cropped-beta-radio-logo-512-180x180.png" group-title="SK",Rádio Beta
 http://109.71.67.102:8000/beta_live_high.mp3
+
+#EXTINF:-1 tvg-logo="http://cdn.funradio.sk/img/logo/apple-icon-120x120.png?v=2022-05-26-1422" group-title="SK",Fun Radio CZ
+http://stream.funradio.sk:8000/cs128.mp3
 
 #EXTINF:-1 tvg-logo="https://cdn.radiovlna.sk/img/logo/apple-touch-icon.png?v=2023-10-09-10-40" group-title="SK",Rádio Vlna Oldies Party
 https://stream.radiovlna.sk/party-hi.mp3
@@ -230,11 +230,11 @@ http://stream.subfm.sk/subfm
 #EXTINF:-1 tvg-logo="" group-title="SK",Rádio Viva
 http://stream.sepia.sk:8000/viva128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="SK",Sllobodný vysielač
-http://159.69.219.5:8010//aac
-
 #EXTINF:-1 tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.E65vroGDtTyTMl18lUuGuwHaHa%26pid%3DApi&f=1&ipt=8e1260db0157c0b572b4326122c7511e15bc8c6afb4e0423cd1b9bb620cf57f2&ipo=images" group-title="SK",Fun Radio  Chill
 https://stream.funradio.sk:8000/chill128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="SK",Sllobodný vysielač
+http://159.69.219.5:8010//aac
 
 #EXTINF:-1 tvg-logo="https://radiorock.sk/favicon.ico" group-title="SK",Rádio ROCK
 https://stream.bauermedia.sk/rock-hi.mp3
@@ -275,14 +275,14 @@ https://online.radiokiks.sk:8000/kiks_big90s.mp3
 #EXTINF:-1 tvg-logo="https://www.detske.radio/favicon-32x32.png" group-title="SK",Detské Rádio
 http://stream.21.sk/detskeradio-192.mp3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tONu9yL.png" group-title="SK",RÁDIO VLNA 60-70
+https://stream.radiovlna.sk/gold-hi.mp3
+
 #EXTINF:-1 tvg-logo="https://aetter.sk/wp-content/uploads/2024/11/cropped-cropped-aetter_favicon_new-180x180-1-180x180.png" group-title="SK",Rádio Aetter
 http://stream.aetter.sk:8000/aetter
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ty0Rjzh.png" group-title="SK",RÁDIO BEST FM
 https://stream3.bestfm.sk:8000/128.mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tONu9yL.png" group-title="SK",RÁDIO VLNA 60-70
-https://stream.radiovlna.sk/gold-hi.mp3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BVXJoSN.png" group-title="SK",RÁDIO BETA
 http://109.71.67.102:8000/beta_live_high.mp3

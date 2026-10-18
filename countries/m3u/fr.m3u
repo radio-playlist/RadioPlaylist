@@ -245,17 +245,17 @@ http://stream.chantefrance.com/cf-nouveautes.aac
 #EXTINF:-1 tvg-logo="http://kingdubfamily.com/wp-content/uploads/2021/03/download-150x150.png" group-title="FR",King Dub Radio
 http://london-dedicated.myautodj.com:8862/stream
 
-#EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="FR",FIP Groove
-http://icecast.radiofrance.fr/fipgroove-hifi.aac
-
 #EXTINF:-1 tvg-logo="https://duckduckgo.com/i/035a5e15d396c67a.png" group-title="FR",RTL
 https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="FR",FIP Groove
+http://icecast.radiofrance.fr/fipgroove-hifi.aac
 
 #EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png" group-title="FR",France Info
 http://icecast.radiofrance.fr/franceinfo-hifi.aac
 
 #EXTINF:-1 tvg-logo="http://en.rfi.fr/android-chrome-192x192.png" group-title="FR",RFI Anglais - English
-http://live02.rfi.fr/rfienanglais-64.mp3
+http://rfienanglais64k.ice.infomaniak.ch/rfienanglais-64.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="FR",B4B Radio DISCO FUNK
 https://eu10.fastcast4u.com:8120/
@@ -290,11 +290,11 @@ https://stream.rfm.fr/rfm-wr10.aac
 #EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="FR",FIP Musiques du monde
 http://icecast.radiofrance.fr/fipworld-hifi.aac
 
-#EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="FR",France Bleu Paris
-http://direct.francebleu.fr/live/fb1071-midfi.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="FR",Tropiques FM
 http://listen.radioking.com/radio/8916/stream/19088
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="FR",France Bleu Paris
+http://direct.francebleu.fr/live/fb1071-midfi.mp3
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/bae3bf_0b6fc93bb1584f329723c0241a93c65c~mv2.png/v1/fill/w_111,h_111,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%20RHM%20SUR%20ROUGE.png" group-title="FR",Radio Heavy Metal
 https://manager7.streamradio.fr:1435/stream

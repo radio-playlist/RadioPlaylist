@@ -65,14 +65,11 @@ http://fm02-ice.stream.khz.se/fm02_mp3
 #EXTINF:-1 tvg-logo="" group-title="US",Best Net Radio - 80s Metal
 http://bigrradio-edge1.cdnstream.com/5146_128
 
-#EXTINF:-1 tvg-logo="https://www.badrockradio.net/wp-content/uploads/2024/06/960x0-100x100.webp" group-title="BG",BadRock Hard & Heavy
-https://play-radio0.jump.bg:7049/live
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/62bb1e3ff5da69e05bc6e121" group-title="US",Nu Metal Radio
+http://stream.revma.ihrhls.com/zc9483/hls.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="US",HardRadio [MP3]
 http://144.217.29.205/
-
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/62bb1e3ff5da69e05bc6e121" group-title="US",Nu Metal Radio
-http://stream.revma.ihrhls.com/zc9483/hls.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Epic Rock Radio
 https://securestreams6.autopo.st:2222/stream
@@ -105,13 +102,13 @@ http://rockerradio.online/live.mp3
 http://79.120.77.11:8000/progmetal
 
 #EXTINF:-1 tvg-logo="http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM - MetalFM
-http://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6nor7n46%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1790868038
-
-#EXTINF:-1 tvg-logo="" group-title="RU",CORE Radio!
-http://194.58.97.117:8000/coreradio
+http://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6nq351p7%230%236q8s7o7o3p7411o9n0871834qs5r90so%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1792233927
 
 #EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Heavy Metal
 http://79.111.14.76:8000/heavymetal
+
+#EXTINF:-1 tvg-logo="" group-title="RU",CORE Radio!
+http://194.58.97.117:8000/coreradio
 
 #EXTINF:-1 tvg-logo="http://www.guerrillaradio.com/favicon.ico" group-title="US",Guerrilla Radio
 http://s2.stationplaylist.com:9460/guerrilla
@@ -142,6 +139,9 @@ http://79.120.77.11:8000/powermetal
 
 #EXTINF:-1 tvg-logo="" group-title="DE",DrGnu - Symphonic Metal
 http://streams.radiobob.de/symphmetal/mp3-192/mediaplayer/
+
+#EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Stoner Metal
+http://79.120.77.11:9089/
 
 #EXTINF:-1 tvg-logo="" group-title="CL",Distorsión FM
 https://tunein.radiomaniacos.cl/distorsion.mp3
@@ -198,7 +198,7 @@ https://stream2.rockfm.lt/crf128.mp3
 https://metal-only.sp.radio.fm/stream
 
 #EXTINF:-1 tvg-logo="http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM - MetalFM
-http://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871?sABC=6noq2459%230%23r30o443r1929r059s085628511796n57%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1790780505
+http://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871?sABC=6nq3r4s4%230%236q8s7o7o3p7411o9n0871834qs5r90so%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1792271604
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Brutal Death Metal
 http://79.111.119.111:8000/brutaldeathmetal
@@ -260,14 +260,14 @@ http://79.120.39.202:8000/folkmetal
 #EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-rock_600x600.jpg" group-title="DE",- 1 A - Rock von 1A Radio
 https://1a-rock.radionetz.de/1a-rock.mp3
 
-#EXTINF:-1 tvg-logo="https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",DrGnu - Metal 2
-https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6202r2p8%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644356296
+#EXTINF:-1 tvg-logo="https://images.radiobob.de/files/2024-01/bob_stream-tile_nu-metal.jpg?fm=jpg&w=180&h=180&dpr=2" group-title="DE",Radio BOB - Nu Metal (mp3 192)
+https://streams.radiobob.de/numetal/mp3-192/
 
 #EXTINF:-1 tvg-logo="https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",Radio RMF Hard and Heavy
 http://31.192.216.10/HARDHEAVY
 
-#EXTINF:-1 tvg-logo="https://images.radiobob.de/files/2024-01/bob_stream-tile_nu-metal.jpg?fm=jpg&w=180&h=180&dpr=2" group-title="DE",Radio BOB - Nu Metal (mp3 192)
-https://streams.radiobob.de/numetal/mp3-192/
+#EXTINF:-1 tvg-logo="https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",DrGnu - Metal 2
+https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6202r2p8%230%23sorr1p583723p06268o324o2ps5n399q%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644356296
 
 #EXTINF:-1 tvg-logo="" group-title="Global",Radio Caprice - Funeral Doom Metal
 http://79.120.77.11:8000/funeraldoom
@@ -278,14 +278,14 @@ https://radio.1055rock.gr:31056/live
 #EXTINF:-1 tvg-logo="" group-title="DE",RauteMusik Wacken Radio
 http://wackenradio-high.rautemusik.fm/
 
+#EXTINF:-1 tvg-logo="" group-title="Global",Polygon.FM - Loud Russian (fastcast)
+https://eu6.fastcast4u.com/proxy/lrm?mp=/stream
+
 #EXTINF:-1 tvg-logo="" group-title="DE",laut.fm Fantasyradio
 http://stream.laut.fm/fantasyradio
 
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__ROCK__ by rautemusik (rm.fm)
 https://rock-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:-1 tvg-logo="" group-title="Global",Polygon.FM - Loud Russian (fastcast)
-https://eu6.fastcast4u.com/proxy/lrm?mp=/stream
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-heavymetal_600x600.jpg" group-title="DE",- 0 N - Heavy Metal on Radio
 https://0n-heavymetal.radionetz.de/0n-heavymetal.aac

@@ -18,7 +18,7 @@ http://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
 http://strm112.1.fm/caferadio_mobile_mp3
 
 #EXTINF:-1 tvg-logo="https://uploads.candelaestereo.com/1/2019/06/cropped-logo-candela-llama-100x100.png" group-title="CO",Candela Estéreo Bogotá (HJPU 101.9)
-http://24483.live.streamtheworld.com:3690/CANDELAESTEREO_SC
+http://27583.live.streamtheworld.com/CANDELAESTEREO_SC
 
 #EXTINF:-1 tvg-logo="http://radiobachata.net/favicon.ico" group-title="DO",Radio Bachata
 http://perseus.shoutca.st:8312/;stream/1
@@ -47,17 +47,17 @@ http://centova.radio.com.pt:8547/;
 #EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line World Radio
 http://mediaserv38.live-streams.nl:8027/live
 
-#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="CH",1.FM - Absolute Pop Latino Radio
-http://strm112.1.fm/latino_mobile_mp3
-
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio REMIX
 https://stream.0nlineradio.com/remix?ref=radiobrowser
+
+#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="CH",1.FM - Absolute Pop Latino Radio
+http://strm112.1.fm/latino_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Bossa Nova Hits
 http://strm112.1.fm/bossanova_mobile_mp3
 
 #EXTINF:-1 tvg-logo="http://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png?v2" group-title="MX",XHTIM "La Mejor" 90.7 FM Tijuana, BN
-http://18213.live.streamtheworld.com/XHTIM_SC
+http://26313.live.streamtheworld.com/XHTIM_SC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bdF482/REMIX-PARTYNBREAKS-LOGO-1.png" group-title="DE",# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - DJ Mixtape RADIO
 https://stream.breakz.fm/?ref=radiobrowser-remix-partybreaks-radio
@@ -185,11 +185,11 @@ https://stream.breakz.fm/?ref=radiobrowser
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-reggae_600x600.jpg" group-title="DE",- 0 N - Reggae on Radio
 https://0n-reggae.radionetz.de/0n-reggae.aac
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s90pDjm/brazil.jpg" group-title="DE",0nlineradio BRAZIL
-https://stream.0nlineradio.com/brazil?ref=radiobrowser
-
 #EXTINF:-1 tvg-logo="https://openbroadcast.ch/static/assets/manifest/icon-triangle-white.91b2fd954957.png" group-title="CH",open broadcast radio
 http://stream.openbroadcast.ch/320.mp3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s90pDjm/brazil.jpg" group-title="DE",0nlineradio BRAZIL
+https://stream.0nlineradio.com/brazil?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s240544/images/logod.png" group-title="NI",Stereo Beso 94.5 FM
 https://a9.asurahosting.com:7140/
@@ -216,7 +216,7 @@ http://stream.laut.fm/durisimaradio
 https://mambo.newradio.it/stream
 
 #EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - the sun
-http://ilm.stream12.radiohost.de/ilm_ilovethesun_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkwODA4NDQzJmQ9ZmUzOThhZTU4NmYyMDhiZGJlYWU
+http://ilm.stream35.radiohost.de/ilm_ilovethesun_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkyMjE2NDE3JmQ9MzAzYjZiYzFlZTdjMjRiMWI4ZmQ
 
 #EXTINF:-1 tvg-logo="https://lh3.ggpht.com/a4M_Oyz2Jek1bkcRe8I7v3A8clEOoOI8Y-NiYuuICuw0wOHwaZgMUit4rRgC18mGZMo_=w300" group-title="DE",Laut.FM Mojo
 http://stream.laut.fm/mojo
@@ -290,15 +290,15 @@ https://ss1.audiorama.com.mx:6610/vida
 #EXTINF:-1 tvg-logo="https://www.hits1radio.com/wp-content/uploads/2019/03/dummy-e1554135926529.jpg" group-title="FR",Hits 1 latina
 https://hits1latina-audiomediaradio.radioca.st/latina
 
+#EXTINF:-1 tvg-logo="" group-title="CA",La Bonita X101
+https://listen.labonita.torontocast.stream/
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Bar Latina Radio
+https://s2.citrus3.com:2000/stream/barlatinaradio
+
 #EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/931d72949d13bf3d7499e1550371871a.webp" group-title="ES",Radio Líder Santiago
 https://server8.emitironline.com:18520/stream
 
 #EXTINF:-1 tvg-logo="https://radiolatinamerika.no/templates/yoo_showroom/favicon.ico" group-title="NO",Radio Latin-Amerika
 https://stream.radiolatinamerika.no/latam_hq
-
-#EXTINF:-1 tvg-logo="" group-title="CA",La Bonita X101
-https://listen.labonita.torontocast.stream/
-
-#EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="IT",Deejay Gasolina
-https://streamcdnr7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/live.m3u8
 

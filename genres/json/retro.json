@@ -14,8 +14,8 @@
     "tags": "classic hits,moscow,music,pop,retro,russia,russian pop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 55543,
-    "clickcount": 115
+    "votes": 55622,
+    "clickcount": 79
   },
   {
     "id": null,
@@ -31,9 +31,9 @@
     "language": "russian",
     "tags": "adult,amg,gold,pop,retro,russian",
     "codec": "MP3",
-    "bitrate": 128,
-    "votes": 17666,
-    "clickcount": 43
+    "bitrate": 0,
+    "votes": 17739,
+    "clickcount": 35
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "80s en español,café romántico radio,clásicos,español,estación,internet,internet radio,internet station,latinoamérica,moi merino,monterrey,musica romantica,méxico,música en español,norteamérica,nuevo león,online,online only,pop clásico,radio,radio online,retro,romantic,romantic music,romantica,romántica,románticas",
     "codec": "AAC",
     "bitrate": 96,
-    "votes": 14818,
-    "clickcount": 44
+    "votes": 14854,
+    "clickcount": 45
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "clásicos,clásicos en español,cumbia,cumbias,español,estación,grupo digital retroland,internet radio,latinoamérica,moi merino,monterrey,méxico,música del recuerdo,norteamérica,nuevo león,online,radio,radio online,retro",
     "codec": "AAC",
     "bitrate": 96,
-    "votes": 13060,
-    "clickcount": 41
+    "votes": 13102,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "pop,dance,retro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11822,
-    "clickcount": 53
+    "votes": 11868,
+    "clickcount": 82
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "pop,rock,retro,80s,90s,2000s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 10626,
-    "clickcount": 65
+    "votes": 10683,
+    "clickcount": 83
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "golden oldies,retro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8114,
-    "clickcount": 65
+    "votes": 8121,
+    "clickcount": 47
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "88.1,88.1 fm,adult contemporary,cdmx,ciudad de mexico,ciudad de méxico,clasicos,clasicos en ingles,classics,estación,fm,grupo radio centro,hot adult contemporary,mex,mexico,mexico city,music,mx,méxico,música,news,noticias,noticias en español,noticias locales,noticias opinion,noticias y comentarios,oldies,radio,retro,universal",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 7091,
-    "clickcount": 6
+    "votes": 7112,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "1180 am,60s,70s,80s,acir,am,balada,balada en español,balada pop,balada romántica,baladas,baladas en español,cdmx,ciudad de méxico,clásicos,clásicos en español,español,estación,grupo acir,iheart,iheart radio,latinoamérica,los mejores momentos,moi merino,méxico,música,música del recuerdo,música en español,música variada,norteamérica,oldies,radio,radio felicidad,retro,rock en español,valle de méxico",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 6412,
-    "clickcount": 13
+    "votes": 6429,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -176,8 +176,8 @@
     "tags": "live,mix,retro",
     "codec": "OGG",
     "bitrate": 320,
-    "votes": 4527,
-    "clickcount": 9
+    "votes": 4555,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -194,26 +194,8 @@
     "tags": "1980s,80s,80s en español,clásicos,español,estación,internet,internet radio,internet station,latinoamérica,moi merino,monterrey,méxico,música en español,norteamérica,nuevo león,online,online only,pop clásico,radio,radio online,retro",
     "codec": "AAC",
     "bitrate": 96,
-    "votes": 3659,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "bf1731ba-a1eb-11e8-abb8-52543be04c81",
-    "name": "C-Dance RETRO",
-    "url": "http://s45.myradiostream.com:18304/",
-    "url_resolved": "http://s45.myradiostream.com:18304/",
-    "homepage": "http://retro.c-dance.fm/",
-    "favicon": "",
-    "countrycode": "NL",
-    "state": "",
-    "language": "english",
-    "tags": "dance,house,retro,techno,trance",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 3333,
-    "clickcount": 10
+    "votes": 3677,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -230,8 +212,26 @@
     "tags": "acir,acir online,cdmx,ciudad de méxico,club dance,clásicos,clásicos en inglés,dance,dance music,dance radio online,edm,electronic,electronic beats,electronic dance music,electronic music,entretenimiento,español,estación,eurodance,grupo acir,iheart,iheart radio,mexico city,mix,mix fm,moi merino,music,música,música electrónica,música en inglés,oldies,online,online only,radio,radio online,retro,valle de méxico",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 3329,
-    "clickcount": 20
+    "votes": 3339,
+    "clickcount": 19
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "bf1731ba-a1eb-11e8-abb8-52543be04c81",
+    "name": "C-Dance RETRO",
+    "url": "http://s45.myradiostream.com:18304/",
+    "url_resolved": "http://s45.myradiostream.com:18304/",
+    "homepage": "http://retro.c-dance.fm/",
+    "favicon": "",
+    "countrycode": "NL",
+    "state": "",
+    "language": "english",
+    "tags": "dance,house,retro,techno,trance",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 3335,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -248,8 +248,8 @@
     "tags": "1980's,1980s,1990s,2000s,70 80 hits,80's,80er,80s,80s rock,90,90's,90.5,90.5 fm,90er,90s,90s y más,aguascalientes,anos 2000,classic,classic hits,classic rock,classics,entretenimiento,estación,fm,mex,mexico,music,musica,mx,méxico,música,música del recuerdo,música pop,new classics,new classics 80´s,oldies,only the golden classics,pop,pop dance,pop music,pop rock,radio,radiogrupo,retro,rock classics,the best of 80's,uva 90.5",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2984,
-    "clickcount": 4
+    "votes": 2991,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -266,8 +266,8 @@
     "tags": "hits,retro",
     "codec": "AAC+",
     "bitrate": 160,
-    "votes": 2705,
-    "clickcount": 3
+    "votes": 2712,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -284,8 +284,8 @@
     "tags": "102.5,102.5 fm,auto y más,baladas en ingles,clasicos en ingles,deporte,deportes,estación,fm,hablada,ingles,music,mvs,mvs noticias,mvs radio,música,música pop,noticias,noticias cortas,noticias en español,noticias locales,noticias opinion,noticias y comentarios,noticieros,oldies,pop en ingles,pop music,radio,radio hablada,retro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2607,
-    "clickcount": 2
+    "votes": 2609,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "retro",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2583,
-    "clickcount": 34
+    "votes": 2594,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -320,8 +320,8 @@
     "tags": "70s,80s,90s,nostalgic,retro",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 2364,
-    "clickcount": 56
+    "votes": 2384,
+    "clickcount": 43
   },
   {
     "id": null,
@@ -338,7 +338,7 @@
     "tags": "70s,80s,adult contemporary,adult hits,américa,charts,classic hits,classic rock,clásicos,clásicos en inglés,entretenimiento,español,estación,grupo digital retroland,internet,internet radio,latinoamérica,love songs,moi merino,monterrey,méxico,música del recuerdo,música en inglés,norteamérica,nuevo león,oldies,online,online only,only music,pop en inglés,radio,radio online,retro,soft rock,top charts",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 1934,
+    "votes": 1935,
     "clickcount": 16
   },
   {
@@ -356,8 +356,8 @@
     "tags": "motown,oldies,retro,retro r&b",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1923,
-    "clickcount": 5
+    "votes": 1924,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -375,7 +375,7 @@
     "codec": "AAC+",
     "bitrate": 128,
     "votes": 1223,
-    "clickcount": 6
+    "clickcount": 10
   },
   {
     "id": null,
@@ -392,7 +392,7 @@
     "tags": "88.1 fm,adult,adult contemporary,adult hits,cdmx,ciudad de méxico,clasicos,clasicos en ingles,classics,estación,fm,grupo radio centro,hot adult contemporary,la octava,latinoamérica,mexico city,moi merino,music,mx,méxico,música,news,norteamérica,noticias,noticias en español,noticias locales,noticias opinion,noticias y comentarios,oldies,radio,retro,universal",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 1202,
+    "votes": 1204,
     "clickcount": 1
   },
   {
@@ -410,8 +410,8 @@
     "tags": "kompa,retro,zouk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1197,
-    "clickcount": 6
+    "votes": 1198,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -428,8 +428,8 @@
     "tags": "radiodrama,retro,spoken",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1181,
-    "clickcount": 6
+    "votes": 1183,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -446,8 +446,8 @@
     "tags": "oldies,retro",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 1180,
-    "clickcount": 4
+    "votes": 1183,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -464,8 +464,8 @@
     "tags": "70s,80s,retro",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1091,
-    "clickcount": 4
+    "votes": 1092,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -482,8 +482,8 @@
     "tags": "102.5 fm,américa,centroamérica,classic hits,classics,clásica,clásicos,entretenimiento,estación,fm,guatemala,guatemala city,latinoamérica,moi merino,music,música,música del recuerdo,oldies,pop clásico,radio,retro",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 1049,
-    "clickcount": 3
+    "votes": 1053,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -500,8 +500,8 @@
     "tags": "disco,pop,retro",
     "codec": "AAC",
     "bitrate": 116,
-    "votes": 997,
-    "clickcount": 13
+    "votes": 998,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -518,8 +518,26 @@
     "tags": "88.1 fm,adult contemporary,adult hits,américa,cdmx,ciudad de méxico,classic hits,classics,clásicos,clásicos en inglés,entretenimiento,español,estación,fm,grupo radio centro,hot adult contemporary,la octava,latinoamérica,mexico city,moi merino,music,méxico,música,música en inglés,música y noticias,news,norteamérica,noticias,noticias en español,noticias locales,noticias nacionales e internacionales,noticias y comentarios,oldies,radio,retro,universal",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 989,
-    "clickcount": 10
+    "votes": 996,
+    "clickcount": 13
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "335fb169-04dc-427e-a50f-ba9d47e6fd13",
+    "name": "Oldies Internet Radio (Monterrey) - Online - www.oldiesinternetradio.com - Grupo Digital Retroland - Monterrey, Nuevo León",
+    "url": "https://panel.retrolandigital.com/listen/oldies_internet_radio/listen",
+    "url_resolved": "https://panel.retrolandigital.com/listen/oldies_internet_radio/listen",
+    "homepage": "https://oldiesinternetradio.com/",
+    "favicon": "",
+    "countrycode": "MX",
+    "state": "Nuevo León",
+    "language": "spanish",
+    "tags": "70s,80s,adult contemporary,adult hits,charts,classic hits,classic rock,clásicos,clásicos en inglés,entretenimiento,español,estación,grupo digital retroland,internet,internet radio,latinoamérica,love songs,moi merino,monterrey,méxico,música del recuerdo,música en inglés,norteamérica,nuevo león,oldies,online,online only,only music,pop en inglés,radio,radio online,retro,soft rock,top charts",
+    "codec": "AAC",
+    "bitrate": 128,
+    "votes": 977,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -537,25 +555,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 975,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "335fb169-04dc-427e-a50f-ba9d47e6fd13",
-    "name": "Oldies Internet Radio (Monterrey) - Online - www.oldiesinternetradio.com - Grupo Digital Retroland - Monterrey, Nuevo León",
-    "url": "https://panel.retrolandigital.com/listen/oldies_internet_radio/listen",
-    "url_resolved": "https://panel.retrolandigital.com/listen/oldies_internet_radio/listen",
-    "homepage": "https://oldiesinternetradio.com/",
-    "favicon": "",
-    "countrycode": "MX",
-    "state": "Nuevo León",
-    "language": "spanish",
-    "tags": "70s,80s,adult contemporary,adult hits,charts,classic hits,classic rock,clásicos,clásicos en inglés,entretenimiento,español,estación,grupo digital retroland,internet,internet radio,latinoamérica,love songs,moi merino,monterrey,méxico,música del recuerdo,música en inglés,norteamérica,nuevo león,oldies,online,online only,only music,pop en inglés,radio,radio online,retro,soft rock,top charts",
-    "codec": "AAC",
-    "bitrate": 128,
-    "votes": 972,
-    "clickcount": 4
+    "clickcount": 1
   },
   {
     "id": null,
@@ -572,8 +572,8 @@
     "tags": "1960s,1970s,1980s,1990s,60er,60s,70er,70s,70s disco,80's,80er,80s,90's,90er,90s,classic hits,classic rock,dance,disco,eurodance,golden music,golden oldies,goldies,hits,music,oldies,oldschool,retro",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 950,
-    "clickcount": 7
+    "votes": 951,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -590,7 +590,7 @@
     "tags": "all-time-classics,baladas clásicos tecno 70 80 varios,ciudad de méxico,clasicos,clasicos en ingles,classic rock,classics,clásicos,estación,ingles,internet,internet radio,internet station,latinoamérica,moi merino,music,mvs,mvs radio,méxico,música,new classics,new classics 80´s,norteamérica,oldies,online,online only,only the golden classics,pop clásico,radio,radio online,retro,rock classics,rock en ingles,stereorey,valle de méxico",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 950,
+    "votes": 951,
     "clickcount": 1
   },
   {
@@ -627,7 +627,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 851,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -644,8 +644,8 @@
     "tags": "retro,talk",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 807,
-    "clickcount": 1
+    "votes": 808,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -662,8 +662,8 @@
     "tags": "musica romantica,retro",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 804,
-    "clickcount": 3
+    "votes": 806,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -680,8 +680,8 @@
     "tags": "50s,60s,classic hits,classic rock,community radio,fm,hits,music,news,oldies,pop,pop rock,public radio,radio,retro,retro music,rock,rocknroll,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 788,
-    "clickcount": 142
+    "votes": 792,
+    "clickcount": 138
   },
   {
     "id": null,
@@ -698,8 +698,8 @@
     "tags": "1970s,70s,classic hits,retro",
     "codec": "AAC,H.264",
     "bitrate": 1020,
-    "votes": 736,
-    "clickcount": 17
+    "votes": 740,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -722,6 +722,24 @@
   {
     "id": null,
     "source": "radio_browser_github",
+    "stationuuid": "732cf1a2-e8c8-410e-a0ea-0f6743849bf6",
+    "name": "DANCE 90'S",
+    "url": "https://mediagw.e-tiger.net/stream/zc06?ver=887687",
+    "url_resolved": "https://mediagw.e-tiger.net/stream/zc06?ver=887687",
+    "homepage": "https://coolfm.hu/",
+    "favicon": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
+    "countrycode": "HU",
+    "state": "Budapest",
+    "language": "hungarian",
+    "tags": "dance,retro",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 634,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
     "stationuuid": "964bb882-d35b-4d33-ac2e-fb2c5d7c9aea",
     "name": "LA OCTAVA (Ciudad de México) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AM_SC",
@@ -740,24 +758,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "732cf1a2-e8c8-410e-a0ea-0f6743849bf6",
-    "name": "DANCE 90'S",
-    "url": "https://mediagw.e-tiger.net/stream/zc06?ver=887687",
-    "url_resolved": "https://mediagw.e-tiger.net/stream/zc06?ver=887687",
-    "homepage": "https://coolfm.hu/",
-    "favicon": "https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png",
-    "countrycode": "HU",
-    "state": "Budapest",
-    "language": "hungarian",
-    "tags": "dance,retro",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 629,
-    "clickcount": 12
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "4d32b846-af49-4353-945c-cce305e41eb1",
     "name": "Sounds of Yesterday (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR30_s01AAC.aac",
@@ -771,7 +771,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 622,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -788,8 +788,8 @@
     "tags": "retro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 595,
-    "clickcount": 11
+    "votes": 598,
+    "clickcount": 61
   },
   {
     "id": null,
@@ -797,7 +797,7 @@
     "stationuuid": "46f179e9-27f4-11e8-91bf-52543be04c81",
     "name": "i love radio - hits history",
     "url": "http://stream04.iloveradio.de/iloveradio12.mp3",
-    "url_resolved": "http://ilm.stream27.radiohost.de/ilm_ilovehitshistory_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkwNzg5MTY1JmQ9YWE4NzZiYjM0NjlkOTg0OTFlYTI",
+    "url_resolved": "http://ilm.stream12.radiohost.de/ilm_ilovehitshistory_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkyMTk0NDM2JmQ9MTcwYjY5ZTRjZjMzN2YyNjRiZjA",
     "homepage": "https://www.iloveradio.de/",
     "favicon": "https://www.iloveradio.de/favicon.ico",
     "countrycode": "DE",
@@ -806,8 +806,8 @@
     "tags": "00s,90s,classic hits,iloveradio,retro",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 557,
-    "clickcount": 1
+    "votes": 561,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -825,7 +825,7 @@
     "codec": "MP3",
     "bitrate": 48,
     "votes": 527,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -842,8 +842,8 @@
     "tags": "60s,70s,80s,90s,classic hits,oldies,retro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 450,
-    "clickcount": 15
+    "votes": 453,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -861,7 +861,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 436,
-    "clickcount": 3
+    "clickcount": 4
   },
   {
     "id": null,
@@ -897,7 +897,7 @@
     "codec": "AAC+",
     "bitrate": 64,
     "votes": 420,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -933,7 +933,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 400,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -950,8 +950,8 @@
     "tags": "570,570 am,abc noticias,am,clasicos,clasicos en ingles,classic hits,classics,clásicos,entretenimiento,estación,grupo radio alegría,mex,mexico,monterrey,musica,mx,méxico,música del recuerdo,música y noticias,noticias,noticias cortas,noticias en español,noticias locales,noticias opinion,noticias y comentarios,nuevo leon,nuevo león,oldies,radio,retro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 393,
-    "clickcount": 1
+    "votes": 394,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -968,8 +968,8 @@
     "tags": "990 am,am,baja california,balada en español,calexico,california,clásicos,entretenimiento,español,estación,latinoamérica,mexicali,moi merino,music,méxico,música,música del recuerdo,música en español,norteamérica,pop clásico,pop en español,radio,radiorama,radiorama mexicali,retro,rock en español,rocola,usa",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 391,
-    "clickcount": 3
+    "votes": 392,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -987,7 +987,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 362,
-    "clickcount": 5
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1005,7 +1005,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 360,
-    "clickcount": 6
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1028,6 +1028,24 @@
   {
     "id": null,
     "source": "radio_browser_github",
+    "stationuuid": "4f30d107-82f3-4e4e-99e4-44e05adcb2e9",
+    "name": "0R - PIANO JAZZ LOUNGE || Jazz, Piano, Lounge, Smooth, Chill, Relax, Soft, Acoustic, Instrumental, Evening, Romantic, Background, Coffee, Mellow, Elegant",
+    "url": "https://0nlineradio.radioho.st/lounge-piano-jazz-bar?ref=radio-browser26",
+    "url_resolved": "https://0nlineradio.radioho.st/lounge-piano-jazz-bar?ref=radio-browser26",
+    "homepage": "https://plus.rm.fm/",
+    "favicon": "https://i.ibb.co/MkhwYrRM/Piano-Jazz-Lounge.png",
+    "countrycode": "DE",
+    "state": "Hamburg",
+    "language": "english,german",
+    "tags": "acoustic,ambient,ambient and relaxation music,ambient lounge,classical piano,coffee,easy listening,jazz,jazz lounge,lounge,piano,restaurant,retro,smooth jazz,vocal jazz",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 342,
+    "clickcount": 50
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
     "stationuuid": "8dd8f884-2db0-4008-9564-8a6b93f0379a",
     "name": "Retro Album Rock",
     "url": "http://ais-edge104-live365-dal02.cdnstream.com/a89824",
@@ -1041,7 +1059,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 340,
-    "clickcount": 4
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1059,60 +1077,6 @@
     "codec": "MP3",
     "bitrate": 96,
     "votes": 330,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "4f30d107-82f3-4e4e-99e4-44e05adcb2e9",
-    "name": "0R - PIANO JAZZ LOUNGE || Jazz, Piano, Lounge, Smooth, Chill, Relax, Soft, Acoustic, Instrumental, Evening, Romantic, Background, Coffee, Mellow, Elegant",
-    "url": "https://0nlineradio.radioho.st/lounge-piano-jazz-bar?ref=radio-browser26",
-    "url_resolved": "https://0nlineradio.radioho.st/lounge-piano-jazz-bar?ref=radio-browser26",
-    "homepage": "https://plus.rm.fm/",
-    "favicon": "https://i.ibb.co/MkhwYrRM/Piano-Jazz-Lounge.png",
-    "countrycode": "DE",
-    "state": "Hamburg",
-    "language": "english,german",
-    "tags": "acoustic,ambient,ambient and relaxation music,ambient lounge,classical piano,coffee,easy listening,jazz,jazz lounge,lounge,piano,restaurant,retro,smooth jazz,vocal jazz",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 328,
-    "clickcount": 60
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a29ea7e1-86d9-429f-8e2b-d5ddfc928071",
-    "name": "Saudi Aramco Studio X 80s and 90s",
-    "url": "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3",
-    "url_resolved": "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3",
-    "homepage": "https://saudiaramco.com/",
-    "favicon": "http://saudiaramco.com/dist/aramco-jss/favicon/favicon-128.png",
-    "countrycode": "SA",
-    "state": "Eastern Province",
-    "language": "english",
-    "tags": "80s,90s,classic hits,retro",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 317,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "fd63371f-2620-49ee-88ef-6e2ddfe5b86f",
-    "name": "Radio Energy Cugir",
-    "url": "https://sonicssl.namehost.ro/8790/stream/;",
-    "url_resolved": "https://sonicssl.namehost.ro/8790/stream/;",
-    "homepage": "https://radioenergycugir.ro/",
-    "favicon": "https://blogunik.buzz/img/icon-unik02.png",
-    "countrycode": "RO",
-    "state": "",
-    "language": "romanian",
-    "tags": "00s,2000s,70s,80s,90s,chillout,classic rock,club,country,dance,folclor,folk,hits,latino,lounge,muzică populară,muzică românească,oldies,pop,relax,retro,rock,romanian,slow,top40",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 316,
     "clickcount": 0
   },
   {
@@ -1130,8 +1094,44 @@
     "tags": "disco,hits,pop,retro",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 315,
-    "clickcount": 13
+    "votes": 320,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "a29ea7e1-86d9-429f-8e2b-d5ddfc928071",
+    "name": "Saudi Aramco Studio X 80s and 90s",
+    "url": "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3",
+    "url_resolved": "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3",
+    "homepage": "https://saudiaramco.com/",
+    "favicon": "http://saudiaramco.com/dist/aramco-jss/favicon/favicon-128.png",
+    "countrycode": "SA",
+    "state": "Eastern Province",
+    "language": "english",
+    "tags": "80s,90s,classic hits,retro",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 319,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "fd63371f-2620-49ee-88ef-6e2ddfe5b86f",
+    "name": "Radio Energy Cugir",
+    "url": "https://sonicssl.namehost.ro/8790/stream/;",
+    "url_resolved": "https://sonicssl.namehost.ro/8790/stream/;",
+    "homepage": "https://radioenergycugir.ro/",
+    "favicon": "https://blogunik.buzz/img/icon-unik02.png",
+    "countrycode": "RO",
+    "state": "",
+    "language": "romanian",
+    "tags": "00s,2000s,70s,80s,90s,chillout,classic rock,club,country,dance,folclor,folk,hits,latino,lounge,muzică populară,muzică românească,oldies,pop,relax,retro,rock,romanian,slow,top40",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 316,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1149,7 +1149,7 @@
     "codec": "MP3",
     "bitrate": 96,
     "votes": 309,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1166,7 +1166,7 @@
     "tags": "classic hits,pop,retro,rock",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 305,
+    "votes": 306,
     "clickcount": 2
   },
   {
@@ -1185,7 +1185,7 @@
     "codec": "AAC,H.264",
     "bitrate": 1020,
     "votes": 301,
-    "clickcount": 6
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1203,7 +1203,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 301,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1220,8 +1220,26 @@
     "tags": "90's,retro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 297,
+    "votes": 299,
     "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "0d939aa0-cce8-4841-92fe-1a03d36da0d3",
+    "name": "Classic Rock Danmark",
+    "url": "https://netradio.classicfm.dk/classicrock",
+    "url_resolved": "https://netradio.classicfm.dk/classicrock",
+    "homepage": "https://classicrock.dk/station/dk",
+    "favicon": "",
+    "countrycode": "DK",
+    "state": "",
+    "language": "danish",
+    "tags": "classic rock,hard rock,progressive rock,punk rock,retro,rock fra dit liv!",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 284,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1239,24 +1257,6 @@
     "codec": "AAC+",
     "bitrate": 192,
     "votes": 282,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "0d939aa0-cce8-4841-92fe-1a03d36da0d3",
-    "name": "Classic Rock Danmark",
-    "url": "https://netradio.classicfm.dk/classicrock",
-    "url_resolved": "https://netradio.classicfm.dk/classicrock",
-    "homepage": "https://classicrock.dk/station/dk",
-    "favicon": "",
-    "countrycode": "DK",
-    "state": "",
-    "language": "danish",
-    "tags": "classic rock,hard rock,progressive rock,punk rock,retro,rock fra dit liv!",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 281,
     "clickcount": 8
   },
   {
@@ -1275,7 +1275,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 279,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1292,26 +1292,8 @@
     "tags": "1180 am,60s,70s,80s,acir,am,balada,balada en español,balada pop,balada romántica,baladas,baladas en español,cdmx,ciudad de méxico,clásicos,clásicos en español,español,estación,grupo acir,iheart,iheart radio,latinoamérica,los mejores momentos,moi merino,méxico,música,música del recuerdo,música en español,música variada,norteamérica,oldies,radio,radio felicidad,retro,rock en español,valle de méxico",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 267,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "d2a47a10-8a98-4786-9a96-30d6b9bc0a3a",
-    "name": "Радио Советская эстрада",
-    "url": "https://evcast.mediacp.eu:2075/stream",
-    "url_resolved": "https://evcast.mediacp.eu:2075/stream",
-    "homepage": "https://disco-radio.ru/",
-    "favicon": "https://disco-radio.ru/logo-se512.jpg",
-    "countrycode": "RU",
-    "state": "",
-    "language": "russian",
-    "tags": "70s,80s,old time radio,retro,retro music,russian,русская популярная музыка",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 248,
-    "clickcount": 7
+    "votes": 268,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1328,8 +1310,26 @@
     "tags": "1980's,1980s,1990s,2000-2021,2000er,2000s,70 80 hits,80,80's,80er,80s,80s en español,80s live radio,80s radio,88.9,88.9 fm,90,90's,90er,90s,90s y más,all 80s,anos 2000,clasicos,clásicos,estación,fm,la zeta,mex,mexico,musica anni 2000,mx,méxico,navojoa,pop clásico,radio,retro,sonora,the best decade 80s radio around.,the best of 80's",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 248,
+    "votes": 250,
     "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "d2a47a10-8a98-4786-9a96-30d6b9bc0a3a",
+    "name": "Радио Советская эстрада",
+    "url": "https://evcast.mediacp.eu:2075/stream",
+    "url_resolved": "https://evcast.mediacp.eu:2075/stream",
+    "homepage": "https://disco-radio.ru/",
+    "favicon": "https://disco-radio.ru/logo-se512.jpg",
+    "countrycode": "RU",
+    "state": "",
+    "language": "russian",
+    "tags": "70s,80s,old time radio,retro,retro music,russian,русская популярная музыка",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 249,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -1346,7 +1346,7 @@
     "tags": "1110 am,88.1 fm,adult,adult contemporary,adult hits,am,cdmx,ciudad de méxico,classic hits,classics,clásicos,clásicos en inglés,combo,entretenimiento,español,estación,fm,grupo radio centro,hot adult contemporary,latinoamérica,mexico city,moi merino,music,méxico,música,música del recuerdo,música en inglés,música y noticias,news,norteamérica,noticias,noticias en español,noticias locales,noticias nacionales e internacionales,noticias opinion,noticias y comentarios,oldies,radio,retro,universal,valle de méxico",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 244,
+    "votes": 248,
     "clickcount": 1
   },
   {
@@ -1364,8 +1364,8 @@
     "tags": "98.7,98.7 fm,balada,balada en español,balada pop,baladas,baladas en español,classics,español,estación,fm,fm globo,gdl,guadalajara,hits,jalisco,latin pop,latinoamerica,mex,mexico,musica latina,musica latinoamericana,musica romantica,mvs radio,mx,méxico,música,música del recuerdo,música en español,música pop,música variada,pop,pop clásico,pop music,radio,radios latinoamericanas,retro,romance,romantic,romantic music,romantica,romántica,románticas",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 242,
-    "clickcount": 2
+    "votes": 243,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1382,8 +1382,26 @@
     "tags": "1980's,dance,retro",
     "codec": "MP3",
     "bitrate": 128,
+    "votes": 242,
+    "clickcount": 12
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "dc1313e9-934b-4960-8a6b-391998fc58c2",
+    "name": "нафталин fm",
+    "url": "https://radiorecord.hostingradio.ru/naft96.aacp",
+    "url_resolved": "https://radiorecord.hostingradio.ru/naft96.aacp",
+    "homepage": "https://site.ru/",
+    "favicon": "null",
+    "countrycode": "RU",
+    "state": "",
+    "language": "russian",
+    "tags": "retro",
+    "codec": "AAC",
+    "bitrate": 0,
     "votes": 239,
-    "clickcount": 7
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1400,8 +1418,8 @@
     "tags": "oldies,pop rock,retro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 238,
-    "clickcount": 0
+    "votes": 239,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1424,24 +1442,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "dc1313e9-934b-4960-8a6b-391998fc58c2",
-    "name": "нафталин fm",
-    "url": "https://radiorecord.hostingradio.ru/naft96.aacp",
-    "url_resolved": "https://radiorecord.hostingradio.ru/naft96.aacp",
-    "homepage": "https://site.ru/",
-    "favicon": "null",
-    "countrycode": "RU",
-    "state": "",
-    "language": "russian",
-    "tags": "retro",
-    "codec": "AAC",
-    "bitrate": 0,
-    "votes": 235,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "79094786-40f9-4dab-a7d4-1b0b4a400435",
     "name": "ABC NOTICIAS - 1310 AM - XEVB-AM - Grupo Radio Alegría - Monterrey, Nuevo León",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AMAAC.aac",
@@ -1455,7 +1455,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 232,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1473,7 +1473,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 223,
-    "clickcount": 8
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1481,7 +1481,7 @@
     "stationuuid": "0230940a-20d1-4728-ba70-5fd7eca1777d",
     "name": "Mas Baladas Stereo",
     "url": "https://stream.zeno.fm/5mqdcrn07pkuv",
-    "url_resolved": "https://stream-280.surfernetwork.com/5mqdcrn07pkuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1bXFkY3JuMDdwa3V2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ijd5OGZIZ0xiUWxtMS1HaTNJWWJwWmciLCJpYXQiOjE3OTA4NTI2NzUsImV4cCI6MTc5MDg1MjczNX0.JW4enTimq0GktSATHMvpvydw-Th1RtR-9XSljY_GZPc",
+    "url_resolved": "https://stream-280.surfernetwork.com/5mqdcrn07pkuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1bXFkY3JuMDdwa3V2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImQ5cFJMWkRxU1JhRHFCNkRpczBWQnciLCJpYXQiOjE3OTIyNTEwMTMsImV4cCI6MTc5MjI1MTA3M30.d8SEsH_7LcLD_CYl8UuNZTBpnJCM0NnuYfbVNoq587c",
     "homepage": "https://www.masbaladasstereo.com/",
     "favicon": "https://blogger.googleusercontent.com/img/a/AVvXsEin9v2oVnnUGmMGRYHFjIxE5Pvjv3LeCObKb6EvycT1wGIgQnJ1VwLvvLJrhYeIar9vxgaChhQbyM-oRL_f_mknk4GKP6ucBJFuz-_dAymEViRjVkksj5wx2LqQgRoXzQHfl0pRCieMDX2XyOo-bHVCfpSsqpvv-La9JsnpT4Up7tih5ojOMKJfHSwQogVB=w800",
     "countrycode": "CO",
@@ -1491,7 +1491,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 217,
-    "clickcount": 0
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1514,24 +1514,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "d8c1cd9f-bf15-45c2-b313-fe560918c36a",
-    "name": "Viejitas Pero Bonitas Radio",
-    "url": "https://stream.zeno.fm/t4pj1qaktrwtv",
-    "url_resolved": "https://stream.zeno.fm/t4pj1qaktrwtv",
-    "homepage": "https://zeno.fm/radio/viejitas-pero-bonitass/",
-    "favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/6hRGTNI71WD1Kg-RhvPEetC1oLoN9cVEDRmQLekLJe4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjU4OTVhY2YtZmNlOC00MjYzLTk1OTktZjhmOGZhNzE4MTU4L2ltYWdlLz91PTE3MjYwMTI0NTcwMDA.webp",
-    "countrycode": "CO",
-    "state": "",
-    "language": "spanish",
-    "tags": "70s,80s,90s,amor,baladas en español,musica romantica,oldies,retro",
-    "codec": "AAC",
-    "bitrate": 96,
-    "votes": 207,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "a21473af-0d70-4fce-acba-a56c5e6ea249",
     "name": "Retro Hit Radio",
     "url": "https://riphel02.radioca.st/stream",
@@ -1544,7 +1526,7 @@
     "tags": "80s,90s,retro",
     "codec": "AAC+",
     "bitrate": 80,
-    "votes": 206,
+    "votes": 211,
     "clickcount": 0
   },
   {
@@ -1562,8 +1544,26 @@
     "tags": "80s en español,café romántico radio,clásicos,español,estación,internet,internet radio,internet station,latinoamérica,moi merino,monterrey,musica romantica,méxico,música en español,norteamérica,nuevo león,online,online only,pop clásico,radio,radio online,retro,romantic,romantic music,romantica,romántica,románticas",
     "codec": "AAC",
     "bitrate": 96,
-    "votes": 206,
+    "votes": 208,
     "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "d8c1cd9f-bf15-45c2-b313-fe560918c36a",
+    "name": "Viejitas Pero Bonitas Radio",
+    "url": "https://stream.zeno.fm/t4pj1qaktrwtv",
+    "url_resolved": "https://stream.zeno.fm/t4pj1qaktrwtv",
+    "homepage": "https://zeno.fm/radio/viejitas-pero-bonitass/",
+    "favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/6hRGTNI71WD1Kg-RhvPEetC1oLoN9cVEDRmQLekLJe4/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYjU4OTVhY2YtZmNlOC00MjYzLTk1OTktZjhmOGZhNzE4MTU4L2ltYWdlLz91PTE3MjYwMTI0NTcwMDA.webp",
+    "countrycode": "CO",
+    "state": "",
+    "language": "spanish",
+    "tags": "70s,80s,90s,amor,baladas en español,musica romantica,oldies,retro",
+    "codec": "AAC",
+    "bitrate": 96,
+    "votes": 207,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1580,7 +1580,7 @@
     "tags": "1990's,retro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 202,
+    "votes": 205,
     "clickcount": 3
   },
   {
@@ -1599,7 +1599,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 201,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1617,7 +1617,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 200,
-    "clickcount": 0
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1625,7 +1625,7 @@
     "stationuuid": "3565cd24-a572-4d32-af69-585b38cf9fb0",
     "name": "90-е Россия",
     "url": "https://stream.pcradio.ru/nineties_rus_pcradio-hi",
-    "url_resolved": "https://stream02.pcradio.app/nineties_rus_pcradio-hi",
+    "url_resolved": "https://stream03.pcradio.app/nineties_rus_pcradio-hi",
     "homepage": "https://pcradio.ru/",
     "favicon": "null",
     "countrycode": "RU",
@@ -1634,8 +1634,8 @@
     "tags": "90,retro",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 192,
-    "clickcount": 3
+    "votes": 193,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1653,7 +1653,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 191,
-    "clickcount": 6
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1671,7 +1671,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 185,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1689,7 +1689,7 @@
     "codec": "MP3",
     "bitrate": 64,
     "votes": 185,
-    "clickcount": 3
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1706,8 +1706,8 @@
     "tags": "107.5 fm,américa,clásicos,clásicos en español,entretenimiento,español,estación,fm,gdl,grupo audiorama comunicaciones,guadalajara,jalisco,latinoamérica,moi merino,music,méxico,música,norteamérica,oldies,pop clásico,radio,retro,retro fm",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 182,
-    "clickcount": 4
+    "votes": 183,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1724,8 +1724,8 @@
     "tags": "90s,dance,electronic,house,retro,techno,trance",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 177,
-    "clickcount": 4
+    "votes": 178,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1742,7 +1742,7 @@
     "tags": "1980s,80s,classic hits,hits,music,oldies,retro",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 167,
+    "votes": 168,
     "clickcount": 3
   },
   {
@@ -1761,7 +1761,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 159,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1769,7 +1769,7 @@
     "stationuuid": "41e35ce9-5d57-407e-baf2-b75579fb1e59",
     "name": "Cristianas viejitas Isaías radio",
     "url": "https://stream.zeno.fm/x8k74kh1hwzuv",
-    "url_resolved": "https://stream-280.surfernetwork.com/x8k74kh1hwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4OGs3NGtoMWh3enV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IllKWERjS2tNUXdHRHB3cEhvSFFuYmciLCJpYXQiOjE3OTA4NzQ0NjUsImV4cCI6MTc5MDg3NDUyNX0.qhTvHfaiujj33gNxJhrZv6ePElW3_jjXl3kz38Cyr7Q",
+    "url_resolved": "https://stream-280.surfernetwork.com/x8k74kh1hwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4OGs3NGtoMWh3enV2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik5MenFtcGRnUzFDOVhiMnBBQXZWR2ciLCJpYXQiOjE3OTIyMzg5MjcsImV4cCI6MTc5MjIzODk4N30.nE3ELmvivXzi9PiHUh_bMCnsPreaGUrRBKM-lLzMBw0",
     "homepage": "https://zeno.fm/radio/cristianas-viejitas-isaias-radio/",
     "favicon": "https://zeno.fm/_ipx/_/https://images.zeno.fm/8Lt4AeAsfArG2sUCUVAXKeF2P1Ahe2-wcGgDHg3VJUk/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1EySUdpOXdnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1FtS3ZjeEFrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc0NDQ3OTA1NjAwMA.webp",
     "countrycode": "CO",
@@ -1778,8 +1778,8 @@
     "tags": "bible,biblia,cristiana,gospel,religious,retro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 155,
-    "clickcount": 5
+    "votes": 156,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1797,6 +1797,6 @@
     "codec": "AAC+",
     "bitrate": 96,
     "votes": 153,
-    "clickcount": 3
+    "clickcount": 4
   }
 ]

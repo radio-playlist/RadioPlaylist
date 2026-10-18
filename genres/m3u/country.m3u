@@ -3,7 +3,7 @@
 #PLAYLIST:RadioCatalog - COUNTRY
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Country
-http://15113.live.streamtheworld.com:3690/977_COUNTRY_SC
+http://15113.live.streamtheworld.com/977_COUNTRY_SC
 
 #EXTINF:-1 tvg-logo="http://www.radiocaroline.co.uk/favicon.ico" group-title="GB",Radio Caroline
 http://78.129.202.200:8040/;
@@ -63,7 +63,7 @@ https://ais-sa2.cdnstream1.com/1976_128.mp3
 https://inter.lannaradio.com/radio/8000/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/bootliquor-400.jpg" group-title="US",SomaFM Boot Liquor (320k MP3)
-https://ice5.somafm.com/bootliquor-320-mp3
+https://ice2.somafm.com/bootliquor-320-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="NL",Grolloo Radio
 https://uk1.streamingpulse.com/ssl/grollooradio
@@ -170,11 +170,11 @@ http://strm112.1.fm/acountry_mobile_mp3
 #EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2025-04-26/7358e7e8c2649a65c1a9d821887e32e3.ico.png" group-title="CA",A MISSISSIPPI BLUES
 https://cast1.torontocast.com:4450/;?type=http&nocache=1745625391
 
-#EXTINF:-1 tvg-logo="" group-title="CA",CKYC 93.7 "Country 93" Owen Sound, ON
-http://bayshore.leanstream.co/CKYCFM
-
 #EXTINF:-1 tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/218/2014/10/31194420/KORA-CLASSIC-HD2-Transparent.png" group-title="US",KORA 98.3 The Texas Country Original
 https://ais-sa1.streamon.fm/7410_48k.aac/playlist.m3u8?aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1562173335
+
+#EXTINF:-1 tvg-logo="" group-title="CA",CKYC 93.7 "Country 93" Owen Sound, ON
+http://bayshore.leanstream.co/CKYCFM
 
 #EXTINF:-1 tvg-logo="" group-title="US",New Country 93.3
 http://www.ophanim.net:9170/live
@@ -183,7 +183,7 @@ http://www.ophanim.net:9170/live
 http://icecast8.play.cz/samsonfm128.mp3
 
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="CO",La voz de Jesús
-https://stream-289.surfernetwork.com/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik9nREEwTnFDUlJHbDUxUzM3cHZQckEiLCJpYXQiOjE3OTA4ODkyMTIsImV4cCI6MTc5MDg4OTI3Mn0.URc4gNvoLz3FPm--27yR20X2wE6p-4OeR5sRrmC-JbY
+https://stream-289.surfernetwork.com/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik1CbWtHQnZoUXQydFRJT0MtbFVJWkEiLCJpYXQiOjE3OTIyNjg3MTgsImV4cCI6MTc5MjI2ODc3OH0.xQSGwYP2EIThKKMUtybNEc-kKLAGd818oYbZS4WozZk
 
 #EXTINF:-1 tvg-logo="" group-title="US",Sfliny - Country
 http://ec4.yesstreaming.net:3790/
@@ -272,11 +272,11 @@ https://sonicssl.namehost.ro/8790/stream/;
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/fd6065ae-5f96-46fe-b70d-c3b2d791cb36" group-title="US",Country 90s Radio
 https://stream.revma.ihrhls.com/zc6870/hls.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-country_600x600.jpg" group-title="DE",- 0 N - Country on Radio
-https://0n-country.radionetz.de/0n-country.aac
-
 #EXTINF:-1 tvg-logo="https://www.countryradio.cz/assets/favicon/apple-touch-icon.png" group-title="CZ",County
 http://icecast4.play.cz/country128.mp3
+
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-country_600x600.jpg" group-title="DE",- 0 N - Country on Radio
+https://0n-country.radionetz.de/0n-country.aac
 
 #EXTINF:-1 tvg-logo="https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png" group-title="SE",Go Country
 https://wr14-ice.stream.khz.se/wr14_mp3
@@ -300,5 +300,5 @@ https://radio21.streamabc.net/radio21-radio21dabns-mp3-192-3908190
 https://ice9.securenetsystems.net/KWSV
 
 #EXTINF:-1 tvg-logo="" group-title="KR",kbs해피fm
-https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-02/2radio-bora-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDk5Mjc4Nn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=M5xGny3YP8aJVBZmf9zAIgYlvTy5sc~ovKzrmcggyrZPhLJs2eLrcUlY9nsCM8Ln2~WXDEnHWrveSgGPCUFLJ~jaoIOQEHfNR7Cjjn7FjjJRfvrTrVddmcUmZTA8xVVe8XZlUFFdYLess-WQ8NvkSfTDeifDF8w~IXf18HY4MKzrrq3XJzs8a6K9QvTeFJ7EMf2gtHU9QIfIRsSBr-6xv-SPGFJGOXDaMY1Nb0T5WuF~oub730VyyC-oQlbk5PRRm~lFN8ZgpCR~nsRU9~lxKxilE~n0YFjR~a-MdKLfIQkUIXzC2qCUZ0PVEj0VPVJ6cfjz75CTIN~j5jNiY5bf5w__
+https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MjEwMTU2NH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=TZRHDkK6Dth2YQ10htGBX4scqxBlWRAdP9xpr4u9PHDgjSjmXRqRNBZIyNWIgSyVV0N6aZfA1gMCJWmIbYrS5MckXfjcRjFxF7~H8J6NypbFAAOGkJX1QLU-ZqHGnqUc19GrQfP9XHIexzkPBTeRoTeWxHrtPjnuWvktvhbkXkz4Tdxer-1w7LTmf~Gc-nc4L~rRFKbtKJmf683tYYQh8TnCqc3t8Cnj~rLhLZrAtJpqbQluktezYCun2HD5rKnLVX3rP-mp7WUVE9JUUW~hBZMkUkxhz4kXPiEYRLsSYDVEPNt4VoU~ykaUVprKCl-rNVgqMNd-efo34znGpneLzw__
 
