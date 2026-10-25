@@ -14,8 +14,8 @@
     "tags": "dance,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 62000,
-    "clickcount": 200
+    "votes": 62339,
+    "clickcount": 194
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "dance,house,pop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 59849,
-    "clickcount": 176
+    "votes": 59917,
+    "clickcount": 170
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "pop",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 58547,
-    "clickcount": 126
+    "votes": 58656,
+    "clickcount": 103
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "pop",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 56064,
-    "clickcount": 92
+    "votes": 56217,
+    "clickcount": 88
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "classic hits,moscow,music,pop,retro,russia,russian pop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 55622,
-    "clickcount": 79
+    "votes": 55717,
+    "clickcount": 76
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "middle eastern music,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 49807,
-    "clickcount": 110
+    "votes": 50145,
+    "clickcount": 109
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "country,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 47440,
-    "clickcount": 55
+    "votes": 47665,
+    "clickcount": 70
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 40006,
-    "clickcount": 85
+    "votes": 40112,
+    "clickcount": 99
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 37205,
-    "clickcount": 26
+    "votes": 37286,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -176,8 +176,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 37081,
-    "clickcount": 39
+    "votes": 37137,
+    "clickcount": 41
   },
   {
     "id": null,
@@ -194,8 +194,8 @@
     "tags": "pop,top40",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 36369,
-    "clickcount": 22
+    "votes": 36463,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -212,8 +212,8 @@
     "tags": "80s,national,pop,public radio,variety",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 36118,
-    "clickcount": 300
+    "votes": 36279,
+    "clickcount": 328
   },
   {
     "id": null,
@@ -230,8 +230,8 @@
     "tags": "music,pop,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 34847,
-    "clickcount": 260
+    "votes": 34999,
+    "clickcount": 300
   },
   {
     "id": null,
@@ -248,8 +248,8 @@
     "tags": "hits,mediaset,pop,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 34444,
-    "clickcount": 125
+    "votes": 34518,
+    "clickcount": 111
   },
   {
     "id": null,
@@ -266,8 +266,8 @@
     "tags": "adult contemporary,jazz,pop,smooth jazz",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 33367,
-    "clickcount": 37
+    "votes": 33396,
+    "clickcount": 47
   },
   {
     "id": null,
@@ -284,8 +284,8 @@
     "tags": "chr,dance,español,latin,latin music,latino,pop,pop latino,reggaeton,top 40,trap",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 32652,
-    "clickcount": 32
+    "votes": 32746,
+    "clickcount": 55
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "alternative,pop,world music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 30688,
-    "clickcount": 94
+    "votes": 30788,
+    "clickcount": 116
   },
   {
     "id": null,
@@ -320,26 +320,8 @@
     "tags": "90s,hits,pop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 28019,
-    "clickcount": 102
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960e71a1-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Romania Actualități",
-    "url": "http://89.238.227.6:8006/;",
-    "url_resolved": "http://89.238.227.6:8006/;",
-    "homepage": "http://www.romania-actualitati.ro/",
-    "favicon": "",
-    "countrycode": "RO",
-    "state": "",
-    "language": "romanian",
-    "tags": "folk,news,pop,talk",
-    "codec": "AAC+",
-    "bitrate": 128,
-    "votes": 26891,
-    "clickcount": 47
+    "votes": 28113,
+    "clickcount": 111
   },
   {
     "id": null,
@@ -356,8 +338,26 @@
     "tags": "anni 80,anni 90,balera,dance,folk,italiana,liscio,oldies,pop,popolare,tradizione",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 26515,
-    "clickcount": 347
+    "votes": 27874,
+    "clickcount": 612
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960e71a1-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Romania Actualități",
+    "url": "http://89.238.227.6:8006/;",
+    "url_resolved": "http://89.238.227.6:8006/;",
+    "homepage": "http://www.romania-actualitati.ro/",
+    "favicon": "",
+    "countrycode": "RO",
+    "state": "",
+    "language": "romanian",
+    "tags": "folk,news,pop,talk",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "votes": 26935,
+    "clickcount": 48
   },
   {
     "id": null,
@@ -374,8 +374,8 @@
     "tags": "news,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 19456,
-    "clickcount": 491
+    "votes": 19597,
+    "clickcount": 532
   },
   {
     "id": null,
@@ -392,8 +392,8 @@
     "tags": "adult contemporary,mediaset,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 18926,
-    "clickcount": 64
+    "votes": 18957,
+    "clickcount": 69
   },
   {
     "id": null,
@@ -410,8 +410,8 @@
     "tags": "70s,national,pop,public radio,variety",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 18763,
-    "clickcount": 45
+    "votes": 18802,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -428,8 +428,8 @@
     "tags": "adult,amg,gold,pop,retro,russian",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 17739,
-    "clickcount": 35
+    "votes": 17831,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -446,8 +446,8 @@
     "tags": "dance,music,pop,urban",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 17384,
-    "clickcount": 66
+    "votes": 17430,
+    "clickcount": 99
   },
   {
     "id": null,
@@ -464,8 +464,8 @@
     "tags": "indonesia,pop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 16519,
-    "clickcount": 38
+    "votes": 16590,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -482,8 +482,8 @@
     "tags": "90's,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 15215,
-    "clickcount": 9
+    "votes": 15258,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -500,8 +500,8 @@
     "tags": "bollywood,hindi,mirchi,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 14223,
-    "clickcount": 170
+    "votes": 14286,
+    "clickcount": 179
   },
   {
     "id": null,
@@ -518,8 +518,8 @@
     "tags": "pop,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 13106,
-    "clickcount": 27
+    "votes": 13116,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -536,26 +536,8 @@
     "tags": "dance,national,pop,public radio,variety",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12625,
-    "clickcount": 71
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960efe59-0601-11e8-ae97-52543be04c81",
-    "name": "Fun Radio",
-    "url": "http://stream.funradio.sk:8000/fun128.mp3",
-    "url_resolved": "http://stream.funradio.sk:8000/fun128.mp3",
-    "homepage": "http://www.funradio.sk/",
-    "favicon": "http://cdn.funradio.sk/img/logo/apple-icon-120x120.png?v=2022-05-26-1422",
-    "countrycode": "SK",
-    "state": "Slovakia",
-    "language": "slovak",
-    "tags": "pop",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 12549,
-    "clickcount": 13
+    "votes": 12667,
+    "clickcount": 70
   },
   {
     "id": null,
@@ -572,8 +554,26 @@
     "tags": "chr,dance,español,latin,latin music,latino,low bandwidth,pop,pop latino,reggaeton,top 40,trap",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 12535,
-    "clickcount": 6
+    "votes": 12569,
+    "clickcount": 15
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960efe59-0601-11e8-ae97-52543be04c81",
+    "name": "Fun Radio",
+    "url": "http://stream.funradio.sk:8000/fun128.mp3",
+    "url_resolved": "http://stream.funradio.sk:8000/fun128.mp3",
+    "homepage": "http://www.funradio.sk/",
+    "favicon": "http://cdn.funradio.sk/img/logo/apple-icon-120x120.png?v=2022-05-26-1422",
+    "countrycode": "SK",
+    "state": "Slovakia",
+    "language": "slovak",
+    "tags": "pop",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 12565,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -581,7 +581,7 @@
     "stationuuid": "960553a5-0601-11e8-ae97-52543be04c81",
     "name": "Radio Eins",
     "url": "http://radioeins.de/stream",
-    "url_resolved": "http://f131.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3KnSnWiSw6mfEyYtIyhWmkXWca3&token=bPO4Y-B8A2inVn3kqUseFO7dWODyPt7IPYwLEG5HUkc&tvf=IyBpZcc43xhmMTMxLnJuZGZuay5jb20",
+    "url_resolved": "http://f141.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3L1ahU3DyMuvzoooMtjNapDWmFh&token=bbem21t6MT_sgPAWAAXFbH7ajKRbnI-ifyy55rbsqXs&tvf=ld4c-87B4BhmMTQxLnJuZGZuay5jb20",
     "homepage": "http://www.radioeins.de/",
     "favicon": "http://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png",
     "countrycode": "DE",
@@ -590,8 +590,8 @@
     "tags": "adult contemporary,alternative,ard,information,pop,public radio,rbb,rock,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12516,
-    "clickcount": 105
+    "votes": 12546,
+    "clickcount": 139
   },
   {
     "id": null,
@@ -608,8 +608,8 @@
     "tags": "90s,national,pop,public radio,variety",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12381,
-    "clickcount": 89
+    "votes": 12415,
+    "clickcount": 81
   },
   {
     "id": null,
@@ -626,8 +626,8 @@
     "tags": "pop,dance,retro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11868,
-    "clickcount": 82
+    "votes": 11928,
+    "clickcount": 75
   },
   {
     "id": null,
@@ -644,8 +644,8 @@
     "tags": "pop",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 11390,
-    "clickcount": 6
+    "votes": 11400,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -662,8 +662,8 @@
     "tags": "00s,70s,80s,90s,pop,rock",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 11359,
-    "clickcount": 299
+    "votes": 11395,
+    "clickcount": 285
   },
   {
     "id": null,
@@ -680,8 +680,8 @@
     "tags": "00s,80s,90s,adult contemporary,pop,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 11230,
-    "clickcount": 16
+    "votes": 11249,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -698,7 +698,7 @@
     "tags": "alternative,duna média,pop,public radio",
     "codec": "AAC+",
     "bitrate": 112,
-    "votes": 11142,
+    "votes": 11158,
     "clickcount": 5
   },
   {
@@ -716,8 +716,8 @@
     "tags": "70er,70s,oldies,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11038,
-    "clickcount": 26
+    "votes": 11057,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -734,8 +734,8 @@
     "tags": "pop,top 40",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 11010,
-    "clickcount": 21
+    "votes": 11046,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -752,8 +752,8 @@
     "tags": "india,love,mirchi,pop,romantic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 10697,
-    "clickcount": 103
+    "votes": 10734,
+    "clickcount": 115
   },
   {
     "id": null,
@@ -770,8 +770,8 @@
     "tags": "pop,rock,retro,80s,90s,2000s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 10683,
-    "clickcount": 83
+    "votes": 10726,
+    "clickcount": 94
   },
   {
     "id": null,
@@ -788,8 +788,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 10643,
-    "clickcount": 15
+    "votes": 10675,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -806,8 +806,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 10101,
-    "clickcount": 29
+    "votes": 10120,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -824,8 +824,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 9846,
-    "clickcount": 46
+    "votes": 9884,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -842,8 +842,8 @@
     "tags": "pop,pop music",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 9845,
-    "clickcount": 23
+    "votes": 9855,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -860,8 +860,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 9518,
-    "clickcount": 11
+    "votes": 9582,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -869,7 +869,7 @@
     "stationuuid": "960d4bdc-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - Kickin' Country",
     "url": "http://www.181.fm/stream/pls/181-kickincountry.pls",
-    "url_resolved": "http://listen.181fm.com/181-kickincountry_128k.mp3",
+    "url_resolved": "https://listen.181fm.com/181-kickincountry_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "",
     "countrycode": "US",
@@ -878,8 +878,8 @@
     "tags": "country,pop,rock,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8693,
-    "clickcount": 18
+    "votes": 8718,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -896,7 +896,7 @@
     "tags": "dalmatia,hits,pop,regional,split",
     "codec": "AAC+",
     "bitrate": 72,
-    "votes": 8650,
+    "votes": 8683,
     "clickcount": 13
   },
   {
@@ -914,8 +914,8 @@
     "tags": "latin,pop,world music",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 8580,
-    "clickcount": 8
+    "votes": 8600,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -932,8 +932,8 @@
     "tags": "60s,70s,80s,90s,classic hits,classic rock,disco,music,nostalgie,pop,rock and roll,smooth jazz,world music,worlds best classic hits",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8432,
-    "clickcount": 66
+    "votes": 8479,
+    "clickcount": 61
   },
   {
     "id": null,
@@ -950,8 +950,8 @@
     "tags": "dance,eurodance,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8388,
-    "clickcount": 18
+    "votes": 8415,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -968,8 +968,8 @@
     "tags": "80er,80s,oldies,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8342,
-    "clickcount": 41
+    "votes": 8348,
+    "clickcount": 30
   },
   {
     "id": null,
@@ -986,8 +986,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8223,
-    "clickcount": 132
+    "votes": 8231,
+    "clickcount": 97
   },
   {
     "id": null,
@@ -995,7 +995,7 @@
     "stationuuid": "962e0e57-0601-11e8-ae97-52543be04c81",
     "name": "MegaStarFM",
     "url": "http://megastar.cope.stream.flumotion.com/cope/megastar.mp3.m3u",
-    "url_resolved": "http://flucast24-h-cloud.flumotion.com/cope/megastar.mp3",
+    "url_resolved": "http://flucast14-h-cloud.flumotion.com/cope/megastar.mp3",
     "homepage": "http://www.megastar.fm/",
     "favicon": "https://www.megastar.fm/estaticos/apple-touch-icon-192x192.png",
     "countrycode": "ES",
@@ -1004,8 +1004,8 @@
     "tags": "pop,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8104,
-    "clickcount": 13
+    "votes": 8121,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1022,8 +1022,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8072,
-    "clickcount": 103
+    "votes": 8103,
+    "clickcount": 59
   },
   {
     "id": null,
@@ -1038,10 +1038,10 @@
     "state": "Athens",
     "language": "greek",
     "tags": "greek,pop,top 40",
-    "codec": "AAC",
+    "codec": "MP3",
     "bitrate": 128,
-    "votes": 8022,
-    "clickcount": 19
+    "votes": 8038,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -1049,7 +1049,7 @@
     "stationuuid": "15a269a7-9f65-4deb-874a-4b4e6c65c358",
     "name": "MIX Ciudad de México - 106.5 FM - XHDFM-FM - Grupo ACIR - Ciudad de México",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFMAAC.aac",
-    "url_resolved": "https://19253.live.streamtheworld.com:443/XHDFMFMAAC.aac",
+    "url_resolved": "https://18363.live.streamtheworld.com:443/XHDFMFMAAC.aac",
     "homepage": "https://www.iheart.com/live/1065-mix-6533/",
     "favicon": "https://i.iheart.com/v3/re/new_assets/77b18faf-00b4-483d-bb24-377cdd4b4998?ops=fit(240%2C240)",
     "countrycode": "MX",
@@ -1058,8 +1058,8 @@
     "tags": "2000s,2010s,80s,90s,90s y más,acir,cdmx,ciudad de méxico,estación,grupo acir,iheart,iheart radio,mex,mix,mix fm,mx,méxico,pop,radio",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 7510,
-    "clickcount": 13
+    "votes": 7522,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1076,8 +1076,8 @@
     "tags": "adult contemporary,mediaset,pop",
     "codec": "AAC+",
     "bitrate": 95,
-    "votes": 7436,
-    "clickcount": 54
+    "votes": 7464,
+    "clickcount": 57
   },
   {
     "id": null,
@@ -1094,8 +1094,8 @@
     "tags": "pop,public radio,srg ssr",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7424,
-    "clickcount": 62
+    "votes": 7461,
+    "clickcount": 49
   },
   {
     "id": null,
@@ -1112,8 +1112,8 @@
     "tags": "dance,electronica,pop",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 7369,
-    "clickcount": 4
+    "votes": 7407,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1130,8 +1130,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7289,
-    "clickcount": 18
+    "votes": 7311,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -1139,7 +1139,7 @@
     "stationuuid": "d95ad5e2-417c-4969-a533-c2d9c696d58c",
     "name": "El Fonógrafo, Música las 24 horas (elfonografo.mx) - Online - Grupo Radio Centro - Ciudad de México",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_AM_SC",
-    "url_resolved": "https://27063.live.streamtheworld.com:443/XEJP_AM_SC",
+    "url_resolved": "https://29306.live.streamtheworld.com:443/XEJP_AM_SC",
     "homepage": "https://www.elfonografo.mx/",
     "favicon": "",
     "countrycode": "MX",
@@ -1148,8 +1148,8 @@
     "tags": "ciudad de mexico,ciudad de méxico,ciudad mexico,el fonógrafo,español,estación,estado de mexico,grupo radio centro,latin music,latin pop,local music,mex,mexico,mexico city,music,musica,musica latina,musica latinoamericana,musica romantica,mx,méxico,música,música del recuerdo,música en español,música pop,música variada,online,online only,pop,pop music,radio,radio online,valle de méxico",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 7201,
-    "clickcount": 4
+    "votes": 7215,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -1166,8 +1166,8 @@
     "tags": "adult contemporary,brazilian music,jazz,pop,smooth jazz",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 7119,
-    "clickcount": 6
+    "votes": 7123,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1175,7 +1175,7 @@
     "stationuuid": "960c154f-0601-11e8-ae97-52543be04c81",
     "name": "XHEXA \"Exa FM\" 104.9 FM Mexico City, DF",
     "url": "http://playerservices.streamtheworld.com/pls/XHEXA.pls",
-    "url_resolved": "http://17573.live.streamtheworld.com:3690/XHEXA_SC",
+    "url_resolved": "http://26313.live.streamtheworld.com:3690/XHEXA_SC",
     "homepage": "http://www.exafm.com/#!/mexico/home",
     "favicon": "http://cdn-radiotime-logos.tunein.com/s87554q.png",
     "countrycode": "MX",
@@ -1184,8 +1184,8 @@
     "tags": "electronica,latin pop,mexico city,pop,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7079,
-    "clickcount": 13
+    "votes": 7088,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1193,7 +1193,7 @@
     "stationuuid": "9618e93b-0601-11e8-ae97-52543be04c81",
     "name": "Mega Hits",
     "url": "http://provisioning.streamtheworld.com/pls/mega_hits.pls",
-    "url_resolved": "http://25583.live.streamtheworld.com/MEGA_HITS_SC",
+    "url_resolved": "http://29093.live.streamtheworld.com/MEGA_HITS_SC",
     "homepage": "http://www.megahits.fm/",
     "favicon": "http://cdn-radiotime-logos.tunein.com/s6745q.png",
     "countrycode": "PT",
@@ -1202,8 +1202,8 @@
     "tags": "pop,top 40",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 7047,
-    "clickcount": 17
+    "votes": 7050,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -1220,8 +1220,8 @@
     "tags": "pop,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6899,
-    "clickcount": 61
+    "votes": 6936,
+    "clickcount": 88
   },
   {
     "id": null,
@@ -1229,7 +1229,7 @@
     "stationuuid": "1b762b21-2ec6-412a-a231-fa34a96f4f99",
     "name": "80s80s Radio",
     "url": "http://streams.80s80s.de/web/mp3-192/play.m3u",
-    "url_resolved": "http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6nq36rn3%230%236q8s7o7o3p7411o9n0871834qs5r90so%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792241315",
+    "url_resolved": "http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6nqn07p3%230%236q8s7o7o3p7411o9n0871834qs5r90so%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1792673731",
     "homepage": "https://www.80s80s.de/streams/80s80s",
     "favicon": "https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png",
     "countrycode": "DE",
@@ -1238,8 +1238,8 @@
     "tags": "80s,new wave,pop,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 6847,
-    "clickcount": 361
+    "votes": 6898,
+    "clickcount": 383
   },
   {
     "id": null,
@@ -1256,8 +1256,8 @@
     "tags": "contemporary hits,pop,top 40",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 6805,
-    "clickcount": 5
+    "votes": 6826,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1274,8 +1274,8 @@
     "tags": "91.3,91.3 fm,alfa,cdmx,ciudad de mexico,ciudad de méxico,entretenimiento,estación,fm,grupo radio centro,juvenil,mexico,music,méxico,música,música pop,pop,pop music,radio",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 6786,
-    "clickcount": 21
+    "votes": 6820,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -1292,8 +1292,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6770,
-    "clickcount": 2
+    "votes": 6797,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1310,8 +1310,8 @@
     "tags": "música,pop,rock",
     "codec": "AAC",
     "bitrate": 130,
-    "votes": 6754,
-    "clickcount": 19
+    "votes": 6782,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -1328,8 +1328,8 @@
     "tags": "entretenimiento,music,pop,reggaeton,urbano",
     "codec": "AAC",
     "bitrate": 125,
-    "votes": 6703,
-    "clickcount": 7
+    "votes": 6715,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1346,8 +1346,8 @@
     "tags": "adult contemporary,pop,regional radio,talk",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 6521,
-    "clickcount": 32
+    "votes": 6539,
+    "clickcount": 47
   },
   {
     "id": null,
@@ -1364,8 +1364,8 @@
     "tags": "adult contemporary,national,pop,public radio,variety",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6464,
-    "clickcount": 20
+    "votes": 6487,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -1373,7 +1373,7 @@
     "stationuuid": "159e4625-43d8-4cda-b98c-819edfad8667",
     "name": "Süper FM",
     "url": "http://provisioning.streamtheworld.com/pls/SUPER_FMAAC.pls",
-    "url_resolved": "http://25583.live.streamtheworld.com:3690/SUPER_FMAAC_SC",
+    "url_resolved": "http://25683.live.streamtheworld.com:3690/SUPER_FMAAC_SC",
     "homepage": "",
     "favicon": "",
     "countrycode": "TR",
@@ -1382,8 +1382,8 @@
     "tags": "pop",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 6246,
-    "clickcount": 145
+    "votes": 6255,
+    "clickcount": 148
   },
   {
     "id": null,
@@ -1400,8 +1400,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6226,
-    "clickcount": 29
+    "votes": 6253,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1418,8 +1418,8 @@
     "tags": "pop,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 6129,
-    "clickcount": 18
+    "votes": 6137,
+    "clickcount": 31
   },
   {
     "id": null,
@@ -1436,8 +1436,8 @@
     "tags": "pop",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 5967,
-    "clickcount": 19
+    "votes": 5999,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -1454,8 +1454,8 @@
     "tags": "50s,60s,70s,80s,oldies,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5964,
-    "clickcount": 11
+    "votes": 5977,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -1472,8 +1472,8 @@
     "tags": "90er,90s,dance,oldies,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5946,
-    "clickcount": 15
+    "votes": 5956,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -1490,7 +1490,7 @@
     "tags": "club,pop,top 40",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 5804,
+    "votes": 5817,
     "clickcount": 7
   },
   {
@@ -1508,8 +1508,8 @@
     "tags": "pop,public radio,srg ssr",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5620,
-    "clickcount": 45
+    "votes": 5638,
+    "clickcount": 56
   },
   {
     "id": null,
@@ -1517,7 +1517,7 @@
     "stationuuid": "961756e4-0601-11e8-ae97-52543be04c81",
     "name": "Radio Kiss Kiss",
     "url": "http://players.fluidstream.net/kisskissnetwork.pls",
-    "url_resolved": "http://wma08.fluidstream.net:4610/",
+    "url_resolved": "http://wma07.fluidstream.net:4610/",
     "homepage": "http://www.kisskiss.it/",
     "favicon": "https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png",
     "countrycode": "IT",
@@ -1526,8 +1526,8 @@
     "tags": "adult contemporary,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5577,
-    "clickcount": 188
+    "votes": 5583,
+    "clickcount": 184
   },
   {
     "id": null,
@@ -1535,7 +1535,7 @@
     "stationuuid": "36492a90-efa9-11e8-a471-52543be04c81",
     "name": "Vibra Bogotá 104.9 FM",
     "url": "http://playerservices.streamtheworld.com/m3u/VIBRAAAC.m3u",
-    "url_resolved": "http://27693.live.streamtheworld.com:3690/VIBRAAAC_SC",
+    "url_resolved": "http://27343.live.streamtheworld.com/VIBRAAAC_SC",
     "homepage": "https://www.vibra.fm/",
     "favicon": "",
     "countrycode": "CO",
@@ -1544,8 +1544,8 @@
     "tags": "colombian music,latin music,pop,salsa,vallenato",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 5544,
-    "clickcount": 5
+    "votes": 5545,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1562,8 +1562,8 @@
     "tags": "dance,pop",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 5504,
-    "clickcount": 16
+    "votes": 5513,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1580,26 +1580,8 @@
     "tags": "baladas,music,musica romantica,pop",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 5426,
-    "clickcount": 19
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960f4b0b-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Gdansk",
-    "url": "http://stream.task.gda.pl:8000/rg1",
-    "url_resolved": "http://stream.task.gda.pl:8000/rg1",
-    "homepage": "http://radiogdansk.pl/",
-    "favicon": "https://radiogdansk.pl/wp-content/uploads/2020/12/cropped-favicon-180x180.png",
-    "countrycode": "PL",
-    "state": "Gdansk",
-    "language": "polish",
-    "tags": "pop",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 5314,
-    "clickcount": 5
+    "votes": 5439,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -1616,8 +1598,26 @@
     "tags": "hits,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5307,
-    "clickcount": 22
+    "votes": 5332,
+    "clickcount": 25
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960f4b0b-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Gdansk",
+    "url": "http://stream.task.gda.pl:8000/rg1",
+    "url_resolved": "http://stream.task.gda.pl:8000/rg1",
+    "homepage": "http://radiogdansk.pl/",
+    "favicon": "https://radiogdansk.pl/wp-content/uploads/2020/12/cropped-favicon-180x180.png",
+    "countrycode": "PL",
+    "state": "Gdansk",
+    "language": "polish",
+    "tags": "pop",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 5319,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1634,8 +1634,8 @@
     "tags": "entertainment,pop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 5267,
-    "clickcount": 14
+    "votes": 5272,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -1652,8 +1652,8 @@
     "tags": "pop,pop music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5259,
-    "clickcount": 12
+    "votes": 5268,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1670,8 +1670,8 @@
     "tags": "indie,pop",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 5234,
-    "clickcount": 64
+    "votes": 5255,
+    "clickcount": 35
   },
   {
     "id": null,
@@ -1688,8 +1688,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5129,
-    "clickcount": 231
+    "votes": 5230,
+    "clickcount": 259
   },
   {
     "id": null,
@@ -1706,8 +1706,8 @@
     "tags": "classic rock,information,news,pop,pop rock,rock",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 4996,
-    "clickcount": 10
+    "votes": 5012,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1724,8 +1724,8 @@
     "tags": "pop,rock",
     "codec": "AAC",
     "bitrate": 96,
-    "votes": 4992,
-    "clickcount": 20
+    "votes": 5001,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -1742,8 +1742,26 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4895,
-    "clickcount": 74
+    "votes": 4937,
+    "clickcount": 66
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "706def0c-7017-4601-8305-db1cdb2e9420",
+    "name": "Super Fm",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
+    "homepage": "https://superfm.com.tr/",
+    "favicon": "https://superfm.com.tr/favicon.ico",
+    "countrycode": "TR",
+    "state": "",
+    "language": "",
+    "tags": "pop",
+    "codec": "MP3",
+    "bitrate": 64,
+    "votes": 4873,
+    "clickcount": 102
   },
   {
     "id": null,
@@ -1760,7 +1778,7 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 4844,
+    "votes": 4851,
     "clickcount": 0
   },
   {
@@ -1778,25 +1796,7 @@
     "tags": "african music,pop,soccer,sport,talk",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 4835,
-    "clickcount": 31
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "706def0c-7017-4601-8305-db1cdb2e9420",
-    "name": "Super Fm",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
-    "homepage": "https://superfm.com.tr/",
-    "favicon": "https://superfm.com.tr/favicon.ico",
-    "countrycode": "TR",
-    "state": "",
-    "language": "",
-    "tags": "pop",
-    "codec": "MP3",
-    "bitrate": 64,
-    "votes": 4829,
-    "clickcount": 116
+    "votes": 4841,
+    "clickcount": 19
   }
 ]

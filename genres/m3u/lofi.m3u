@@ -62,11 +62,11 @@ https://public.isekoi-radio.com/listen/chill/radio.flac
 #EXTINF:-1 tvg-logo="https://www.reyfm.de/_nuxt/icons/icon_64x64.88ab9f.png" group-title="DE",REYFM - #lofi
 https://listen.reyfm.de/lofi_128kbps.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="BR",Nigthwave plaza
-http://radio.plaza.one/mp3
-
 #EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/6b67891f-ca25-461d-868f-664944bffac0.png" group-title="US",LITT Live - Lofi - Chill & Instrumental Jazz Beats
 https://das-sa39.cdnstream1.com/5582_128
+
+#EXTINF:-1 tvg-logo="" group-title="BR",Nigthwave plaza
+http://radio.plaza.one/mp3
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Lo-Fi [3]
 http://79.111.14.76:8004/lo-fi
@@ -83,11 +83,11 @@ https://a5.asurahosting.com:8150/radio.mp3
 #EXTINF:-1 tvg-logo="https://radio.sutekihost.com/static/uploads/album_art.1743805787.jpg" group-title="US",BGMVibes
 https://radio.sutekihost.com/listen/bgmvibes/radio.mp3
 
-#EXTINF:-1 tvg-logo="https://b3ck.com/uploadz/uploads/b3cks-radio.png" group-title="US",b3cks-radio
-https://radio.b3ck.com/listen/b3cks-radio/radio.mp3
-
 #EXTINF:-1 tvg-logo="https://mugenradio.com/cover-mugen-3000.png" group-title="XX",MUGEN Radio
 https://mugenradio.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://b3ck.com/uploadz/uploads/b3cks-radio.png" group-title="US",b3cks-radio
+https://radio.b3ck.com/listen/b3cks-radio/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://www.cliamp.stream/favicon.svg" group-title="NO",CLIAMP Lofi Hip Hop Radio
 https://radio.cliamp.stream/lofi/stream
@@ -99,13 +99,16 @@ https://streaming.hotmixradio.com/hotmix-lofi-en-mp3?provider=radiobrowser
 http://kafka.icu:8181/stream
 
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/a32f99500d9bc3864c7b619152c8e6e9?t=_120x120" group-title="DE",Special-Radio
-https://special-radio.stream.laut.fm/special-radio?t302=2026-10-17_02-53-26&uuid=6845323f-c0c6-79ce-1f46-c7389617bbf7
+https://special-radio.stream.laut.fm/special-radio?t302=2026-10-22_03-00-48&uuid=a80f4515-36b9-9b9c-b039-1ac3b91fbd08
 
 #EXTINF:-1 tvg-logo="https://fmvfitradio.webicdp.com/favicon.png" group-title="RO",FMV FIT Radio Focus
 https://radio.webicdp.com/listen/fmvfitradiofocus/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://slsdigitalmusic.com/assets/logo7.png" group-title="US",SLS Digital Music
 https://slsdigitalradio.com:8000/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://music.yojosuknam.com/radio/icon-512.png" group-title="KR",yojosuknam Radio
+https://stream.yojosuknam.com/live.mp3
 
 #EXTINF:-1 tvg-logo="https://broadcaster.live365.com/static/assets/logos/default.jpg" group-title="US",Osage Orange Radio
 https://das-edge62-live365-dal03.cdnstream.com/a08442
@@ -123,7 +126,7 @@ https://radio.celodex.com/stream/camillofono.mp3
 https://live.hunter.fm/lofi_high
 
 #EXTINF:-1 tvg-logo="https://assets.laut.fm/9721c8d3b2da107f0341ce2e5c01bc9a?t=_120x120" group-title="DE",Zocker-FM
-https://zockerfm.stream.laut.fm/zockerfm?uuid=2512b624-92a6-efd3-1fb2-8792b403ffb8&t302=2026-10-17_22-54-37
+https://zockerfm.stream.laut.fm/zockerfm?t302=2026-10-23_01-53-41&uuid=84dce922-f40f-ad4c-8fcd-780d4d992c23
 
 #EXTINF:-1 tvg-logo="" group-title="FR",hotmix LoFi
 https://streaming.hotmixradio.com/hotmix-lofi-en-mp3
@@ -137,8 +140,20 @@ https://myradio24.org/7934
 #EXTINF:-1 tvg-logo="" group-title="MX",Radio San Pancho
 https://listen.radioking.com/radio/680182/stream/744577
 
+#EXTINF:-1 tvg-logo="https://music.yojosuknam.com/radio/icon-512.png" group-title="KR",yojosuknam Radio
+https://audio.yojosuknam.com/radio/live.m3u8
+
 #EXTINF:-1 tvg-logo="https://radiosyno.ddns.net/assets/img/favicon.png" group-title="FR",SYNO RADIO
 https://radiosyno.ddns.net/radio
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v6hT16qV/LOFI.png" group-title="DE",0R - LO-FI || LoFi, Chill, Study, Hip Hop, Relax, Background, Calm, Instrumental, Smooth, Beats, Coffee, Work, Focus, Soft, Chillhop
+https://0nlineradio.radioho.st/0r-lo-fi?ref=radio-browser26
+
+#EXTINF:-1 tvg-logo="https://cdn.hunter.fm/image/thumb/station/lo-fi-third/400x400ht.jpg" group-title="BR",Hunter.FM Lo-Fi
+https://live.hunter.fm/lofi_normal
+
+#EXTINF:-1 tvg-logo="https://wa3.live/wa3-logo-assets/wa3-icon-512.png" group-title="FR",Radio Wa3 (راديو وع)
+https://stream.wa3.live/wa3.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="RO",Nicecream.fm BLUE
 https://play.nicecream.fm/blue.aac
@@ -155,23 +170,11 @@ https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3
 #EXTINF:-1 tvg-logo="https://mugenradio.com/cover-mugen-3000.png" group-title="FR",MUGEN Radio
 https://mugenradio.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://music.yojosuknam.com/radio/icon-512.png" group-title="KR",yojosuknam Radio
-https://audio.yojosuknam.com/radio/live.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="FR",SYNO RADIO
 https://radiosyno.ddns.net/radio
 
-#EXTINF:-1 tvg-logo="https://music.yojosuknam.com/radio/icon-512.png" group-title="KR",yojosuknam Radio
-https://stream.yojosuknam.com/live.mp3
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v6hT16qV/LOFI.png" group-title="DE",0R - LO-FI || LoFi, Chill, Study, Hip Hop, Relax, Background, Calm, Instrumental, Smooth, Beats, Coffee, Work, Focus, Soft, Chillhop
-https://0nlineradio.radioho.st/0r-lo-fi?ref=radio-browser26
-
 #EXTINF:-1 tvg-logo="https://moonquito.de/user/themes/moonquito/img/icon-512.png" group-title="DE",moonquito radio
 https://radio.das.pub/stream.mp3
-
-#EXTINF:-1 tvg-logo="https://cdn.hunter.fm/image/thumb/station/lo-fi-third/400x400ht.jpg" group-title="BR",Hunter.FM Lo-Fi
-https://live.hunter.fm/lofi_normal
 
 #EXTINF:-1 tvg-logo="https://hunter.fm/favicon.ico" group-title="BR",Hunter.fm O Canal Lo-Fi (High)
 https://live.hunter.fm/lofi_high
@@ -179,15 +182,27 @@ https://live.hunter.fm/lofi_high
 #EXTINF:-1 tvg-logo="https://lofiradio.ru/img/logo1.png" group-title="RU",loFi Радио
 http://live.lofiradio.ru:8000/lofi_mp3_320
 
+#EXTINF:-1 tvg-logo="https://nimaarki.com/images/radio/hamnava-logo.png?w=400&f=original" group-title="CA",Hamnava Records - Lofi
+https://radio.nimaarki.com/lofi/stream?_ic2=1
+
+#EXTINF:-1 tvg-logo="https://get-radio.sipout.ai/cover/wave/lofi.png" group-title="RU",get.radio — Лоу-фай (Английский)
+https://get-radio.sipout.ai/stream/lofi-en.mp3
+
 #EXTINF:-1 tvg-logo="" group-title="FR",MUGEN Radio
 https://mugenradio.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://get-radio.sipout.ai/cover/wave/lofi.png" group-title="RU",get.radio — Лоу-фай (Прочие языки)
+https://get-radio.sipout.ai/stream/lofi-other.mp3
 
 #EXTINF:-1 tvg-logo="https://141-144-200-199.nip.io/radio-assets/cover.png" group-title="RO",Mind Fuel Radio · Lo-fi
 https://141-144-200-199.nip.io/lofi.mp3
 
-#EXTINF:-1 tvg-logo="https://wa3.live/wa3-logo-assets/wa3-icon-512.png" group-title="FR",Radio Wa3 (راديو وع)
-https://stream.wa3.live/wa3.mp3
+#EXTINF:-1 tvg-logo="https://get-radio.sipout.ai/cover/wave/lofi.png" group-title="RU",get.radio — Лоу-фай (Без вокала)
+https://get-radio.sipout.ai/stream/lofi-instrumental.mp3
 
 #EXTINF:-1 tvg-logo="https://kobold.messy.quest/favicon.png" group-title="US",kobold.FM
 https://kobold.messy.quest/listen/kobold.fm/radio.mp3
+
+#EXTINF:-1 tvg-logo="https://radiosyno.fr/favicon.ico" group-title="FR",RADIO SYNO
+https://radiosyno.fr/radio
 

@@ -36,7 +36,7 @@ https://stream.mixadance.fm/mixadance
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="US",SomaFM Lush (128k MP3)
-https://ice2.somafm.com/lush-128-mp3
+https://ice6.somafm.com/lush-128-mp3
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s155539/images/logod.png" group-title="GB",TMM 2
 https://listen-msmn.sharp-stream.com/nme2.mp3
@@ -86,11 +86,11 @@ https://stream.technolovers.fm/edm?ref=radiobrowser
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/32040.v12.png" group-title="DE",TechnoBase.FM
 https://listener3.mp3.tb-group.fm/tb.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="US",PulseEDM Dance Music Radio
-http://pulseedm.cdnstream1.com:8124/1373_128
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1gH75m/rb-top100clubcharts.png" group-title="DE",# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
 https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts
+
+#EXTINF:-1 tvg-logo="" group-title="US",PulseEDM Dance Music Radio
+http://pulseedm.cdnstream1.com:8124/1373_128
 
 #EXTINF:-1 tvg-logo="" group-title="DE",electronic music club
 http://stream.laut.fm/emc
@@ -122,23 +122,23 @@ https://radiorecord.hostingradio.ru/mix96.aacp
 #EXTINF:-1 tvg-logo="" group-title="ES",Loca FM Twchno
 http://s02.fjperezdj.com:8050/live
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/44061.v2.png" group-title="DE",Italo Disco
-https://italo-disco.stream.laut.fm/italo-disco
-
 #EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/channels/25_Chillout.jpg" group-title="GR",Radio Art - Chillout
 http://air.radioart.com/fChillout.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/44061.v2.png" group-title="DE",Italo Disco
+https://italo-disco.stream.laut.fm/italo-disco
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Best Deep FM
 http://myradio24.org/5129_320
 
 #EXTINF:-1 tvg-logo="http://somafm.com/img3/deepspaceone-400.jpg" group-title="US",SomaFM Deep Space One (32k AAC)
-https://ice5.somafm.com/deepspaceone-32-aac
-
-#EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio REMIX
-https://stream.0nlineradio.com/remix?ref=radiobrowser
+https://ice6.somafm.com/deepspaceone-32-aac
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sP4q4Wh/breakz-fm-logo-fav.png" group-title="DE",_DEEJAY REMIXE_ Your Radio for finest House, EDM, Electro, Dance, Mashup, Hypertechno, Techno, Bootleg, Charts, Top40, Chillout, Lounge, HipHop, Urban & Latin Party DJ Remixes!
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio
+
+#EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio REMIX
+https://stream.0nlineradio.com/remix?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Tech Minimal
 http://traxx020.ice.infomaniak.ch/traxx020-low.mp3
@@ -213,7 +213,7 @@ http://station.waveradio.org/soviet.mp3
 http://79.111.14.76:8000/drumbass
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/defcon400.png" group-title="US",SomaFM DEF CON Radio (128k AAC)
-https://ice5.somafm.com/defcon-128-aac
+https://ice2.somafm.com/defcon-128-aac
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_cf8747dc2b804de09c56359c324dd1f5~mv2.jpg" group-title="CA",#100 BEST IBIZA DEEP HOUSE
 https://stream.zeno.fm/lwv6zqgtv1dtv

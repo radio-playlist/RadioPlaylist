@@ -5,11 +5,11 @@
 #EXTINF:-1 tvg-logo="" group-title="CH",Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/mp3_128
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Amsterdam Trance Radio
-http://strm112.1.fm/atr_mobile_mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Deep House Radio
 http://strm112.1.fm/deephouse_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Amsterdam Trance Radio
+http://strm112.1.fm/atr_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Classic Rock Replay Radio
 http://strm112.1.fm/crock_mobile_mp3
@@ -29,11 +29,11 @@ http://strm112.1.fm/blues_mobile_mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",Radio Swiss Classic German
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Rock Classics Radio
-http://strm112.1.fm/rockclassics_mobile_mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Cafe Radio
 http://strm112.1.fm/caferadio_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Rock Classics Radio
+http://strm112.1.fm/rockclassics_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Bombay Beats India Radio
 http://strm112.1.fm/bombaybeats_mobile_mp3
@@ -65,11 +65,11 @@ http://stream.srg-ssr.ch/m/la-1ere/mp3_128
 #EXTINF:-1 tvg-logo="http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",SRF 4 News
 http://stream.srg-ssr.ch/m/drs4news/mp3_128
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Absolute TOP 40 Radio
-http://strm112.1.fm/top40_mobile_mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Gorilla FM Radio
 http://strm112.1.fm/gorillafm_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Absolute TOP 40 Radio
+http://strm112.1.fm/top40_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Disco Ball 70's-80's Radio
 http://strm112.1.fm/disco_mobile_mp3
@@ -113,11 +113,11 @@ http://strm112.1.fm/trance_mobile_mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Love Classics Radio
 http://strm112.1.fm/loveclassics_mobile_mp3
 
-#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="CH",1.FM - Absolute Pop Latino Radio
-http://strm112.1.fm/latino_mobile_mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",Radio Swiss Jazz
 http://stream.srg-ssr.ch/srgssr/rsj/aac/96
+
+#EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="CH",1.FM - Absolute Pop Latino Radio
+http://strm112.1.fm/latino_mobile_mp3
 
 #EXTINF:-1 tvg-logo="https://www.80sforever.radio/favicon.ico" group-title="CH",80s Forever - We Keep The 80s Alive
 https://premium.shoutcastsolutions.com/radio/8050/256.mp3
@@ -158,11 +158,11 @@ http://strm112.1.fm/opera_mobile_mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",Vintage Radio
 https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",Radio Suisse Classique
-http://stream.srg-ssr.ch/m/rsc_fr/mp3_128
-
 #EXTINF:-1 tvg-logo="https://www.radioswissclassic.ch/favicon.ico" group-title="CH",Radio Swiss Classic
 http://stream.srg-ssr.ch/m/rsc_it/mp3_128
+
+#EXTINF:-1 tvg-logo="" group-title="CH",Radio Suisse Classique
+http://stream.srg-ssr.ch/m/rsc_fr/mp3_128
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Radio_Swiss_Jazz_Logo_2018.svg/2048px-Radio_Swiss_Jazz_Logo_2018.svg.png" group-title="CH",Radio Swiss Jazz
 http://stream.srg-ssr.ch/srgssr/rsj/aac/96
@@ -176,11 +176,11 @@ http://stream.srg-ssr.ch/srgssr/srf2/mp3/128
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Sax4Love
 http://strm112.1.fm/sax4ever_mobile_mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Golden Oldies
-http://traxx023.ice.infomaniak.ch/traxx023-1.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.fm Otto's Classical music
 https://strm112.1.fm/classical_mobile_aac
+
+#EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Golden Oldies
+http://traxx023.ice.infomaniak.ch/traxx023-1.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Absolute 70's Pop Radio
 http://strm112.1.fm/70s_mobile_mp3
@@ -203,14 +203,14 @@ http://stream01.my105.ch/my105djnights.mp3
 #EXTINF:-1 tvg-logo="https://www.lfm.ch/wp-content/uploads/2021/07/cropped-radio-lausanne-fm-sa-icone-du-site-180x180.png" group-title="CH",LFM
 http://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Absolute 90s Party Zone Radio
-http://strm112.1.fm/partyzone90s_mobile_mp3
-
 #EXTINF:-1 tvg-logo="https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png" group-title="CH",RTS Option Musique
 http://stream.srg-ssr.ch/srgssr/option-musique/mp3/128
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Slow Jamz Radio
 http://strm112.1.fm/slowjamz_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Absolute 90s Party Zone Radio
+http://strm112.1.fm/partyzone90s_mobile_mp3
 
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6a/58/1366/2/c175.png" group-title="CH",1.fm Otto's Baroque music
 http://strm112.1.fm/baroque_mobile_aac
@@ -290,14 +290,14 @@ http://strm112.1.fm/oldschool_mobile_mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",Electro Radio
 http://stream.radiojar.com/fkyxx4q35k0uv
 
+#EXTINF:-1 tvg-logo="https://ch.az-cdn.ch/static/3.3.2/radiomelody/device-icons/48x48.png" group-title="CH",Radio Melody
+https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1685221374
+
 #EXTINF:-1 tvg-logo="http://www.basilisk.ch/assets/favicons/apple-icon-120x120.png" group-title="CH",Radio Basilisk
 http://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Chillout Lounge Radio
 http://strm112.1.fm/chilloutlounge_mobile_mp3
-
-#EXTINF:-1 tvg-logo="https://ch.az-cdn.ch/static/3.3.2/radiomelody/device-icons/48x48.png" group-title="CH",Radio Melody
-https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1685221374
 
 #EXTINF:-1 tvg-logo="https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png" group-title="CH",RSR La Premiere
 http://stream.srg-ssr.ch/srgssr/la-1ere/aac/96

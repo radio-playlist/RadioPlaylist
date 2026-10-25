@@ -15,7 +15,7 @@ http://origin-rastamusic.streamguys1.com/rastamusic.mp3
 http://alphaboys-live.streamguys1.com/alphaboys.mp3
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/reggae400.jpg" group-title="US",SomaFM Heavyweight Reggae (256k MP3)
-https://ice2.somafm.com/reggae-256-mp3
+https://ice5.somafm.com/reggae-256-mp3
 
 #EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="FR",FIP Reggae
 http://icecast.radiofrance.fr/fipreggae-hifi.aac
@@ -62,11 +62,11 @@ https://listen.radioking.com/radio/50473/stream/87415
 #EXTINF:-1 tvg-logo="http://www.fipradio.fr/dist/favicons/logo-120.png" group-title="FR",FIP autour du reggae
 http://direct.fipradio.fr/live/fip-webradio6.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Roots Reggae
-http://79.111.119.111:9047/
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.urbano106.com/wp-content/uploads/2018/10/LOGO-PARA-WEBS.png" group-title="CR",Urbano 106 - 105.9 FM - San José, Costa Rica
 https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1
+
+#EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Roots Reggae
+http://79.111.119.111:9047/
 
 #EXTINF:-1 tvg-logo="https://www.funx.nl/apple-touch-icon.png" group-title="NL",NPO FunX Reggae
 http://icecast.omroep.nl/funx-reggaefb-bb-mp3
@@ -96,7 +96,7 @@ https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
 https://starchild.radioca.st/
 
 #EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="DE",radioeins-rbb-56 kbit/s
-http://d131.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3KoKLQ7m6YfTuXUWNfcwV6iuOpJ&token=hNLDebzO_REM12pouYsTnZ9jcTOw4mq6cyG5otTv1ak&tvf=GeOQK85Q3xhkMTMxLnJuZGZuay5jb20
+http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3L2V5lN1YDW4mbv4DVWkmodHeqz&token=ZBZ8es_qzZAPhZIa6MIRFwBY4fiP_0J8LXWoHps1G2E&tvf=ponUzBzb4BhmMTIxLnJuZGZuay5jb20
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7d4435_7b92a4f288274c54a86dd8ea48b985a6~mv2.png/v1/fill/w_208,h_92,al_c,usm_0.66_1.00_0.01/7d4435_7b92a4f288274c54a86dd8ea48b985a6~mv2.png" group-title="LC",The Wave 94.5 & 93.7 Castries
 http://ice66.securenetsystems.net/THEWAVE
@@ -125,11 +125,11 @@ http://www.radioking.com/play/radio-zodiac-ireland
 #EXTINF:-1 tvg-logo="" group-title="DE",Laut.FM Skafari
 http://stream.laut.fm/skafari
 
-#EXTINF:-1 tvg-logo="http://www.rtbf.be/favicon.ico" group-title="BE",RTBF Classic 21 - Reggae
-https://radios.rtbf.be/wr-eventradio-128.mp3
-
 #EXTINF:-1 tvg-logo="https://80s.intamixx.uk/images/imc8090.jpg" group-title="GB",Intamixx 80s 90s Radio UK
 https://radio.intamixx.uk:8443/radio2
+
+#EXTINF:-1 tvg-logo="http://www.rtbf.be/favicon.ico" group-title="BE",RTBF Classic 21 - Reggae
+https://radios.rtbf.be/wr-eventradio-128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="VI",WSTX-AM 970 Christiansted
 http://wstxradio2.serverroom.net:8340/;
@@ -164,20 +164,20 @@ http://streams.fluxfm.de/dubradio/mp3-128/streams.fluxfm.de/
 #EXTINF:-1 tvg-logo="https://starcomnetwork.net/wp-content/uploads/2024/01/HOTT-953-FM-LOGO-full-colour-wide-3-1536x840.png" group-title="BB",HOTT 95.3FM
 https://ice64.securenetsystems.net/HOTT953
 
-#EXTINF:-1 tvg-logo="https://zipfm.net/wp-content/uploads/2023/12/logo.svg" group-title="JM",Zip FM 103 FM
-https://stream.zeno.fm/c0ytcn43vxquv
-
 #EXTINF:-1 tvg-logo="" group-title="GD",Boss FM 104.1-104.9 - Grenada
 https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1
+
+#EXTINF:-1 tvg-logo="https://zipfm.net/wp-content/uploads/2023/12/logo.svg" group-title="JM",Zip FM 103 FM
+https://stream.zeno.fm/c0ytcn43vxquv
 
 #EXTINF:-1 tvg-logo="" group-title="CA",100 % COVERS LOUNGE
 https://az1.mediacp.eu/listen/100coverslounge/radio.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="LC",REV-UP SLU
-https://caribspy.com/proxy/revupslu/stream
-
 #EXTINF:-1 tvg-logo="https://www.jointil.com/broadcast/images/joint.radio350X350.png" group-title="IL",#joint radio Reggae
 https://jointil.com/stream-reggae
+
+#EXTINF:-1 tvg-logo="" group-title="LC",REV-UP SLU
+https://caribspy.com/proxy/revupslu/stream
 
 #EXTINF:-1 tvg-logo="" group-title="Global",laut.fm Gta Classics
 http://stream.laut.fm/gta-classics
@@ -197,11 +197,11 @@ https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
 #EXTINF:-1 tvg-logo="" group-title="PA",Fabulosa Estéreo 100.5 FM
 https://www.streaming507.net:8130/stream
 
-#EXTINF:-1 tvg-logo="https://www.caribbeanpowerjamradio.com/wp-content/uploads/2022/10/cropped-download-180x180.png" group-title="US",Caribbean Power Jam Radio
-http://auds1.intacs.com/caribbeanpowerjamradio
-
 #EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="BB",Q 100.7 FM
 http://108.178.16.190:8000/1007fm.mp3
+
+#EXTINF:-1 tvg-logo="https://www.caribbeanpowerjamradio.com/wp-content/uploads/2022/10/cropped-download-180x180.png" group-title="US",Caribbean Power Jam Radio
+http://auds1.intacs.com/caribbeanpowerjamradio
 
 #EXTINF:-1 tvg-logo="" group-title="GD",Hot Shotz Radio - Grenada
 http://usa1.fastcast4u.com:3292/stream

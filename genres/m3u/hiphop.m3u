@@ -18,19 +18,19 @@ http://bigrradio.cdnstream1.com/5105_128
 https://listen-msmn.sharp-stream.com/nme2.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Deutschrap
-http://deutschrap.stream.laut.fm/deutschrap?t302=2026-10-17_00-27-00&uuid=b4cac1c2-779b-8eb9-56af-a983b4f47dd4
+http://deutschrap.stream.laut.fm/deutschrap?t302=2026-10-22_00-51-16&uuid=0aa963f6-a654-8fc1-5028-223292773a0e
 
 #EXTINF:-1 tvg-logo="" group-title="UG",Uganda DJs
 https://stream.zeno.fm/muzrp86994zuv
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/fluid-400.jpg" group-title="US",SomaFM Fluid (128k MP3)
-https://ice2.somafm.com/fluid-128-mp3
+https://ice5.somafm.com/fluid-128-mp3
+
+#EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - hip hop turnup
+http://ilm.stream35.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkyNjQ5MDY2JmQ9OWI5MTg1YTUxNjMyYjg1NWYyNjQ
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio 105 - HipHop & RnB
 http://icy.unitedradio.it/105HipHopRnB.mp3
-
-#EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - hip hop turnup
-http://ilm.stream27.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkyMjE1MjM2JmQ9NzQzZTJmZDk1NjNiZTRkMGEyYmQ
 
 #EXTINF:-1 tvg-logo="" group-title="RU",HIP HOP RADIO
 https://tntradio.hostingradio.ru:8027/hhr128.mp3
@@ -42,7 +42,7 @@ https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts
 http://stream.trace.tv/trace_fm_ci-midfi.aac
 
 #EXTINF:-1 tvg-logo="" group-title="ZA",94.7
-http://25703.live.streamtheworld.com:3690/FM947AAC_SC
+http://27953.live.streamtheworld.com/FM947AAC_SC
 
 #EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Hip Hop
 http://195.150.20.8/HIPHOP
@@ -60,7 +60,7 @@ http://gdsfm.out.airtime.pro:8000/gdsfm_a
 http://streams.bigfm.de/bigfm-deutschrap-128-aac
 
 #EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - US Only Rap&HipHop Radio
-https://ilm.stream35.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyMTk0MTU5JmQ9NjhiMTg5NDBiYmM1ZjczZDNhNTQ
+https://ilm.stream12.radiohost.de/ilm_iloveusonlyrapradio_mp3-192?upd-meta&upd-scheme=https&_art=dD0xNzkyNjI2NzA4JmQ9MDU3OTYxMDkyMWZkYzUzMWFkOGQ
 
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio REMIX
 https://stream.0nlineradio.com/remix?ref=radiobrowser
@@ -69,7 +69,7 @@ https://stream.0nlineradio.com/remix?ref=radiobrowser
 http://icy.unitedradio.it/105RapItalia.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Jamz
-http://24293.live.streamtheworld.com/977_JAMZ_SC
+http://26343.live.streamtheworld.com/977_JAMZ_SC
 
 #EXTINF:-1 tvg-logo="" group-title="DE",OLDSCHOOL HIPHOP
 http://stream.laut.fm/oldschool-hiphop
@@ -176,11 +176,11 @@ http://stream.laut.fm/1000hiphop
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__DEUTSCHRAP CLASSIC__ by rautemusik (rm.fm)
 https://deutschrap-classic-high.rautemusik.fm/?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="" group-title="DE",__BREAKZ.FM__ by rm.fm (rautemusik)
-https://breakz-high.rautemusik.fm/?ref=radiobrowserinfo
-
 #EXTINF:-1 tvg-logo="" group-title="DE",BPMcast
 http://stream.laut.fm/bpmcast
+
+#EXTINF:-1 tvg-logo="" group-title="DE",__BREAKZ.FM__ by rm.fm (rautemusik)
+https://breakz-high.rautemusik.fm/?ref=radiobrowserinfo
 
 #EXTINF:-1 tvg-logo="" group-title="DE",BLACKBEATS.FM
 http://stream3.blackbeats.fm/;
@@ -197,14 +197,14 @@ http://mp3.radiox.ch:8000/standard.mp3
 #EXTINF:-1 tvg-logo="http://www.defjay.com/favicon.ico" group-title="DE",DefJay
 http://listen.defjay.com/
 
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/1449/66d36cdd8c650.png" group-title="UG",NRG Uganda 106.5
+https://dc4.serverse.com/proxy/nrgugstream/stream
+
 #EXTINF:-1 tvg-logo="https://facebook.com/favicon.ico" group-title="PH",Rage Music Philippines
 https://stream.zeno.fm/yu9dryfs7x8uv.mp3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jMH358Y/deutschrap.jpg" group-title="DE",__DEUTSCHRAP__ by rautemusik (rm.fm)
 https://deutschrap-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/1449/66d36cdd8c650.png" group-title="UG",NRG Uganda 106.5
-https://dc4.serverse.com/proxy/nrgugstream/stream
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-hits_600x600.jpg" group-title="DE",- 0 N - Hits on Radio
 https://0n-hits.radionetz.de/0n-hits.mp3
@@ -246,7 +246,7 @@ http://listen.mrg.fm:8100/stream
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-partybreakz
 
 #EXTINF:-1 tvg-logo="http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM - BoomFM Classics
-http://fluxfm.streamabc.net/flx-boomfmclassics-mp3-320-4725180?sABC=6nq302s3%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1792213747
+http://fluxfm.streamabc.net/flx-boomfmclassics-mp3-320-4725180?sABC=6nq99qr7%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1792646631
 
 #EXTINF:-1 tvg-logo="" group-title="DE",DefJay Urban
 http://icepool.silvacast.com/DEFJAYcom.mp3
@@ -260,11 +260,11 @@ https://radio.canstream.co.uk:8022/live.mp3
 #EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="FR",Générations Lyon
 http://radiosun.ice.infomaniak.ch/radiosun-high.mp3
 
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-hits_600x600.jpg" group-title="DE",- 0 N - Hits on Radio
-https://0n-hits.radionetz.de/0n-hits.aac
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HXhMnpX/CLUBDJ-RADIO.jpg" group-title="DE",#CLUB RADIO - DEIN DJ @ HOME - - DJ Remix & Charts, , Electronic Music, EDM, House, Deep House, Techno, Melodic House & Techno, Top40, Latin, Reggaeton, Urban, HipHop, Club & Party Radio
 https://breakz-2012-high.rautemusik.fm/?ref=rb-deindj
+
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-hits_600x600.jpg" group-title="DE",- 0 N - Hits on Radio
+https://0n-hits.radionetz.de/0n-hits.aac
 
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio 2000er
 https://stream.0nlineradio.com/2000er?ref=radiobrowser
@@ -279,7 +279,7 @@ http://centova.dukahosting.com:2022/stream
 http://deutschrap-high.rautemusik.fm/
 
 #EXTINF:-1 tvg-logo="http://www.size-radio.com/favicon.ico" group-title="FR",Size Radio
-http://n13.radiojar.com/atr1e8aswa5tv
+http://n0f.radiojar.com/atr1e8aswa5tv
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-pop_600x600.jpg" group-title="DE",- 0 N - Pop on Radio
 https://0n-pop.radionetz.de/0n-pop.aac
@@ -287,11 +287,11 @@ https://0n-pop.radionetz.de/0n-pop.aac
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="FR",Allzic Radio Black
 http://allzic04.ice.infomaniak.ch/allzic04.mp3
 
-#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-hits_600x600.jpg" group-title="DE",- 1 A - Hits von 1A Radio
-https://1a-hits.radionetz.de/1a-hits.mp3
-
 #EXTINF:-1 tvg-logo="https://zipfm.net/wp-content/uploads/2023/12/logo.svg" group-title="JM",Zip FM 103 FM
 https://stream.zeno.fm/c0ytcn43vxquv
+
+#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-hits_600x600.jpg" group-title="DE",- 1 A - Hits von 1A Radio
+https://1a-hits.radionetz.de/1a-hits.mp3
 
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/04bb1a6e-6823-4ab1-8bd6-686ed934a7c7.gif" group-title="GR",Prime 100.3
 http://s20.myradiostream.com:6738/;listen.pls
