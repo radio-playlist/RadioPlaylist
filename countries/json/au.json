@@ -14,8 +14,8 @@
     "tags": "abc,news,newsradio,public radio",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 10082,
-    "clickcount": 40
+    "votes": 10096,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 9041,
-    "clickcount": 31
+    "votes": 9055,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -50,7 +50,7 @@
     "tags": "dance,electronica,melbourne",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7635,
+    "votes": 7646,
     "clickcount": 12
   },
   {
@@ -68,8 +68,8 @@
     "tags": "abc,features,information,news,public radio",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 4724,
-    "clickcount": 24
+    "votes": 4727,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "progressive rock",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 3888,
-    "clickcount": 9
+    "votes": 3890,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "classic hits",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 3424,
-    "clickcount": 11
+    "votes": 3427,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -122,7 +122,7 @@
     "tags": "community radio,music,pop",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 1645,
+    "votes": 1647,
     "clickcount": 5
   },
   {
@@ -140,8 +140,8 @@
     "tags": "chillout",
     "codec": "AAC+",
     "bitrate": 97,
-    "votes": 1571,
-    "clickcount": 18
+    "votes": 1576,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "disco,funk,soul",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1366,
-    "clickcount": 8
+    "votes": 1367,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -176,8 +176,8 @@
     "tags": "conservative,discussion,news,politics,rightwing,sky news,talk",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 1235,
-    "clickcount": 72
+    "votes": 1250,
+    "clickcount": 68
   },
   {
     "id": null,
@@ -195,7 +195,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 1211,
-    "clickcount": 5
+    "clickcount": 3
   },
   {
     "id": null,
@@ -212,8 +212,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 920,
-    "clickcount": 11
+    "votes": 922,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -228,10 +228,10 @@
     "state": "New South Wales",
     "language": "english",
     "tags": "80s,90s,hits",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 912,
-    "clickcount": 49
+    "codec": "AAC+",
+    "bitrate": 192,
+    "votes": 918,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -249,7 +249,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 813,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -266,7 +266,7 @@
     "tags": "#free,classic rock,free fm,free fm rock,hard rock,melbourne,music,pop rock,rock'n'roll,soft rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 762,
+    "votes": 764,
     "clickcount": 4
   },
   {
@@ -285,7 +285,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 750,
-    "clickcount": 3
+    "clickcount": 4
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 80,
-    "votes": 718,
-    "clickcount": 0
+    "votes": 719,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -320,7 +320,7 @@
     "tags": "italian pop",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 716,
+    "votes": 718,
     "clickcount": 3
   },
   {
@@ -338,7 +338,7 @@
     "tags": "the beatles",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 712,
+    "votes": 717,
     "clickcount": 7
   },
   {
@@ -356,8 +356,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 33,
-    "votes": 672,
-    "clickcount": 3
+    "votes": 673,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -374,8 +374,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 665,
-    "clickcount": 5
+    "votes": 669,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -392,8 +392,8 @@
     "tags": "am1629",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 657,
-    "clickcount": 19
+    "votes": 660,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -411,7 +411,7 @@
     "codec": "AAC",
     "bitrate": 130,
     "votes": 631,
-    "clickcount": 6
+    "clickcount": 9
   },
   {
     "id": null,
@@ -428,8 +428,8 @@
     "tags": "soft adult contemporary",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 618,
-    "clickcount": 16
+    "votes": 627,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -446,8 +446,8 @@
     "tags": "news,talk",
     "codec": "AAC",
     "bitrate": 115,
-    "votes": 617,
-    "clickcount": 18
+    "votes": 622,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -464,8 +464,8 @@
     "tags": "adult top 40",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 565,
-    "clickcount": 3
+    "votes": 566,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -483,7 +483,7 @@
     "codec": "AAC+",
     "bitrate": 56,
     "votes": 539,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -500,8 +500,8 @@
     "tags": "news",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 531,
-    "clickcount": 12
+    "votes": 534,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -518,8 +518,8 @@
     "tags": "classic hits,news,pop music,smooth",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 528,
-    "clickcount": 3
+    "votes": 531,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -536,8 +536,8 @@
     "tags": "community,eclectic,sydney",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 502,
-    "clickcount": 2
+    "votes": 504,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -554,8 +554,8 @@
     "tags": "news",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 488,
-    "clickcount": 2
+    "votes": 498,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -572,8 +572,8 @@
     "tags": "c-pop,cantonese,chinese pop,cpop,hong kong music,j-pop,japanese music,jpop,k-pop,korean music,kpop,multicultural,pop music,taiwanese pop",
     "codec": "AAC+",
     "bitrate": 97,
-    "votes": 482,
-    "clickcount": 7
+    "votes": 483,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -590,8 +590,8 @@
     "tags": "old time radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 480,
-    "clickcount": 9
+    "votes": 483,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -609,7 +609,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 476,
-    "clickcount": 3
+    "clickcount": 2
   },
   {
     "id": null,
@@ -626,8 +626,8 @@
     "tags": "community radio,indie,low bandwidth",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 451,
-    "clickcount": 5
+    "votes": 452,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -644,8 +644,8 @@
     "tags": "australia,pop,rock",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 439,
-    "clickcount": 1
+    "votes": 445,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -662,8 +662,8 @@
     "tags": "news,talk radio",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 432,
-    "clickcount": 24
+    "votes": 434,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -680,8 +680,8 @@
     "tags": "news,talk",
     "codec": "AAC",
     "bitrate": 115,
-    "votes": 419,
-    "clickcount": 4
+    "votes": 422,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -698,7 +698,7 @@
     "tags": "70s rock ballads",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 416,
+    "votes": 417,
     "clickcount": 5
   },
   {
@@ -716,8 +716,8 @@
     "tags": "iron maiden",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 409,
-    "clickcount": 2
+    "votes": 412,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -735,7 +735,7 @@
     "codec": "MP3",
     "bitrate": 48,
     "votes": 408,
-    "clickcount": 0
+    "clickcount": 5
   },
   {
     "id": null,
@@ -752,8 +752,8 @@
     "tags": "islamic",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 392,
-    "clickcount": 3
+    "votes": 393,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -771,7 +771,7 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 381,
-    "clickcount": 5
+    "clickcount": 8
   },
   {
     "id": null,
@@ -788,8 +788,8 @@
     "tags": "abc,country,public radio",
     "codec": "AAC",
     "bitrate": 252,
-    "votes": 350,
-    "clickcount": 3
+    "votes": 352,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -807,7 +807,7 @@
     "codec": "AAC",
     "bitrate": 128,
     "votes": 337,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -825,7 +825,7 @@
     "codec": "AAC+",
     "bitrate": 64,
     "votes": 322,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -842,8 +842,8 @@
     "tags": "michael jackson",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 317,
-    "clickcount": 5
+    "votes": 318,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -861,7 +861,25 @@
     "codec": "AAC",
     "bitrate": 128,
     "votes": 307,
-    "clickcount": 7
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "655b54c2-1e92-4346-80c5-8bb2ac1168b8",
+    "name": "70s Classics - Sydney (MP3)",
+    "url": "http://stream.zeno.fm/glsntnn7et8vv",
+    "url_resolved": "http://stream.zeno.fm/glsntnn7et8vv",
+    "homepage": "http://www.70sclassics.com.au/",
+    "favicon": "https://i.ibb.co/0J4rWYj/image.webp",
+    "countrycode": "AU",
+    "state": "Sydney NSW",
+    "language": "english",
+    "tags": "1970s,70's,70s,70s disco,70s rock,70s rock ballads,70s soft rock,classics,hits 70's",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 305,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -896,26 +914,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 301,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "655b54c2-1e92-4346-80c5-8bb2ac1168b8",
-    "name": "70s Classics - Sydney (MP3)",
-    "url": "http://stream.zeno.fm/glsntnn7et8vv",
-    "url_resolved": "http://stream.zeno.fm/glsntnn7et8vv",
-    "homepage": "http://www.70sclassics.com.au/",
-    "favicon": "https://i.ibb.co/0J4rWYj/image.webp",
-    "countrycode": "AU",
-    "state": "Sydney NSW",
-    "language": "english",
-    "tags": "1970s,70's,70s,70s disco,70s rock,70s rock ballads,70s soft rock,classics,hits 70's",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 300,
-    "clickcount": 9
+    "votes": 303,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -933,7 +933,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 299,
-    "clickcount": 3
+    "clickcount": 6
   },
   {
     "id": null,
@@ -950,8 +950,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 291,
-    "clickcount": 13
+    "votes": 292,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -968,8 +968,8 @@
     "tags": "music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 289,
-    "clickcount": 9
+    "votes": 292,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -987,7 +987,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 282,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1004,8 +1004,8 @@
     "tags": "news,news talk",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 277,
-    "clickcount": 0
+    "votes": 280,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1023,7 +1023,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 261,
-    "clickcount": 3
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1041,7 +1041,7 @@
     "codec": "AAC+",
     "bitrate": 56,
     "votes": 261,
-    "clickcount": 8
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1059,7 +1059,7 @@
     "codec": "MP3",
     "bitrate": 64,
     "votes": 256,
-    "clickcount": 0
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1077,6 +1077,24 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 246,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "8c94ab1f-c79d-4f18-85db-e8aed2db5450",
+    "name": "Triple M 80s",
+    "url": "http://legacy.scahw.com.au/280s_32",
+    "url_resolved": "http://legacy.scahw.com.au/280s_32",
+    "homepage": "https://www.triplem.com.au/80s",
+    "favicon": "https://triplem.listnr.com/wp-content/uploads/2024/04/cropped-mmm-favicon-180x180.png",
+    "countrycode": "AU",
+    "state": "Select State",
+    "language": "",
+    "tags": "",
+    "codec": "AAC+",
+    "bitrate": 33,
+    "votes": 245,
     "clickcount": 2
   },
   {
@@ -1095,25 +1113,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 242,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "8c94ab1f-c79d-4f18-85db-e8aed2db5450",
-    "name": "Triple M 80s",
-    "url": "http://legacy.scahw.com.au/280s_32",
-    "url_resolved": "http://legacy.scahw.com.au/280s_32",
-    "homepage": "https://www.triplem.com.au/80s",
-    "favicon": "https://triplem.listnr.com/wp-content/uploads/2024/04/cropped-mmm-favicon-180x180.png",
-    "countrycode": "AU",
-    "state": "Select State",
-    "language": "",
-    "tags": "",
-    "codec": "AAC+",
-    "bitrate": 33,
-    "votes": 239,
-    "clickcount": 0
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1130,8 +1130,8 @@
     "tags": "news talk,sport,talkback",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 234,
-    "clickcount": 6
+    "votes": 237,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1148,8 +1148,8 @@
     "tags": "commercial,easy listening",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 232,
-    "clickcount": 7
+    "votes": 233,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1166,8 +1166,8 @@
     "tags": "commercial,easy listening",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 231,
-    "clickcount": 10
+    "votes": 232,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1184,8 +1184,8 @@
     "tags": "talkback",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 222,
-    "clickcount": 1
+    "votes": 226,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1203,7 +1203,25 @@
     "codec": "AAC",
     "bitrate": 65,
     "votes": 217,
-    "clickcount": 2
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "e473dd9e-fd28-407d-8519-d5bc88c1d8ac",
+    "name": "澳大利亚SBS Radio 1",
+    "url": "https://sbs-ice.streamguys1.com/sbs1-sbs-web",
+    "url_resolved": "https://sbs-ice.streamguys1.com/sbs1-sbs-web",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "AU",
+    "state": "",
+    "language": "",
+    "tags": "",
+    "codec": "AAC+",
+    "bitrate": 33,
+    "votes": 212,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1226,24 +1244,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "e473dd9e-fd28-407d-8519-d5bc88c1d8ac",
-    "name": "澳大利亚SBS Radio 1",
-    "url": "https://sbs-ice.streamguys1.com/sbs1-sbs-web",
-    "url_resolved": "https://sbs-ice.streamguys1.com/sbs1-sbs-web",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "AU",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "AAC+",
-    "bitrate": 33,
-    "votes": 210,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "3b1fc575-8da0-4296-9207-98a6cbaadb9f",
     "name": "3RRR Melbourne",
     "url": "https://ondemand.rrr.org.au/stream/ws-hq.m3u",
@@ -1256,8 +1256,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 207,
-    "clickcount": 3
+    "votes": 208,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1274,8 +1274,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 207,
-    "clickcount": 1
+    "votes": 208,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1293,7 +1293,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 207,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1310,8 +1310,8 @@
     "tags": "miley cyrus,taylor swift",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 206,
-    "clickcount": 0
+    "votes": 207,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1328,7 +1328,7 @@
     "tags": "greatest hits",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 205,
+    "votes": 206,
     "clickcount": 0
   },
   {
@@ -1346,8 +1346,8 @@
     "tags": "abc,jazz,public radio",
     "codec": "AAC",
     "bitrate": 252,
-    "votes": 202,
-    "clickcount": 16
+    "votes": 204,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -1382,7 +1382,7 @@
     "tags": "britpop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 195,
+    "votes": 196,
     "clickcount": 1
   },
   {
@@ -1401,7 +1401,25 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 194,
-    "clickcount": 2
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "934243ce-bf5b-42e0-a472-4c952c42aec7",
+    "name": "Australian Digital Radio Network - The Rolling Stones (MP3)",
+    "url": "http://abm21.com.au:8000/CONTAINER149",
+    "url_resolved": "http://abm21.com.au:8000/CONTAINER149",
+    "homepage": "http://www.australiandigitalradio.com/",
+    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
+    "countrycode": "AU",
+    "state": "Sydney NSW",
+    "language": "english",
+    "tags": "the rolling stones",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 190,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1419,25 +1437,25 @@
     "codec": "MP3",
     "bitrate": 48,
     "votes": 189,
-    "clickcount": 2
+    "clickcount": 6
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "934243ce-bf5b-42e0-a472-4c952c42aec7",
-    "name": "Australian Digital Radio Network - The Rolling Stones (MP3)",
-    "url": "http://abm21.com.au:8000/CONTAINER149",
-    "url_resolved": "http://abm21.com.au:8000/CONTAINER149",
-    "homepage": "http://www.australiandigitalradio.com/",
-    "favicon": "http://www.australiandigitalradio.com/favicon.ico",
+    "stationuuid": "bfef6527-dc0c-47f3-8622-6f6598dd81dc",
+    "name": "2AC澳洲华人电台粤语广播",
+    "url": "http://s1.voscast.com:10442/stream",
+    "url_resolved": "http://s1.voscast.com:10442/stream",
+    "homepage": "https://www.2ac.com.au/",
+    "favicon": "https://webertop.oss-cn-hongkong.topkee.top/u_400996516145270784/202211041155668.svg",
     "countrycode": "AU",
     "state": "Sydney NSW",
-    "language": "english",
-    "tags": "the rolling stones",
+    "language": "cantonese",
+    "tags": "full service",
     "codec": "MP3",
-    "bitrate": 128,
-    "votes": 188,
-    "clickcount": 0
+    "bitrate": 48,
+    "votes": 185,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1455,25 +1473,7 @@
     "codec": "AAC",
     "bitrate": 252,
     "votes": 185,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "bfef6527-dc0c-47f3-8622-6f6598dd81dc",
-    "name": "2AC澳洲华人电台粤语广播",
-    "url": "http://s1.voscast.com:10442/stream",
-    "url_resolved": "http://s1.voscast.com:10442/stream",
-    "homepage": "https://www.2ac.com.au/",
-    "favicon": "https://webertop.oss-cn-hongkong.topkee.top/u_400996516145270784/202211041155668.svg",
-    "countrycode": "AU",
-    "state": "Sydney NSW",
-    "language": "cantonese",
-    "tags": "full service",
-    "codec": "MP3",
-    "bitrate": 48,
-    "votes": 184,
-    "clickcount": 15
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1490,8 +1490,8 @@
     "tags": "news,talk",
     "codec": "AAC",
     "bitrate": 115,
-    "votes": 184,
-    "clickcount": 7
+    "votes": 185,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1509,7 +1509,7 @@
     "codec": "AAC+",
     "bitrate": 33,
     "votes": 179,
-    "clickcount": 3
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1526,8 +1526,26 @@
     "tags": "alternative rock,blues rock,classic rock,hard rock,indie rock,pop rock,progressive rock,punk rock,rock,soft rock",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 172,
-    "clickcount": 4
+    "votes": 173,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "35f863a6-4cf4-400b-8944-0f33d32ff974",
+    "name": "4BC - Brisbane - 882 AM (MP3)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3",
+    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3",
+    "homepage": "https://www.4bc.com.au/",
+    "favicon": "https://www.4bc.com.au/wp-content/uploads/sites/10/2023/01/4BC.png",
+    "countrycode": "AU",
+    "state": "Brisbane QLD",
+    "language": "english",
+    "tags": "news,talk radio",
+    "codec": "MP3",
+    "bitrate": 96,
+    "votes": 171,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1545,7 +1563,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 171,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1563,24 +1581,6 @@
     "codec": "AAC",
     "bitrate": 252,
     "votes": 170,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "35f863a6-4cf4-400b-8944-0f33d32ff974",
-    "name": "4BC - Brisbane - 882 AM (MP3)",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3",
-    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/4BC.mp3",
-    "homepage": "https://www.4bc.com.au/",
-    "favicon": "https://www.4bc.com.au/wp-content/uploads/sites/10/2023/01/4BC.png",
-    "countrycode": "AU",
-    "state": "Brisbane QLD",
-    "language": "english",
-    "tags": "news,talk radio",
-    "codec": "MP3",
-    "bitrate": 96,
-    "votes": 168,
     "clickcount": 2
   },
   {
@@ -1607,7 +1607,7 @@
     "stationuuid": "0cfbde6a-2404-4345-9468-8e17167b5006",
     "name": "Coast 2 Coast Radio Australia",
     "url": "https://stream.c2cra.online/live",
-    "url_resolved": "http://stream.c2cra.online/live",
+    "url_resolved": "https://stream.c2cra.online/live",
     "homepage": "https://c2cra.online/",
     "favicon": "https://c2cra.online/wp-content/uploads/2026/03/update_logo-1-1024x683.png",
     "countrycode": "AU",
@@ -1617,7 +1617,7 @@
     "codec": "AAC",
     "bitrate": 128,
     "votes": 165,
-    "clickcount": 0
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1634,8 +1634,8 @@
     "tags": "dance,hip-hop,metal,pop,rock",
     "codec": "AAC",
     "bitrate": 252,
-    "votes": 161,
-    "clickcount": 8
+    "votes": 163,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1689,7 +1689,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 155,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1712,6 +1712,24 @@
   {
     "id": null,
     "source": "radio_browser_github",
+    "stationuuid": "c3457e20-c5fb-4201-bc09-49d7f3745f36",
+    "name": "iHeartDance Australia (AAC)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7AAC.aac",
+    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7AAC.aac",
+    "homepage": "https://www.iheart.com/live/iheartdance-6941/",
+    "favicon": "https://i.ibb.co/hXM4wC3/652741b2f702ccd6ae1831d1.jpg",
+    "countrycode": "AU",
+    "state": "",
+    "language": "english",
+    "tags": "dance,dance music",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "votes": 152,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
     "stationuuid": "b8e1f81d-e4ba-44f5-9f65-1b0e7283f502",
     "name": "Australian Digital Radio Network - 1970s Pop Number 1s (MP3)",
     "url": "http://abm21.com.au:8000/CONTAINER81",
@@ -1725,24 +1743,6 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 151,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "c3457e20-c5fb-4201-bc09-49d7f3745f36",
-    "name": "iHeartDance Australia (AAC)",
-    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7AAC.aac",
-    "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7AAC.aac",
-    "homepage": "https://www.iheart.com/live/iheartdance-6941/",
-    "favicon": "https://i.ibb.co/hXM4wC3/652741b2f702ccd6ae1831d1.jpg",
-    "countrycode": "AU",
-    "state": "",
-    "language": "english",
-    "tags": "dance,dance music",
-    "codec": "AAC+",
-    "bitrate": 48,
-    "votes": 150,
     "clickcount": 0
   },
   {
@@ -1761,7 +1761,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 150,
-    "clickcount": 3
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1779,7 +1779,7 @@
     "codec": "AAC+",
     "bitrate": 64,
     "votes": 148,
-    "clickcount": 1
+    "clickcount": 3
   },
   {
     "id": null,

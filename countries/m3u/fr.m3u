@@ -65,11 +65,11 @@ http://stream.chantefrance.com/Chante_France
 #EXTINF:-1 tvg-logo="https://www.sudradio.fr/wp-content/uploads/2019/06/cropped-favicon-180x180.png" group-title="FR",Sud Radio
 https://ice.creacast.com/sudradio
 
-#EXTINF:-1 tvg-logo="" group-title="FR",France Musique
-http://direct.francemusique.fr/live/francemusique-midfi.mp3
-
 #EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/76/27/105095/3/c300.png" group-title="FR",BFM radio
 https://audio.bfmtv.com/bfmradio_128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="FR",France Musique
+http://direct.francemusique.fr/live/francemusique-midfi.mp3
 
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="FR",Latina Salsa
 http://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3
@@ -95,7 +95,7 @@ http://generationfm-slowjam.ice.infomaniak.ch/generationfm-slowjam-high.mp3
 #EXTINF:-1 tvg-logo="" group-title="FR",La Grosse Radio Métal
 http://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/France_Musique_-_2008.svg/1024px-France_Musique_-_2008.svg.png" group-title="FR",France Musique
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/France_Musique_logo_2021.svg" group-title="FR",France Musique
 http://icecast.radiofrance.fr/francemusique-hifi.aac
 
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="FR",Latina Reggaeton
@@ -236,11 +236,11 @@ http://live02.rfi.fr/rfienpersan-64k.mp3
 #EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Lounge
 http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3
 
-#EXTINF:-1 tvg-logo="http://www.vip-radios.fm/favicon.ico" group-title="FR",VIP-Radios - Time To Relax
-http://178.32.111.41:8048/stream-128kmp3-TimeToRelax
-
 #EXTINF:-1 tvg-logo="https://duckduckgo.com/i/035a5e15d396c67a.png" group-title="FR",RTL
 https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.vip-radios.fm/favicon.ico" group-title="FR",VIP-Radios - Time To Relax
+http://178.32.111.41:8048/stream-128kmp3-TimeToRelax
 
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon" group-title="FR",Chante France Nouveautés
 http://stream.chantefrance.com/cf-nouveautes.aac
@@ -250,9 +250,6 @@ http://london-dedicated.myautodj.com:8862/stream
 
 #EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="FR",FIP Groove
 http://icecast.radiofrance.fr/fipgroove-hifi.aac
-
-#EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png" group-title="FR",France Info
-http://icecast.radiofrance.fr/franceinfo-hifi.aac
 
 #EXTINF:-1 tvg-logo="http://en.rfi.fr/android-chrome-192x192.png" group-title="FR",RFI Anglais - English
 http://live02.rfi.fr/rfienanglais-64.mp3
@@ -296,9 +293,12 @@ http://direct.francebleu.fr/live/fb1071-midfi.mp3
 #EXTINF:-1 tvg-logo="" group-title="FR",Tropiques FM
 http://listen.radioking.com/radio/8916/stream/19088
 
+#EXTINF:-1 tvg-logo="http://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2fwww.radioclassique.fr%2f" group-title="FR",Radio Classique
+https://str0.creacast.com/classique1
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/bae3bf_0b6fc93bb1584f329723c0241a93c65c~mv2.png/v1/fill/w_111,h_111,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%20RHM%20SUR%20ROUGE.png" group-title="FR",Radio Heavy Metal
 https://manager7.streamradio.fr:1435/stream
 
-#EXTINF:-1 tvg-logo="http://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2fwww.radioclassique.fr%2f" group-title="FR",Radio Classique
-https://str0.creacast.com/classique1
+#EXTINF:-1 tvg-logo="" group-title="FR",France Musique | La Jazz
+http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3
 

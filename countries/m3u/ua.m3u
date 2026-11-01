@@ -53,11 +53,11 @@ https://online.kissfm.ua/KissFM_Ukr
 #EXTINF:-1 tvg-logo="https://radiotrek.rv.ua/tpl/images/icons/apple-touch-icon.png" group-title="UA",Радіо Трек
 http://online2.radiotrek.rv.ua:8000/AAC+_64
 
-#EXTINF:-1 tvg-logo="" group-title="UA",Львівська хвиля (32 кбіт/с)
-http://onair.lviv.fm:8000/lviv32.fm
-
 #EXTINF:-1 tvg-logo="" group-title="UA",Радіо НВ 96.0
 https://online-radio.nv.ua/radionv.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="UA",Львівська хвиля (32 кбіт/с)
+http://onair.lviv.fm:8000/lviv32.fm
 
 #EXTINF:-1 tvg-logo="https://abs.twimg.com/favicons/twitter.2.ico" group-title="UA",TRANCE IS STAR RADIO
 https://myradio24.org/tisradio
@@ -161,11 +161,11 @@ http://trueblackmetalradio.com:666/radio
 #EXTINF:-1 tvg-logo="" group-title="UA",Єдині новини 24 - BREAKING - LIVE
 https://online-news.radioplayer.ua/RadioNews
 
-#EXTINF:-1 tvg-logo="" group-title="UA",Люкс 104.7
-http://icecast.luxnet.ua/luxlviv
-
 #EXTINF:-1 tvg-logo="" group-title="UA",Radio NV (Радіо НВ)
 https://online-radio.nv.ua/radionv.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="UA",Люкс 104.7
+http://icecast.luxnet.ua/luxlviv
 
 #EXTINF:-1 tvg-logo="" group-title="UA",Radio ROKS Classic Rock
 https://online.radioroks.ua/RadioROKS_ClassicRock_HD
@@ -175,9 +175,6 @@ https://online.radiorelax.ua/RadioRelax
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/uk/b/be/Logo_radio_roks.png" group-title="UA",Radio ROCKS Kyiv 103.6FM HD
 https://online.radioroks.ua/RadioROKS_HD
-
-#EXTINF:-1 tvg-logo="https://perec.fm/wp-content/themes/perecfm/img/logo.png" group-title="UA",Перець FM
-https://radio.perec.fm/radio-stilnoe
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/uk/b/be/Logo_radio_roks.png" group-title="UA",Radio ROCKS Новий Рок 103.6FM HD
 https://online.radioroks.ua/RadioROKS_NewRock_HD
@@ -206,14 +203,14 @@ http://radio.moa.org.ua/Friday
 #EXTINF:-1 tvg-logo="" group-title="UA",Radio Jazz Cover
 https://online.radiojazz.ua/RadioJazz_Cover_HD
 
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_141908308.jpg?alt=media&token=5b476f2f-6a30-4b8b-8d70-96c135e82ca8" group-title="UA",Радіо Шлягер FM
-https://cast.brg.ua/shanson_main_public_mp3_hq
+#EXTINF:-1 tvg-logo="" group-title="UA",106.5 Kiss FM
+https://online.kissfm.ua/KissFM_HD
 
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/os5abDD5JYqyk9n46" group-title="UA",Radio Svoboda (Радіо Свобода)
 https://n04.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABijO2KqMAvyNNc6ijVnKFQA
 
-#EXTINF:-1 tvg-logo="" group-title="UA",106.5 Kiss FM
-https://online.kissfm.ua/KissFM_HD
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250111_141908308.jpg?alt=media&token=5b476f2f-6a30-4b8b-8d70-96c135e82ca8" group-title="UA",Радіо Шлягер FM
+https://cast.brg.ua/shanson_main_public_mp3_hq
 
 #EXTINF:-1 tvg-logo="" group-title="UA",Informator FM
 https://main.inf.fm:8101/;?type=http&nocache=221893
@@ -242,11 +239,11 @@ http://online.radiojazz.ua/RadioJazz
 #EXTINF:-1 tvg-logo="" group-title="UA",Radio NV
 https://online-radio.nv.ua/radionv.mp3
 
-#EXTINF:-1 tvg-logo="https://mjoy.ua/radio/rzk/favicons/apple-touch-icon-120x120.png" group-title="UA",RZK
-http://stream.mjoy.ua:8000/rzk-aac
-
 #EXTINF:-1 tvg-logo="" group-title="UA",УХ-Радіо
 http://193.169.80.7:8001/efir
+
+#EXTINF:-1 tvg-logo="https://mjoy.ua/radio/rzk/favicons/apple-touch-icon-120x120.png" group-title="UA",RZK
+http://stream.mjoy.ua:8000/rzk-aac
 
 #EXTINF:-1 tvg-logo="" group-title="UA",Radio Rocks
 http://195.95.206.13:8000/RadioROKS
@@ -266,23 +263,23 @@ https://online.nasheradio.ua/NasheRadio_HD
 #EXTINF:-1 tvg-logo="http://holos.fm/webplayer/img/coverart.png" group-title="UA",Holos.FM
 http://holos.fm:8000/holos
 
+#EXTINF:-1 tvg-logo="" group-title="UA",DJFM.UA [MP3 256k]
+https://cast.fex.net/djfm_x
+
 #EXTINF:-1 tvg-logo="http://zakarpattyafm.com.ua/wp-content/themes/zakfm/ico.png" group-title="UA",Zakarpattya FM 101.9
 http://195.234.148.51:8000/stream
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/c/cd/Hromadsjke_radio_logo.png/798px-Hromadsjke_radio_logo.png" group-title="UA",Hromadske Radio
 http://91.218.212.67:8000/stream
 
-#EXTINF:-1 tvg-logo="" group-title="UA",DJFM.UA [MP3 256k]
-https://cast.fex.net/djfm_x
+#EXTINF:-1 tvg-logo="" group-title="UA",FM Disco Melody
+https://online.melodiafm.ua/MelodiaFM_Disco
 
 #EXTINF:-1 tvg-logo="" group-title="UA",Sevastopol 102.0 FM
 http://air.volna.top/SFM
 
 #EXTINF:-1 tvg-logo="" group-title="UA",П'ятниця Кременчук
 http://radio.moa.org.ua/Friday
-
-#EXTINF:-1 tvg-logo="" group-title="UA",FM Disco Melody
-https://online.melodiafm.ua/MelodiaFM_Disco
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nghwdngbqgeg.png" group-title="UA",Люкс FM Львів
 https://streamvideo.luxnet.ua/luxlviv/luxlviv.stream/playlist.m3u8
@@ -301,4 +298,7 @@ http://stream.europeanhitradio.com:8000/Stream_38.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="UA",tvoye radio
 http://91.200.114.254:8048/
+
+#EXTINF:-1 tvg-logo="" group-title="UA",Kiss FM Digital SD
+https://online.kissfm.ua/KissFM_Digital
 

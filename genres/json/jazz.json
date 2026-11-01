@@ -14,8 +14,8 @@
     "tags": "1930,1940,1950,1960,beautiful music,big band,classic hits,crooners,easy,easy listening,hd,jazz,light orchestral,lounge,oldies,orchestral,otr,relaxation,strings,swing,unwind,walm",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 308957,
-    "clickcount": 840
+    "votes": 309734,
+    "clickcount": 1001
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "easy listening,jazz,smooth jazz",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 90814,
-    "clickcount": 535
+    "votes": 91066,
+    "clickcount": 662
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "blues,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 66092,
-    "clickcount": 214
+    "votes": 66283,
+    "clickcount": 210
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "1930,1940,1950,1960,beautiful music,big band,classic hits,crooners,easy,easy listening,hd,jazz,light orchestral,lounge,oldies,opus,orchestral,otr,relaxation,strings,swing,unwind,walm",
     "codec": "OGG",
     "bitrate": 192,
-    "votes": 53804,
-    "clickcount": 77
+    "votes": 53902,
+    "clickcount": 80
   },
   {
     "id": null,
@@ -86,26 +86,8 @@
     "tags": "jazz,soul",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 50957,
-    "clickcount": 100
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "d017726b-50f4-4b47-a25e-bf4114b16f9e",
-    "name": "Classic Vinyl HD",
-    "url": "https://icecast.walmradio.com:8443/classic",
-    "url_resolved": "https://icecast.walmradio.com:8443/classic",
-    "homepage": "https://walmradio.com/classic",
-    "favicon": "https://icecast.walmradio.com:8443/classic.jpg",
-    "countrycode": "US",
-    "state": "New York NY",
-    "language": "english",
-    "tags": "1930,1940,1950,1960,beautiful music,big band,classic hits,crooners,easy,easy listening,hd,jazz,light orchestral,lounge,oldies,orchestral,otr,relaxation,strings,swing,unwind,walm",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 42087,
-    "clickcount": 44
+    "votes": 51060,
+    "clickcount": 141
   },
   {
     "id": null,
@@ -122,8 +104,8 @@
     "tags": "ambient,downtempo,jazz,lounge,samba,sixties",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 36021,
-    "clickcount": 106
+    "votes": 36035,
+    "clickcount": 96
   },
   {
     "id": null,
@@ -140,8 +122,8 @@
     "tags": "adult contemporary,jazz,pop,smooth jazz",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 33396,
-    "clickcount": 47
+    "votes": 33435,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -158,8 +140,8 @@
     "tags": "ambient,chillout,easy listening,jazz,lounge,moscow,relax,sounds of nature",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 30382,
-    "clickcount": 71
+    "votes": 30434,
+    "clickcount": 103
   },
   {
     "id": null,
@@ -176,8 +158,8 @@
     "tags": "classical,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 28524,
-    "clickcount": 63
+    "votes": 28589,
+    "clickcount": 67
   },
   {
     "id": null,
@@ -194,26 +176,8 @@
     "tags": "jazz,public radio,srg ssr",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 27504,
-    "clickcount": 89
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "81440088-0a76-11e8-ae97-52543be04c81",
-    "name": "France Musique",
-    "url": "http://direct.francemusique.fr/live/francemusique-midfi.mp3",
-    "url_resolved": "http://direct.francemusique.fr/live/francemusique-midfi.mp3",
-    "homepage": "https://www.francemusique.fr/",
-    "favicon": "",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "classical,jazz,music,public radio,radio france",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 22362,
-    "clickcount": 47
+    "votes": 27558,
+    "clickcount": 90
   },
   {
     "id": null,
@@ -230,8 +194,26 @@
     "tags": "anime,dnb,downtempo,experimental,jazz,psychedelic,rock,trance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 22261,
-    "clickcount": 731
+    "votes": 26089,
+    "clickcount": 759
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "81440088-0a76-11e8-ae97-52543be04c81",
+    "name": "France Musique",
+    "url": "http://direct.francemusique.fr/live/francemusique-midfi.mp3",
+    "url_resolved": "http://direct.francemusique.fr/live/francemusique-midfi.mp3",
+    "homepage": "https://www.francemusique.fr/",
+    "favicon": "",
+    "countrycode": "FR",
+    "state": "",
+    "language": "french",
+    "tags": "classical,jazz,music,public radio,radio france",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 22403,
+    "clickcount": 40
   },
   {
     "id": null,
@@ -239,7 +221,7 @@
     "stationuuid": "9610c519-0601-11e8-ae97-52543be04c81",
     "name": ".977 Smooth Jazz",
     "url": "http://playerservices.streamtheworld.com/pls/977_SMOOJAZZ.pls",
-    "url_resolved": "http://29319.live.streamtheworld.com:3690/977_SMOOJAZZ_SC",
+    "url_resolved": "http://17563.live.streamtheworld.com:3690/977_SMOOJAZZ_SC",
     "homepage": "http://www.977music.com/",
     "favicon": "",
     "countrycode": "US",
@@ -248,8 +230,8 @@
     "tags": "jazz,smooth jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 21798,
-    "clickcount": 42
+    "votes": 21805,
+    "clickcount": 37
   },
   {
     "id": null,
@@ -266,8 +248,8 @@
     "tags": "320kbps,classic jazz,jazz,smooth jazz",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 17900,
-    "clickcount": 23
+    "votes": 17945,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -284,8 +266,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 12523,
-    "clickcount": 26
+    "votes": 12543,
+    "clickcount": 37
   },
   {
     "id": null,
@@ -302,8 +284,8 @@
     "tags": "aac,jazz,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 11010,
-    "clickcount": 40
+    "votes": 11031,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -320,26 +302,8 @@
     "tags": "jazz,women",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 9544,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "7e41d6c6-1842-4ecf-9c6e-2901fdca18ca",
-    "name": "The Jazz Groove - East",
-    "url": "http://east-mp3-128.streamthejazzgroove.com/stream",
-    "url_resolved": "http://east-mp3-128.streamthejazzgroove.com/stream",
-    "homepage": "https://jazzgroove.org/",
-    "favicon": "",
-    "countrycode": "US",
-    "state": "",
-    "language": "",
-    "tags": "cool jazz,fusion,jazz,laid-back,relax",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 8999,
-    "clickcount": 13
+    "votes": 9560,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -356,8 +320,26 @@
     "tags": "bossa nova,jazz,mpb",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 8984,
-    "clickcount": 96
+    "votes": 9017,
+    "clickcount": 114
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "7e41d6c6-1842-4ecf-9c6e-2901fdca18ca",
+    "name": "The Jazz Groove - East",
+    "url": "http://east-mp3-128.streamthejazzgroove.com/stream",
+    "url_resolved": "http://east-mp3-128.streamthejazzgroove.com/stream",
+    "homepage": "https://jazzgroove.org/",
+    "favicon": "",
+    "countrycode": "US",
+    "state": "",
+    "language": "",
+    "tags": "cool jazz,fusion,jazz,laid-back,relax",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 9007,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -374,8 +356,8 @@
     "tags": "japanese,japanese music,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7709,
-    "clickcount": 54
+    "votes": 7722,
+    "clickcount": 65
   },
   {
     "id": null,
@@ -392,8 +374,8 @@
     "tags": "easy listening,jazz,smooth jazz",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 7424,
-    "clickcount": 40
+    "votes": 7458,
+    "clickcount": 56
   },
   {
     "id": null,
@@ -410,8 +392,8 @@
     "tags": "adult contemporary,brazilian music,jazz,pop,smooth jazz",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 7123,
-    "clickcount": 1
+    "votes": 7133,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -428,8 +410,8 @@
     "tags": "instrumental,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6364,
-    "clickcount": 35
+    "votes": 6376,
+    "clickcount": 39
   },
   {
     "id": null,
@@ -446,8 +428,8 @@
     "tags": "electro,jazz,swing",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6015,
-    "clickcount": 11
+    "votes": 6019,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -464,8 +446,8 @@
     "tags": "chillout,easy listening,jazz,smooth,smoothjazz",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 5389,
-    "clickcount": 39
+    "votes": 5396,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -482,7 +464,7 @@
     "tags": "jazz,reggae,ska",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5380,
+    "votes": 5383,
     "clickcount": 16
   },
   {
@@ -500,8 +482,8 @@
     "tags": "jazz,smooth jazz,smooth lounge",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5020,
-    "clickcount": 36
+    "votes": 5040,
+    "clickcount": 48
   },
   {
     "id": null,
@@ -518,8 +500,8 @@
     "tags": "jazz,piano",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4628,
-    "clickcount": 5
+    "votes": 4638,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -536,7 +518,7 @@
     "tags": "classic jazz,colombia,easy listening,jazz",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 3978,
+    "votes": 3983,
     "clickcount": 5
   },
   {
@@ -554,8 +536,8 @@
     "tags": "jazz,latin,latin jazz,latino",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3887,
-    "clickcount": 15
+    "votes": 3890,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -572,8 +554,8 @@
     "tags": "alternative,jazz,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3573,
-    "clickcount": 5
+    "votes": 3584,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -590,8 +572,8 @@
     "tags": "320kbps,jazz",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3503,
-    "clickcount": 7
+    "votes": 3515,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -608,8 +590,8 @@
     "tags": "electro,folk,funk,hiphop,jazz,rock,soul,world music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3466,
-    "clickcount": 33
+    "votes": 3468,
+    "clickcount": 30
   },
   {
     "id": null,
@@ -626,8 +608,8 @@
     "tags": "classic rock,jazz,lounge,smooth jazz",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3438,
-    "clickcount": 8
+    "votes": 3446,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -644,8 +626,8 @@
     "tags": "alternative,blues,dance,eclectic,electronic,experimental,funk,grime,hip hop,house,indie,jazz,metal,pop,punk,r&b,reggae,rock,ska,soul,techno,world",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 3417,
-    "clickcount": 118
+    "votes": 3445,
+    "clickcount": 138
   },
   {
     "id": null,
@@ -662,8 +644,8 @@
     "tags": "jazz",
     "codec": "OGG",
     "bitrate": 1500,
-    "votes": 3369,
-    "clickcount": 11
+    "votes": 3385,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -680,8 +662,8 @@
     "tags": "classic,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3260,
-    "clickcount": 0
+    "votes": 3271,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -698,8 +680,8 @@
     "tags": "classical,cultural,duna média,jazz,public radio",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3249,
-    "clickcount": 7
+    "votes": 3261,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -716,8 +698,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3217,
-    "clickcount": 7
+    "votes": 3222,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -725,7 +707,7 @@
     "stationuuid": "960d68cf-0601-11e8-ae97-52543be04c81",
     "name": "SomaFM Secret Agent (32k AAC)",
     "url": "https://somafm.com/secretagent32.pls",
-    "url_resolved": "https://ice6.somafm.com/secretagent-32-aac",
+    "url_resolved": "https://ice2.somafm.com/secretagent-32-aac",
     "homepage": "https://somafm.com/secretagent/",
     "favicon": "https://somafm.com/img3/secretagent-400.jpg",
     "countrycode": "US",
@@ -735,7 +717,7 @@
     "codec": "AAC",
     "bitrate": 32,
     "votes": 2976,
-    "clickcount": 3
+    "clickcount": 11
   },
   {
     "id": null,
@@ -753,7 +735,7 @@
     "codec": "MP3",
     "bitrate": 96,
     "votes": 2852,
-    "clickcount": 5
+    "clickcount": 4
   },
   {
     "id": null,
@@ -770,8 +752,8 @@
     "tags": "jazz,public radio,srg ssr",
     "codec": "AAC",
     "bitrate": 88,
-    "votes": 2695,
-    "clickcount": 3
+    "votes": 2697,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -788,7 +770,7 @@
     "tags": "bolero,cuban music,jazz,latin music",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 2667,
+    "votes": 2668,
     "clickcount": 1
   },
   {
@@ -806,8 +788,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2635,
-    "clickcount": 3
+    "votes": 2636,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -815,7 +797,7 @@
     "stationuuid": "961249b2-0601-11e8-ae97-52543be04c81",
     "name": "SomaFM Sonic Universe (128k MP3)",
     "url": "https://somafm.com/sonicuniverse.pls",
-    "url_resolved": "https://ice2.somafm.com/sonicuniverse-128-mp3",
+    "url_resolved": "https://ice5.somafm.com/sonicuniverse-128-mp3",
     "homepage": "https://somafm.com/sonicuniverse/",
     "favicon": "https://somafm.com/img3/sonicuniverse-400.jpg",
     "countrycode": "US",
@@ -824,8 +806,8 @@
     "tags": "avant-garde,eclectic,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2539,
-    "clickcount": 9
+    "votes": 2544,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -842,8 +824,8 @@
     "tags": "blues,chicago,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2412,
-    "clickcount": 8
+    "votes": 2420,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -860,8 +842,8 @@
     "tags": "classical,cultural,jazz,vrt",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2409,
-    "clickcount": 20
+    "votes": 2419,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -878,8 +860,8 @@
     "tags": "jazz,smooth jazz",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2368,
-    "clickcount": 29
+    "votes": 2389,
+    "clickcount": 34
   },
   {
     "id": null,
@@ -896,26 +878,8 @@
     "tags": "jazz,public radio,srg ssr",
     "codec": "AAC",
     "bitrate": 88,
-    "votes": 2220,
+    "votes": 2227,
     "clickcount": 15
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "b1f42e1f-8aee-11e9-ad01-52543be04c81",
-    "name": "Radio Caprice - Erotic",
-    "url": "http://79.120.39.202:8000/erotic",
-    "url_resolved": "http://79.120.39.202:8000/erotic",
-    "homepage": "http://radcap.ru/erotic.html",
-    "favicon": "",
-    "countrycode": "RU",
-    "state": "",
-    "language": "",
-    "tags": "chill,deep,downtempo,jazz,sensual,smooth",
-    "codec": "AAC+",
-    "bitrate": 320,
-    "votes": 2160,
-    "clickcount": 3
   },
   {
     "id": null,
@@ -932,8 +896,26 @@
     "tags": "chillout,instrumental,jazz,relax,smooth jazz",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 2156,
-    "clickcount": 4
+    "votes": 2171,
+    "clickcount": 10
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "b1f42e1f-8aee-11e9-ad01-52543be04c81",
+    "name": "Radio Caprice - Erotic",
+    "url": "http://79.120.39.202:8000/erotic",
+    "url_resolved": "http://79.120.39.202:8000/erotic",
+    "homepage": "http://radcap.ru/erotic.html",
+    "favicon": "",
+    "countrycode": "RU",
+    "state": "",
+    "language": "",
+    "tags": "chill,deep,downtempo,jazz,sensual,smooth",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "votes": 2162,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -968,8 +950,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 2126,
-    "clickcount": 9
+    "votes": 2130,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -986,8 +968,8 @@
     "tags": "classic hits,crooner,entertainer,great american songbook,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2092,
-    "clickcount": 8
+    "votes": 2095,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1004,8 +986,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2065,
-    "clickcount": 23
+    "votes": 2071,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -1022,8 +1004,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2008,
-    "clickcount": 4
+    "votes": 2013,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1040,8 +1022,8 @@
     "tags": "80s,dj mixes,electro,hiphop,jazz,lounge,mix,r&b,smooth jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1902,
-    "clickcount": 93
+    "votes": 1907,
+    "clickcount": 62
   },
   {
     "id": null,
@@ -1058,7 +1040,7 @@
     "tags": "jazz,music",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1897,
+    "votes": 1898,
     "clickcount": 6
   },
   {
@@ -1076,8 +1058,8 @@
     "tags": "blues,jazz,milano",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 1866,
-    "clickcount": 19
+    "votes": 1870,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1094,8 +1076,8 @@
     "tags": "black,blasmusik,jazz,music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1838,
-    "clickcount": 3
+    "votes": 1843,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1112,8 +1094,8 @@
     "tags": "aac+,jazz,srg ssr",
     "codec": "AAC",
     "bitrate": 88,
-    "votes": 1817,
-    "clickcount": 13
+    "votes": 1819,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1130,8 +1112,8 @@
     "tags": "blues,jazz",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1774,
-    "clickcount": 4
+    "votes": 1776,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1148,8 +1130,8 @@
     "tags": "classic,classical,jazz,world music",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1770,
-    "clickcount": 14
+    "votes": 1773,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1166,8 +1148,8 @@
     "tags": "django,jazz,manouche",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1733,
-    "clickcount": 7
+    "votes": 1737,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1184,8 +1166,8 @@
     "tags": "funk,fusion,jazz,latin,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1675,
-    "clickcount": 3
+    "votes": 1681,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1203,7 +1185,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1672,
-    "clickcount": 1
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1220,8 +1202,8 @@
     "tags": "cafe,disco,funk,hiphop,jazz,soul",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1601,
-    "clickcount": 7
+    "votes": 1605,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1239,7 +1221,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1564,
-    "clickcount": 5
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1256,7 +1238,7 @@
     "tags": "jazz,laid-back jazz",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 1551,
+    "votes": 1556,
     "clickcount": 7
   },
   {
@@ -1274,8 +1256,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1544,
-    "clickcount": 3
+    "votes": 1555,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1292,8 +1274,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1514,
-    "clickcount": 5
+    "votes": 1517,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1310,26 +1292,8 @@
     "tags": "blues,jazz,new orleans,non-commercial",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1513,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960e4255-0601-11e8-ae97-52543be04c81",
-    "name": "NDR Blue",
-    "url": "http://www.ndr.de/resources/metadaten/audio/m3u/ndrblue.m3u",
-    "url_resolved": "http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3",
-    "homepage": "http://www.ndr.de/ndrblue/",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NDR_Blue_Logo.svg/1200px-NDR_Blue_Logo.svg.png",
-    "countrycode": "DE",
-    "state": "Lower Saxony",
-    "language": "german",
-    "tags": "jazz,live concert,pop,rock,soul",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1494,
-    "clickcount": 12
+    "votes": 1514,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1346,8 +1310,26 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1494,
-    "clickcount": 6
+    "votes": 1499,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960e4255-0601-11e8-ae97-52543be04c81",
+    "name": "NDR Blue",
+    "url": "http://www.ndr.de/resources/metadaten/audio/m3u/ndrblue.m3u",
+    "url_resolved": "http://icecast.ndr.de/ndr/ndrblue/live/mp3/128/stream.mp3",
+    "homepage": "http://www.ndr.de/ndrblue/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/NDR_Blue_Logo.svg/1200px-NDR_Blue_Logo.svg.png",
+    "countrycode": "DE",
+    "state": "Lower Saxony",
+    "language": "german",
+    "tags": "jazz,live concert,pop,rock,soul",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1498,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1364,8 +1346,8 @@
     "tags": "chillout,easy listening,jazz,smooth,smoothjazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1346,
-    "clickcount": 17
+    "votes": 1353,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1382,8 +1364,8 @@
     "tags": "boogie woogie,disco,funk,gospel,groove,jazz,rare groove,rnb,slow jams,slow jamz,smooth jazz,soul,soulful house",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1296,
-    "clickcount": 7
+    "votes": 1304,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -1400,8 +1382,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1264,
-    "clickcount": 6
+    "votes": 1277,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1418,8 +1400,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1244,
-    "clickcount": 7
+    "votes": 1249,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1436,8 +1418,8 @@
     "tags": "fusion,jazz",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 1234,
-    "clickcount": 7
+    "votes": 1241,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1454,7 +1436,7 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1229,
+    "votes": 1230,
     "clickcount": 1
   },
   {
@@ -1472,26 +1454,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1219,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9613694b-0601-11e8-ae97-52543be04c81",
-    "name": "Jazz Radio Contemporary Jazz",
-    "url": "http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3",
-    "url_resolved": "http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3",
-    "homepage": "http://www.jazzradio.fr/radio/webradio/8/contemporary-jazz",
-    "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "contemporary,jazz",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1203,
-    "clickcount": 4
+    "votes": 1223,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1508,8 +1472,26 @@
     "tags": "192kbps,chillout,chillout+lounge,classic hits,club,cool jazz,cool music seduction,fm,high quality audio,jazz,jazz fusion,jazz lounge,local radio,lounge,lounge music,lounge radio,music,musica,oldies,public radio,radio,relax,relax music,relaxation,relaxing,smooth,smooth jazz,smooth lounge,vocal jazz,vocal lounge",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1199,
-    "clickcount": 59
+    "votes": 1219,
+    "clickcount": 58
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9613694b-0601-11e8-ae97-52543be04c81",
+    "name": "Jazz Radio Contemporary Jazz",
+    "url": "http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3",
+    "url_resolved": "http://jazz-wr05.ice.infomaniak.ch/jazz-wr05-128.mp3",
+    "homepage": "http://www.jazzradio.fr/radio/webradio/8/contemporary-jazz",
+    "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+    "countrycode": "FR",
+    "state": "",
+    "language": "french",
+    "tags": "contemporary,jazz",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1209,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1526,8 +1508,8 @@
     "tags": "eclectic,electro,jazz,pop,rock,world",
     "codec": "OGG",
     "bitrate": 0,
-    "votes": 1188,
-    "clickcount": 10
+    "votes": 1198,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -1544,8 +1526,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1168,
-    "clickcount": 3
+    "votes": 1169,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1562,8 +1544,8 @@
     "tags": "afropop,afrosoul,dancehall,folk,funk,hiphop,jazz,kwaito,latin,nu-jazz,reggae,rock,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1165,
-    "clickcount": 9
+    "votes": 1169,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1580,8 +1562,8 @@
     "tags": "folk,jazz,moscow,music",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1115,
-    "clickcount": 3
+    "votes": 1116,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1598,8 +1580,8 @@
     "tags": "jazz,relax,relaxing,sleep",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 1092,
-    "clickcount": 7
+    "votes": 1096,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1615,9 +1597,9 @@
     "language": "english,swahili",
     "tags": "jazz,local news,local talk,talk radio,tarab",
     "codec": "MP3",
-    "bitrate": 109,
-    "votes": 1086,
-    "clickcount": 2
+    "bitrate": 112,
+    "votes": 1091,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1634,8 +1616,8 @@
     "tags": "guitar jazz,jazz",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 1079,
-    "clickcount": 0
+    "votes": 1082,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1653,7 +1635,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 1053,
-    "clickcount": 3
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1670,8 +1652,8 @@
     "tags": "french music,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1041,
-    "clickcount": 0
+    "votes": 1045,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1688,8 +1670,8 @@
     "tags": "alternative rock,jazz,pop dance",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 1025,
-    "clickcount": 6
+    "votes": 1028,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1706,8 +1688,8 @@
     "tags": "electro,hip hop,jazz,new wave,reggae,world music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1013,
-    "clickcount": 40
+    "votes": 1017,
+    "clickcount": 35
   },
   {
     "id": null,
@@ -1724,8 +1706,8 @@
     "tags": "blues,jazz,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 994,
-    "clickcount": 0
+    "votes": 996,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1742,8 +1724,8 @@
     "tags": "afrobeats,alternative,ambient,arts,beats,black,breakbeat,cinema,culture,dub,electronic,electropop,experimental,funk,house,indie pop,indie rock,jazz,local news,minimal,minimal wave,music,new wave,news,nu-jazz,post-punk,post-rock,reggae,soul,synth,synthwave,world,worldbeat",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 956,
-    "clickcount": 40
+    "votes": 959,
+    "clickcount": 43
   },
   {
     "id": null,
@@ -1761,7 +1743,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 953,
-    "clickcount": 8
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1778,8 +1760,8 @@
     "tags": "aac,jazz,public radio,radio france",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 932,
-    "clickcount": 5
+    "votes": 934,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1797,6 +1779,24 @@
     "codec": "MP3",
     "bitrate": 48,
     "votes": 924,
-    "clickcount": 0
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "d8b6ba19-f431-471e-9598-94f42af0d3ac",
+    "name": "RNE Radio 3",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8",
+    "url_resolved": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8",
+    "homepage": "https://www.rtve.es/play/radio/radio-3/",
+    "favicon": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.rtve.es/play/radio/radio-3/&size=16",
+    "countrycode": "ES",
+    "state": "",
+    "language": "spanish",
+    "tags": "indie,indie pop,indie rock,jazz,pop,rock,various",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "votes": 901,
+    "clickcount": 43
   }
 ]

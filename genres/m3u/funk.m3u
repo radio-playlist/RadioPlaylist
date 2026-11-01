@@ -101,11 +101,11 @@ http://eu10.fastcast4u.com:8120/
 #EXTINF:-1 tvg-logo="http://www.jazzradio.fr/media/radio/thumb/90x90_stax-and-motown.png" group-title="FR",Jazz Radio Stax and Motown
 http://jazz-wr15.ice.infomaniak.ch/jazz-wr15-128.mp3
 
-#EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/capital/sites/2/2016/11/webradio-funkytown2-320x320.jpg" group-title="IT",Radio Capital Funky Town
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/master_ma.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="US",Radio Motown
 https://broadcast.miami/proxy/motown?mp=/stream/;
+
+#EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/capital/sites/2/2016/11/webradio-funkytown2-320x320.jpg" group-title="IT",Radio Capital Funky Town
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/master_ma.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiocolor.cz/image/color_logo500x500.jpg" group-title="CZ",Color Music Radio
 http://sc.ipip.cz:8206/;stream
@@ -146,11 +146,11 @@ http://stream.laut.fm/funk2disco
 #EXTINF:-1 tvg-logo="" group-title="DE",Soulfunky Radio
 http://stream.laut.fm/soulfunky
 
-#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg" group-title="DE",- 1 A - 60er von 1A Radio
-https://1a-60er.radionetz.de/1a-60er.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Party Groove
 http://stream15.top-ix.org/partygroove
+
+#EXTINF:-1 tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg" group-title="DE",- 1 A - 60er von 1A Radio
+https://1a-60er.radionetz.de/1a-60er.mp3
 
 #EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_funk.png" group-title="FR",Generations Funk
 http://gene-wr05.ice.infomaniak.ch/gene-wr05.aac
@@ -179,14 +179,14 @@ http://sr6.inmystream.info:8024/stream
 #EXTINF:-1 tvg-logo="http://radionula.com/favicon.png" group-title="SI",Radio Nula Classics
 http://streaming.radionula.com:8800/classics
 
+#EXTINF:-1 tvg-logo="https://jfsr.co.uk/wp-content/uploads/2020/08/cropped-JFSR-Favicon-300x300.png" group-title="GB",JFSR - Jazz Funk Soul Radio
+https://s2.radio.co/s22ae5a8a6/listen
+
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-disco_600x600.jpg" group-title="DE",- 0 N - Disco on Radio
 https://0n-disco.radionetz.de/0n-disco.aac
 
 #EXTINF:-1 tvg-logo="https://img.sedoparking.com/templates/logos/sedo_logo.png" group-title="RS",UnderGRAND Radio
 http://stream.zeno.fm/rp1swb5pgzzuv
-
-#EXTINF:-1 tvg-logo="https://jfsr.co.uk/wp-content/uploads/2020/08/cropped-JFSR-Favicon-300x300.png" group-title="GB",JFSR - Jazz Funk Soul Radio
-https://s2.radio.co/s22ae5a8a6/listen
 
 #EXTINF:-1 tvg-logo="https://swissgroove.ch/favicon.ico" group-title="CH",SWISS GROOVE
 https://relay2.swissgroove.ch/;
@@ -222,22 +222,22 @@ https://0n-gold.radionetz.de/0n-gold.mp3
 http://91.143.83.37:12000/
 
 #EXTINF:-1 tvg-logo="http://www.size-radio.com/favicon.ico" group-title="FR",Size Radio
-http://n0f.radiojar.com/atr1e8aswa5tv
+http://n06.radiojar.com/atr1e8aswa5tv
 
 #EXTINF:-1 tvg-logo="https://uk.radio.net/300/nudiscofunkradio.jpeg?version=b5b29e74fa5bb43b3b8a3e9d27349a94" group-title="GB",Nu Disco Funk Radio
 https://my.radiolize.com/radio/8090/radio.mp3
 
-#EXTINF:-1 tvg-logo="https://ibb.co/jZsV775" group-title="DE",#TOP 100 - DJ CHARTS & REMIX RADIO @ TikTok PROMO Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, Moombahton, Reggaeton, HipHop, Funk, Club & Party Radio - & SUMMER TUNES - 2024 / 2025
-https://stream.breakz.fm/?ref=top100radiobrowser
-
 #EXTINF:-1 tvg-logo="" group-title="US",The Disco Planet
 https://broadcast.miami/proxy/thediscoplanet?mp=/stream/;
 
-#EXTINF:-1 tvg-logo="" group-title="NL",i-turn radio
-http://live.i-turnradio.nl/live
+#EXTINF:-1 tvg-logo="https://ibb.co/jZsV775" group-title="DE",#TOP 100 - DJ CHARTS & REMIX RADIO @ TikTok PROMO Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, Moombahton, Reggaeton, HipHop, Funk, Club & Party Radio - & SUMMER TUNES - 2024 / 2025
+https://stream.breakz.fm/?ref=top100radiobrowser
 
 #EXTINF:-1 tvg-logo="https://funky.radio/wp-content/uploads/2023/10/7080discofunk_logo_600.png" group-title="IT",70s 80s Disco Funk ModernSoul Boogie
 http://my.streamingmedia.it:8020/play
+
+#EXTINF:-1 tvg-logo="" group-title="NL",i-turn radio
+http://live.i-turnradio.nl/live
 
 #EXTINF:-1 tvg-logo="https://www.capital.it/wp-content/themes/network-capital/favicon.ico" group-title="IT",GEDI - Radio Capital Funky Town
 https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/play1.m3u8
@@ -275,6 +275,9 @@ https://1a-60er.radionetz.de/1a-60er.aac
 #EXTINF:-1 tvg-logo="https://waveradio.fm/wp-content/themes/waveradio/img/favicons/apple-icon-120x120.png" group-title="FR",WAVE RADIO 89.8 Hossegor
 https://s34.myradiostream.com/12340/listen.mp3
 
+#EXTINF:-1 tvg-logo="" group-title="NL",WGRV.FM
+https://caster08.streampakket.com/proxy/wgrv/stream
+
 #EXTINF:-1 tvg-logo="" group-title="US",Radio RCA
 https://broadcast.miami/proxy/rca?mp=/stream/;
 
@@ -284,14 +287,11 @@ http://stream.c-lab.fr:8001/c-lab
 #EXTINF:-1 tvg-logo="" group-title="US",Radio Atlantic
 https://broadcast.miami/proxy/atlantic?mp=/stream/;
 
-#EXTINF:-1 tvg-logo="" group-title="NL",WGRV.FM
-https://caster08.streampakket.com/proxy/wgrv/stream
+#EXTINF:-1 tvg-logo="https://musicradio.ai/wp-content/uploads/2025/03/logo_musicradio.jpg" group-title="FR",Music Radio
+https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://www.r90.org/wp-content/uploads/2022/07/logo_r90_50px.png" group-title="ES",Ràdio 90 (320k)
 https://giss.tv:666/r90.mp3
-
-#EXTINF:-1 tvg-logo="https://musicradio.ai/wp-content/uploads/2025/03/logo_musicradio.jpg" group-title="FR",Music Radio
-https://radio.musicradio.ai/listen/musicradio.ai/radio.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Sweet'n'Sour Radio
 http://stream.laut.fm/sweetnsour
