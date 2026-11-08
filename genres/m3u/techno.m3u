@@ -56,14 +56,14 @@ https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio
 #EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Tech Minimal
 http://traxx020.ice.infomaniak.ch/traxx020-low.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="DE",RauteMusik Club
-http://club-high.rautemusik.fm/
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mtCKLC/aktHits.jpg" group-title="DE",# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
 https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
 
 #EXTINF:-1 tvg-logo="http://www.radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Dark Techno
 http://79.111.14.76:9139/
+
+#EXTINF:-1 tvg-logo="" group-title="DE",RauteMusik Club
+http://club-high.rautemusik.fm/
 
 #EXTINF:-1 tvg-logo="" group-title="NL",Deep Radio
 http://stream.deep.radio/hd
@@ -84,7 +84,7 @@ http://streams.90s90s.de/techno/mp3-128/radiode/
 https://stream.breakz.fm/?ref=radiobrowser-remix-partybreaks-radio
 
 #EXTINF:-1 tvg-logo="http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM - Techno Underground
-http://fluxfm.streamabc.net/flx-technounderground-mp3-128-7228171?sABC=6nr14651%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1793148497
+http://fluxfm.streamabc.net/flx-technounderground-mp3-128-7228171?sABC=6nrr803o%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1794015291
 
 #EXTINF:-1 tvg-logo="" group-title="IE",Phever Dublin
 http://uk1.internet-radio.com:8200/live
@@ -110,11 +110,11 @@ http://listen.trancebase.fm/tunein-aacisdn-pls
 #EXTINF:-1 tvg-logo="https://werave.com.br/wp-content/uploads/cropped-weravemusic-180x180.png" group-title="US",WeRave Music Radio 01 - Dark and Underground
 https://stream.zeno.fm/pjktyby8dn5tv
 
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Techno Club
+http://listen.181fm.com/181-technoclub_128k.mp3
+
 #EXTINF:-1 tvg-logo="" group-title="RU",Anima Amoris Dub Techno Mix
 http://amoris.sknt.ru/dubtechnomix.mp3
-
-#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Techno Club
-https://listen.181fm.com/181-technoclub_128k.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sunshine_live_Logo_2022.svg/640px-Sunshine_live_Logo_2022.svg.png" group-title="DE",Sunshine Live
 http://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-4434053?sABC=6557p1o3%230%236080533n48sp2nrq0o4389q6o67o3qps%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1700250035
@@ -156,7 +156,7 @@ http://channels.dinamo.fm/locodyno-mp3
 https://house-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="" group-title="MX",XHSON "Beat" 100.9 FM Mexico City, DF
-http://18213.live.streamtheworld.com:3690/XHSONFM_SC
+http://18303.live.streamtheworld.com/XHSONFM_SC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgTG33b/TOP100-b.png" group-title="DE",#TOP 100 - DJ CHARTS & REMIX RADIO @ TikTok PROMO Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, Moombahton, Reggaeton, HipHop, Funk, Club & Party Radio - & SUMMER TUNES - 2024 / 2025
 https://stream.breakz.fm/?ref=top100radio-browser
@@ -168,13 +168,13 @@ http://listen.trancebase.fm/tunein-aacplus-pls
 https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Dance Wave Radio
-http://dance-wave-radio.stream.laut.fm/dance-wave-radio?t302=2026-10-27_20-23-24&uuid=ecd7af6f-c390-d6c2-91e4-74a2b30228c2
-
-#EXTINF:-1 tvg-logo="" group-title="Global",Radio MRS - Deep House Zone
-http://play.radiomrs.com:7494/stream.mp3
+http://dance-wave-radio.stream.laut.fm/dance-wave-radio?uuid=9ea1ef61-a1c3-5175-7617-2b07a7b30375&t302=2026-11-06_20-50-13
 
 #EXTINF:-1 tvg-logo="https://tekno1.fr/wp-content/uploads/2019/12/cropped-favi2020-192x192.png" group-title="FR",TEKNO1
 http://cressida.shoutca.st:8591/stream/1/
+
+#EXTINF:-1 tvg-logo="" group-title="Global",Radio MRS - Deep House Zone
+http://play.radiomrs.com:7494/stream.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="ES",Radio Vilasound Ibiza 92.7 FM
 https://s9.citrus3.com:8174/stream
@@ -189,7 +189,7 @@ http://uk5.internet-radio.com:8306/
 https://breakz-office.rautemusik.fm/?ref=rb-festival
 
 #EXTINF:-1 tvg-logo="http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png" group-title="DE",FluxFM - Techno Underground
-http://fluxfm.streamabc.net/flx-technounderground-aacplus-64-7295680?sABC=6nr074sp%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1793094908
+http://fluxfm.streamabc.net/flx-technounderground-aacplus-64-7295680?sABC=6nrqnn11%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1793960465
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bbRPNdd/charts-mainstage.jpg" group-title="DE",# Mainstage Charts - Your FESTIVAL Radio @ EDM - TECHNO - DJ MIXTAPES - RAVE -  LATIN - REGGAETON - MOOMBAHTON - RnB - DJ Charts - HIPHOP - ELECTRO - DEEP HOUSE -  DANCE - LOUNGE - CHILLOUT - SUMMER - IBIZA HOUSE - WEDDING - BACH - SOULFUL - BEACH - CLUB -  GERMANY DJ RADIO - PARTY - BREAKZ - POOL - POP - URBAN - HOT NEW MUSIC
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-mainstage
@@ -221,11 +221,11 @@ http://stream.laut.fm/clubhits
 #EXTINF:-1 tvg-logo="https://www.slam.nl/favicon.ico" group-title="NL",Slam! The Boom Room
 http://stream.radiocorp.nl/web12_aac
 
-#EXTINF:-1 tvg-logo="https://rm.fm/favicon.ico" group-title="DE",__TECHNO__ by rautemusik.fm
-https://streams.rautemusik.fm/techno/mp3-192/?ref=radiobrowser
-
 #EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-HFUM5iVBOYInWEED-oro7Vg-t200x200.jpg" group-title="GB",Rinse UK
 https://admin.stream.rinse.fm/proxy/rinse_uk/stream
+
+#EXTINF:-1 tvg-logo="https://rm.fm/favicon.ico" group-title="DE",__TECHNO__ by rautemusik.fm
+https://streams.rautemusik.fm/techno/mp3-192/?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="" group-title="GB",Dance UK (danceradiouk.com) 48k AAC+
 http://uk2.internet-radio.com:8024/stream
@@ -233,11 +233,11 @@ http://uk2.internet-radio.com:8024/stream
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-electro_600x600.jpg" group-title="DE",- 0 N - Electro on Radio
 https://0n-electro.radionetz.de/0n-electro.aac
 
-#EXTINF:-1 tvg-logo="" group-title="DE",BreakZ HipHop & House
-https://breakz-high.rautemusik.fm/?ref=radio-browser-info
-
 #EXTINF:-1 tvg-logo="https://bestproradio.com/wp-content/uploads/2021/05/cropped-bpr-bmp-180x180.png" group-title="AL",Best Pro Electronic
 https://az1.sednastream.com/radio/8150/Live?1582297952
+
+#EXTINF:-1 tvg-logo="" group-title="DE",BreakZ HipHop & House
+https://breakz-high.rautemusik.fm/?ref=radio-browser-info
 
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",RauteMusik Club | AAC 48 kbps
 https://club-aacp.rautemusik.fm/
@@ -247,9 +247,6 @@ https://0n-house.radionetz.de/0n-house.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="AE",Exclusively Daft Punk
 https://streaming.exclusive.radio/er/daftpunk/icecast.audio
-
-#EXTINF:-1 tvg-logo="" group-title="BE",Lazer Hot Hits
-http://streams.servicehosting.be:3730/;
 
 #EXTINF:-1 tvg-logo="" group-title="BS",LCLHST R1
 http://s1.radio.lclhst.net:1437/r1
@@ -266,11 +263,11 @@ https://1000techno.stream.laut.fm/1000techno
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CL8S62xj/Top-100-Paerybreak-Z.jpg" group-title="DE",# TOP 100 - PartyBreakZ @ DJ Mixe, Partyremixe, Remix Radio, Remix Charts, DJ Remix, Mashup, Remix Hits, Deejay Remix Radio, Partymix, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-partybreakz
 
-#EXTINF:-1 tvg-logo="" group-title="BS",LCLHST R2
-http://s1.radio.lclhst.net:1437/r2
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b7gfKT6/TOP-100-DJ-CHARTS-GPT.jpg" group-title="DE",- TOP 100 - DJ Charts - / - REMIX DEEJAY RADIO - CLUB RADIO - HOUSE - EDM - TECHHOUSE - TECHNO - DANCE - TOP100 - TOP40 - RNB - BLACKMUSIC - HIPHOP - URBAN - REGGEATON - MIXTAPE RADIO - RAVE MUSIC -  LIVE DEEJAY RADIO - LIVE EVENTS
 https://radio2.breakz.fm/?ref=rb-gpt-t100
+
+#EXTINF:-1 tvg-logo="" group-title="BS",LCLHST R2
+http://s1.radio.lclhst.net:1437/r2
 
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio HOUSE
 https://stream.0nlineradio.com/house?ref=radiobrowser
@@ -301,4 +298,7 @@ http://dance-wave-radio.stream.laut.fm/dance-wave-radio
 
 #EXTINF:-1 tvg-logo="" group-title="DE",technoszene.com Radio
 http://technoszene.stream.laut.fm/technoszene
+
+#EXTINF:-1 tvg-logo="" group-title="DE",Laut.fm/radioparty
+http://radioparty.stream.laut.fm/radioparty?uuid=86b12791-f2fe-9a38-7a60-53bc0777e1b4&t302=2026-11-07_00-30-31
 

@@ -20,23 +20,23 @@ http://online.radioroks.ua/RadioROKS_Ballads_HD
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/radio/1live/resources/img/favicon/apple-touch-icon.png" group-title="DE",1LIVE
 http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3
 
+#EXTINF:-1 tvg-logo="https://icecast.anon.fm/favicon.png" group-title="RU",Anon.FM
+https://icecast.anon.fm/radio
+
 #EXTINF:-1 tvg-logo="https://gfx.antyradio.pl/design/antyradio/src/images/favicon/favicon_180x180.png" group-title="PL",Antyradio
 https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
 
 #EXTINF:-1 tvg-logo="http://www.rockantenne.de/logos/rock-antenne/apple-touch-icon.png" group-title="DE",Rock Antenne
 http://mp3channels.webradio.rockantenne.de/rockantenne
 
-#EXTINF:-1 tvg-logo="https://icecast.anon.fm/favicon.png" group-title="RU",Anon.FM
-https://icecast.anon.fm/radio
-
 #EXTINF:-1 tvg-logo="https://radioultra.ru/favicons/apple-touch-icon.png" group-title="RU",Radio Ultra
 http://nashe1.hostingradio.ru/ultra-192.mp3
 
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/seventies400.jpg" group-title="US",SomaFM Left Coast 70s (320k MP3)
-https://ice6.somafm.com/seventies-320-mp3
-
 #EXTINF:-1 tvg-logo="https://swr3.de/assets/swr3/icons/apple-touch-icon.png" group-title="DE",SWR3
 https://liveradio.swr.de/sw282p3/swr3/play.mp3
+
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/seventies400.jpg" group-title="US",SomaFM Left Coast 70s (320k MP3)
+https://ice2.somafm.com/seventies-320-mp3
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-classic-rock_600x600.jpg" group-title="DE",- 0 N - Classic Rock on Radio
 https://0n-classicrock.radionetz.de/0n-classicrock.mp3
@@ -57,7 +57,7 @@ http://online.radioroks.ua/RadioROKS_HardnHeavy_HD
 https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio
 
 #EXTINF:-1 tvg-logo="http://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="DE",Radio Eins
-http://f141.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3LTyhiyTMWj8bZIGiGr24nEscW7&token=i86Zmonla9klKyKtgtIVeNCjiTA1fN1lm4gJ6XBhnfc&tvf=L3WUDIzX4xhmMTQxLnJuZGZuay5jb20
+http://d131.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3Li6lmtp6FeDy95IcdDUgJmBfiH&token=i7iuch7DiyqhjzZmy7gYtgnf4j2v17tUUAGltjjClZc&tvf=TNuRVaZg5RhkMTMxLnJuZGZuay5jb20
 
 #EXTINF:-1 tvg-logo="https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817" group-title="TR",Power POP
 https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
@@ -68,11 +68,11 @@ http://live.radiokiss.gr/kissfm1006hq.mp3
 #EXTINF:-1 tvg-logo="" group-title="US",WEOW FM 92.7
 http://ice42.securenetsystems.net/WEOW
 
-#EXTINF:-1 tvg-logo="" group-title="MX",Oldies Internet Radio
-http://162.244.81.98:8140/listen
-
 #EXTINF:-1 tvg-logo="https://retroradio.hu/wp-content/themes/retroradio/assets/dist/img/favicon/android-icon-192x192.png" group-title="HU",Retro Rádió
 https://icast.connectmedia.hu/5001/live.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="MX",Oldies Internet Radio
+http://162.244.81.98:8140/listen
 
 #EXTINF:-1 tvg-logo="" group-title="CZ",Radio Beat
 http://icecast2.play.cz/radiobeat128.mp3
@@ -80,11 +80,11 @@ http://icecast2.play.cz/radiobeat128.mp3
 #EXTINF:-1 tvg-logo="http://guerrillaradio.ro/images/logo.png" group-title="RO",Radio Guerrilla
 http://live.guerrillaradio.ro:8010/guerrilla.aac
 
+#EXTINF:-1 tvg-logo="" group-title="US",181.FM - Kickin' Country
+https://listen.181fm.com/181-kickincountry_128k.mp3
+
 #EXTINF:-1 tvg-logo="https://casrock.cz/wp-content/themes/frontheme/assets/img/favicon/apple-touch-icon-120x120.png?v002=" group-title="CZ",Radio Čas Rock
 http://icecast6.play.cz/casrock128.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="US",181.FM - Kickin' Country
-http://listen.181fm.com/181-kickincountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="https://www.best-of-rock.fm/favicons/apple-touch-icon.png" group-title="DE",Best Of Rock.FM Alternative Rock
 https://bestofrockfm.stream.vip/altrock/mp3-256/bestofrock.fm/
@@ -111,7 +111,7 @@ http://stream.metacast.eu/radio1rock.ogg
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm
 
 #EXTINF:-1 tvg-logo="https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png" group-title="DE",80s80s Radio
-http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6nr0o818%230%236q8s7o7o3p7411o9n0871834qs5r90so%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1793112088
+http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6nrqs067%230%236q8s7o7o3p7411o9n0871834qs5r90so%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1793978471
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200" group-title="PE",Radio Oxígeno
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8
@@ -177,7 +177,7 @@ http://streams.fluxfm.de/live/mp3-320/audio/
 http://asculta.rfi.ro:9128/live.aac
 
 #EXTINF:-1 tvg-logo="" group-title="ZA",94.7
-http://28973.live.streamtheworld.com:3690/FM947AAC_SC
+http://27913.live.streamtheworld.com:3690/FM947AAC_SC
 
 #EXTINF:-1 tvg-logo="http://stlouisclassicrock.com/favicon.ico" group-title="US",St Louis Classic Rock
 http://74.208.89.18:8000/SLCR_highdef.mp3;
@@ -198,7 +198,7 @@ http://stream.rockradio.si:9034/;
 http://n03.radiojar.com/4ywdgup3bnzuv
 
 #EXTINF:-1 tvg-logo="http://www.181.fm/images/playerlanding/181.FM.jpg" group-title="US",181.FM - Beatles
-http://listen.181fm.com/181-beatles_128k.mp3
+https://listen.181fm.com/181-beatles_128k.mp3
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-2000s_600x600.jpg" group-title="DE",- 0 N - 2000s on Radio
 https://0n-2000s.radionetz.de/0n-2000s.mp3
@@ -221,14 +221,14 @@ http://mp3.polskieradio.pl:8904/;.mp3
 #EXTINF:-1 tvg-logo="" group-title="DE",RADIO BOB! BOBs Best of Rock
 http://streams.radiobob.de/bob-bestofrock/mp3-192/streams.radiobob.de/
 
+#EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
+http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="FR",Alternative Radio
 https://www.radioking.com/play/alternative-radio-1
 
 #EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg" group-title="FR",FIP Rock
 http://icecast.radiofrance.fr/fiprock-hifi.aac
-
-#EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
-http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
 
 #EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="AE",Exclusively U2
 https://streaming.exclusive.radio/er/u2/icecast.audio
@@ -251,11 +251,11 @@ https://oxygenmusic.hu:8443/oxygenclassicrock
 #EXTINF:-1 tvg-logo="https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png" group-title="DE",ROCKANTENNE Heavy Metal (64 kbps AAC)
 http://mp3channels.webradio.rockantenne.de/heavy-metal.aac
 
-#EXTINF:-1 tvg-logo="https://antiradio.net/favicon.ico" group-title="AZ",Anti Radio
-https://stream.antiradio.net/radio/8000/mp3
-
 #EXTINF:-1 tvg-logo="https://www.radioacktiva.com/wp-content/uploads/2024/12/cropped-favicon-new1-180x180.png" group-title="CO",Radioacktiva (Bogotá) - 97.9 FM - HJJK - PRISA Radio - Bogotá, Colombia
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ACTIVAAAC.aac
+
+#EXTINF:-1 tvg-logo="https://antiradio.net/favicon.ico" group-title="AZ",Anti Radio
+https://stream.antiradio.net/radio/8000/mp3
 
 #EXTINF:-1 tvg-logo="" group-title="AR",Radio Con Vos 89.9
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
@@ -264,7 +264,7 @@ https://server1.stweb.tv/rcvos/live/playlist.m3u8
 http://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3
 
 #EXTINF:-1 tvg-logo="http://www.rockandpop.cl/favicon.ico" group-title="CL",Rock and Pop
-http://27323.live.streamtheworld.com/ROCK_AND_POPAAC_SC
+http://24363.live.streamtheworld.com/ROCK_AND_POPAAC_SC
 
 #EXTINF:-1 tvg-logo="https://austrianrockradio.at/wp-content/uploads/2023/02/liferadio-150x150.png" group-title="AT",Austrian Rock Radio
 http://live.antenne.at/arr
@@ -300,5 +300,5 @@ http://naxidigital-rock128.streaming.rs:8180/;stream.nsv
 https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/seventies400.jpg" group-title="US",SomaFM Left Coast 70s (128k MP3)
-https://ice5.somafm.com/seventies-128-mp3
+https://ice6.somafm.com/seventies-128-mp3
 

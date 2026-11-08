@@ -38,11 +38,11 @@ http://sr2.inmystream.info:8032/stream
 #EXTINF:-1 tvg-logo="" group-title="Global",naxi radio - house
 http://naxidigital-house128.streaming.rs:8000/;stream.nsv
 
-#EXTINF:-1 tvg-logo="" group-title="PT",Deep in Radio
-http://s3.viastreaming.net:8525/
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TmRLJsp/EDM-TL.jpg" group-title="DE",Technolovers EDM
 https://stream.technolovers.fm/edm?ref=radiobrowser
+
+#EXTINF:-1 tvg-logo="" group-title="PT",Deep in Radio
+http://s3.viastreaming.net:8525/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T1gH75m/rb-top100clubcharts.png" group-title="DE",# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
 https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts
@@ -53,11 +53,11 @@ http://stream.slam.nl/slam
 #EXTINF:-1 tvg-logo="" group-title="BG",Nova
 http://stream.metacast.eu/nova.ogg
 
-#EXTINF:-1 tvg-logo="http://www.freeradio.cz/img/ico_vcelka_32_32_6.png" group-title="CZ",Free Rádio 107,0 FM Brno
-http://icecast8.play.cz/freeradio128.mp3
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jMmvLjz/TOP100-DJ-CHARTS-RADIO.png" group-title="DE",# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts
+
+#EXTINF:-1 tvg-logo="http://www.freeradio.cz/img/ico_vcelka_32_32_6.png" group-title="CZ",Free Rádio 107,0 FM Brno
+http://icecast8.play.cz/freeradio128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Sunshine Live - Festival
 http://stream.sunshine-live.de/festival/mp3-192/stream.sunshine-live.de/
@@ -158,20 +158,20 @@ http://radiorecord.hostingradio.ru/deep96.aacp
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_ee09b4fc28354c5287c3be2392e0b1e3~mv2.png" group-title="CA",# RdMix DJSET 70s 80s 90s
 https://cast1.torontocast.com:4560/stream
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="US",Frisky
-https://stream.frisky.friskyradio.com/frisky_mp3_high
-
 #EXTINF:-1 tvg-logo="" group-title="RO",DJ Radio Romania
 https://stream.djradio.ro/radio/8000/stream.mp3
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="US",Frisky
+https://stream.frisky.friskyradio.com/frisky_mp3_high
 
 #EXTINF:-1 tvg-logo="http://dancefmmoldova.md/images/96x96/10648733/dancefmlogosmall.png" group-title="MD",Dance Fm Moldova
 http://37.233.41.76:8000/dancefm
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LncDTYz/MINIMAL-TL.jpg" group-title="DE",Technolovers - MINIMAL
-https://stream.technolovers.fm/minimal?ref=radiobrowser
-
 #EXTINF:-1 tvg-logo="" group-title="US",NYC House Radio
 http://www.ophanim.net:8400/;
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LncDTYz/MINIMAL-TL.jpg" group-title="DE",Technolovers - MINIMAL
+https://stream.technolovers.fm/minimal?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Technolovers - FUNKY HOUSE
 https://stream.technolovers.fm/funky-house?ref=radiobrowser
@@ -207,7 +207,7 @@ https://streaming.radio.co/s06bd9d805/listen
 http://generationdance.lu/radio/8030/hd
 
 #EXTINF:-1 tvg-logo="http://www.iloveradio.de/favicon.ico" group-title="DE",I Love 2 Dance
-http://ilm.stream35.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkzMDgzNDI0JmQ9ZjBlMzIyODNlYzJmNzY4MDMzNmM
+http://ilm.stream12.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkzOTQ3ODkyJmQ9YTFhZDkyNjYxMzBhMWEwZWIzYjI
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Technolovers - IBIZA HOUSE
 https://stream.technolovers.fm/ibiza-house?ref=radiobrowser
@@ -249,7 +249,7 @@ https://s9.citrus3.com:8174/stream
 https://0n-top40.radionetz.de/0n-top40.mp3
 
 #EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="DE",radioeins-rbb-56 kbit/s
-http://d121.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3LGkkDRB0oJWhv5PsScZ4ykLkow&token=X08F6_1QLaUFN9muhOCKx6XodVrqFgRcUWHJact9ips&tvf=d6dqkJ5n4hhkMTIxLnJuZGZuay5jb20
+http://d131.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3Lj4VOHhOST2Qv3yksn14j9v1YT&token=ecMGWTvzdEUTcodzsmEvwuHbI12U8f78SHECTxUGrZ0&tvf=IoJfL3R75RhkMTMxLnJuZGZuay5jb20
 
 #EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg" group-title="TR",dinamo.fm deep
 http://channels.dinamo.fm/deep-mp3
@@ -287,18 +287,18 @@ https://stream.technolovers.fm/future-house?ref=radiobrowser
 #EXTINF:-1 tvg-logo="" group-title="DE",Sunshine Live - Summer Beats
 http://sunsl.streamabc.net/sunsl-playlist2-mp3-192-4542868?sABC=5nq8747p%230%23rnoopr590o2qqrp5qsq2s8p24q12pp2n%23fgernz.fhafuvar-yvir.qr&amsparams=playerid:stream.sunshine-live.de;skey:1524135036
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DgmQsmPW/festival-vibes.png" group-title="DE",House vs. Hip-Hop, Rap, Deutschrap, R&B, Trap, Techno, House, EDM, Deep House, Hardstyle, Trance, Drum & Bass, Lo-Fi, Chillout, Festival, Club, Party, Afterhour, Beats, Underground, Hype, Techno, TechHouse - Top 40 Charts - DJ Mixtape RADIO
-https://breakz-office.rautemusik.fm/?ref=rb-festival
-
 #EXTINF:-1 tvg-logo="" group-title="GB",House Music Radio
 https://uk4-vn.mixstream.net/8128/listen.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="MD",Megapolis Fm
-https://megapolisfm.md:8443/886
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DgmQsmPW/festival-vibes.png" group-title="DE",House vs. Hip-Hop, Rap, Deutschrap, R&B, Trap, Techno, House, EDM, Deep House, Hardstyle, Trance, Drum & Bass, Lo-Fi, Chillout, Festival, Club, Party, Afterhour, Beats, Underground, Hype, Techno, TechHouse - Top 40 Charts - DJ Mixtape RADIO
+https://breakz-office.rautemusik.fm/?ref=rb-festival
 
 #EXTINF:-1 tvg-logo="https://danceradio.nl/wp-content/uploads/2023/10/cropped-faviconpng-180x180.png" group-title="NL",Dance Radio Amsterdam
 http://stream.danceradio.nl:9920/
 
-#EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Deep
-http://traxx013.ice.infomaniak.ch/traxx013-low.mp3
+#EXTINF:-1 tvg-logo="" group-title="MD",Megapolis Fm
+https://megapolisfm.md:8443/886
+
+#EXTINF:-1 tvg-logo="" group-title="MD",Radio Record Moldova
+http://212.56.220.74:8000/RecordMD
 

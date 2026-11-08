@@ -14,8 +14,8 @@
     "tags": "dance,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 62642,
-    "clickcount": 191
+    "votes": 62930,
+    "clickcount": 171
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "classic rock,pop rock,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 59749,
-    "clickcount": 168
+    "votes": 59894,
+    "clickcount": 183
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "country,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 47853,
-    "clickcount": 93
+    "votes": 48085,
+    "clickcount": 70
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "amg,rock,russian",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 45353,
-    "clickcount": 41
+    "votes": 45457,
+    "clickcount": 56
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "classic rock,rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 33347,
-    "clickcount": 23
+    "votes": 33413,
+    "clickcount": 43
   },
   {
     "id": null,
@@ -104,44 +104,8 @@
     "tags": "ard,public radio,rock,top 40,wdr",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 33210,
-    "clickcount": 313
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9617d67b-0601-11e8-ae97-52543be04c81",
-    "name": "Antyradio",
-    "url": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
-    "url_resolved": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
-    "homepage": "http://www.antyradio.pl/",
-    "favicon": "https://gfx.antyradio.pl/design/antyradio/src/images/favicon/favicon_180x180.png",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "metal,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 27826,
-    "clickcount": 64
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960594a6-0601-11e8-ae97-52543be04c81",
-    "name": "Rock Antenne",
-    "url": "http://mp3channels.webradio.rockantenne.de/rockantenne",
-    "url_resolved": "http://mp3channels.webradio.rockantenne.de/rockantenne",
-    "homepage": "http://www.rockantenne.de/",
-    "favicon": "http://www.rockantenne.de/logos/rock-antenne/apple-touch-icon.png",
-    "countrycode": "DE",
-    "state": "Bavaria",
-    "language": "german",
-    "tags": "rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 26645,
-    "clickcount": 185
+    "votes": 33375,
+    "clickcount": 373
   },
   {
     "id": null,
@@ -158,8 +122,44 @@
     "tags": "anime,dnb,downtempo,experimental,jazz,psychedelic,rock,trance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 26089,
-    "clickcount": 759
+    "votes": 29937,
+    "clickcount": 784
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9617d67b-0601-11e8-ae97-52543be04c81",
+    "name": "Antyradio",
+    "url": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
+    "url_resolved": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
+    "homepage": "http://www.antyradio.pl/",
+    "favicon": "https://gfx.antyradio.pl/design/antyradio/src/images/favicon/favicon_180x180.png",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "metal,rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 27906,
+    "clickcount": 70
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960594a6-0601-11e8-ae97-52543be04c81",
+    "name": "Rock Antenne",
+    "url": "http://mp3channels.webradio.rockantenne.de/rockantenne",
+    "url_resolved": "http://mp3channels.webradio.rockantenne.de/rockantenne",
+    "homepage": "http://www.rockantenne.de/",
+    "favicon": "http://www.rockantenne.de/logos/rock-antenne/apple-touch-icon.png",
+    "countrycode": "DE",
+    "state": "Bavaria",
+    "language": "german",
+    "tags": "rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 26761,
+    "clickcount": 252
   },
   {
     "id": null,
@@ -176,26 +176,8 @@
     "tags": "alternative,alternative rock,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 22136,
-    "clickcount": 11
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961e37ee-0601-11e8-ae97-52543be04c81",
-    "name": "SomaFM Left Coast 70s (320k MP3)",
-    "url": "https://somafm.com/seventies320.pls",
-    "url_resolved": "https://ice6.somafm.com/seventies-320-mp3",
-    "homepage": "https://somafm.com/seventies/",
-    "favicon": "https://somafm.com/img3/seventies400.jpg",
-    "countrycode": "US",
-    "state": "California",
-    "language": "english",
-    "tags": "easy listening,mellow album rock,rock,yacht rock",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 19890,
-    "clickcount": 48
+    "votes": 22156,
+    "clickcount": 31
   },
   {
     "id": null,
@@ -212,8 +194,26 @@
     "tags": "news,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 19747,
-    "clickcount": 491
+    "votes": 19915,
+    "clickcount": 622
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "961e37ee-0601-11e8-ae97-52543be04c81",
+    "name": "SomaFM Left Coast 70s (320k MP3)",
+    "url": "https://somafm.com/seventies320.pls",
+    "url_resolved": "https://ice2.somafm.com/seventies-320-mp3",
+    "homepage": "https://somafm.com/seventies/",
+    "favicon": "https://somafm.com/img3/seventies400.jpg",
+    "countrycode": "US",
+    "state": "California",
+    "language": "english",
+    "tags": "easy listening,mellow album rock,rock,yacht rock",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 19902,
+    "clickcount": 39
   },
   {
     "id": null,
@@ -230,8 +230,8 @@
     "tags": "80er,80s,90er,90s,classic rock,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 18396,
-    "clickcount": 81
+    "votes": 18452,
+    "clickcount": 78
   },
   {
     "id": null,
@@ -248,7 +248,7 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 18391,
+    "votes": 18428,
     "clickcount": 20
   },
   {
@@ -266,8 +266,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 17767,
-    "clickcount": 12
+    "votes": 17804,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -284,8 +284,8 @@
     "tags": "california,alternative,eclectic,rock,free,internet,non-commercial",
     "codec": "AAC",
     "bitrate": 320,
-    "votes": 15658,
-    "clickcount": 79
+    "votes": 15747,
+    "clickcount": 72
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "hard rock,heavy rock,rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 14475,
-    "clickcount": 10
+    "votes": 14513,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -320,7 +320,7 @@
     "tags": "classic rock,pink floyd,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12626,
+    "votes": 12693,
     "clickcount": 47
   },
   {
@@ -329,7 +329,7 @@
     "stationuuid": "960553a5-0601-11e8-ae97-52543be04c81",
     "name": "Radio Eins",
     "url": "http://radioeins.de/stream",
-    "url_resolved": "http://f141.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3LTyhiyTMWj8bZIGiGr24nEscW7&token=i86Zmonla9klKyKtgtIVeNCjiTA1fN1lm4gJ6XBhnfc&tvf=L3WUDIzX4xhmMTQxLnJuZGZuay5jb20",
+    "url_resolved": "http://d131.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3Li6lmtp6FeDy95IcdDUgJmBfiH&token=i7iuch7DiyqhjzZmy7gYtgnf4j2v17tUUAGltjjClZc&tvf=TNuRVaZg5RhkMTMxLnJuZGZuay5jb20",
     "homepage": "http://www.radioeins.de/",
     "favicon": "http://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png",
     "countrycode": "DE",
@@ -338,8 +338,8 @@
     "tags": "adult contemporary,alternative,ard,information,pop,public radio,rbb,rock,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12577,
-    "clickcount": 124
+    "votes": 12624,
+    "clickcount": 159
   },
   {
     "id": null,
@@ -356,8 +356,8 @@
     "tags": "00s,70s,80s,90s,pop,rock",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 11431,
-    "clickcount": 725
+    "votes": 11463,
+    "clickcount": 330
   },
   {
     "id": null,
@@ -374,8 +374,8 @@
     "tags": "00s,80s,90s,adult contemporary,pop,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 11266,
-    "clickcount": 22
+    "votes": 11290,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -392,26 +392,8 @@
     "tags": "rock",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 10895,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "09669200-2711-4c54-87e7-205ec84f929c",
-    "name": "Oldies Internet Radio",
-    "url": "http://162.244.81.98:8140/listen",
-    "url_resolved": "http://162.244.81.98:8140/listen",
-    "homepage": "https://oldiesinternetradio.com/",
-    "favicon": "",
-    "countrycode": "MX",
-    "state": "",
-    "language": "spanish",
-    "tags": "1970s,1980s,70s,80s,classic hits,classic rock,hard rock,hits,mexico city,rock,vintage",
-    "codec": "AAC",
-    "bitrate": 128,
-    "votes": 10799,
-    "clickcount": 8
+    "votes": 10939,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -428,8 +410,26 @@
     "tags": "pop,rock,retro,80s,90s,2000s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 10777,
-    "clickcount": 103
+    "votes": 10849,
+    "clickcount": 100
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "09669200-2711-4c54-87e7-205ec84f929c",
+    "name": "Oldies Internet Radio",
+    "url": "http://162.244.81.98:8140/listen",
+    "url_resolved": "http://162.244.81.98:8140/listen",
+    "homepage": "https://oldiesinternetradio.com/",
+    "favicon": "",
+    "countrycode": "MX",
+    "state": "",
+    "language": "spanish",
+    "tags": "1970s,1980s,70s,80s,classic hits,classic rock,hard rock,hits,mexico city,rock,vintage",
+    "codec": "AAC",
+    "bitrate": 128,
+    "votes": 10829,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -446,8 +446,8 @@
     "tags": "classic rock,heavy metal,metal,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 9901,
-    "clickcount": 10
+    "votes": 9925,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -464,8 +464,26 @@
     "tags": "classic rock,indie,la unica radio con cojones,rock",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 9899,
-    "clickcount": 20
+    "votes": 9917,
+    "clickcount": 17
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960d4bdc-0601-11e8-ae97-52543be04c81",
+    "name": "181.FM - Kickin' Country",
+    "url": "http://www.181.fm/stream/pls/181-kickincountry.pls",
+    "url_resolved": "https://listen.181fm.com/181-kickincountry_128k.mp3",
+    "homepage": "http://www.181.fm/",
+    "favicon": "",
+    "countrycode": "US",
+    "state": "Virginia",
+    "language": "english",
+    "tags": "country,pop,rock,waynesboro",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 8769,
+    "clickcount": 39
   },
   {
     "id": null,
@@ -482,26 +500,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8745,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960d4bdc-0601-11e8-ae97-52543be04c81",
-    "name": "181.FM - Kickin' Country",
-    "url": "http://www.181.fm/stream/pls/181-kickincountry.pls",
-    "url_resolved": "http://listen.181fm.com/181-kickincountry_128k.mp3",
-    "homepage": "http://www.181.fm/",
-    "favicon": "",
-    "countrycode": "US",
-    "state": "Virginia",
-    "language": "english",
-    "tags": "country,pop,rock,waynesboro",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 8738,
-    "clickcount": 48
+    "votes": 8767,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -518,8 +518,8 @@
     "tags": "alternative metal,alternative rock,grunge,indie rock,punkrock,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 8673,
-    "clickcount": 17
+    "votes": 8720,
+    "clickcount": 50
   },
   {
     "id": null,
@@ -536,8 +536,8 @@
     "tags": "classic rock,metal,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8085,
-    "clickcount": 28
+    "votes": 8120,
+    "clickcount": 56
   },
   {
     "id": null,
@@ -554,8 +554,8 @@
     "tags": "nostalgia,nostalgic,rock,romantic",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 7951,
-    "clickcount": 9
+    "votes": 7977,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -572,8 +572,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 80,
-    "votes": 7897,
-    "clickcount": 19
+    "votes": 7958,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -590,8 +590,8 @@
     "tags": "alternative rock,metal,rock",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 7839,
-    "clickcount": 8
+    "votes": 7866,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -608,8 +608,8 @@
     "tags": "electronic,metal,rock,spanish rock",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 7541,
-    "clickcount": 8
+    "votes": 7557,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -626,8 +626,8 @@
     "tags": "rock",
     "codec": "OGG",
     "bitrate": 0,
-    "votes": 7356,
-    "clickcount": 12
+    "votes": 7370,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -644,8 +644,8 @@
     "tags": "alternative rock,rock",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 7292,
-    "clickcount": 43
+    "votes": 7312,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -653,7 +653,7 @@
     "stationuuid": "1b762b21-2ec6-412a-a231-fa34a96f4f99",
     "name": "80s80s Radio",
     "url": "http://streams.80s80s.de/web/mp3-192/play.m3u",
-    "url_resolved": "http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6nr0o818%230%236q8s7o7o3p7411o9n0871834qs5r90so%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1793112088",
+    "url_resolved": "http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6nrqs067%230%236q8s7o7o3p7411o9n0871834qs5r90so%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1793978471",
     "homepage": "https://www.80s80s.de/streams/80s80s",
     "favicon": "https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png",
     "countrycode": "DE",
@@ -662,8 +662,8 @@
     "tags": "80s,new wave,pop,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 6950,
-    "clickcount": 407
+    "votes": 7023,
+    "clickcount": 523
   },
   {
     "id": null,
@@ -680,8 +680,8 @@
     "tags": "música,pop,rock",
     "codec": "AAC",
     "bitrate": 130,
-    "votes": 6800,
-    "clickcount": 37
+    "votes": 6810,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -698,8 +698,8 @@
     "tags": "classic rock,mp3,rock",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 6392,
-    "clickcount": 44
+    "votes": 6400,
+    "clickcount": 34
   },
   {
     "id": null,
@@ -716,8 +716,8 @@
     "tags": "pop,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 6145,
-    "clickcount": 27
+    "votes": 6151,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -734,8 +734,8 @@
     "tags": "50s,60s,70s,80s,oldies,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5991,
-    "clickcount": 17
+    "votes": 6015,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -752,8 +752,8 @@
     "tags": "90er,90s,dance,oldies,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5970,
-    "clickcount": 22
+    "votes": 5988,
+    "clickcount": 43
   },
   {
     "id": null,
@@ -770,8 +770,8 @@
     "tags": "70s soft rock,80s soft rock,pop rock,rock,rock'n'roll,soft rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 5692,
-    "clickcount": 14
+    "votes": 5716,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -788,8 +788,8 @@
     "tags": "alternative,electro,hip hop,indie,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5671,
-    "clickcount": 19
+    "votes": 5692,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -806,8 +806,8 @@
     "tags": "alternative,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 5367,
-    "clickcount": 28
+    "votes": 5388,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -824,7 +824,7 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 5210,
+    "votes": 5219,
     "clickcount": 7
   },
   {
@@ -842,8 +842,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 5164,
-    "clickcount": 41
+    "votes": 5200,
+    "clickcount": 34
   },
   {
     "id": null,
@@ -860,8 +860,8 @@
     "tags": "90's,classic rock,general,rock,slow rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5146,
-    "clickcount": 62
+    "votes": 5184,
+    "clickcount": 80
   },
   {
     "id": null,
@@ -878,8 +878,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5085,
-    "clickcount": 6
+    "votes": 5112,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -896,8 +896,8 @@
     "tags": "classic rock,information,news,pop,pop rock,rock",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 5029,
-    "clickcount": 10
+    "votes": 5048,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -914,8 +914,8 @@
     "tags": "pop,rock",
     "codec": "AAC",
     "bitrate": 96,
-    "votes": 5009,
-    "clickcount": 26
+    "votes": 5022,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -932,8 +932,8 @@
     "tags": "60s,60s and 70s.,70's,70er,70s,80's,80er,80s,90's,90er,90s,blues,blues rock,classic blues,classic hits,classic hits 60s 70a 80s,classic rock,classic rock  50's 60's 70's 80's 90's,classic rock music,classic rock oldies,classic rock oldies soul,classic rock; alternative rock indie,country,entretenimiento,fm,hard rock,high quality audio,hits,local radio,melodic hard rock,music,music 70s 80s 90s,musica,oldies,pop rock,public radio,radio,real classic rock,rhythm and blues,rock,soft rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4943,
-    "clickcount": 182
+    "votes": 5000,
+    "clickcount": 214
   },
   {
     "id": null,
@@ -950,8 +950,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4931,
-    "clickcount": 97
+    "votes": 4955,
+    "clickcount": 82
   },
   {
     "id": null,
@@ -968,8 +968,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 4829,
-    "clickcount": 7
+    "votes": 4830,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -986,8 +986,8 @@
     "tags": "croatian,easy listening,news,pop,rock,zagreb",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 4816,
-    "clickcount": 8
+    "votes": 4821,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1004,8 +1004,8 @@
     "tags": "pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4797,
-    "clickcount": 10
+    "votes": 4806,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1022,8 +1022,8 @@
     "tags": "alternative,indie,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 4689,
-    "clickcount": 35
+    "votes": 4699,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -1040,8 +1040,8 @@
     "tags": "news,oldies,pop,rock",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 4425,
-    "clickcount": 3
+    "votes": 4431,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1049,7 +1049,7 @@
     "stationuuid": "ab05e667-14e1-11e8-ae97-52543be04c81",
     "name": "94.7",
     "url": "http://playerservices.streamtheworld.com/pls/FM947AAC.pls",
-    "url_resolved": "http://28973.live.streamtheworld.com:3690/FM947AAC_SC",
+    "url_resolved": "http://27913.live.streamtheworld.com:3690/FM947AAC_SC",
     "homepage": "http://www.947.co.za/",
     "favicon": "",
     "countrycode": "ZA",
@@ -1058,8 +1058,8 @@
     "tags": "classic hits,hiphop,hits,pop,rock",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 4317,
-    "clickcount": 4
+    "votes": 4324,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1076,8 +1076,8 @@
     "tags": "60s,70er,classic rock,rock",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 4292,
-    "clickcount": 15
+    "votes": 4317,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -1094,8 +1094,8 @@
     "tags": "polish,polish rock,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4205,
-    "clickcount": 6
+    "votes": 4220,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1112,8 +1112,8 @@
     "tags": "classic rock,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4066,
-    "clickcount": 8
+    "votes": 4077,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1130,7 +1130,7 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3946,
+    "votes": 3956,
     "clickcount": 12
   },
   {
@@ -1148,8 +1148,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3891,
-    "clickcount": 10
+    "votes": 3902,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1166,8 +1166,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3846,
-    "clickcount": 7
+    "votes": 3872,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1175,7 +1175,7 @@
     "stationuuid": "960be1b7-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - Beatles",
     "url": "http://www.181.fm/stream/pls/181-beatles.pls",
-    "url_resolved": "http://listen.181fm.com/181-beatles_128k.mp3",
+    "url_resolved": "https://listen.181fm.com/181-beatles_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "http://www.181.fm/images/playerlanding/181.FM.jpg",
     "countrycode": "US",
@@ -1184,8 +1184,8 @@
     "tags": "beat,oldies,pop,rock,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3810,
-    "clickcount": 30
+    "votes": 3818,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -1202,8 +1202,8 @@
     "tags": "00er,00s,2000er,2000s,dance,hits,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3798,
-    "clickcount": 13
+    "votes": 3808,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1220,8 +1220,8 @@
     "tags": "80s,alternative rock,classic rock,hair metal,hard rock,heavy metal,indie rock,metal,power rock,punk rock,rock,rock ballads",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3702,
-    "clickcount": 8
+    "votes": 3718,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1238,8 +1238,8 @@
     "tags": "70s,80s,90s,blues,blues rock,classic rock,pop rock,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3645,
-    "clickcount": 19
+    "votes": 3665,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1256,8 +1256,8 @@
     "tags": "blues,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3595,
-    "clickcount": 10
+    "votes": 3607,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1274,8 +1274,8 @@
     "tags": "queen,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3588,
-    "clickcount": 6
+    "votes": 3597,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1292,7 +1292,7 @@
     "tags": "alternative,jazz,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3584,
+    "votes": 3592,
     "clickcount": 3
   },
   {
@@ -1310,44 +1310,8 @@
     "tags": "alternative,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3567,
-    "clickcount": 20
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "97d830f4-c35f-11e9-8502-52543be04c81",
-    "name": "Alternative Radio",
-    "url": "https://www.radioking.com/play/alternative-radio-1",
-    "url_resolved": "https://www.radioking.com/play/alternative-radio-1",
-    "homepage": "http://alternativeradio.over-blog.com/",
-    "favicon": "",
-    "countrycode": "FR",
-    "state": "",
-    "language": "",
-    "tags": "electro,folk,funk,hiphop,jazz,rock,soul,world music",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3468,
-    "clickcount": 30
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ddc49aac-eb85-11e9-a96c-52543be04c81",
-    "name": "FIP Rock",
-    "url": "http://icecast.radiofrance.fr/fiprock-hifi.aac",
-    "url_resolved": "http://icecast.radiofrance.fr/fiprock-hifi.aac",
-    "homepage": "https://www.fip.fr/rock/webradio",
-    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "aac,public radio,radio france,rock",
-    "codec": "AAC",
-    "bitrate": 192,
-    "votes": 3448,
-    "clickcount": 20
+    "votes": 3589,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1364,8 +1328,44 @@
     "tags": "alternative,blues,dance,eclectic,electronic,experimental,funk,grime,hip hop,house,indie,jazz,metal,pop,punk,r&b,reggae,rock,ska,soul,techno,world",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 3445,
-    "clickcount": 138
+    "votes": 3478,
+    "clickcount": 135
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "97d830f4-c35f-11e9-8502-52543be04c81",
+    "name": "Alternative Radio",
+    "url": "https://www.radioking.com/play/alternative-radio-1",
+    "url_resolved": "https://www.radioking.com/play/alternative-radio-1",
+    "homepage": "http://alternativeradio.over-blog.com/",
+    "favicon": "",
+    "countrycode": "FR",
+    "state": "",
+    "language": "",
+    "tags": "electro,folk,funk,hiphop,jazz,rock,soul,world music",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 3474,
+    "clickcount": 21
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "ddc49aac-eb85-11e9-a96c-52543be04c81",
+    "name": "FIP Rock",
+    "url": "http://icecast.radiofrance.fr/fiprock-hifi.aac",
+    "url_resolved": "http://icecast.radiofrance.fr/fiprock-hifi.aac",
+    "homepage": "https://www.fip.fr/rock/webradio",
+    "favicon": "https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg",
+    "countrycode": "FR",
+    "state": "",
+    "language": "french",
+    "tags": "aac,public radio,radio france,rock",
+    "codec": "AAC",
+    "bitrate": 192,
+    "votes": 3466,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -1382,8 +1382,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3427,
-    "clickcount": 12
+    "votes": 3437,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1400,8 +1400,8 @@
     "tags": "classic rock,latin music,rock",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 3377,
-    "clickcount": 59
+    "votes": 3387,
+    "clickcount": 58
   },
   {
     "id": null,
@@ -1418,8 +1418,8 @@
     "tags": "pop,rock,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3341,
-    "clickcount": 8
+    "votes": 3344,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1436,8 +1436,8 @@
     "tags": "guns n' roses,hard rock,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3310,
-    "clickcount": 10
+    "votes": 3320,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1453,9 +1453,9 @@
     "language": "portuguese",
     "tags": "contemporary,dance,pop,rock",
     "codec": "AAC",
-    "bitrate": 128,
-    "votes": 3308,
-    "clickcount": 38
+    "bitrate": 127,
+    "votes": 3318,
+    "clickcount": 50
   },
   {
     "id": null,
@@ -1472,8 +1472,8 @@
     "tags": "classic rock,rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3276,
-    "clickcount": 15
+    "votes": 3282,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -1490,26 +1490,8 @@
     "tags": "heavy metal,rock",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 3243,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9b825eb6-0fa3-44b8-842d-93f9d8d3986f",
-    "name": "Anti Radio",
-    "url": "https://stream.antiradio.net/radio/8000/mp3",
-    "url_resolved": "https://stream.antiradio.net/radio/8000/mp3",
-    "homepage": "https://antiradio.net/",
-    "favicon": "https://antiradio.net/favicon.ico",
-    "countrycode": "AZ",
-    "state": "Baku",
-    "language": "",
-    "tags": "deep house,indie,pop music,rock,trance",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3149,
-    "clickcount": 8
+    "votes": 3250,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1526,8 +1508,26 @@
     "tags": "97.9 fm,bogotá,classic rock,classic rock oldies,classic rock; alternative rock,classic rock; alternative rock indie,colombia,entretenimiento,español,estación,juvenil,latinoamérica,moi merino,music,música,prisa radio,radio,real classic rock,rock,rock classics,rock en español,rock en ingles,rock international,rock latino,rock music,suramérica",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 3127,
-    "clickcount": 15
+    "votes": 3158,
+    "clickcount": 19
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9b825eb6-0fa3-44b8-842d-93f9d8d3986f",
+    "name": "Anti Radio",
+    "url": "https://stream.antiradio.net/radio/8000/mp3",
+    "url_resolved": "https://stream.antiradio.net/radio/8000/mp3",
+    "homepage": "https://antiradio.net/",
+    "favicon": "https://antiradio.net/favicon.ico",
+    "countrycode": "AZ",
+    "state": "Baku",
+    "language": "",
+    "tags": "deep house,indie,pop music,rock,trance",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 3154,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1544,8 +1544,8 @@
     "tags": "news,pop,rock",
     "codec": "AAC",
     "bitrate": 66,
-    "votes": 3096,
-    "clickcount": 7
+    "votes": 3108,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1562,7 +1562,7 @@
     "tags": "music,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3061,
+    "votes": 3070,
     "clickcount": 7
   },
   {
@@ -1571,7 +1571,7 @@
     "stationuuid": "960c11f3-0601-11e8-ae97-52543be04c81",
     "name": "Rock and Pop",
     "url": "http://playerservices.streamtheworld.com/m3u/ROCK_AND_POPAAC.m3u",
-    "url_resolved": "http://27323.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
+    "url_resolved": "http://24363.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
     "homepage": "http://www.rockandpop.cl/",
     "favicon": "http://www.rockandpop.cl/favicon.ico",
     "countrycode": "CL",
@@ -1580,8 +1580,8 @@
     "tags": "pop,rock",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 3009,
-    "clickcount": 8
+    "votes": 3011,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1598,8 +1598,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2999,
-    "clickcount": 17
+    "votes": 3009,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1616,8 +1616,8 @@
     "tags": "blues rock,heavy metal,pop rock,punk,rock",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 2992,
-    "clickcount": 0
+    "votes": 3005,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1634,8 +1634,8 @@
     "tags": "california,alternative,eclectic,rock,free,internet,non-commercial",
     "codec": "OGG",
     "bitrate": 1441,
-    "votes": 2979,
-    "clickcount": 27
+    "votes": 2994,
+    "clickcount": 34
   },
   {
     "id": null,
@@ -1652,8 +1652,8 @@
     "tags": "60's,60s,70's,70er,70s,80's,80er,80s,90's,90er,90s,black metal,classic hits,classic metal,classic rock,entretenimiento,fm,hard rock,heavy metal,local radio,metal,music,musica,oldies,public radio,radio,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2936,
-    "clickcount": 72
+    "votes": 2963,
+    "clickcount": 71
   },
   {
     "id": null,
@@ -1670,8 +1670,8 @@
     "tags": "m3u8,rock",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 2916,
-    "clickcount": 37
+    "votes": 2925,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -1688,8 +1688,8 @@
     "tags": "classic rock,rock",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 2902,
-    "clickcount": 6
+    "votes": 2919,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1706,8 +1706,8 @@
     "tags": "adult contemporary,pop,rock,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2891,
-    "clickcount": 3
+    "votes": 2896,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1724,8 +1724,8 @@
     "tags": "local news,news,pop,pop rock,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2878,
-    "clickcount": 11
+    "votes": 2884,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1742,8 +1742,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2864,
-    "clickcount": 6
+    "votes": 2873,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1760,8 +1760,8 @@
     "tags": "alternative rock,naxi,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2835,
-    "clickcount": 2
+    "votes": 2843,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1778,8 +1778,8 @@
     "tags": "70s,album rock,arena rock,blues rock,british blues,british metal,classic rock,hard rock,heavy metal,regional blues,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2688,
-    "clickcount": 16
+    "votes": 2710,
+    "clickcount": 29
   },
   {
     "id": null,
@@ -1787,7 +1787,7 @@
     "stationuuid": "961210eb-0601-11e8-ae97-52543be04c81",
     "name": "SomaFM Left Coast 70s (128k MP3)",
     "url": "https://somafm.com/seventies.pls",
-    "url_resolved": "https://ice5.somafm.com/seventies-128-mp3",
+    "url_resolved": "https://ice6.somafm.com/seventies-128-mp3",
     "homepage": "https://somafm.com/seventiesr/",
     "favicon": "https://somafm.com/img3/seventies400.jpg",
     "countrycode": "US",
@@ -1797,6 +1797,6 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 2659,
-    "clickcount": 8
+    "clickcount": 2
   }
 ]

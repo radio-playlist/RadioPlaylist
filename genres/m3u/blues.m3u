@@ -242,11 +242,11 @@ http://ice8.securenetsystems.net/KJLU
 #EXTINF:-1 tvg-logo="https://media.kjzz.org/s3fs-public/kjzz_120x120.png" group-title="US",KJZZ 91.5 Phoenix, AZ
 http://stream.kjzz.org/kjzz_mp3_128
 
-#EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="RU",Blues - Caprice Radio
-http://79.120.77.11:8000/blues
-
 #EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/2021channels/040_just_blues_RadioArt.com.webp" group-title="GR",Radio Art - Just Blues
 http://air.radioart.com/fJust_blues.mp3
+
+#EXTINF:-1 tvg-logo="http://radcap.ru/graf2/radcaplogo.png" group-title="RU",Blues - Caprice Radio
+http://79.120.77.11:8000/blues
 
 #EXTINF:-1 tvg-logo="http://i.ibb.co/VMQmtV2/favicon.png" group-title="US",WUMB Blues Boston 91.9
 http://wumb.streamguys1.com/wumb919fast
@@ -254,20 +254,20 @@ http://wumb.streamguys1.com/wumb919fast
 #EXTINF:-1 tvg-logo="null" group-title="RU",Радио Эрмитаж Санкт-Петербург 90.1 FM
 https://hermitage.hostingradio.ru/hermitage128.mp3
 
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-blues_600x600.jpg" group-title="DE",- 0 N - Blues on Radio
+https://0n-blues.radionetz.de/0n-blues.aac
+
+#EXTINF:-1 tvg-logo="https://www.247onlineradio.com/wp-content/uploads/2023/04/247-Blues-Radio.jpg" group-title="GB",24/7 Blues Radio
+https://ec3.yesstreaming.net:3685/stream
+
 #EXTINF:-1 tvg-logo="" group-title="Global",Buffalo
-http://buffalo.stream.laut.fm/buffalo?t302=2026-10-27_15-41-14&uuid=94365c89-8bf1-3d16-f4c4-aa8cb1940fed
+http://buffalo.stream.laut.fm/buffalo?uuid=c3b8d02c-3f21-a27c-a136-d3738d5d0cad&t302=2026-11-06_16-02-56
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/radiofreeamericana.com/wp-content/uploads/RFA-Logos/cropped-RFA-VinylRecordLogo-512x512-1.png" group-title="US",Radio Free Americana [64kbps AAC+]
 http://janus.cdnstream.com:5140/live
 
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-blues_600x600.jpg" group-title="DE",- 0 N - Blues on Radio
-https://0n-blues.radionetz.de/0n-blues.aac
-
 #EXTINF:-1 tvg-logo="http://www.mixadance.fm/apple-touch-icon.png" group-title="RU",Mixadance FM
 https://stream.mixadance.fm/mixadancejazz
-
-#EXTINF:-1 tvg-logo="https://www.247onlineradio.com/wp-content/uploads/2023/04/247-Blues-Radio.jpg" group-title="GB",24/7 Blues Radio
-https://ec3.yesstreaming.net:3685/stream
 
 #EXTINF:-1 tvg-logo="" group-title="CA",Gritty Rock Radio
 http://www.radioking.com/play/gritty-rock

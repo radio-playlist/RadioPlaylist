@@ -18,7 +18,7 @@ http://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
 http://strm112.1.fm/caferadio_mobile_mp3
 
 #EXTINF:-1 tvg-logo="https://uploads.candelaestereo.com/1/2019/06/cropped-logo-candela-llama-100x100.png" group-title="CO",Candela Estéreo Bogotá (HJPU 101.9)
-http://27373.live.streamtheworld.com/CANDELAESTEREO_SC
+http://26673.live.streamtheworld.com:3690/CANDELAESTEREO_SC
 
 #EXTINF:-1 tvg-logo="http://radiobachata.net/favicon.ico" group-title="DO",Radio Bachata
 http://perseus.shoutca.st:8312/;stream/1
@@ -44,9 +44,6 @@ http://streaming5.elitecomunicacion.es:8030/live.mp3
 #EXTINF:-1 tvg-logo="" group-title="PT",ABC Portugal
 http://centova.radio.com.pt:8547/;
 
-#EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line World Radio
-http://mediaserv38.live-streams.nl:8027/live
-
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio REMIX
 https://stream.0nlineradio.com/remix?ref=radiobrowser
 
@@ -57,7 +54,7 @@ http://strm112.1.fm/latino_mobile_mp3
 http://strm112.1.fm/bossanova_mobile_mp3
 
 #EXTINF:-1 tvg-logo="http://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png?v2" group-title="MX",XHTIM "La Mejor" 90.7 FM Tijuana, BN
-http://26313.live.streamtheworld.com/XHTIM_SC
+http://18213.live.streamtheworld.com/XHTIM_SC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bdF482/REMIX-PARTYNBREAKS-LOGO-1.png" group-title="DE",# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - DJ Mixtape RADIO
 https://stream.breakz.fm/?ref=radiobrowser-remix-partybreaks-radio
@@ -79,9 +76,6 @@ http://latinakizomba.ice.infomaniak.ch/latinakizomba.mp3
 
 #EXTINF:-1 tvg-logo="https://www.ubuntu.fm/sites/default/files//favicons/apple-touch-icon.png" group-title="ZA",UbuntuFM
 https://streaming.coollective.nl:8443/UbuntuFM
-
-#EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line Latin Radio
-http://mediaserv33.live-streams.nl:8034/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgmQsmPW/festival-vibes.png" group-title="DE",House vs. Hip-Hop, Rap, Deutschrap, R&B, Trap, Techno, House, EDM, Deep House, Hardstyle, Trance, Drum & Bass, Lo-Fi, Chillout, Festival, Club, Party, Afterhour, Beats, Underground, Hype, Techno, TechHouse - Top 40 Charts - DJ Mixtape RADIO
 https://breakz-office.rautemusik.fm/?ref=rb-festival
@@ -118,9 +112,6 @@ https://salsa-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="" group-title="DE",bigFM Latin Beats
 http://streams.bigfm.de/bigfm-latinbeats-128-aac
-
-#EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line Radio - Latin
-http://mediaserv33.live-streams.nl:8034/live
 
 #EXTINF:-1 tvg-logo="https://swissgroove.ch/favicon.ico" group-title="CH",SWISS GROOVE
 https://relay2.swissgroove.ch/;
@@ -164,9 +155,6 @@ https://stream-48.zeno.fm/gs4xg5s0csmtv?zs=fpe9FmGvSNuTKvhiQP2myQ
 #EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Latino
 http://traxx008.ice.infomaniak.ch/traxx008-low.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="RO",Radio Nova22
-http://s2.myradiostream.com:4520/listen.m4a
-
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/297/6544fa9112c3f.png" group-title="US",Viva FM Orlando 99.5 Orange County/103.7 Osceola County
 https://stream.broadcastserver.net:2020/stream/wvvo?_=23526
 
@@ -209,11 +197,11 @@ https://stream.0nlineradio.com/latin?ref=radiobrowser
 #EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="GR",Radio Art - Romantic Latin
 https://live.radioart.com/fRomantic_latin.mp3
 
+#EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - the sun
+http://ilm.stream35.radiohost.de/ilm_ilovethesun_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkzOTU1MjI2JmQ9YzA1NDk5OTMwOTJmOTYyOGYxZTk
+
 #EXTINF:-1 tvg-logo="https://www.wix.com/favicon.ico" group-title="CO",Durisima Radio Online
 http://stream.laut.fm/durisimaradio
-
-#EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - the sun
-http://ilm.stream18.radiohost.de/ilm_ilovethesun_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkzMDg5MDkxJmQ9MjRkNzgzZmI4YzkyMGMwYWI1YWQ
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Mambo
 https://mambo.newradio.it/stream
@@ -251,11 +239,11 @@ https://radio.archipielago.uno/radiocosta
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/028ef2a7-2447-44be-995c-221bc9e975be.png" group-title="GR",Nova 106
 http://novafm106.media.friktoria.net:8000/novafm106.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="MX",Exa FM Comitán - 95.7 FM - XHCTS-FM - Radio Cañón / NTR Medios de Comunicación - Comitán, CS
-https://streaming.servicioswebmx.com/8242/stream
-
 #EXTINF:-1 tvg-logo="https://radio1550.com/wp-content/uploads/2025/01/cropped-cropped-PWA-512X512-192x192.png" group-title="PE",Radio 1550, La Radio Joven. Huancayo. 88.9 FM.
 https://streaming.virtugo.digital:8002/stream
+
+#EXTINF:-1 tvg-logo="" group-title="MX",Exa FM Comitán - 95.7 FM - XHCTS-FM - Radio Cañón / NTR Medios de Comunicación - Comitán, CS
+https://streaming.servicioswebmx.com/8242/stream
 
 #EXTINF:-1 tvg-logo="https://cdn.gelestatic.it/deejay/sites/2/2016/03/webradio_deejay_gasolina-320x320.png" group-title="IT",Deejay Gasolina
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8
@@ -272,11 +260,11 @@ https://stream.zeno.fm/uemgdeyam5zuv
 #EXTINF:-1 tvg-logo="https://www.radioraheem.it/wp-content/themes/gds-vue/meta/favicon.ico" group-title="IT",Radio Raheem
 https://radioraheem.out.airtime.pro/radioraheem_a
 
-#EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="GR",Radio Art - Latin
-http://air.radioart.com/fLatin.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CW",Paradise FM Latin
 https://stream.paradisefm.cw/ParadiseLatin
+
+#EXTINF:-1 tvg-logo="https://www.radioart.com/favicon.ico" group-title="GR",Radio Art - Latin
+http://air.radioart.com/fLatin.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="ES",Gladys Palmera Latin Fresh
 https://streamer.radio.co/s00c7ec6fa/listen
@@ -287,11 +275,11 @@ http://stream.laut.fm/musik-kurier
 #EXTINF:-1 tvg-logo="" group-title="MX",Vida (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones  - Acapulco, GR
 https://ss1.audiorama.com.mx:6610/vida
 
-#EXTINF:-1 tvg-logo="https://www.hits1radio.com/wp-content/uploads/2019/03/dummy-e1554135926529.jpg" group-title="FR",Hits 1 latina
-https://hits1latina-audiomediaradio.radioca.st/latina
-
 #EXTINF:-1 tvg-logo="" group-title="GB",Bar Latina Radio
 https://s2.citrus3.com:2000/stream/barlatinaradio
+
+#EXTINF:-1 tvg-logo="https://www.hits1radio.com/wp-content/uploads/2019/03/dummy-e1554135926529.jpg" group-title="FR",Hits 1 latina
+https://hits1latina-audiomediaradio.radioca.st/latina
 
 #EXTINF:-1 tvg-logo="" group-title="CA",La Bonita X101
 https://listen.labonita.torontocast.stream/
@@ -301,4 +289,16 @@ https://server8.emitironline.com:18520/stream
 
 #EXTINF:-1 tvg-logo="https://radiolatinamerika.no/templates/yoo_showroom/favicon.ico" group-title="NO",Radio Latin-Amerika
 https://stream.radiolatinamerika.no/latam_hq
+
+#EXTINF:-1 tvg-logo="https://www.deejay.it/favicon.ico" group-title="IT",Deejay Gasolina
+https://streamcdnr7-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="MX",Vida (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
+https://ss1.audiorama.com.mx:6610/
+
+#EXTINF:-1 tvg-logo="https://yosoyfm.com/favicon.ico" group-title="MX",Soy 101.7 (Veracruz) - 101.7 FM - XHPR-FM - Grupo Radio Digital - Boca del Río, Veracruz
+https://stream.zeno.fm/uemgdeyam5zuv
+
+#EXTINF:-1 tvg-logo="null" group-title="BQ",Alpha 93.1 FM Riscado
+http://kadushi.westream.cloud:8100/xstream
 

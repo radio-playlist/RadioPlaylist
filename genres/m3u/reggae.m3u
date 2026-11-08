@@ -15,7 +15,7 @@ http://origin-rastamusic.streamguys1.com/rastamusic.mp3
 http://alphaboys-live.streamguys1.com/alphaboys.mp3
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/reggae400.jpg" group-title="US",SomaFM Heavyweight Reggae (256k MP3)
-https://ice6.somafm.com/reggae-256-mp3
+https://ice2.somafm.com/reggae-256-mp3
 
 #EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="FR",FIP Reggae
 http://icecast.radiofrance.fr/fipreggae-hifi.aac
@@ -31,9 +31,6 @@ http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.
 
 #EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="FR",Generations Reggae
 http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="NL",Hi On Line World Radio
-http://mediaserv38.live-streams.nl:8027/live
 
 #EXTINF:-1 tvg-logo="" group-title="BB",Slam 101.1 - Haggatt Hall
 http://usa4.fastcast4u.com:5006/;
@@ -77,11 +74,11 @@ https://streaming.coollective.nl:8443/UbuntuFM
 #EXTINF:-1 tvg-logo="" group-title="FR",Allzic Radio Reggae
 http://allzic43.ice.infomaniak.ch/allzic43.mp3
 
-#EXTINF:-1 tvg-logo="https://cdn2.editmysite.com/images/site/footer/og-image-placeholder-blank.png" group-title="JM",Worlvybz radio
-http://stream.zeno.fm/mkg0g0t2td0uv
-
 #EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2020/10/NOVA_CARD_HD.png?resize=560%2C664&quality=75" group-title="FR",RADIO NOVA
 https://novazz.ice.infomaniak.ch/novazz-128.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn2.editmysite.com/images/site/footer/og-image-placeholder-blank.png" group-title="JM",Worlvybz radio
+http://stream.zeno.fm/mkg0g0t2td0uv
 
 #EXTINF:-1 tvg-logo="https://manager.suaradionanet.net/storage/radios/reggaebrasil/site_basic/63f193d9235468.08684969.png" group-title="BR",Radio Reggae Brasil
 https://casthttps.suaradionanet.net/13805/stream
@@ -96,7 +93,7 @@ https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
 https://starchild.radioca.st/
 
 #EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="DE",radioeins-rbb-56 kbit/s
-http://d121.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3LGkkDRB0oJWhv5PsScZ4ykLkow&token=X08F6_1QLaUFN9muhOCKx6XodVrqFgRcUWHJact9ips&tvf=d6dqkJ5n4hhkMTIxLnJuZGZuay5jb20
+http://d131.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3Lj4VOHhOST2Qv3yksn14j9v1YT&token=ecMGWTvzdEUTcodzsmEvwuHbI12U8f78SHECTxUGrZ0&tvf=IoJfL3R75RhkMTMxLnJuZGZuay5jb20
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7d4435_7b92a4f288274c54a86dd8ea48b985a6~mv2.png/v1/fill/w_208,h_92,al_c,usm_0.66_1.00_0.01/7d4435_7b92a4f288274c54a86dd8ea48b985a6~mv2.png" group-title="LC",The Wave 94.5 & 93.7 Castries
 http://ice66.securenetsystems.net/THEWAVE
@@ -122,14 +119,14 @@ http://mp3.radiox.ch:8000/standard.mp3
 #EXTINF:-1 tvg-logo="" group-title="IE",Radio Zodiac Ireland
 http://www.radioking.com/play/radio-zodiac-ireland
 
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/ufIfkfDXSl/vignette.png" group-title="FR",OUI FM REGGAE
+https://ouifmganja.ice.infomaniak.ch/ouifmganja-128.mp3
+
 #EXTINF:-1 tvg-logo="https://80s.intamixx.uk/images/imc8090.jpg" group-title="GB",Intamixx 80s 90s Radio UK
 https://radio.intamixx.uk:8443/radio2
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Laut.FM Skafari
 http://stream.laut.fm/skafari
-
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/radiostream/ufIfkfDXSl/vignette.png" group-title="FR",OUI FM REGGAE
-https://ouifmganja.ice.infomaniak.ch/ouifmganja-128.mp3
 
 #EXTINF:-1 tvg-logo="http://www.rtbf.be/favicon.ico" group-title="BE",RTBF Classic 21 - Reggae
 https://radios.rtbf.be/wr-eventradio-128.mp3
@@ -138,7 +135,7 @@ https://radios.rtbf.be/wr-eventradio-128.mp3
 http://wstxradio2.serverroom.net:8340/;
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/reggae400.jpg" group-title="US",SomaFM Heavyweight Reggae (32k AAC)
-https://ice5.somafm.com/reggae-32-aac
+https://ice6.somafm.com/reggae-32-aac
 
 #EXTINF:-1 tvg-logo="https://www.jointil.com/broadcast/images/joint.radio330X330.png" group-title="DE",1 reggae joint
 https://jointil.com/stream-reggae
@@ -173,14 +170,14 @@ https://stream.zeno.fm/c0ytcn43vxquv
 #EXTINF:-1 tvg-logo="" group-title="CA",100 % COVERS LOUNGE
 https://az1.mediacp.eu/listen/100coverslounge/radio.mp3
 
-#EXTINF:-1 tvg-logo="https://www.jointil.com/broadcast/images/joint.radio350X350.png" group-title="IL",#joint radio Reggae
-https://jointil.com/stream-reggae
-
 #EXTINF:-1 tvg-logo="" group-title="LC",REV-UP SLU
 https://caribspy.com/proxy/revupslu/stream
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-reggae_600x600.jpg" group-title="DE",- 0 N - Reggae on Radio
 https://0n-reggae.radionetz.de/0n-reggae.mp3
+
+#EXTINF:-1 tvg-logo="https://www.jointil.com/broadcast/images/joint.radio350X350.png" group-title="IL",#joint radio Reggae
+https://jointil.com/stream-reggae
 
 #EXTINF:-1 tvg-logo="" group-title="Global",laut.fm Gta Classics
 http://stream.laut.fm/gta-classics
@@ -197,14 +194,14 @@ https://www.streaming507.net:8130/stream
 #EXTINF:-1 tvg-logo="" group-title="RO",Black Rhino Radio
 https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
 
+#EXTINF:-1 tvg-logo="" group-title="GD",Hot Shotz Radio - Grenada
+http://usa1.fastcast4u.com:3292/stream
+
 #EXTINF:-1 tvg-logo="https://www.facebook.com/favicon.ico" group-title="BB",Q 100.7 FM
 http://108.178.16.190:8000/1007fm.mp3
 
 #EXTINF:-1 tvg-logo="https://www.caribbeanpowerjamradio.com/wp-content/uploads/2022/10/cropped-download-180x180.png" group-title="US",Caribbean Power Jam Radio
 http://auds1.intacs.com/caribbeanpowerjamradio
-
-#EXTINF:-1 tvg-logo="" group-title="GD",Hot Shotz Radio - Grenada
-http://usa1.fastcast4u.com:3292/stream
 
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/506cebee-9bb7-4f39-9d98-40d9c3cd2612.png" group-title="GR",Home 89.1
 http://185.14.203.115:8004/stream?type=http&nocache=109
@@ -298,6 +295,9 @@ https://drive.uber.radio/uber/lrreggae/icecast.audio
 
 #EXTINF:-1 tvg-logo="" group-title="GB",XL:UK Radio
 https://s3.radio.co/s113a5dc46/listen
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW7u-ddLakUqlSi4UMucAHo7yNKTDG2o-spkfc_WD3Dw&s=10" group-title="VC",Old School 94.1 FM
+https://ec3.yesstreaming.net:4245/stream
 
 #EXTINF:-1 tvg-logo="https://www.y103fm.com/wp-content/uploads/2024/09/Y103logo.png" group-title="BB",Y103.3 FM
 http://usa4.fastcast4u.com:5336/;

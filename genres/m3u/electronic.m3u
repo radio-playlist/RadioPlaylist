@@ -33,7 +33,7 @@ https://stream.mixadance.fm/mixadance
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/lush-400.jpg" group-title="US",SomaFM Lush (128k MP3)
-https://ice2.somafm.com/lush-128-mp3
+https://ice5.somafm.com/lush-128-mp3
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s155539/images/logod.png" group-title="GB",TMM 2
 https://listen-msmn.sharp-stream.com/nme2.mp3
@@ -132,7 +132,7 @@ http://myradio24.org/5129_320
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio
 
 #EXTINF:-1 tvg-logo="http://somafm.com/img3/deepspaceone-400.jpg" group-title="US",SomaFM Deep Space One (32k AAC)
-https://ice6.somafm.com/deepspaceone-32-aac
+https://ice2.somafm.com/deepspaceone-32-aac
 
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio REMIX
 https://stream.0nlineradio.com/remix?ref=radiobrowser
@@ -186,7 +186,7 @@ https://listen-msmn.sharp-stream.com/nme2high.mp3
 http://79.111.119.111:9021/
 
 #EXTINF:-1 tvg-logo="" group-title="Global",HappyHardcore.com
-https://www.happyhardcore.com/livestreams/p/u9/
+https://www.happyhardcore.com/livestreams/p/u1/
 
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__CLUB__ by rautemusik (rm.fm)
 https://club-high.rautemusik.fm/?ref=radiobrowser
@@ -197,11 +197,11 @@ http://79.120.39.202:8000/dubtechno
 #EXTINF:-1 tvg-logo="" group-title="US",chilltrax
 https://streamssl.chilltrax.com/
 
-#EXTINF:-1 tvg-logo="" group-title="US",DnB&EDM
-https://edmdnb.com:448/radio/8000/radio.mp3
-
 #EXTINF:-1 tvg-logo="https://tubestatic.orf.at/mojo/1_3/storyserver//tube/fm4/images/touch-icon-iphone-retina.png" group-title="AT",FM4 | ORF | HQ
 https://orf-live.ors-shoutcast.at/fm4-q2a
+
+#EXTINF:-1 tvg-logo="" group-title="US",DnB&EDM
+https://edmdnb.com:448/radio/8000/radio.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Sovietwave
 http://station.waveradio.org/soviet.mp3
@@ -210,7 +210,7 @@ http://station.waveradio.org/soviet.mp3
 http://79.111.14.76:8000/drumbass
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/defcon400.png" group-title="US",SomaFM DEF CON Radio (128k AAC)
-https://ice6.somafm.com/defcon-128-aac
+https://ice2.somafm.com/defcon-128-aac
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_cf8747dc2b804de09c56359c324dd1f5~mv2.jpg" group-title="CA",#100 BEST IBIZA DEEP HOUSE
 https://stream.zeno.fm/lwv6zqgtv1dtv
@@ -239,11 +239,11 @@ https://myradio24.org/5129
 #EXTINF:-1 tvg-logo="" group-title="ES",LOCAFM REMEMBER
 http://s02.fjperezdj.com:8035/live
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg" group-title="CA",# RdMix Italo Disco 80s
-https://cast1.torontocast.com:2130/stream
-
 #EXTINF:-1 tvg-logo="https://nrj.ua/images/NRJ.png" group-title="UA",NRJ Ukraine
 https://cast.mediaonline.net.ua/nrj320
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg" group-title="CA",# RdMix Italo Disco 80s
+https://cast1.torontocast.com:2130/stream
 
 #EXTINF:-1 tvg-logo="" group-title="ES",LOS 40 DANCE
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3

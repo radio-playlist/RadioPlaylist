@@ -3,7 +3,7 @@
 #PLAYLIST:RadioCatalog - COUNTRY
 
 #EXTINF:-1 tvg-logo="" group-title="US",.977 Country
-http://24293.live.streamtheworld.com/977_COUNTRY_SC
+http://24293.live.streamtheworld.com:3690/977_COUNTRY_SC
 
 #EXTINF:-1 tvg-logo="http://www.radiocaroline.co.uk/favicon.ico" group-title="GB",Radio Caroline
 http://78.129.202.200:8040/;
@@ -18,13 +18,13 @@ http://icecast2.play.cz:8000/country128aac
 http://listen.181fm.com/181-80scountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",181.FM - Kickin' Country
-http://listen.181fm.com/181-kickincountry_128k.mp3
+https://listen.181fm.com/181-kickincountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="http://www.country108.com/assets/images/logo.png" group-title="DE",Country 108
 http://tuner.country108.com/;
 
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - 90's Country
-http://listen.181fm.com/181-90scountry_128k.mp3
+https://listen.181fm.com/181-90scountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico" group-title="US",Radio Country Live New York
 https://streaming.radiostreamlive.com/radiocountrylive_devices
@@ -45,7 +45,7 @@ http://stream01048.westreamradio.com/wsm-am-mp3
 https://ice24.securenetsystems.net/WAMU
 
 #EXTINF:-1 tvg-logo="" group-title="US",181.FM - Real Country
-https://listen.181fm.com/181-realcountry_128k.mp3
+http://listen.181fm.com/181-realcountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",Truckers Radio USA
 http://streamer.radio.co/s81d30349a/low
@@ -63,7 +63,7 @@ https://ais-sa2.cdnstream1.com/1976_128.mp3
 https://inter.lannaradio.com/radio/8000/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/bootliquor-400.jpg" group-title="US",SomaFM Boot Liquor (320k MP3)
-https://ice6.somafm.com/bootliquor-320-mp3
+https://ice5.somafm.com/bootliquor-320-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="NL",Grolloo Radio
 https://uk1.streamingpulse.com/ssl/grollooradio
@@ -104,17 +104,17 @@ http://ice24.securenetsystems.net/OUTLAW
 #EXTINF:-1 tvg-logo="" group-title="IN",Pollachi Fm
 http://104.200.16.182:8000/stream/1/
 
-#EXTINF:-1 tvg-logo="" group-title="SE",Country Rocks Radio
-http://stream.dbmedia.se/crrMP3
-
 #EXTINF:-1 tvg-logo="" group-title="MA",MRC:-Radio Adwaa Music 3
 https://stream.zeno.fm/x4451xh0x1zuv
 
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-country_600x600.jpg" group-title="DE",- 0 N - Country on Radio
-https://0n-country.radionetz.de/0n-country.mp3
+#EXTINF:-1 tvg-logo="" group-title="SE",Country Rocks Radio
+http://stream.dbmedia.se/crrMP3
 
 #EXTINF:-1 tvg-logo="" group-title="AO",Absolute country
 http://strm112.1.fm/acountry_mobile_mp3
+
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-country_600x600.jpg" group-title="DE",- 0 N - Country on Radio
+https://0n-country.radionetz.de/0n-country.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="MA",MRC:-Hip Hop Soul Radio 	Radio Music
 https://stream.zeno.fm/k7cdrm450s8uv
@@ -128,11 +128,11 @@ http://37.247.98.9/stream/493/?/;stream.mp3
 #EXTINF:-1 tvg-logo="https://media.ruralradio.co/nrr/uploads/sites/12/2021/02/cropped-ktmx-2-180x180.png" group-title="US",104.9 Max Country
 https://ais-sa1.streamon.fm/7246_48k.aac
 
-#EXTINF:-1 tvg-logo="http://www.rtbfradioplayer.be/favicon.ico" group-title="BE",RTBF Classic 21 - Route 66
-https://radios.rtbf.be/wr-c21-route66-128.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",Christmas Radio
 http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3
+
+#EXTINF:-1 tvg-logo="http://www.rtbfradioplayer.be/favicon.ico" group-title="BE",RTBF Classic 21 - Route 66
+https://radios.rtbf.be/wr-c21-route66-128.mp3
 
 #EXTINF:-1 tvg-logo="http://www.bigrradio.com/image/favicon/apple-touch-icon.png" group-title="US",Big R Radio - Country Mix
 http://bigrradio.cdnstream1.com/5196_128
@@ -161,11 +161,11 @@ http://cbnradio.streamguys1.com/country-christmas-128K?app=cbnplayer
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="AE",Exclusively Taylor Swift
 https://streaming.exclusive.radio/er/taylorswift/icecast.audio
 
-#EXTINF:-1 tvg-logo="" group-title="DE",__COUNTRYHITS.FM__ by rautemusik (rm.fm)
-https://country-high.rautemusik.fm/?ref=radiobrowser
-
 #EXTINF:-1 tvg-logo="" group-title="AO",Absolute country
 http://strm112.1.fm/acountry_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="DE",__COUNTRYHITS.FM__ by rautemusik (rm.fm)
+https://country-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2025-04-26/7358e7e8c2649a65c1a9d821887e32e3.ico.png" group-title="CA",A MISSISSIPPI BLUES
 https://cast1.torontocast.com:4450/;?type=http&nocache=1745625391
@@ -183,7 +183,7 @@ http://www.ophanim.net:9170/live
 http://icecast8.play.cz/samsonfm128.mp3
 
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="CO",La voz de Jesús
-https://stream-289.surfernetwork.com/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InFhd25OUDY3UUxPclJxbGd4UG14d3ciLCJpYXQiOjE3OTMxNDE2MjgsImV4cCI6MTc5MzE0MTY4OH0.LEfU5Lu60yvBc9cZ51mtI8OAWj_hpMmvzqpiIoFwuIY
+https://stream-289.surfernetwork.com/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkRWZ1VEVEk5VHl5T1RZX1U5LUFaX3ciLCJpYXQiOjE3OTQwMDY0NDYsImV4cCI6MTc5NDAwNjUwNn0.rxV2doBm_pcD7ROeEN7u6oXFdbq1Xgr6xgjiZasS_0A
 
 #EXTINF:-1 tvg-logo="" group-title="AE",Exclusively The Eagles
 https://streaming.exclusive.radio/er/eagles/icecast.audio
@@ -290,15 +290,15 @@ http://puma.streemlion.com:3540/stream
 #EXTINF:-1 tvg-logo="https://www.radioszene.de/wp-content/uploads/2023/07/The-WOLF-Countryradio-fb.webp" group-title="DE",The WOLF - New Country and the Legends
 https://radio21.streamabc.net/radio21-radio21dabns-mp3-192-3908190
 
-#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Christmas Kountry
-http://listen.181fm.com/181-xkkountry_128k.mp3
-
 #EXTINF:-1 tvg-logo="https://www.991theranch.com/images/favicon/apple-touch-icon.png" group-title="US",99.1 The Ranch
 https://ice9.securenetsystems.net/KWSV
+
+#EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - Christmas Kountry
+http://listen.181fm.com/181-xkkountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="EE",VIKERRAADIO
 http://icecast.err.ee/vikerraadiokorge.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="KR",kbs해피fm
-https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MzQxNjc3MX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=aDb2fw6uRuJ0amRINufWDtApUVmtJV6-iQjTpqY102JDpcrPd72K-h~lHYwBSyfouiy-hu8YYsYrLkIycbH-FfA14WUFHEet9gW2TirhVfGBTeCydbrYGB4j~WarvzU2DzkhbIIm-LkfMhkMI3W-pPrlVKy2pQ3-bAlDqU1RKjZv6HygpB2q7mwUWAxla3it7X8Ar~kciOXwQldHiJb4IEcrnnaiaxE0UChke5AJaBK0cdG7Jr-5O4sAVvMsLhFJ~ZrBhmjLaTa8wYtHQAdmfJT77MnyS2xMePHtgBidXpu0A-SfZ7vfZ6nCndwjFomzKOmVGUIxG4hAjwDUoARROw__
+https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5Mzg1MjM2OX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=WXqLuf~qi05E322PGCbA-Udb6~NkMu2fnW5iIym82xVZYU41be0RjwKKDrFpUFlKCc6BmZsdw~CmXFHVBd1L2seAPZjBfvaZAoLXjK7aZjBX3uWM3gr7jMVmTllc-72TRenQkblVD0eyoW4ATKRfq615nbRXnYSL2ul39-MveeTf~U1otgdm6TE6H4ejHUXjCuyLHMPDINagNnrfiOGzCzTqJe3Qi8kauGf-GtMFpoJs-Xbzt2LUF2SIENEH3xWYm78hGOXHUGvvtAxHwceY7PKVURVFuDc7w-OY~KEunpRnRwVBAayf108o0n~Ggr0JJ65JWUNufDYtQO1L46kKTQ__
 
