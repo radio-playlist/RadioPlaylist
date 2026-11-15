@@ -2,24 +2,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "399b7c2a-6680-11e8-b15b-52543be04c81",
-    "name": "RMF FM",
-    "url": "http://195.150.20.242:8000/rmf_fm",
-    "url_resolved": "http://195.150.20.242:8000/rmf_fm",
-    "homepage": "https://www.rmf.fm/",
-    "favicon": "https://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "fm,rmf,rmffm",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 64150,
-    "clickcount": 281
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "960d9241-0601-11e8-ae97-52543be04c81",
     "name": "RMF FM",
     "url": "http://195.150.20.9/RMFFM48",
@@ -32,62 +14,8 @@
     "tags": "pop",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 56564,
-    "clickcount": 93
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "59e30dda-64bf-11ea-be63-52543be04c81",
-    "name": "Radio Zet",
-    "url": "http://zet-net-01.cdn.eurozet.pl:8400/",
-    "url_resolved": "http://zet-net-01.cdn.eurozet.pl:8400/",
-    "homepage": "https://www.radiozet.pl/",
-    "favicon": "https://gfx.radiozet.pl/extension/radiozet/design/standard/images/favicon/apple-touch-icon.png",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 54298,
-    "clickcount": 160
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9617d67b-0601-11e8-ae97-52543be04c81",
-    "name": "Antyradio",
-    "url": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
-    "url_resolved": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
-    "homepage": "http://www.antyradio.pl/",
-    "favicon": "https://gfx.antyradio.pl/design/antyradio/src/images/favicon/favicon_180x180.png",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "metal,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 27906,
-    "clickcount": 70
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "964558ba-0601-11e8-ae97-52543be04c81",
-    "name": "Polskie Radio Jedynka",
-    "url": "http://mp3.polskieradio.pl:8900/;.mp3",
-    "url_resolved": "http://mp3.polskieradio.pl:8900/;.mp3",
-    "homepage": "http://www.polskieradio.pl/jedynka/",
-    "favicon": "",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "polskieradio,public radio",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 19222,
-    "clickcount": 36
+    "votes": 56819,
+    "clickcount": 229
   },
   {
     "id": null,
@@ -104,8 +32,8 @@
     "tags": "information,polskieradio,public radio",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 18745,
-    "clickcount": 13
+    "votes": 18823,
+    "clickcount": 47
   },
   {
     "id": null,
@@ -122,8 +50,8 @@
     "tags": "classical",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 14543,
-    "clickcount": 14
+    "votes": 14605,
+    "clickcount": 34
   },
   {
     "id": null,
@@ -140,8 +68,8 @@
     "tags": "mixes",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 14455,
-    "clickcount": 21
+    "votes": 14491,
+    "clickcount": 48
   },
   {
     "id": null,
@@ -158,26 +86,8 @@
     "tags": "polish pop music",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 14315,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "65cd1362-71ab-4829-8a4a-f530caf3a465",
-    "name": "Radio RMF MAXXX",
-    "url": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
-    "url_resolved": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
-    "homepage": "",
-    "favicon": "https://cdn.onlineradiobox.com/img/l/4/1294.v9.png",
-    "countrycode": "PL",
-    "state": "",
-    "language": "",
-    "tags": "misc",
-    "codec": "AAC+",
-    "bitrate": 48,
-    "votes": 14137,
-    "clickcount": 64
+    "votes": 14347,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -194,8 +104,8 @@
     "tags": "90s",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 12446,
-    "clickcount": 8
+    "votes": 12485,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -212,8 +122,8 @@
     "tags": "adult contemporary",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 11631,
-    "clickcount": 192
+    "votes": 11782,
+    "clickcount": 234
   },
   {
     "id": null,
@@ -230,44 +140,8 @@
     "tags": "dance",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 11432,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "964aa3f1-0601-11e8-ae97-52543be04c81",
-    "name": "Trojka",
-    "url": "http://stream3.polskieradio.pl:8904/",
-    "url_resolved": "http://stream3.polskieradio.pl:8904/",
-    "homepage": "http://moje.polskieradio.pl/OtherChannels/Trojka.aspx",
-    "favicon": "http://moje.polskieradio.pl/favicon.ico",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 10536,
-    "clickcount": 16
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "c7915f33-f401-4ab4-9f49-dcc1cce15ed6",
-    "name": "TOK FM",
-    "url": "https://radiostream.pl/tuba10-1.mp3#TOK_FM",
-    "url_resolved": "https://radiostream.pl/tuba10-1.mp3#TOK_FM",
-    "homepage": "https://www.tokfm.pl/Tokfm/0,0.html",
-    "favicon": "https://static.im-g.pl/im/6/7455/m7455556.gif",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "information",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 10492,
-    "clickcount": 35
+    "votes": 11450,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -284,44 +158,8 @@
     "tags": "misc",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 10354,
-    "clickcount": 16
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "bf487b2b-503c-42c3-b088-9b5d679fdf29",
-    "name": "ESKA ROCK",
-    "url": "https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK",
-    "url_resolved": "https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK",
-    "homepage": "https://www.eskarock.pl/",
-    "favicon": "https://static.mytuner.mobi/media/tvos_radios/2LqeyZhdFq.png",
-    "countrycode": "PL",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 9351,
-    "clickcount": 73
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96117fec-0601-11e8-ae97-52543be04c81",
-    "name": "Polskie Radio Program 1",
-    "url": "http://mp3.polskieradio.pl:8900/",
-    "url_resolved": "http://mp3.polskieradio.pl:8900/",
-    "homepage": "http://www.polskieradio.pl/jedynka/",
-    "favicon": "",
-    "countrycode": "PL",
-    "state": "Warszawa",
-    "language": "polish",
-    "tags": "polskieradio,public radio",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 8373,
-    "clickcount": 13
+    "votes": 10379,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -338,8 +176,8 @@
     "tags": "alternative",
     "codec": "AAC+",
     "bitrate": 192,
-    "votes": 7807,
-    "clickcount": 23
+    "votes": 7830,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -356,8 +194,8 @@
     "tags": "disco",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 7617,
-    "clickcount": 11
+    "votes": 7652,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -374,8 +212,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 7472,
-    "clickcount": 35
+    "votes": 7506,
+    "clickcount": 45
   },
   {
     "id": null,
@@ -392,26 +230,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7229,
-    "clickcount": 58
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "bd89329f-4e16-11e8-a4d1-52543be04c81",
-    "name": "Polskie Radio - Czwórka",
-    "url": "http://stream3.polskieradio.pl:8906/;stream",
-    "url_resolved": "http://stream3.polskieradio.pl:8906/;stream",
-    "homepage": "http://www.polskieradio.pl/10,Czworka",
-    "favicon": "",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 6841,
-    "clickcount": 9
+    "votes": 7353,
+    "clickcount": 88
   },
   {
     "id": null,
@@ -428,8 +248,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6780,
-    "clickcount": 28
+    "votes": 6851,
+    "clickcount": 77
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "bd89329f-4e16-11e8-a4d1-52543be04c81",
+    "name": "Polskie Radio - Czwórka",
+    "url": "http://stream3.polskieradio.pl:8906/;stream",
+    "url_resolved": "http://stream3.polskieradio.pl:8906/;stream",
+    "homepage": "http://www.polskieradio.pl/10,Czworka",
+    "favicon": "",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 6850,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -446,8 +284,8 @@
     "tags": "szczecin",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6652,
-    "clickcount": 7
+    "votes": 6664,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -464,8 +302,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 6597,
-    "clickcount": 29
+    "votes": 6649,
+    "clickcount": 45
   },
   {
     "id": null,
@@ -482,44 +320,8 @@
     "tags": "80s",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 6571,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "90877e51-c905-431d-aad2-cf7bea939a7b",
-    "name": "Radio Nowy Świat 256k",
-    "url": "https://go-audio.toya.net.pl/63214",
-    "url_resolved": "https://go-audio.toya.net.pl/63214",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "PL",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 6448,
-    "clickcount": 16
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "0013eb82-2dea-41f7-9534-936d0b2721b7",
-    "name": "TokFM",
-    "url": "https://radiostream.pl/tuba10-1.mp3",
-    "url_resolved": "https://radiostream.pl/tuba10-1.mp3",
-    "homepage": "https://www.tokfm.pl/",
-    "favicon": "https://static.im-g.pl/im/6/7455/m7455556.gif",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 6277,
-    "clickcount": 81
+    "votes": 6591,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -536,26 +338,8 @@
     "tags": "house",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5832,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "0a13c62c-5560-47de-8a64-a33870ca3798",
-    "name": "Polskie Radio Kierowców",
-    "url": "http://stream3.polskieradio.pl:8918/;",
-    "url_resolved": "http://stream3.polskieradio.pl:8918/;",
-    "homepage": "https://radiokierowcow.pl/",
-    "favicon": "",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "classic rock,polish rock,pop rock",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 5712,
-    "clickcount": 12
+    "votes": 5852,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -572,8 +356,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 5629,
-    "clickcount": 16
+    "votes": 5656,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -590,8 +374,8 @@
     "tags": "party",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5418,
-    "clickcount": 21
+    "votes": 5435,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -608,8 +392,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5329,
-    "clickcount": 4
+    "votes": 5337,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -626,8 +410,8 @@
     "tags": "catholic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5112,
-    "clickcount": 7
+    "votes": 5119,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -644,8 +428,8 @@
     "tags": "classic rock,information,news,pop,pop rock,rock",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 5048,
-    "clickcount": 18
+    "votes": 5066,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -662,8 +446,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4863,
-    "clickcount": 25
+    "votes": 4888,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -680,8 +464,8 @@
     "tags": "ballads,nostalgia",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 4550,
-    "clickcount": 3
+    "votes": 4573,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -698,8 +482,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4380,
-    "clickcount": 11
+    "votes": 4395,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -716,8 +500,8 @@
     "tags": "polish,polish rock,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4220,
-    "clickcount": 8
+    "votes": 4231,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -734,8 +518,8 @@
     "tags": "party,vocal trance",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 4201,
-    "clickcount": 13
+    "votes": 4214,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -752,8 +536,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 4193,
-    "clickcount": 2
+    "votes": 4205,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -770,8 +554,8 @@
     "tags": "hiphop",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 4085,
-    "clickcount": 6
+    "votes": 4094,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -788,26 +572,8 @@
     "tags": "dance,dj mixes,dj remix,vixa",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 3889,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "da0174e1-a1b0-447d-befb-087a6c88d6d4",
-    "name": "Chilli Zet",
-    "url": "https://ch.cdn.eurozet.pl/chi-net.mp3",
-    "url_resolved": "https://ch.cdn.eurozet.pl/chi-net.mp3",
-    "homepage": "https://www.chillizet.pl/",
-    "favicon": "https://gfx.chillizet.pl/extension/chillizet/design/standard/images/favicon/apple-touch-icon.png",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3791,
-    "clickcount": 47
+    "votes": 3894,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -824,8 +590,8 @@
     "tags": "dub,electro,minimal,techno",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3586,
-    "clickcount": 19
+    "votes": 3605,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -841,27 +607,9 @@
     "language": "polish",
     "tags": "",
     "codec": "MP3",
-    "bitrate": 0,
-    "votes": 3452,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "698edc0e-7027-11ea-b1cf-52543be04c81",
-    "name": "Wnet.fm",
-    "url": "https://media.wnet.fm/wnet.fm",
-    "url_resolved": "https://media.wnet.fm/wnet.fm",
-    "homepage": "https://wnet.fm/",
-    "favicon": "https://wnet.fm/favicon.ico",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 3394,
-    "clickcount": 4
+    "bitrate": 128,
+    "votes": 3504,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -878,44 +626,8 @@
     "tags": "local news",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3317,
-    "clickcount": 11
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "c62a050f-cfd4-4fc5-8c93-ebaf0bc84738",
-    "name": "VOX FM 128",
-    "url": "https://ic2.smcdn.pl/3990-1.mp3",
-    "url_resolved": "https://ic2.smcdn.pl/3990-1.mp3",
-    "homepage": "http://voxfm.pl/",
-    "favicon": "http://voxfm.pl/apple-touch-icon.png",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3116,
-    "clickcount": 54
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "d81fd5d3-4c24-4768-88b3-57954e77c0e7",
-    "name": "Radio Nowy Świat",
-    "url": "https://go-audio.toya.net.pl/63214",
-    "url_resolved": "https://go-audio.toya.net.pl/63214",
-    "homepage": "https://nowyswiat.online/",
-    "favicon": "https://dl.memuplay.com/new_market/img/com.thehouseofcode.radio_nowy_swiat.icon.2021-03-20-18-25-39.png",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "soft adult contemporary",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 3013,
-    "clickcount": 55
+    "votes": 3327,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -932,8 +644,8 @@
     "tags": "pop dance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2780,
-    "clickcount": 12
+    "votes": 2789,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -950,8 +662,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 2747,
-    "clickcount": 9
+    "votes": 2750,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -968,8 +680,8 @@
     "tags": "trance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2556,
-    "clickcount": 62
+    "votes": 2583,
+    "clickcount": 59
   },
   {
     "id": null,
@@ -986,8 +698,8 @@
     "tags": "polskieradio,public radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2470,
-    "clickcount": 16
+    "votes": 2484,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -1004,8 +716,8 @@
     "tags": "jazz,smooth jazz",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2414,
-    "clickcount": 28
+    "votes": 2442,
+    "clickcount": 40
   },
   {
     "id": null,
@@ -1022,8 +734,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2343,
-    "clickcount": 4
+    "votes": 2360,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1040,26 +752,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2298,
-    "clickcount": 10
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "75b823fc-f95f-4b88-a2e1-737750ac8ad9",
-    "name": "Polskie Radio 24",
-    "url": "http://stream3.polskieradio.pl:8080/;.mp3",
-    "url_resolved": "http://stream3.polskieradio.pl:8080/;.mp3",
-    "homepage": "https://polskieradio24.pl/",
-    "favicon": "https://yt3.ggpht.com/a/AATXAJyFlzKJAEMeWhP6xmsC3EHQ9MkIldwATEmAQA=s900-c-k-c0xffffffff-no-rj-mo",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "information,news,talk",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 2252,
-    "clickcount": 51
+    "votes": 2332,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -1076,8 +770,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2155,
-    "clickcount": 2
+    "votes": 2165,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1094,8 +788,8 @@
     "tags": "golden oldies",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 2086,
-    "clickcount": 8
+    "votes": 2095,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1112,8 +806,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 2062,
-    "clickcount": 29
+    "votes": 2068,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -1129,9 +823,27 @@
     "language": "polish",
     "tags": "electronic,party,rap",
     "codec": "MP3",
-    "bitrate": 0,
-    "votes": 2028,
-    "clickcount": 42
+    "bitrate": 128,
+    "votes": 2050,
+    "clickcount": 56
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "97b1aec1-dad3-4551-8cc5-07965bbcb93f",
+    "name": "Radio RMF FM",
+    "url": "http://www.rmfon.pl/n/rmffm.pls",
+    "url_resolved": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_fm",
+    "homepage": "http://www.rmf.fm/",
+    "favicon": "http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
+    "countrycode": "PL",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 2032,
+    "clickcount": 150
   },
   {
     "id": null,
@@ -1148,44 +860,8 @@
     "tags": "polskieradio,public radio",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 2014,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "97b1aec1-dad3-4551-8cc5-07965bbcb93f",
-    "name": "Radio RMF FM",
-    "url": "http://www.rmfon.pl/n/rmffm.pls",
-    "url_resolved": "http://31.192.216.4/rmf_fm",
-    "homepage": "http://www.rmf.fm/",
-    "favicon": "http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
-    "countrycode": "PL",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1979,
-    "clickcount": 43
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960d9954-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Jasna Gora",
-    "url": "http://online.radiojasnagora.pl:8000/rjg",
-    "url_resolved": "http://online.radiojasnagora.pl:8000/rjg",
-    "homepage": "http://www.radiojasnagora.pl/",
-    "favicon": "",
-    "countrycode": "PL",
-    "state": "Czestochowa",
-    "language": "polish",
-    "tags": "religion",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 1950,
-    "clickcount": 5
+    "votes": 2016,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1202,62 +878,8 @@
     "tags": "hits,pop",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1945,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "be948551-d271-4928-bf2b-551bd119ce00",
-    "name": "Radio Pogoda Poznań",
-    "url": "http://stream10.radioagora.pl/tuba138-1.mp3.m3u",
-    "url_resolved": "http://stream30.radiostream.pl/tuba138-1.mp3",
-    "homepage": "https://radiopogoda.pl/",
-    "favicon": "https://gfx.radiopogoda.pl/extension/radiopogoda/design/standard/images/favicon/apple-touch-icon.png",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "local news,oldies",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1867,
-    "clickcount": 10
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "16829065-cee9-49e2-b76e-a7242a12aaa9",
-    "name": "Radio RMF24.PL",
-    "url": "https://rs201-krk.rmfstream.pl/RMF24",
-    "url_resolved": "https://rs201-krk.rmfstream.pl/RMF24",
-    "homepage": "https://radio.rmf24.pl/",
-    "favicon": "",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "music,news,talk",
-    "codec": "AAC+",
-    "bitrate": 64,
-    "votes": 1862,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "6c800ca2-7e1e-4020-a026-57f55de88e74",
-    "name": "RMF Classic",
-    "url": "http://rmfstream1.interia.pl:8000/rmf_classic",
-    "url_resolved": "http://rmfstream1.interia.pl:8000/rmf_classic",
-    "homepage": "",
-    "favicon": "https://radiointernetowe.online/wp-content/uploads/2021/06/rmf-classic.png",
-    "countrycode": "PL",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1860,
-    "clickcount": 19
+    "votes": 1950,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1274,8 +896,62 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1857,
-    "clickcount": 44
+    "votes": 1881,
+    "clickcount": 91
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "6c800ca2-7e1e-4020-a026-57f55de88e74",
+    "name": "RMF Classic",
+    "url": "http://rmfstream1.interia.pl:8000/rmf_classic",
+    "url_resolved": "http://rmfstream1.interia.pl:8000/rmf_classic",
+    "homepage": "",
+    "favicon": "https://radiointernetowe.online/wp-content/uploads/2021/06/rmf-classic.png",
+    "countrycode": "PL",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1876,
+    "clickcount": 25
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "be948551-d271-4928-bf2b-551bd119ce00",
+    "name": "Radio Pogoda Poznań",
+    "url": "http://stream10.radioagora.pl/tuba138-1.mp3.m3u",
+    "url_resolved": "http://stream30.radiostream.pl/tuba138-1.mp3",
+    "homepage": "https://radiopogoda.pl/",
+    "favicon": "https://gfx.radiopogoda.pl/extension/radiopogoda/design/standard/images/favicon/apple-touch-icon.png",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "local news,oldies",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1873,
+    "clickcount": 26
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "16829065-cee9-49e2-b76e-a7242a12aaa9",
+    "name": "Radio RMF24.PL",
+    "url": "https://rs201-krk.rmfstream.pl/RMF24",
+    "url_resolved": "https://rs201-krk.rmfstream.pl/RMF24",
+    "homepage": "https://radio.rmf24.pl/",
+    "favicon": "",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "music,news,talk",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 1863,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1292,8 +968,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1815,
-    "clickcount": 5
+    "votes": 1823,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1310,8 +986,8 @@
     "tags": "dance,pop,pop music,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1803,
-    "clickcount": 16
+    "votes": 1819,
+    "clickcount": 35
   },
   {
     "id": null,
@@ -1328,8 +1004,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1723,
-    "clickcount": 4
+    "votes": 1726,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1346,26 +1022,8 @@
     "tags": "classic rock,middle of the road,polish rock,pop,pop rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1706,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "383945c6-6ca0-4da6-8d1e-c231bc7809f7",
-    "name": "Radio 7",
-    "url": "https://radio7.pl/listen.m3u",
-    "url_resolved": "http://stream.radio7.pl:443/radio7.mp3",
-    "homepage": "https://radio7.pl/",
-    "favicon": "https://radio7.pl/wp-content/uploads/2018/12/logo_radio_7_200.png",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 1655,
-    "clickcount": 1
+    "votes": 1713,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1382,8 +1040,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 192,
-    "votes": 1618,
-    "clickcount": 7
+    "votes": 1644,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -1400,8 +1058,8 @@
     "tags": "catholic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1613,
-    "clickcount": 4
+    "votes": 1621,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1418,8 +1076,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1605,
-    "clickcount": 8
+    "votes": 1612,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1436,26 +1094,8 @@
     "tags": "news,news talk,politics,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1551,
-    "clickcount": 73
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "e8c27cc3-e6e8-40b4-aca1-5e293a548c63",
-    "name": "Radio Disco Party - Disco Polo",
-    "url": "https://s1.slotex.pl/shoutcast/7432/stream",
-    "url_resolved": "https://s1.slotex.pl/shoutcast/7432/stream",
-    "homepage": "https://discoparty.pl/",
-    "favicon": "https://discoparty.pl/wp-content/uploads/2023/01/logotyp.png",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "dance,disco polo",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1525,
-    "clickcount": 11
+    "votes": 1576,
+    "clickcount": 75
   },
   {
     "id": null,
@@ -1472,26 +1112,8 @@
     "tags": "adult contemporary,oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1524,
-    "clickcount": 19
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "05268b3b-2f57-4061-a619-5fd35e0f6971",
-    "name": "Polskie Radio Program 3",
-    "url": "http://stream3.polskieradio.pl:8954/;.mp3",
-    "url_resolved": "http://stream3.polskieradio.pl:8954/;.mp3",
-    "homepage": "https://www.polskieradio.pl/9,Trojka",
-    "favicon": "",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "",
-    "codec": "AAC+",
-    "bitrate": 192,
-    "votes": 1512,
-    "clickcount": 8
+    "votes": 1531,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -1508,8 +1130,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1503,
-    "clickcount": 0
+    "votes": 1507,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1526,8 +1148,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1498,
-    "clickcount": 13
+    "votes": 1504,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -1544,8 +1166,8 @@
     "tags": "dance,pop,pop music,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1470,
-    "clickcount": 49
+    "votes": 1491,
+    "clickcount": 84
   },
   {
     "id": null,
@@ -1562,8 +1184,8 @@
     "tags": "polskieradio",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 1466,
-    "clickcount": 22
+    "votes": 1480,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1580,8 +1202,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1422,
-    "clickcount": 2
+    "votes": 1431,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1598,7 +1220,7 @@
     "tags": "classic hits,classic rock,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1399,
+    "votes": 1422,
     "clickcount": 24
   },
   {
@@ -1616,26 +1238,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1394,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a0c54e9b-0131-4ee6-9f2a-eff2ba552713",
-    "name": "Radio WNET",
-    "url": "https://media.wnet.fm/wnet.fm",
-    "url_resolved": "https://media.wnet.fm/wnet.fm",
-    "homepage": "https://wnet.fm/",
-    "favicon": "https://sluchaj.wnet.fm/wnet.jpg?25519",
-    "countrycode": "PL",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 1383,
-    "clickcount": 5
+    "votes": 1402,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1652,8 +1256,8 @@
     "tags": "talk",
     "codec": "AAC",
     "bitrate": 24,
-    "votes": 1377,
-    "clickcount": 5
+    "votes": 1380,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1670,44 +1274,8 @@
     "tags": "dance,pop,pop dance,pop music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1346,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "6b17348a-05c3-11e9-a3cd-52543be04c81",
-    "name": "Polskie Radio Trojka AAC",
-    "url": "http://stream3.polskieradio.pl:8954/;.mp3",
-    "url_resolved": "http://stream3.polskieradio.pl:8954/;.mp3",
-    "homepage": "https://www.polskieradio.pl/9,Trojka",
-    "favicon": "",
-    "countrycode": "PL",
-    "state": "",
-    "language": "",
-    "tags": "polskieradio",
-    "codec": "AAC+",
-    "bitrate": 192,
-    "votes": 1302,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "866491e3-f607-4e8a-915f-fb1d3b682cd8",
-    "name": "Radio Mirage - Italo Dance",
-    "url": "https://ssl-1.radiohost.pl:9569/stream",
-    "url_resolved": "https://ssl-1.radiohost.pl:9569/stream",
-    "homepage": "https://www.radiomirage.net/kanal-italodance/",
-    "favicon": "",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 1296,
-    "clickcount": 9
+    "votes": 1352,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1724,26 +1292,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1295,
-    "clickcount": 32
+    "votes": 1306,
+    "clickcount": 75
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "05094fb8-9fd1-491c-9f02-ca4d52a2f488",
-    "name": "JEDYNKA",
-    "url": "http://stream3.polskieradio.pl:8900/;",
-    "url_resolved": "http://stream3.polskieradio.pl:8900/;",
-    "homepage": "https://jedynka.polskieradio.pl/",
-    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240209_103039189.jpg?alt=media&token=6aa71f56-8a3e-42d2-a0d8-5e5293766afd",
+    "stationuuid": "866491e3-f607-4e8a-915f-fb1d3b682cd8",
+    "name": "Radio Mirage - Italo Dance",
+    "url": "https://ssl-1.radiohost.pl:9569/stream",
+    "url_resolved": "https://ssl-1.radiohost.pl:9569/stream",
+    "homepage": "https://www.radiomirage.net/kanal-italodance/",
+    "favicon": "",
     "countrycode": "PL",
     "state": "",
     "language": "polish",
-    "tags": "public",
+    "tags": "",
     "codec": "MP3",
-    "bitrate": 192,
-    "votes": 1264,
-    "clickcount": 11
+    "bitrate": 320,
+    "votes": 1301,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1760,26 +1328,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1261,
-    "clickcount": 30
+    "votes": 1295,
+    "clickcount": 31
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "2474b5ce-4888-11e9-80ab-52543be04c81",
-    "name": "Radio Mirage - Euro Dance",
-    "url": "http://s0.radiohost.pl:9569/;",
-    "url_resolved": "http://s0.radiohost.pl:9569/;",
-    "homepage": "https://radiomirage.net/radiochannel/euro-dance/",
-    "favicon": "",
+    "stationuuid": "05094fb8-9fd1-491c-9f02-ca4d52a2f488",
+    "name": "JEDYNKA",
+    "url": "http://stream3.polskieradio.pl:8900/;",
+    "url_resolved": "http://stream3.polskieradio.pl:8900/;",
+    "homepage": "https://jedynka.polskieradio.pl/",
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240209_103039189.jpg?alt=media&token=6aa71f56-8a3e-42d2-a0d8-5e5293766afd",
     "countrycode": "PL",
     "state": "",
     "language": "polish",
-    "tags": "euro disco,eurodance",
+    "tags": "public",
     "codec": "MP3",
-    "bitrate": 320,
-    "votes": 1245,
-    "clickcount": 1
+    "bitrate": 192,
+    "votes": 1280,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -1796,7 +1364,439 @@
     "tags": "128 kbit/s,dance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1241,
+    "votes": 1255,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "2474b5ce-4888-11e9-80ab-52543be04c81",
+    "name": "Radio Mirage - Euro Dance",
+    "url": "http://s0.radiohost.pl:9569/;",
+    "url_resolved": "http://s0.radiohost.pl:9569/;",
+    "homepage": "https://radiomirage.net/radiochannel/euro-dance/",
+    "favicon": "",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "euro disco,eurodance",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 1251,
     "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "b8988a60-d602-4e28-8fd4-db8ebe023993",
+    "name": "RMF PRL + FAKTY",
+    "url": "http://195.150.20.8/PRLF",
+    "url_resolved": "http://195.150.20.8/PRLF",
+    "homepage": "http://www.rmfon.pl/play,38",
+    "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+    "countrycode": "PL",
+    "state": "Krakow",
+    "language": "polish",
+    "tags": "",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 1232,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "bef586c2-8097-4e42-863b-8cb926b9d242",
+    "name": "rockserwis.fm (ACC+)",
+    "url": "http://radio.rockserwis.fm/live.aac",
+    "url_resolved": "http://stream9.nadaje.com:8002/live.aac",
+    "homepage": "https://rockserwis.fm/",
+    "favicon": "",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "",
+    "codec": "AAC+",
+    "bitrate": 0,
+    "votes": 1230,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960f7b1f-0601-11e8-ae97-52543be04c81",
+    "name": "RMF Swieta",
+    "url": "http://195.150.20.7/SWIETA",
+    "url_resolved": "http://195.150.20.7/SWIETA",
+    "homepage": "http://www.rmfon.pl/play,17",
+    "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+    "countrycode": "PL",
+    "state": "Krakow",
+    "language": "polish",
+    "tags": "christmas music",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 1217,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "a43fe2f5-0c29-436d-bb19-1512f86fcd2b",
+    "name": "Meloradio FM",
+    "url": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5",
+    "url_resolved": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5",
+    "homepage": "https://www.meloradio.pl/",
+    "favicon": "",
+    "countrycode": "PL",
+    "state": "Warsaw",
+    "language": "polish",
+    "tags": "dance,pop,pop dance",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1212,
+    "clickcount": 25
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "000cd462-2e04-4797-851d-ec83403f73aa",
+    "name": "RMF Polski Rock",
+    "url": "http://195.150.20.9/rmf_polski_rock",
+    "url_resolved": "http://195.150.20.9/rmf_polski_rock",
+    "homepage": "https://www.rmfon.pl/play,36#p",
+    "favicon": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "polish rock,polski rock,rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1189,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9647a986-0601-11e8-ae97-52543be04c81",
+    "name": "Polskie Radio - Chopin (Radio Chopin) (AAC+)",
+    "url": "http://stream3.polskieradio.pl:8960/;",
+    "url_resolved": "http://stream3.polskieradio.pl:8960/;",
+    "homepage": "http://chopin.polskieradio.pl/",
+    "favicon": "http://chopin.polskieradio.pl/images/favicon-32x32.png",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "chopin,classical",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "votes": 1109,
+    "clickcount": 20
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "961b5ae6-0601-11e8-ae97-52543be04c81",
+    "name": "Radio RAM",
+    "url": "http://stream4.nadaje.com:9220/ram.m3u",
+    "url_resolved": "http://stream4.nadaje.com:9220/ram",
+    "homepage": "http://www.radioram.pl/",
+    "favicon": "http://www.radioram.pl/img/layout/logo.png",
+    "countrycode": "PL",
+    "state": "Wroclaw",
+    "language": "polish",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1089,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "4dde2c57-d8f5-4e55-b685-51195ac3d0e5",
+    "name": "Radioparty.pl ACC+",
+    "url": "http://s2.radioparty.pl:7000/stream64aac",
+    "url_resolved": "http://s2.radioparty.pl:7000/stream64aac",
+    "homepage": "https://radioparty.pl/",
+    "favicon": "https://radioparty.pl/favicon.ico",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "dance,vixa",
+    "codec": "AAC",
+    "bitrate": 64,
+    "votes": 1037,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "dfceead0-dc99-4c3c-bce5-b53db7658626",
+    "name": "PR TRÓJKA",
+    "url": "https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8",
+    "url_resolved": "https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8",
+    "homepage": "https://trojka.polskieradio.pl/?RadioPoland",
+    "favicon": "https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250314_080616667.jpg?alt=media&token=4738543a-4391-4727-9d9d-89741871db70",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "public",
+    "codec": "AAC",
+    "bitrate": 194,
+    "votes": 1032,
+    "clickcount": 61
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "7793f747-110f-4f02-8eab-1543781d21d1",
+    "name": "RMF 70s",
+    "url": "http://31.192.216.7/70S",
+    "url_resolved": "http://31.192.216.7/70S",
+    "homepage": "https://www.rmfon.pl/play,45#p",
+    "favicon": "https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 1030,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "86632585-f76d-4cac-b771-d2c6902366c3",
+    "name": "Zloteprzeboje",
+    "url": "https://radiostream.pl/tuba8904-1.mp3",
+    "url_resolved": "https://radiostream.pl/tuba8904-1.mp3",
+    "homepage": "https://zloteprzeboje.pl/",
+    "favicon": "https://zloteprzeboje.pl/wp-content/uploads/2022/06/zp-logo-normal-color.png",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1029,
+    "clickcount": 37
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c99f1070-f077-47fb-a9c8-fca5f8d14dec",
+    "name": "ZET DANCE",
+    "url": "http://pl01.cdn.eurozet.pl/ZETDAN.mp3",
+    "url_resolved": "http://pl01.cdn.eurozet.pl/ZETDAN.mp3",
+    "homepage": "http://radiozet.pl/",
+    "favicon": "https://gfx.radiozet.pl/extension/radiozet/design/standard/images/favicon/apple-touch-icon.png",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "dance",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1024,
+    "clickcount": 18
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "17cbec6e-ab8a-41e1-ac8e-7d946334790e",
+    "name": "Radio Eska Warszawa",
+    "url": "http://waw.ic.smcdn.pl/2380-1.mp3",
+    "url_resolved": "http://waw.ic.smcdn.pl/2380-1.mp3",
+    "homepage": "http://eska.pl/",
+    "favicon": "http://eska.pl/favicon.ico",
+    "countrycode": "PL",
+    "state": "mazowieckie",
+    "language": "",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 996,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "ed092732-49e1-449c-b7de-811b5241182a",
+    "name": "VOX FM DISCO 90",
+    "url": "http://ic1.smcdn.pl/6170-1.mp3",
+    "url_resolved": "http://ic1.smcdn.pl/6170-1.mp3",
+    "homepage": "http://supernowa.pl/",
+    "favicon": "",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "pop",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 989,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "45047af4-56c2-47fe-b322-af6f6b67c111",
+    "name": "Muzyczne Radio",
+    "url": "http://stream3.technologicznie.net/muzyczne_radio_192.mp3",
+    "url_resolved": "http://stream3.technologicznie.net/muzyczne_radio_192.mp3",
+    "homepage": "https://www.muzyczneradio.pl/",
+    "favicon": "",
+    "countrycode": "PL",
+    "state": "192",
+    "language": "",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 983,
+    "clickcount": 18
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "964d43f7-0601-11e8-ae97-52543be04c81",
+    "name": "RMF 90s Dance",
+    "url": "http://195.150.20.7/90SDANCE",
+    "url_resolved": "http://195.150.20.7/90SDANCE",
+    "homepage": "http://www.rmfon.pl/play,130",
+    "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+    "countrycode": "PL",
+    "state": "Krakow",
+    "language": "polish",
+    "tags": "dance",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 974,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "dab24cb9-7950-46f1-8963-8e76f98cc87a",
+    "name": "ESKA GORĄCA 20",
+    "url": "http://ic1.smcdn.pl/6130-1.mp3",
+    "url_resolved": "http://ic1.smcdn.pl/6130-1.mp3",
+    "homepage": "http://supernowa.pl/",
+    "favicon": "",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "pop",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 971,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "691b86e8-39cc-11e9-9b4e-52543be04c81",
+    "name": "Polskie Radio Poznań",
+    "url": "http://stream4.nadaje.com:8578/poznan",
+    "url_resolved": "http://stream4.nadaje.com:8578/poznan",
+    "homepage": "http://radiopoznan.fm/",
+    "favicon": "https://radiopoznan.fm/v3/img/logo.png",
+    "countrycode": "PL",
+    "state": "Poznan",
+    "language": "polish",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "votes": 955,
+    "clickcount": 10
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960fd7e9-0601-11e8-ae97-52543be04c81",
+    "name": "Chillout Radio",
+    "url": "http://panel.nadaje.com:9004/",
+    "url_resolved": "http://panel.nadaje.com:9004/",
+    "homepage": "http://www.rmfon.pl/play,11",
+    "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 929,
+    "clickcount": 10
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960daa01-0601-11e8-ae97-52543be04c81",
+    "name": "Radioparty.pl Trance Party",
+    "url": "http://trance.radioparty.pl:8015/",
+    "url_resolved": "http://trance.radioparty.pl:8015/",
+    "homepage": "http://www.radioparty.pl/kanaltrance.html",
+    "favicon": "http://radioparty.pl//favicon.ico",
+    "countrycode": "PL",
+    "state": "Wieliczka",
+    "language": "polish",
+    "tags": "trance",
+    "codec": "AAC",
+    "bitrate": 64,
+    "votes": 926,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "cdebc810-3394-497f-aedf-4567448c9572",
+    "name": "Radio Mbox - Disco Polo",
+    "url": "http://s3.slotex.pl:7222/stream",
+    "url_resolved": "http://s3.slotex.pl:7222/stream",
+    "homepage": "https://radiombox.pl/",
+    "favicon": "https://radiombox.pl/MboxKwadr120x120.png",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "disco,disco polo",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 921,
+    "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960dc3a5-0601-11e8-ae97-52543be04c81",
+    "name": "RMF Blues",
+    "url": "http://31.192.216.10/BLUES",
+    "url_resolved": "http://31.192.216.10/BLUES",
+    "homepage": "http://www.rmfon.pl/play,39",
+    "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+    "countrycode": "PL",
+    "state": "Krakow",
+    "language": "polish",
+    "tags": "blues",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 869,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960f78db-0601-11e8-ae97-52543be04c81",
+    "name": "RMF MAXXX Hop bec",
+    "url": "http://31.192.216.10/HOPBEC",
+    "url_resolved": "http://31.192.216.10/HOPBEC",
+    "homepage": "http://www.rmfon.pl/play,22",
+    "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+    "countrycode": "PL",
+    "state": "Krakow",
+    "language": "polish",
+    "tags": "pop",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 869,
+    "clickcount": 3
   }
 ]

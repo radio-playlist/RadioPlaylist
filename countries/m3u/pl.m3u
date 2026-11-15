@@ -2,20 +2,8 @@
 #EXTENC:UTF-8
 #PLAYLIST:RadioCatalog - PL
 
-#EXTINF:-1 tvg-logo="https://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3" group-title="PL",RMF FM
-http://195.150.20.242:8000/rmf_fm
-
 #EXTINF:-1 tvg-logo="http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3" group-title="PL",RMF FM
 http://195.150.20.9/RMFFM48
-
-#EXTINF:-1 tvg-logo="https://gfx.radiozet.pl/extension/radiozet/design/standard/images/favicon/apple-touch-icon.png" group-title="PL",Radio Zet
-http://zet-net-01.cdn.eurozet.pl:8400/
-
-#EXTINF:-1 tvg-logo="https://gfx.antyradio.pl/design/antyradio/src/images/favicon/favicon_180x180.png" group-title="PL",Antyradio
-https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5
-
-#EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio Jedynka
-http://mp3.polskieradio.pl:8900/;.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio 24
 http://stream3.polskieradio.pl:8080/;.mp3
@@ -29,9 +17,6 @@ http://djmixes.radioparty.pl:8035/
 #EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Polskie przeboje
 http://195.150.20.8/PPRZEBOJE
 
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/4/1294.v9.png" group-title="PL",Radio RMF MAXXX
-https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48
-
 #EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF 90s
 http://31.192.216.7/90S
 
@@ -41,20 +26,8 @@ https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0
 #EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Dance
 http://31.192.216.10/DANCE
 
-#EXTINF:-1 tvg-logo="http://moje.polskieradio.pl/favicon.ico" group-title="PL",Trojka
-http://stream3.polskieradio.pl:8904/
-
-#EXTINF:-1 tvg-logo="https://static.im-g.pl/im/6/7455/m7455556.gif" group-title="PL",TOK FM
-https://radiostream.pl/tuba10-1.mp3#TOK_FM
-
 #EXTINF:-1 tvg-logo="" group-title="PL",Radio ZET
 https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx?audio=5
-
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/2LqeyZhdFq.png" group-title="PL",ESKA ROCK
-https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK
-
-#EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio Program 1
-http://mp3.polskieradio.pl:8900/
 
 #EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio - Czwórka (Program 4) (AAC+)
 http://stream3.polskieradio.pl:8956/;
@@ -68,11 +41,11 @@ http://audio.radiownet.pl:8000/stream
 #EXTINF:-1 tvg-logo="https://www.voxfm.pl/apple-touch-icon.png" group-title="PL",VOX FM
 http://ic2.smcdn.pl/3990-1.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio - Czwórka
-http://stream3.polskieradio.pl:8906/;stream
-
 #EXTINF:-1 tvg-logo="https://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3" group-title="PL",RMF FM
 http://31.192.216.8/rmf_fm
+
+#EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio - Czwórka
+http://stream3.polskieradio.pl:8906/;stream
 
 #EXTINF:-1 tvg-logo="http://radioszczecin.pl/assets/favicon/apple-touch-icon.png" group-title="PL",Radio Szczecin (128K MP3)
 http://stream4.nadaje.com:11986/prs
@@ -83,17 +56,8 @@ https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx
 #EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF 80s
 http://195.150.20.9/80S
 
-#EXTINF:-1 tvg-logo="" group-title="PL",Radio Nowy Świat 256k
-https://go-audio.toya.net.pl/63214
-
-#EXTINF:-1 tvg-logo="https://static.im-g.pl/im/6/7455/m7455556.gif" group-title="PL",TokFM
-https://radiostream.pl/tuba10-1.mp3
-
 #EXTINF:-1 tvg-logo="http://radioparty.pl/images/radioparty2017.png" group-title="PL",Radioparty.pl House Party
 http://house.radioparty.pl:8010/
-
-#EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio Kierowców
-http://stream3.polskieradio.pl:8918/;
 
 #EXTINF:-1 tvg-logo="" group-title="PL",Radio Maryja
 http://198.50.238.178:5946/stream
@@ -134,26 +98,14 @@ http://195.150.20.8/HIPHOP
 #EXTINF:-1 tvg-logo="https://radioparty.pl//favicon.ico" group-title="PL",Radioparty.pl Energy 2000 AAC+
 http://s2.radioparty.pl:8040/energy2000
 
-#EXTINF:-1 tvg-logo="https://gfx.chillizet.pl/extension/chillizet/design/standard/images/favicon/apple-touch-icon.png" group-title="PL",Chilli Zet
-https://ch.cdn.eurozet.pl/chi-net.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="PL",Minimal Mix Radio
 http://orion.shoutca.st:8750/
 
 #EXTINF:-1 tvg-logo="http://radioparty.pl/favicon.ico" group-title="PL",Radioparty.pl
 http://s7.radioparty.pl:8000/
 
-#EXTINF:-1 tvg-logo="https://wnet.fm/favicon.ico" group-title="PL",Wnet.fm
-https://media.wnet.fm/wnet.fm
-
 #EXTINF:-1 tvg-logo="" group-title="PL",Radio Krakow
 http://stream3.nadaje.com:9116/radiokrakow
-
-#EXTINF:-1 tvg-logo="http://voxfm.pl/apple-touch-icon.png" group-title="PL",VOX FM 128
-https://ic2.smcdn.pl/3990-1.mp3
-
-#EXTINF:-1 tvg-logo="https://dl.memuplay.com/new_market/img/com.thehouseofcode.radio_nowy_swiat.icon.2021-03-20-18-25-39.png" group-title="PL",Radio Nowy Świat
-https://go-audio.toya.net.pl/63214
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s87779/images/logod.png?t=637867737470000000" group-title="PL",Radio Eska Kraków
 http://ic1.smcdn.pl/2070-1.mp3
@@ -176,9 +128,6 @@ http://sluchaj.radiopark.com.pl:8048/
 #EXTINF:-1 tvg-logo="null" group-title="PL",radio złote przeboje
 http://radiostream.pl/tuba8928-1.mp3
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJyFlzKJAEMeWhP6xmsC3EHQ9MkIldwATEmAQA=s900-c-k-c0xffffffff-no-rj-mo" group-title="PL",Polskie Radio 24
-http://stream3.polskieradio.pl:8080/;.mp3
-
 #EXTINF:-1 tvg-logo="https://gra.fm/media2019/pic/xfavicon-96x96.png.pagespeed.ic.igyxlke2ib.png" group-title="PL",Radio Gra Torun
 http://31.192.216.7:8000/radio_gra
 
@@ -191,29 +140,26 @@ https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0
 #EXTINF:-1 tvg-logo="https://radioparty.pl/assets/img/logo.png" group-title="PL",Radio Party - Kanał Główny
 https://s2.radioparty.pl:8015/stream?nocache=4171
 
+#EXTINF:-1 tvg-logo="http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3" group-title="PL",Radio RMF FM
+https://rs101-krk-cyfronet.rmfstream.pl/rmf_fm
+
 #EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio Program 2
 http://stream3.polskieradio.pl:8952/;.mp3
 
-#EXTINF:-1 tvg-logo="http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3" group-title="PL",Radio RMF FM
-http://31.192.216.4/rmf_fm
-
-#EXTINF:-1 tvg-logo="" group-title="PL",Radio Jasna Gora
-http://online.radiojasnagora.pl:8000/rjg
-
 #EXTINF:-1 tvg-logo="" group-title="PL",RadioFEST
 https://play.radiofest.pl:8443/fest
+
+#EXTINF:-1 tvg-logo="https://gfx-player.radiozet.pl/var/player/storage/images/player-antyradio/programy/antyradio-ekstra/936460-5-pol-PL/Antyradio-Ekstra_size-70x70.png" group-title="PL",Anty Radio
+https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361
+
+#EXTINF:-1 tvg-logo="https://radiointernetowe.online/wp-content/uploads/2021/06/rmf-classic.png" group-title="PL",RMF Classic
+http://rmfstream1.interia.pl:8000/rmf_classic
 
 #EXTINF:-1 tvg-logo="https://gfx.radiopogoda.pl/extension/radiopogoda/design/standard/images/favicon/apple-touch-icon.png" group-title="PL",Radio Pogoda Poznań
 http://stream30.radiostream.pl/tuba138-1.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="PL",Radio RMF24.PL
 https://rs201-krk.rmfstream.pl/RMF24
-
-#EXTINF:-1 tvg-logo="https://radiointernetowe.online/wp-content/uploads/2021/06/rmf-classic.png" group-title="PL",RMF Classic
-http://rmfstream1.interia.pl:8000/rmf_classic
-
-#EXTINF:-1 tvg-logo="https://gfx-player.radiozet.pl/var/player/storage/images/player-antyradio/programy/antyradio-ekstra/936460-5-pol-PL/Antyradio-Ekstra_size-70x70.png" group-title="PL",Anty Radio
-https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361
 
 #EXTINF:-1 tvg-logo="http://radiokampus.waw.pl/logo192.png" group-title="PL",Radio Kampus
 http://193.0.98.66:8005/
@@ -227,9 +173,6 @@ http://stream4.nadaje.com:9240/prw
 #EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio Kierowców
 http://stream3.polskieradio.pl:8918/
 
-#EXTINF:-1 tvg-logo="https://radio7.pl/wp-content/uploads/2018/12/logo_radio_7_200.png" group-title="PL",Radio 7
-http://stream.radio7.pl:443/radio7.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio Jedynka AAC
 http://stream3.polskieradio.pl:8950/;.mp3
 
@@ -242,14 +185,8 @@ https://radiostream.pl/tuba8900-1.mp3?cache=1647512038
 #EXTINF:-1 tvg-logo="https://radiotvrepublika.pl/favicon-96x96.png" group-title="PL",Radio Republika
 https://ssl-1.radiotvrepublika.pl:12698/stream
 
-#EXTINF:-1 tvg-logo="https://discoparty.pl/wp-content/uploads/2023/01/logotyp.png" group-title="PL",Radio Disco Party - Disco Polo
-https://s1.slotex.pl/shoutcast/7432/stream
-
 #EXTINF:-1 tvg-logo="http://static.fm.tuba.pl/stations/_img/zlote-przeboje_512.png" group-title="PL",Złote Przeboje Poznań
 http://radiostream.pl/tuba8926-1.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio Program 3
-http://stream3.polskieradio.pl:8954/;.mp3
 
 #EXTINF:-1 tvg-logo="https://radio7.pl/wp-content/uploads/2018/12/logo_swieta_220.png" group-title="PL",Radio7 Mława
 http://stream.radio7.pl:443/radio7.mp3
@@ -272,33 +209,96 @@ https://radiostream.pl/tuba9-1.mp3
 #EXTINF:-1 tvg-logo="" group-title="PL",ESKA IMPRESKA
 http://ic1.smcdn.pl/6030-1.mp3
 
-#EXTINF:-1 tvg-logo="https://sluchaj.wnet.fm/wnet.jpg?25519" group-title="PL",Radio WNET
-https://media.wnet.fm/wnet.fm
-
 #EXTINF:-1 tvg-logo="https://ilustracje.paranormalium.pl/favicon-apple-touch-icon.png" group-title="PL",Paranormalium
 http://shoutcast.paranormalium.pl:8000/5
 
 #EXTINF:-1 tvg-logo="" group-title="PL",ESKA - Summer City
 https://waw.ic.smcdn.pl/6120-1.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="PL",Polskie Radio Trojka AAC
-http://stream3.polskieradio.pl:8954/;.mp3
+#EXTINF:-1 tvg-logo="" group-title="PL",Radio ZET Chilli
+https://ch.cdn.eurozet.pl/chi-net.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="PL",Radio Mirage - Italo Dance
 https://ssl-1.radiohost.pl:9569/stream
 
-#EXTINF:-1 tvg-logo="" group-title="PL",Radio ZET Chilli
-https://ch.cdn.eurozet.pl/chi-net.mp3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Eska_1049_2.png" group-title="PL",Radio Eska Warszawa
+https://waw.ic.smcdn.pl/2380-1.mp3
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240209_103039189.jpg?alt=media&token=6aa71f56-8a3e-42d2-a0d8-5e5293766afd" group-title="PL",JEDYNKA
 http://stream3.polskieradio.pl:8900/;
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Eska_1049_2.png" group-title="PL",Radio Eska Warszawa
-https://waw.ic.smcdn.pl/2380-1.mp3
+#EXTINF:-1 tvg-logo="https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Dance
+http://rmfstream1.interia.pl:8000/rmf_dance
 
 #EXTINF:-1 tvg-logo="" group-title="PL",Radio Mirage - Euro Dance
 http://s0.radiohost.pl:9569/;
 
-#EXTINF:-1 tvg-logo="https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Dance
-http://rmfstream1.interia.pl:8000/rmf_dance
+#EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF PRL + FAKTY
+http://195.150.20.8/PRLF
+
+#EXTINF:-1 tvg-logo="" group-title="PL",rockserwis.fm (ACC+)
+http://stream9.nadaje.com:8002/live.aac
+
+#EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Swieta
+http://195.150.20.7/SWIETA
+
+#EXTINF:-1 tvg-logo="" group-title="PL",Meloradio FM
+https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
+
+#EXTINF:-1 tvg-logo="https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Polski Rock
+http://195.150.20.9/rmf_polski_rock
+
+#EXTINF:-1 tvg-logo="http://chopin.polskieradio.pl/images/favicon-32x32.png" group-title="PL",Polskie Radio - Chopin (Radio Chopin) (AAC+)
+http://stream3.polskieradio.pl:8960/;
+
+#EXTINF:-1 tvg-logo="http://www.radioram.pl/img/layout/logo.png" group-title="PL",Radio RAM
+http://stream4.nadaje.com:9220/ram
+
+#EXTINF:-1 tvg-logo="https://radioparty.pl/favicon.ico" group-title="PL",Radioparty.pl ACC+
+http://s2.radioparty.pl:7000/stream64aac
+
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250314_080616667.jpg?alt=media&token=4738543a-4391-4727-9d9d-89741871db70" group-title="PL",PR TRÓJKA
+https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF 70s
+http://31.192.216.7/70S
+
+#EXTINF:-1 tvg-logo="https://zloteprzeboje.pl/wp-content/uploads/2022/06/zp-logo-normal-color.png" group-title="PL",Zloteprzeboje
+https://radiostream.pl/tuba8904-1.mp3
+
+#EXTINF:-1 tvg-logo="https://gfx.radiozet.pl/extension/radiozet/design/standard/images/favicon/apple-touch-icon.png" group-title="PL",ZET DANCE
+http://pl01.cdn.eurozet.pl/ZETDAN.mp3
+
+#EXTINF:-1 tvg-logo="http://eska.pl/favicon.ico" group-title="PL",Radio Eska Warszawa
+http://waw.ic.smcdn.pl/2380-1.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="PL",VOX FM DISCO 90
+http://ic1.smcdn.pl/6170-1.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="PL",Muzyczne Radio
+http://stream3.technologicznie.net/muzyczne_radio_192.mp3
+
+#EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF 90s Dance
+http://195.150.20.7/90SDANCE
+
+#EXTINF:-1 tvg-logo="" group-title="PL",ESKA GORĄCA 20
+http://ic1.smcdn.pl/6130-1.mp3
+
+#EXTINF:-1 tvg-logo="https://radiopoznan.fm/v3/img/logo.png" group-title="PL",Polskie Radio Poznań
+http://stream4.nadaje.com:8578/poznan
+
+#EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",Chillout Radio
+http://panel.nadaje.com:9004/
+
+#EXTINF:-1 tvg-logo="http://radioparty.pl//favicon.ico" group-title="PL",Radioparty.pl Trance Party
+http://trance.radioparty.pl:8015/
+
+#EXTINF:-1 tvg-logo="https://radiombox.pl/MboxKwadr120x120.png" group-title="PL",Radio Mbox - Disco Polo
+http://s3.slotex.pl:7222/stream
+
+#EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF Blues
+http://31.192.216.10/BLUES
+
+#EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF MAXXX Hop bec
+http://31.192.216.10/HOPBEC
 

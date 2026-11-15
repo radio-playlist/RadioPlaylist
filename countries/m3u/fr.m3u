@@ -2,26 +2,11 @@
 #EXTENC:UTF-8
 #PLAYLIST:RadioCatalog - FR
 
-#EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-5487caf3.png" group-title="FR",France Info
-http://direct.franceinfo.fr/live/franceinfo-midfi.mp3
-
 #EXTINF:-1 tvg-logo="http://www.rfi.fr/apple-touch-icon.png" group-title="FR",RFI Afrique
 http://live02.rfi.fr/rfiafrique-64.mp3
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.mediasportif.fr/wp-content/uploads/2014/05/Radio-RMC.jpg" group-title="FR",RMC FR
-https://audio.bfmtv.com/rmcradio_128.mp3
-
-#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Blues
-http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
-
 #EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-0cfbd6d4.png" group-title="FR",France Info
 http://icecast.radiofrance.fr/franceinfo-hifi.aac
-
-#EXTINF:-1 tvg-logo="https://www.franceinter.fr/favicon.ico" group-title="FR",France Inter
-http://direct.franceinter.fr/live/franceinter-hifi.aac
-
-#EXTINF:-1 tvg-logo="http://www.rfi.fr/apple-touch-icon.png" group-title="FR",RFI Monde
-http://live02.rfi.fr/rfimonde-64.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="FR",RFI-Afrique
 http://live02.rfi.fr/rfiafrique-96k.mp3
@@ -29,20 +14,8 @@ http://live02.rfi.fr/rfiafrique-96k.mp3
 #EXTINF:-1 tvg-logo="https://www.radiofrance.fr/external/favicons/franceculture/favicon.png" group-title="FR",France Culture
 http://icecast.radiofrance.fr/franceculture-hifi.aac
 
-#EXTINF:-1 tvg-logo="" group-title="FR",France Inter
-http://direct.franceinter.fr/live/franceinter-midfi.mp3
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dPiQ01OUKZVfRZUbbb-EVK5g9miS_K-xrxHgmBbynGG-GQ53yt3GzFKr0zUTnb-xswQ=s200-rw" group-title="FR",Skyrock
-http://icecast.skyrock.net/s/natio_mp3_128k
-
-#EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio
-http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3
-
 #EXTINF:-1 tvg-logo="https://eurodance90.fr/favicon.ico" group-title="FR",EuroDance 90 radio
 https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png" group-title="FR",FIP
-http://icecast.radiofrance.fr/fip-hifi.aac
 
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico" group-title="FR",100% Radio 80
 http://100radio-80.ice.infomaniak.ch/100radio-80-128.mp3
@@ -53,20 +26,8 @@ http://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3
 #EXTINF:-1 tvg-logo="" group-title="FR",Radio Meuh
 http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
 
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2c180&#038;quality=75" group-title="FR",Radio Nova
-http://novazz.ice.infomaniak.ch/novazz-128.mp3
-
-#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Classic Jazz
-http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3
-
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon" group-title="FR",Chante France
 http://stream.chantefrance.com/Chante_France
-
-#EXTINF:-1 tvg-logo="https://www.sudradio.fr/wp-content/uploads/2019/06/cropped-favicon-180x180.png" group-title="FR",Sud Radio
-https://ice.creacast.com/sudradio
-
-#EXTINF:-1 tvg-logo="https://www.radio.fr/images/broadcasts/76/27/105095/3/c300.png" group-title="FR",BFM radio
-https://audio.bfmtv.com/bfmradio_128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="FR",France Musique
 http://direct.francemusique.fr/live/francemusique-midfi.mp3
@@ -74,17 +35,8 @@ http://direct.francemusique.fr/live/francemusique-midfi.mp3
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="FR",Latina Salsa
 http://latinasalsa.ice.infomaniak.ch/latinasalsa.mp3
 
-#EXTINF:-1 tvg-logo="https://www.franceinter.fr/favicon.ico" group-title="FR",France Inter
-http://direct.franceinter.fr/live/franceinter-lofi.mp3
-
-#EXTINF:-1 tvg-logo="https://www.europe1.fr/build/e1/images/favicon-120x120.png" group-title="FR",Europe 1
-https://stream.europe1.fr/europe1.aac
-
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico" group-title="FR",100% Radio Hit
 http://100radio-hit.ice.infomaniak.ch/100radio-hit-128.mp3
-
-#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Funk
-http://jazz-wr06.ice.infomaniak.ch/jazz-wr06-128.mp3
 
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon" group-title="FR",Chante France 80's
 http://stream1.chantefrance.com/cf-80
@@ -104,17 +56,8 @@ http://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
 #EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="FR",FIP Jazz
 http://icecast.radiofrance.fr/fipjazz-hifi.aac
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/France_Inter_logo_2021.svg/1200px-France_Inter_logo_2021.svg.png" group-title="FR",France Inter
-https://stream.radiofrance.fr/franceinter/franceinter_hifi.m3u8?id=radiofrance
-
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Only Women
 http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3
-
-#EXTINF:-1 tvg-logo="http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png" group-title="FR",RFM
-http://stream.rfm.fr/rfm.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="FR",法国国际广播电台
-https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 
 #EXTINF:-1 tvg-logo="https://www.vip-radios.fm/favicon.ico" group-title="FR",Yoga Chill
 http://178.32.111.41:8027/stream-128kmp3-YogaChill
@@ -124,9 +67,6 @@ http://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.
 
 #EXTINF:-1 tvg-logo="" group-title="FR",France Musique | Classique Easy
 http://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="FR",France Musique La Baroque
-http://icecast.radiofrance.fr/francemusiquebaroque-hifi.aac
 
 #EXTINF:-1 tvg-logo="https://rmc.bfmtv.com/android-icon-192x192.png" group-title="FR",RMC Info Talk Sport
 https://audio.bfmtv.com/rmcradio_128.mp3?aw_0_1st.playerId=RMC_audio_web&aggregator=RMC_audio_web
@@ -152,12 +92,6 @@ http://icecast.radiofrance.fr/fipreggae-hifi.aac
 #EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/skin/dist/mobile/img/pwa/launcher-76x76-832d6cb324.png" group-title="FR",france info (lofi)
 http://direct.franceinfo.fr/live/franceinfo-lofi.mp3
 
-#EXTINF:-1 tvg-logo="https://www.bfmtv.com/android-icon-192x192.png" group-title="FR",BFM Radio (128.mp3)
-https://audio.bfmtv.com/bfmradio_128.mp3
-
-#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/oui-fm/images/favicon.ico" group-title="FR",OUI FM
-https://ouifm.ice.infomaniak.ch/ouifm-high.mp3
-
 #EXTINF:-1 tvg-logo="https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/favicons/favicon128.png" group-title="FR",Europe 2
 http://europe2.lmn.fm/europe2.mp3
 
@@ -167,17 +101,11 @@ http://start-latina.ice.infomaniak.ch/start-latina-high.mp3
 #EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Piano Jazz
 http://jzr-piano.ice.infomaniak.ch/jzr-piano.mp3
 
-#EXTINF:-1 tvg-logo="https://www.morow.com/favicon.ico" group-title="FR",Morow Prog Rock Radio
-http://stream.fr.morow.com:8080/morow_hi.aacp
-
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/urbanhit/images/favicon.vnd.microsoft.icon" group-title="FR",Urban Hit Maroc
 https://urbanhitrai.ice.infomaniak.ch/urbanhitrai.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="FR",Chante France 70's
 http://stream.chantefrance.com/cf-70
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/France_Inter_logo.svg" group-title="FR",France Inter
-https://icecast.radiofrance.fr/franceinter-hifi.aac
 
 #EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Latin Jazz
 http://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3
@@ -197,20 +125,17 @@ https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon" group-title="FR",Chante France Emotion
 http://stream.chantefrance.com/cf-emotion
 
-#EXTINF:-1 tvg-logo="" group-title="FR",Alternative Radio
-https://www.radioking.com/play/alternative-radio-1
-
 #EXTINF:-1 tvg-logo="https://cdn.radiofrance.fr/s3/cruiser-production/2019/06/f5b944ca-9a21-4970-8eed-e711dac8ac15/200x200_fip-rock_ok.jpg" group-title="FR",FIP Rock
 http://icecast.radiofrance.fr/fiprock-hifi.aac
+
+#EXTINF:-1 tvg-logo="" group-title="FR",Alternative Radio
+https://www.radioking.com/play/alternative-radio-1
 
 #EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon" group-title="FR",Chante France 60's
 http://stream.chantefrance.com/cf-60
 
 #EXTINF:-1 tvg-logo="https://skyrock.fm/favicon.ico" group-title="FR",Skyrock Klassics
 https://icecast.skyrock.net/s/klassiks_aac_64k?tvr_name=radiofr&tvr_section1=64aac
-
-#EXTINF:-1 tvg-logo="" group-title="FR",FM 80 Funky Music
-https://listen.radioking.com/radio/467555/stream/523739
 
 #EXTINF:-1 tvg-logo="https://www.pulsradio.com/apple-icon-120x120.png" group-title="FR",PulsRadio Trance
 http://213.251.190.165/pulstranceHD.mp3
@@ -227,17 +152,14 @@ http://generations-caraibes.ice.infomaniak.ch/generations-caraibes-high.mp3
 #EXTINF:-1 tvg-logo="https://www.algorythmeradio.com/assets/images/icon-algo.ico" group-title="FR",Algorythme Drum & Bass
 https://radio9.pro-fhi.net/flux-endvtlna/stream
 
-#EXTINF:-1 tvg-logo="" group-title="FR",La Grosse Radio Rock
-http://hd.lagrosseradio.info/lagrosseradio-rock-192.mp3
+#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/035a5e15d396c67a.png" group-title="FR",RTL
+https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="FR",RFI Persian
 http://live02.rfi.fr/rfienpersan-64k.mp3
 
 #EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Lounge
 http://jazzlounge.ice.infomaniak.ch/jazzlounge-high.mp3
-
-#EXTINF:-1 tvg-logo="https://duckduckgo.com/i/035a5e15d396c67a.png" group-title="FR",RTL
-https://live.m6radio.quortex.io/webM89Hc99XApzgfhXNX8ASN5/grouprtl/national/short/audio-64000/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.vip-radios.fm/favicon.ico" group-title="FR",VIP-Radios - Time To Relax
 http://178.32.111.41:8048/stream-128kmp3-TimeToRelax
@@ -251,17 +173,17 @@ http://london-dedicated.myautodj.com:8862/stream
 #EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="FR",FIP Groove
 http://icecast.radiofrance.fr/fipgroove-hifi.aac
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi076SvIq9FK1ila6iO0HpdpC6f6eMrCLPrNli3Y6WYe_7cVIM8GTSIKi5L2v3bmwD298Xc2jjmRlPX9nzJseyatmlnRhmrgL7QBGiUKBWhNDpmpSigoBKW-DQg-ytDeOF-iUaikzXDJef87-Or9eBq7fXL13kARxykDqVbhhIuT_e9niBlF0ZMztzw/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-11-19_14-44-01.png" group-title="FR",📺 RFI Monde
+https://rfiafrique64k.ice.infomaniak.ch/rfimonde-64.mp3
+
 #EXTINF:-1 tvg-logo="http://en.rfi.fr/android-chrome-192x192.png" group-title="FR",RFI Anglais - English
 http://live02.rfi.fr/rfienanglais-64.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="FR",B4B Radio DISCO FUNK
-https://eu10.fastcast4u.com:8120/
 
 #EXTINF:-1 tvg-logo="" group-title="FR",France Maghreb 2 Province
 http://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi076SvIq9FK1ila6iO0HpdpC6f6eMrCLPrNli3Y6WYe_7cVIM8GTSIKi5L2v3bmwD298Xc2jjmRlPX9nzJseyatmlnRhmrgL7QBGiUKBWhNDpmpSigoBKW-DQg-ytDeOF-iUaikzXDJef87-Or9eBq7fXL13kARxykDqVbhhIuT_e9niBlF0ZMztzw/s1600/Capture%20d%E2%80%99%C3%A9cran_2024-11-19_14-44-01.png" group-title="FR",📺 RFI Monde
-https://rfiafrique64k.ice.infomaniak.ch/rfimonde-64.mp3
+#EXTINF:-1 tvg-logo="" group-title="FR",B4B Radio DISCO FUNK
+https://eu10.fastcast4u.com:8120/
 
 #EXTINF:-1 tvg-logo="https://www.europe1.fr/build/e1/images/favicon-120x120.png" group-title="FR",Europe1
 http://stream.europe1.fr/europe1.aac
@@ -275,14 +197,11 @@ http://direct.franceculture.fr/live/franceculture-lofi.mp3
 #EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="FR",France Bleu Roussillon
 http://direct.francebleu.fr/live/fbroussillon-midfi.mp3
 
-#EXTINF:-1 tvg-logo="https://image.radioking.io/radios/669715/logo/e0191854-a603-41f5-9729-121a1f215f57.jpeg" group-title="FR",Radio Choco
-https://listen.radioking.com/radio/669715/stream/733765
+#EXTINF:-1 tvg-logo="http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png" group-title="FR",RFM POP-ROCK
+https://stream.rfm.fr/rfm-wr10.aac
 
 #EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_reggaeton1.png" group-title="FR",Generations Reggaeton
 http://generations-rgton.ice.infomaniak.ch/generations-rgton.mp3
-
-#EXTINF:-1 tvg-logo="http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png" group-title="FR",RFM POP-ROCK
-https://stream.rfm.fr/rfm-wr10.aac
 
 #EXTINF:-1 tvg-logo="https://www.fip.fr/dist/favicons/logo-120.png" group-title="FR",FIP Musiques du monde
 http://icecast.radiofrance.fr/fipworld-hifi.aac
@@ -293,12 +212,93 @@ http://direct.francebleu.fr/live/fb1071-midfi.mp3
 #EXTINF:-1 tvg-logo="" group-title="FR",Tropiques FM
 http://listen.radioking.com/radio/8916/stream/19088
 
-#EXTINF:-1 tvg-logo="http://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2fwww.radioclassique.fr%2f" group-title="FR",Radio Classique
-https://str0.creacast.com/classique1
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/bae3bf_0b6fc93bb1584f329723c0241a93c65c~mv2.png/v1/fill/w_111,h_111,al_c,usm_0.66_1.00_0.01,enc_auto/LOGO%20RHM%20SUR%20ROUGE.png" group-title="FR",Radio Heavy Metal
 https://manager7.streamradio.fr:1435/stream
 
 #EXTINF:-1 tvg-logo="" group-title="FR",France Musique | La Jazz
 http://direct.francemusique.fr/live/francemusiquelajazz-hifi.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/langfr-1280px-Logo_Fun_Radio_%282021%29.svg.png" group-title="FR",FUN Radio
+http://icecast.funradio.fr/fun-1-44-128
+
+#EXTINF:-1 tvg-logo="" group-title="FR",RADIO MARIA FRANCE
+http://dreamsiteradiocp2.com:8110/stream
+
+#EXTINF:-1 tvg-logo="https://www.francebleu.fr/favicons/apple-touch-icon-180x180.png" group-title="FR",France Bleu Nord
+http://direct.francebleu.fr/live/fbnord-midfi.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="FR",Africa N°1
+http://african1paris.ice.infomaniak.ch/african1paris-64.mp3
+
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/latina/images/favicon.ico" group-title="FR",Latina reggaeton
+https://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
+
+#EXTINF:-1 tvg-logo="http://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Black Music
+http://jazzblackmusic.ice.infomaniak.ch/jazzblackmusic-high.mp3
+
+#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="FR",Generations Rap U.S Gold
+http://gene-wr08.ice.infomaniak.ch/gene-wr08.mp3
+
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_generations.png" group-title="FR",Generations
+http://generationfm.ice.infomaniak.ch/generationfm-high.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="FR",France Musique | Concerts Radio France
+http://direct.francemusique.fr/live/francemusiqueconcertsradiofrance-hifi.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="FR",Skyrock Hits
+https://icecast.skyrock.net/s/hit_skyrock_aac_64k?tvr_name=radiofr&tvr_section1=64aac
+
+#EXTINF:-1 tvg-logo="https://www.bfmtv.com/android-icon-192x192.png" group-title="FR",BFM Business
+http://audio.bfmtv.com/bfmbusiness_128.mp3?aw_0_1st.playerId=BFMBusiness_audio_web&aggregator=BFMBusiness_audio_web
+
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_funk.png" group-title="FR",Generations Funk
+http://gene-wr05.ice.infomaniak.ch/gene-wr05.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="FR",BFM Business
+https://audio.bfmtv.com/bfmbusiness_128.mp3
+
+#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Ladies & Crooners
+http://jazzladiescrooners.ice.infomaniak.ch/jazzladiescrooners-high.mp3
+
+#EXTINF:-1 tvg-logo="https://bocir-prod-bucket.s3.amazonaws.com/radios/vibration/images/favicon.vnd.microsoft.icon" group-title="FR",Radio Vibration
+https://vibration.ice.infomaniak.ch/vibration-high.mp3
+
+#EXTINF:-1 tvg-logo="https://www.francetvinfo.fr/assets/common/images/pwa/ios/120-0cfbd6d4.png" group-title="FR",France Info
+https://stream.radiofrance.fr/franceinfo/franceinfo_hifi.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.fipradio.fr/dist/favicons/logo-120.png" group-title="FR",FIP autour du groove
+http://direct.fipradio.fr/live/fip-webradio3.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="FR",Reggae.fr
+https://listen.radioking.com/radio/50473/stream/87415
+
+#EXTINF:-1 tvg-logo="" group-title="FR",hitfm reunion 974
+http://hitfm.ice.infomaniak.ch/hitfm-192.mp3
+
+#EXTINF:-1 tvg-logo="https://m209.syncusercontent.com/mfs-60:e7d8bcadd5a2477fc9e51bcf050e882e=============================/p/FranceInfo.png?allowdd=0&datakey=oRfJWLO6jtwpRPP6jNCQN57oNuBOHsNUitHdz3RIW2vZImwxaSD/BMCrflKec/vHo3SxNLXFu1udMP1S8XHjPXw1q5kFoSg7egRcIOebiokWBPOr09HQdsFTOMnhM35aakAPiHis5fRC74CjVIh05epEX3IzZZSWFj/OfZQ7k+3d2U9vkgewVimqIaTJuVNyKAJ0k/5Ki65LjHOfI3kDK891oQKVSExxxD0cZm9SziqD/wNdZflXZZNwvVrl3ef3TfuK9GCprIHLC5Fpt3djEIs/jmoSapjQZl4l5sez++LaVNSaP4OZe+z4YK3Kiuef0mN5THxwh2JS2mpzYRGdoA&engine=ln-3.1.38&errurl=pl576c8tTkE53fesN6K59kLFTlfG9ukXOsWjYDyCBknLOMFJ7nSS6G45+Rqiajr6D+YVYQGYv6bQK/07r1fnLn0H8NQKBKKeYOKnZ2VVU6LxVkuqYFOENdT0QdS0UznLvBKHDQ3ljz4eOKolzdl3d4xl+5Z5sAi1GdSzv27mF7GuqFNtcKnt0q2ZogvLNx/bJSBNbFKwhvpXKr1jbqTVXVW1eRnN0wWW1a30NLuV+woXgYk057D1reVd4fGJcC6Wy0WXWvBfFEreFqNOVyBrxenbprKCzhzVTuSY8z/uj2x6cqFBbpfgTumCneiWx0ApNNPg6DiFxXZ0V8q3RRXG4Q==&header1=Q29udGVudC1UeXBlOiBpbWFnZS9wbmc&header2=Q29udGVudC1EaXNwb3NpdGlvbjogaW5saW5lOyBmaWxlbmFtZT0iRnJhbmNlSW5mby5wbmciO2ZpbGVuYW1lKj1VVEYtOCcnRnJhbmNlSW5mby5wbmc7&ipaddress=1414030563&linkcachekey=748911ee0&linkoid=1991610004&mode=101&sharelink_id=17949036050004&timestamp=1708187509312&uagent=3b50c75381f12107280e9099b5b7674cf455a2e5&signature=00134c6a20bb3132c47960c0e5b08e7df047a4aa&cachekey=60:e7d8bcadd5a2477fc9e51bcf050e882e=============================" group-title="FR",France Info
+http://direct.franceinfo.fr/live/franceinfo-midfi.aac
+
+#EXTINF:-1 tvg-logo="https://www.jazzradio.fr/apple-touch-icon-120x120.png" group-title="FR",Jazz Radio Saxo Jazz
+http://jzr-saxo.ice.infomaniak.ch/jzr-saxo.mp3
+
+#EXTINF:-1 tvg-logo="https://generations.fr/apple-touch-icon-120x120.png" group-title="FR",Generations Rap FR
+http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="FR",MRADIO FRANCE
+http://mfm.ice.infomaniak.ch/mfm-64.aac
+
+#EXTINF:-1 tvg-logo="http://cdn-rfm.lanmedia.fr/apple-touch-icon-120x120.png" group-title="FR",RFM Collector
+http://stream.rfm.fr/rfm-wr1.mp3
+
+#EXTINF:-1 tvg-logo="http://www.fipradio.fr/dist/favicons/logo-120.png" group-title="FR",FIP autour du reggae
+http://direct.fipradio.fr/live/fip-webradio6.mp3
+
+#EXTINF:-1 tvg-logo="http://generations.fr/media/radio/thumb/90x90_soul.png" group-title="FR",Generations Soul
+http://gene-wr07.ice.infomaniak.ch/gene-wr07.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="FR",Europe 2 Radio Officiel
+https://europe2.lmn.fm/europe2-57600/playlist.m3u8?aw_0_1st.playerid=lagardereappEurope2
+
+#EXTINF:-1 tvg-logo="https://rmc.bfmtv.com/apple-icon-228x228.png" group-title="FR",BFM Avec RMC
+https://audio.bfmtv.com/rmcradio_128.mp3
 

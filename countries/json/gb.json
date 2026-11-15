@@ -2,42 +2,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "98adecf7-2683-4408-9be7-02d3f9098eb8",
-    "name": "BBC World Service",
-    "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
-    "url_resolved": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
-    "homepage": "https://www.bbc.co.uk/programmes/w172xzjgf6lxp7y",
-    "favicon": "http://cdn-profiles.tunein.com/s24948/images/logoq.jpg?t=1",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "news,talk",
-    "codec": "MP3",
-    "bitrate": 56,
-    "votes": 167433,
-    "clickcount": 883
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96063f25-0601-11e8-ae97-52543be04c81",
-    "name": "Classic FM UK",
-    "url": "http://ice-the.musicradio.com/ClassicFMMP3",
-    "url_resolved": "http://ice-the.musicradio.com/ClassicFMMP3",
-    "homepage": "http://www.classicfm.com/",
-    "favicon": "http://www.classicfm.com/assets_v4r/classic/img/favicon-196x196.png",
-    "countrycode": "GB",
-    "state": "London",
-    "language": "english",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 58187,
-    "clickcount": 260
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "9614bbb6-0601-11e8-ae97-52543be04c81",
     "name": "LBC Radio",
     "url": "http://media-sov.musicradio.com/LBC973MP3Low",
@@ -50,8 +14,8 @@
     "tags": "political talk",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 53226,
-    "clickcount": 61
+    "votes": 53352,
+    "clickcount": 223
   },
   {
     "id": null,
@@ -68,8 +32,8 @@
     "tags": "country,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 48085,
-    "clickcount": 70
+    "votes": 48354,
+    "clickcount": 116
   },
   {
     "id": null,
@@ -86,8 +50,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 40321,
-    "clickcount": 107
+    "votes": 40501,
+    "clickcount": 147
   },
   {
     "id": null,
@@ -104,62 +68,8 @@
     "tags": "80s,national,pop,public radio,variety",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 36573,
-    "clickcount": 441
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9608ade8-0601-11e8-ae97-52543be04c81",
-    "name": "Heart London 106.2 [MP3]",
-    "url": "http://ice-sov.musicradio.com/HeartLondonMP3",
-    "url_resolved": "http://ice-sov.musicradio.com/HeartLondonMP3",
-    "homepage": "http://www.heart.co.uk/london",
-    "favicon": "https://cdn-profiles.tunein.com/s2846/images/logoq.jpg",
-    "countrycode": "GB",
-    "state": "London",
-    "language": "english",
-    "tags": "commercial,hot adult contemporary,london",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 35080,
-    "clickcount": 117
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "6efe216d-bf7e-11e9-8502-52543be04c81",
-    "name": "LBC UK",
-    "url": "http://media-ice.musicradio.com/LBCUK",
-    "url_resolved": "http://media-ice.musicradio.com/LBCUK",
-    "homepage": "https://www.lbc.co.uk/",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s220687q.png",
-    "countrycode": "GB",
-    "state": "",
-    "language": "",
-    "tags": "news talk,talk",
-    "codec": "AAC",
-    "bitrate": 48,
-    "votes": 34829,
-    "clickcount": 247
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "962b27a3-0601-11e8-ae97-52543be04c81",
-    "name": "Smooth Radio",
-    "url": "http://media-the.musicradio.com/SmoothEastMids",
-    "url_resolved": "http://media-the.musicradio.com/SmoothEastMids",
-    "homepage": "http://www.smoothradio.com/",
-    "favicon": "http://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
-    "countrycode": "GB",
-    "state": "Nottinghamshire",
-    "language": "english",
-    "tags": "easy listening,smooth,soft music",
-    "codec": "AAC",
-    "bitrate": 48,
-    "votes": 27431,
-    "clickcount": 123
+    "votes": 36726,
+    "clickcount": 523
   },
   {
     "id": null,
@@ -176,8 +86,8 @@
     "tags": "alternative,alternative rock,garage,indie,indie pop,indie rock,left-field dance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 21966,
-    "clickcount": 39
+    "votes": 22047,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -194,8 +104,8 @@
     "tags": "news,talk",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 19187,
-    "clickcount": 30
+    "votes": 19228,
+    "clickcount": 37
   },
   {
     "id": null,
@@ -212,26 +122,8 @@
     "tags": "classic hits,national,oldies,public radio,variety",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 19046,
-    "clickcount": 170
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "e7205cd4-dc30-11e9-a8ba-52543be04c81",
-    "name": "Heart 70s",
-    "url": "https://media-ssl.musicradio.com/Heart70sMP3",
-    "url_resolved": "https://media-ssl.musicradio.com/Heart70sMP3",
-    "homepage": "https://www.heart.co.uk/70s",
-    "favicon": "",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "70s,national,pop,public radio,variety",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 18871,
-    "clickcount": 47
+    "votes": 19154,
+    "clickcount": 149
   },
   {
     "id": null,
@@ -248,8 +140,8 @@
     "tags": "bbc",
     "codec": "MP3",
     "bitrate": 56,
-    "votes": 17340,
-    "clickcount": 88
+    "votes": 17546,
+    "clickcount": 293
   },
   {
     "id": null,
@@ -266,8 +158,8 @@
     "tags": "classic fm,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 14006,
-    "clickcount": 42
+    "votes": 14063,
+    "clickcount": 66
   },
   {
     "id": null,
@@ -284,8 +176,8 @@
     "tags": "chillout,national,public radio,smooth,variety",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 13614,
-    "clickcount": 86
+    "votes": 13676,
+    "clickcount": 116
   },
   {
     "id": null,
@@ -302,8 +194,8 @@
     "tags": "dance,national,pop,public radio,variety",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12722,
-    "clickcount": 87
+    "votes": 12767,
+    "clickcount": 112
   },
   {
     "id": null,
@@ -320,8 +212,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 12579,
-    "clickcount": 48
+    "votes": 12609,
+    "clickcount": 45
   },
   {
     "id": null,
@@ -338,8 +230,8 @@
     "tags": "90s,national,pop,public radio,variety",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12482,
-    "clickcount": 130
+    "votes": 12511,
+    "clickcount": 161
   },
   {
     "id": null,
@@ -356,25 +248,7 @@
     "tags": "alternative,hiphop,electronic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12016,
-    "clickcount": 15
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ba093e53-c020-484b-a6a6-b184e7382744",
-    "name": "Classic FM Relax",
-    "url": "http://media-the.musicradio.com/ClassicFM-M-Relax",
-    "url_resolved": "http://media-the.musicradio.com/ClassicFM-M-Relax",
-    "homepage": "",
-    "favicon": "https://images-na.ssl-images-amazon.com/images/I/61wHBPSryzL.png",
-    "countrycode": "GB",
-    "state": "AAC",
-    "language": "",
-    "tags": "",
-    "codec": "AAC",
-    "bitrate": 48,
-    "votes": 9057,
+    "votes": 12065,
     "clickcount": 25
   },
   {
@@ -392,8 +266,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8755,
-    "clickcount": 8
+    "votes": 8772,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -410,8 +284,8 @@
     "tags": "london,news,talk",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 7873,
-    "clickcount": 11
+    "votes": 7885,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -428,8 +302,8 @@
     "tags": "adult contemporary,pop rock",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 7415,
-    "clickcount": 9
+    "votes": 7457,
+    "clickcount": 40
   },
   {
     "id": null,
@@ -446,26 +320,8 @@
     "tags": "news",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 7054,
-    "clickcount": 16
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "98137c2d-ce68-4e33-8cb7-ddf3692ecc9d",
-    "name": "BBC Radio 4 (128k)",
-    "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8",
-    "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8",
-    "homepage": "https://www.bbc.co.uk/radio4",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s25419q.png",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "comedy,drama,news,talk",
-    "codec": "UNKNOWN",
-    "bitrate": 0,
-    "votes": 7011,
-    "clickcount": 318
+    "votes": 7069,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -482,8 +338,8 @@
     "tags": "classical",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 6608,
-    "clickcount": 15
+    "votes": 6618,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -500,8 +356,8 @@
     "tags": "adult contemporary,national,pop,public radio,variety",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6535,
-    "clickcount": 31
+    "votes": 6586,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -518,8 +374,8 @@
     "tags": "africa,afrique,news,talk",
     "codec": "AAC+",
     "bitrate": 101,
-    "votes": 6029,
-    "clickcount": 17
+    "votes": 6032,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -536,8 +392,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5959,
-    "clickcount": 6
+    "votes": 5980,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -554,8 +410,8 @@
     "tags": "techno",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 5843,
-    "clickcount": 21
+    "votes": 5866,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -572,8 +428,8 @@
     "tags": "london,news,talk",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 5436,
-    "clickcount": 10
+    "votes": 5446,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -590,8 +446,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 5365,
-    "clickcount": 42
+    "votes": 5371,
+    "clickcount": 34
   },
   {
     "id": null,
@@ -608,8 +464,8 @@
     "tags": "indie,pop",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 5293,
-    "clickcount": 52
+    "votes": 5324,
+    "clickcount": 63
   },
   {
     "id": null,
@@ -626,8 +482,8 @@
     "tags": "love,love songs,lovesongs,romantic",
     "codec": "AAC+",
     "bitrate": 194,
-    "votes": 4742,
-    "clickcount": 4
+    "votes": 4764,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -644,8 +500,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 4694,
-    "clickcount": 6
+    "votes": 4703,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -662,8 +518,8 @@
     "tags": "arabic,news,talk",
     "codec": "AAC+",
     "bitrate": 101,
-    "votes": 4588,
-    "clickcount": 17
+    "votes": 4593,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -680,8 +536,8 @@
     "tags": "england,english,london,news,uk,world news",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 4048,
-    "clickcount": 74
+    "votes": 4103,
+    "clickcount": 126
   },
   {
     "id": null,
@@ -698,8 +554,8 @@
     "tags": "adult contemporary",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 3754,
-    "clickcount": 172
+    "votes": 3834,
+    "clickcount": 192
   },
   {
     "id": null,
@@ -716,25 +572,7 @@
     "tags": "news,sports,talk",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 3718,
-    "clickcount": 169
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "fdbdc2b0-c184-437b-8643-9a5bfa45c253",
-    "name": "BBC Radio 1",
-    "url": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8",
-    "url_resolved": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8",
-    "homepage": "http://www.bbc.co.uk/radio1",
-    "favicon": "https://cdn-radiotime-logos.tunein.com/s24939q.png",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "",
-    "codec": "AAC+",
-    "bitrate": 101,
-    "votes": 3661,
+    "votes": 3782,
     "clickcount": 159
   },
   {
@@ -752,8 +590,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 3590,
-    "clickcount": 7
+    "votes": 3603,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -770,44 +608,8 @@
     "tags": "alternative,blues,dance,eclectic,electronic,experimental,funk,grime,hip hop,house,indie,jazz,metal,pop,punk,r&b,reggae,rock,ska,soul,techno,world",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 3478,
-    "clickcount": 135
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "d69fbc2c-530a-4d40-ac9f-56532356b248",
-    "name": "Chillout Ibiza FM",
-    "url": "https://edge3.peta.live365.net/b05055_128mp3",
-    "url_resolved": "https://edge3.peta.live365.net/b05055_128mp3",
-    "homepage": "http://www.chilloutibizafm.com/",
-    "favicon": "http://www.chilloutibizafm.com/favicon.ico",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "chillout,relaxing",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 3437,
-    "clickcount": 60
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "14569027-6e99-41d0-bf1e-25a0627f971a",
-    "name": "GBNews",
-    "url": "http://listen-gbnews.sharp-stream.com/gbnews.mp3",
-    "url_resolved": "http://listen-gbnews.sharp-stream.com/gbnews.mp3",
-    "homepage": "https://www.gbnews.uk/",
-    "favicon": "",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "news,news talk,talk",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3428,
-    "clickcount": 7
+    "votes": 3536,
+    "clickcount": 160
   },
   {
     "id": null,
@@ -824,8 +626,8 @@
     "tags": "dance,house,trance",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 3402,
-    "clickcount": 4
+    "votes": 3416,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -842,8 +644,8 @@
     "tags": "80s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3300,
-    "clickcount": 16
+    "votes": 3318,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -860,26 +662,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3230,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "fec7847c-b936-4bb3-a4c0-610db9b66c93",
-    "name": "GB News",
-    "url": "http://listen-gbnews.sharp-stream.com/gbnews.mp3",
-    "url_resolved": "http://listen-gbnews.sharp-stream.com/gbnews.mp3",
-    "homepage": "https://www.gbnews.uk/",
-    "favicon": "http://cdn-profiles.tunein.com/s310252/images/logod.png",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "news,speech,talk",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3148,
-    "clickcount": 52
+    "votes": 3239,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -896,8 +680,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3028,
-    "clickcount": 12
+    "votes": 3041,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -914,134 +698,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2873,
-    "clickcount": 13
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a347209e-6ce6-4c94-81ed-003c1275188f",
-    "name": "BBC World Service",
-    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia",
-    "url_resolved": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia",
-    "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
-    "favicon": "https://cdn.vox-cdn.com/thumbor/FOKCcOpam5-0m4VfrxvfzMdDK6I=/10x0:610x400/1400x1400/filters:focal(10x0:610x400):format(jpeg)/cdn.vox-cdn.com/assets/958975/bbc_world_service.jpeg",
-    "countrycode": "GB",
-    "state": "",
-    "language": "",
-    "tags": "news",
-    "codec": "MP3",
-    "bitrate": 56,
-    "votes": 2835,
-    "clickcount": 38
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "df3607fb-311d-43b1-bd0c-98d91a4f2df4",
-    "name": "Capital Dance",
-    "url": "https://icecast.thisisdax.com/CapitalDanceMP3",
-    "url_resolved": "https://icecast.thisisdax.com/CapitalDanceMP3",
-    "homepage": "https://www.capitaldance.com/",
-    "favicon": "https://www.capitaldance.com/assets_v4r/capitaldance/img/favicon-196x196.png",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2743,
-    "clickcount": 32
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "14b6c684-bb7c-4926-b2a3-fd5a02bf7867",
-    "name": "BBC World Service",
-    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8",
-    "url_resolved": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_world_service.m3u8",
-    "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
-    "favicon": "https://rmp.files.bbci.co.uk/playspace/img/apple-touch-icon.96d5401f35.png",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "news",
-    "codec": "AAC+",
-    "bitrate": 101,
-    "votes": 2735,
-    "clickcount": 15
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f468711f-a403-11e8-abb8-52543be04c81",
-    "name": "Smooth Radio London 102.2",
-    "url": "http://media-the.musicradio.com/SmoothLondonMP3",
-    "url_resolved": "http://media-the.musicradio.com/SmoothLondonMP3",
-    "homepage": "https://www.smoothradio.com/london",
-    "favicon": "https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "adult contemporary,middle of the road",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2678,
-    "clickcount": 17
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "7b6de1b4-ec9e-4598-9409-2a2f03c48cb7",
-    "name": "Naim Jazz [320k aac]",
-    "url": "http://mscp3.live-streams.nl:8340/jazz-high.aac",
-    "url_resolved": "http://mscp3.live-streams.nl:8340/jazz-high.aac",
-    "homepage": "https://www.naimaudio.com/",
-    "favicon": "https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png",
-    "countrycode": "GB",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "AAC",
-    "bitrate": 320,
-    "votes": 2665,
-    "clickcount": 12
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "8e630042-ef66-4063-a403-7632117ef5c8",
-    "name": "Virgin Radio Chilled",
-    "url": "https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web",
-    "url_resolved": "https://radio.virginradio.co.uk/stream-chilled?aw_0_1st.platform=vr-web",
-    "homepage": "https://virginradio.co.uk/radioplayer/live/virginradio-player-chilled.html",
-    "favicon": "",
-    "countrycode": "GB",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 2654,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "59e28043-e349-43a2-8695-ab67ff30b77e",
-    "name": "BBC World Service for East Asia",
-    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia",
-    "url_resolved": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia",
-    "homepage": "https://bbc.co.uk/",
-    "favicon": "https://bbc.co.uk/favicon.ico",
-    "countrycode": "GB",
-    "state": "",
-    "language": "",
-    "tags": "news",
-    "codec": "MP3",
-    "bitrate": 56,
-    "votes": 2607,
-    "clickcount": 15
+    "votes": 2880,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -1058,26 +716,8 @@
     "tags": "classical",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 2570,
-    "clickcount": 78
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96222e78-0601-11e8-ae97-52543be04c81",
-    "name": "Gold AM 1548 London",
-    "url": "http://media-ice.musicradio.com/GoldMP3",
-    "url_resolved": "http://media-ice.musicradio.com/GoldMP3",
-    "homepage": "http://www.mygoldmusic.co.uk/",
-    "favicon": "http://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "classic hits,london,oldies",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2540,
-    "clickcount": 5
+    "votes": 2615,
+    "clickcount": 99
   },
   {
     "id": null,
@@ -1094,44 +734,26 @@
     "tags": "comedy,drama,entertainment",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 2534,
-    "clickcount": 55
+    "votes": 2582,
+    "clickcount": 74
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "30820d12-0409-44b7-b5e8-edc594910d92",
-    "name": "Радио Сева (Radio Seva Novgorodsev)",
-    "url": "https://seva.ru/radio/stream",
-    "url_resolved": "https://seva.ru/radio/stream",
-    "homepage": "https://seva.ru/",
-    "favicon": "https://seva.ru/radio/radio.png",
-    "countrycode": "GB",
-    "state": "London",
-    "language": "russian",
-    "tags": "music,rock,talk,музыка,разговорное,рок",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2520,
-    "clickcount": 25
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "3e1ea4e1-aac3-4617-93e3-b35b67b1ff86",
-    "name": "BBC World Service",
-    "url": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8",
-    "url_resolved": "http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_world_service.m3u8",
-    "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
-    "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
+    "stationuuid": "96222e78-0601-11e8-ae97-52543be04c81",
+    "name": "Gold AM 1548 London",
+    "url": "http://media-ice.musicradio.com/GoldMP3",
+    "url_resolved": "http://media-ice.musicradio.com/GoldMP3",
+    "homepage": "http://www.mygoldmusic.co.uk/",
+    "favicon": "http://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png",
     "countrycode": "GB",
     "state": "",
-    "language": "",
-    "tags": "news",
-    "codec": "AAC+",
-    "bitrate": 50,
-    "votes": 2371,
-    "clickcount": 8
+    "language": "english",
+    "tags": "classic hits,london,oldies",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 2543,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1148,8 +770,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2341,
-    "clickcount": 8
+    "votes": 2348,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1162,12 +784,12 @@
     "favicon": "https://android2.blob.core.windows.net/castmyurl/WeymouthRocks400.png",
     "countrycode": "GB",
     "state": "Dorset",
-    "language": "english,english uk",
+    "language": "british english,english",
     "tags": "punk,rock,ska",
     "codec": "AAC",
     "bitrate": 96,
-    "votes": 2183,
-    "clickcount": 1
+    "votes": 2196,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1184,44 +806,8 @@
     "tags": "pop music,top 40,variety",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2177,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "7d196930-5f3d-45e2-b11a-d261c4515161",
-    "name": "Virgin Radio UK",
-    "url": "https://radio.virginradio.co.uk/stream",
-    "url_resolved": "https://radio.virginradio.co.uk/stream",
-    "homepage": "https://virginradio.co.uk/",
-    "favicon": "https://www.celsoazevedo.com/files/2022/virgin-radio-uk.jpg",
-    "countrycode": "GB",
-    "state": "London, England",
-    "language": "",
-    "tags": "00s,80s,90s,information,news,pop,pop rock",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 2128,
-    "clickcount": 49
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "e8c4dc8d-2f73-4779-b074-90eefb98b388",
-    "name": "Radio X",
-    "url": "http://icecast.thisisdax.com/RadioXUKMP3",
-    "url_resolved": "http://icecast.thisisdax.com/RadioXUKMP3",
-    "homepage": "https://www.radiox.co.uk/",
-    "favicon": "https://i.imgur.com/fbhlSLX.jpg",
-    "countrycode": "GB",
-    "state": "",
-    "language": "british english,english",
-    "tags": "alternative rock,britpop",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2092,
-    "clickcount": 12
+    "votes": 2184,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1238,8 +824,8 @@
     "tags": "oldies,pop,public radio,variety",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 2057,
-    "clickcount": 35
+    "votes": 2065,
+    "clickcount": 74
   },
   {
     "id": null,
@@ -1256,8 +842,8 @@
     "tags": "club,dance,house,trance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1986,
-    "clickcount": 11
+    "votes": 1995,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1274,44 +860,8 @@
     "tags": "alternative,hiphop,electronic",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1911,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961e6cac-0601-11e8-ae97-52543be04c81",
-    "name": "NTS Radio 1",
-    "url": "http://stream-relay-geo.ntslive.net/stream",
-    "url_resolved": "http://stream-relay-geo.ntslive.net/stream",
-    "homepage": "http://www.nts.live/",
-    "favicon": "http://www.nts.live/favicon.ico",
-    "countrycode": "GB",
-    "state": "London",
-    "language": "english",
-    "tags": "community radio,dj sets,eclectic,freeform",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 1878,
-    "clickcount": 82
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9605a234-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Caroline",
-    "url": "http://sc6.radiocaroline.net:8040/;stream.mp3",
-    "url_resolved": "http://sc6.radiocaroline.net:8040/;stream.mp3",
-    "homepage": "http://www.radiocaroline.audio/caroline-flashback.html",
-    "favicon": "",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "nostalgia,pop,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1873,
-    "clickcount": 3
+    "votes": 1916,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1328,8 +878,44 @@
     "tags": "alternative",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 1871,
-    "clickcount": 80
+    "votes": 1892,
+    "clickcount": 76
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "961e6cac-0601-11e8-ae97-52543be04c81",
+    "name": "NTS Radio 1",
+    "url": "http://stream-relay-geo.ntslive.net/stream",
+    "url_resolved": "http://stream-relay-geo.ntslive.net/stream",
+    "homepage": "http://www.nts.live/",
+    "favicon": "http://www.nts.live/favicon.ico",
+    "countrycode": "GB",
+    "state": "London",
+    "language": "english",
+    "tags": "community radio,dj sets,eclectic,freeform",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 1888,
+    "clickcount": 87
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9605a234-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Caroline",
+    "url": "http://sc6.radiocaroline.net:8040/;stream.mp3",
+    "url_resolved": "http://sc6.radiocaroline.net:8040/;stream.mp3",
+    "homepage": "http://www.radiocaroline.audio/caroline-flashback.html",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "nostalgia,pop,rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1876,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1346,44 +932,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1704,
-    "clickcount": 11
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "dfa6d153-83de-4112-bd36-2156720bdfc5",
-    "name": "Exclusively Supertramp",
-    "url": "https://streaming.exclusive.radio/er/supertramp/icecast.audio",
-    "url_resolved": "https://streaming.exclusive.radio/er/supertramp/icecast.audio",
-    "homepage": "https://exclusive.radio/",
-    "favicon": "",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1653,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "d177cdd0-175c-11ea-a620-52543be04c81",
-    "name": "1Mix EDM Radio",
-    "url": "http://fr1.1mix.co.uk:8060/",
-    "url_resolved": "http://fr1.1mix.co.uk:8060/",
-    "homepage": "http://www.1mix.co.uk/edm-home",
-    "favicon": "http://www.1mix.co.uk/favicon.ico",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "edm,trance",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 1636,
-    "clickcount": 5
+    "votes": 1708,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1400,8 +950,26 @@
     "tags": "london,news,uk",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 1614,
-    "clickcount": 31
+    "votes": 1663,
+    "clickcount": 86
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "d177cdd0-175c-11ea-a620-52543be04c81",
+    "name": "1Mix EDM Radio",
+    "url": "http://fr1.1mix.co.uk:8060/",
+    "url_resolved": "http://fr1.1mix.co.uk:8060/",
+    "homepage": "http://www.1mix.co.uk/edm-home",
+    "favicon": "http://www.1mix.co.uk/favicon.ico",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "edm,trance",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 1639,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1418,8 +986,8 @@
     "tags": "rock",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 1603,
-    "clickcount": 4
+    "votes": 1613,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1436,8 +1004,8 @@
     "tags": "trance",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 1568,
-    "clickcount": 6
+    "votes": 1578,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1454,8 +1022,8 @@
     "tags": "60s,70s,pop,pop rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1556,
-    "clickcount": 7
+    "votes": 1562,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1472,8 +1040,8 @@
     "tags": "dance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1542,
-    "clickcount": 2
+    "votes": 1546,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1490,26 +1058,8 @@
     "tags": "trance,trancepulse",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 1510,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "49bc6344-102d-4c30-a7d8-b64112837509",
-    "name": "Naim Radio [lossless flac]",
-    "url": "http://mscp3.live-streams.nl:8360/flac.flac",
-    "url_resolved": "http://mscp3.live-streams.nl:8360/flac.flac",
-    "homepage": "https://www.naimaudio.com/radio/player",
-    "favicon": "https://www.naimaudio.com/build/assets/apple-touch-icon-2a4e35a0.png",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "",
-    "codec": "OGG",
-    "bitrate": 160,
-    "votes": 1474,
-    "clickcount": 11
+    "votes": 1513,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1526,8 +1076,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 320,
-    "votes": 1414,
-    "clickcount": 4
+    "votes": 1425,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1544,44 +1094,8 @@
     "tags": "trance",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1395,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "47416a39-4289-47a9-8747-056843a60c0b",
-    "name": "BritCom 2 - Pumpkin FM",
-    "url": "https://cast2.asurahosting.com/proxy/britcom2/stream",
-    "url_resolved": "https://cast2.asurahosting.com/proxy/britcom2/stream",
-    "homepage": "https://pumpkinfm.com/",
-    "favicon": "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg",
-    "countrycode": "GB",
-    "state": "London, England",
-    "language": "british english",
-    "tags": "british comedy,comedy,old time radio",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1394,
-    "clickcount": 12
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "57d9c792-5ead-4b1b-ae00-7ad1aa3b09e7",
-    "name": "BSJ.FM Best Smooth Jazz",
-    "url": "https://bsj.lucasmultimedia.com:8002/stream.ogg",
-    "url_resolved": "https://bsj.lucasmultimedia.com:8002/stream.ogg",
-    "homepage": "https://bsj.fm/",
-    "favicon": "https://bsj.fm/assets/img/bsj-favicon.ico",
-    "countrycode": "GB",
-    "state": "",
-    "language": "",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1387,
-    "clickcount": 5
+    "votes": 1401,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1598,62 +1112,8 @@
     "tags": "community radio,dj sets,eclectic,freeform",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1380,
-    "clickcount": 45
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "59813592-9a30-4e5c-bfc6-665724728582",
-    "name": "BBC Live News (128k)",
-    "url": "http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d128000.norewind.m3u8",
-    "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d128000.norewind.m3u8",
-    "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_sounds_news",
-    "favicon": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "news",
-    "codec": "UNKNOWN",
-    "bitrate": 0,
-    "votes": 1366,
-    "clickcount": 75
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "88321903-6939-11e9-af37-52543be04c81",
-    "name": "London Soul Radio",
-    "url": "http://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a",
-    "url_resolved": "http://londonsoulradio.out.airtime.pro:8000/londonsoulradio_a",
-    "homepage": "http://www.thesouloflondonradio.com/",
-    "favicon": "https://cdn2.editmysite.com/images/site/footer/og-image-placeholder-blank.png",
-    "countrycode": "GB",
-    "state": "London",
-    "language": "english",
-    "tags": "boogie woogie,disco,funk,gospel,groove,jazz,rare groove,rnb,slow jams,slow jamz,smooth jazz,soul,soulful house",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1311,
-    "clickcount": 22
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ba93ec29-66c9-4bee-8f71-b71481001c8e",
-    "name": "Exclusively AC/DC",
-    "url": "https://streaming.exclusive.radio/er/acdc/icecast.audio",
-    "url_resolved": "https://streaming.exclusive.radio/er/acdc/icecast.audio",
-    "homepage": "https://play.exclusive.radio/",
-    "favicon": "",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "classic rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1274,
-    "clickcount": 6
+    "votes": 1389,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -1670,8 +1130,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 320,
-    "votes": 1241,
-    "clickcount": 3
+    "votes": 1249,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1688,8 +1148,8 @@
     "tags": "00s,70s,80s,90s,adult,adult hits,calm,classic hits,london,pop",
     "codec": "MP3",
     "bitrate": 112,
-    "votes": 1200,
-    "clickcount": 71
+    "votes": 1219,
+    "clickcount": 78
   },
   {
     "id": null,
@@ -1706,8 +1166,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 1198,
-    "clickcount": 7
+    "votes": 1204,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1724,8 +1184,8 @@
     "tags": "50s,60s,70s,classic soul,oldies,soul",
     "codec": "AAC+",
     "bitrate": 194,
-    "votes": 1193,
-    "clickcount": 9
+    "votes": 1204,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -1742,7 +1202,7 @@
     "tags": "trance",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1182,
+    "votes": 1189,
     "clickcount": 5
   },
   {
@@ -1760,8 +1220,8 @@
     "tags": "news,somali,talk",
     "codec": "AAC+",
     "bitrate": 101,
-    "votes": 1167,
-    "clickcount": 4
+    "votes": 1170,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1778,8 +1238,26 @@
     "tags": "horror stories,mystery,sci-fi,science fiction,scifi,space",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 1131,
-    "clickcount": 7
+    "votes": 1141,
+    "clickcount": 10
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "8c78482a-17db-4057-a7c7-8fa14b3c3ce9",
+    "name": "House Nation UK",
+    "url": "https://streaming.radio.co/s06bd9d805/listen",
+    "url_resolved": "https://streaming.radio.co/s06bd9d805/listen",
+    "homepage": "https://housenationuk.com/",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/aWa7xGKfBh.jpg",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "house",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 1127,
+    "clickcount": 53
   },
   {
     "id": null,
@@ -1796,7 +1274,529 @@
     "tags": "guitar rock,london",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 1119,
+    "votes": 1126,
+    "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c9aabff3-95d1-4f9e-8b29-6682f7e031e2",
+    "name": "Teenage Kicks Radio",
+    "url": "https://onlineradiobox.com/json/fr/teenagekicks/play",
+    "url_resolved": "https://onlineradiobox.com/json/fr/teenagekicks/play",
+    "homepage": "https://teenagekicksradio.blogspot.com/",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "new wave,pop and electronic music from the late 70s and the 80s,punk",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1107,
+    "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "83bb028f-9cd6-489d-a9e0-6dc0821a071b",
+    "name": "Radio X Classic Rock",
+    "url": "https://media-ice.musicradio.com/RadioXClassicRockMP3",
+    "url_resolved": "https://media-ice.musicradio.com/RadioXClassicRockMP3",
+    "homepage": "https://www.radiox.co.uk/",
+    "favicon": "https://i.imgur.com/eBIsjQw.jpg",
+    "countrycode": "GB",
+    "state": "",
+    "language": "british english,english",
+    "tags": "classic rock,rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1083,
+    "clickcount": 34
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "7ccca232-b731-4060-9baf-c3a1a5b992e7",
+    "name": "Techno.FM (320 kbit)",
+    "url": "http://stream.techno.fm/radio320.mp3",
+    "url_resolved": "http://stream.techno.fm/radio320.mp3",
+    "homepage": "https://techno.fm/",
+    "favicon": "https://techno.fm/images/logos/logo_80px.png",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "techno",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 1070,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "438ae94b-f110-11e9-a96c-52543be04c81",
+    "name": "The Groove",
+    "url": "http://uk7.internet-radio.com:8352/",
+    "url_resolved": "http://uk7.internet-radio.com:8352/",
+    "homepage": "http://thegrooveradio.co.uk/",
+    "favicon": "http://thegrooveradio.co.uk/upload/5d67aa7d3a8281.16670430.ico",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "70s,80s,disco,funk,soul",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1041,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "308d38c6-e8a4-41e9-8ffe-9be2623826a4",
+    "name": "BBC Radio 1Xtra (128k)",
+    "url": "http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d128000.norewind.m3u8",
+    "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d128000.norewind.m3u8",
+    "homepage": "https://www.bbc.co.uk/1xtra",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s20277q.png",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "black music,pop",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "votes": 1029,
+    "clickcount": 28
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "1f951feb-544e-447b-8143-8b9656a46cf2",
+    "name": "HearMe - Classic Hard Rock",
+    "url": "https://radio.hearme.fm:8250/stream",
+    "url_resolved": "https://radio.hearme.fm:8250/stream",
+    "homepage": "https://hearme.fm/",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "classic hard rock",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 1027,
+    "clickcount": 11
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "8c99195e-0c7e-4fe8-aa47-9a14f39178e7",
+    "name": "Dance Attack FM (danceattack.fm) 128k MP3",
+    "url": "http://streaming04.liveboxstream.uk:8045/1",
+    "url_resolved": "http://streaming04.liveboxstream.uk:8045/1",
+    "homepage": "http://www.danceattack.fm/",
+    "favicon": "https://cdn.onlineradiobox.com/img/l/9/33659.v9.png",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "edm,electro,house,no ads,progressive,trance",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 1003,
+    "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "68f52212-e3b0-479b-9da6-962a6c5e713d",
+    "name": "ROKit Radio Science Fiction",
+    "url": "https://streaming05.liveboxstream.uk/proxy/roksta12/stream",
+    "url_resolved": "https://streaming05.liveboxstream.uk/proxy/roksta12/stream",
+    "homepage": "https://rokitradio.com/",
+    "favicon": "https://rokitradio.com/images/channels/scifi.jpg",
+    "countrycode": "GB",
+    "state": "London, England",
+    "language": "english",
+    "tags": "action,drama,old time radio,otr,radio shows,science fiction,scifi",
+    "codec": "MP3",
+    "bitrate": 48,
+    "votes": 977,
+    "clickcount": 23
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "ff337e7b-4b92-4fa1-886f-fa889dbdf272",
+    "name": "England - Heart London Radio",
+    "url": "http://ice-the.musicradio.com/HeartLondonMP3",
+    "url_resolved": "http://ice-the.musicradio.com/HeartLondonMP3",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "pop,public,rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 972,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c506f0aa-aeb3-4718-ad3d-aaff1aaecb31",
+    "name": "ROKiT Radio : Science Fiction",
+    "url": "http://streaming05.liveboxstream.uk:8110/stream",
+    "url_resolved": "http://streaming05.liveboxstream.uk:8110/stream",
+    "homepage": "https://rokitradio.com/",
+    "favicon": "https://rokitradio.com/images/rokit-radio-mic.png",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "old time radio,otr,science fiction",
+    "codec": "MP3",
+    "bitrate": 48,
+    "votes": 970,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "695da448-1840-4e4f-adda-57d699900b58",
+    "name": "Boom Radio",
+    "url": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128",
+    "url_resolved": "https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128",
+    "homepage": "https://www.boomradiouk.com/",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "oldies",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 969,
+    "clickcount": 12
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "21dbb37d-60a6-4ec2-b5c8-28b46fc2bfea",
+    "name": "Happy Hardcore",
+    "url": "https://audio-edge-3mayu.fra.h.radiomast.io/73055724-1141-41e2-a69b-24a6ca96c8e7",
+    "url_resolved": "https://audio-edge-3mayu.fra.h.radiomast.io/73055724-1141-41e2-a69b-24a6ca96c8e7",
+    "homepage": "https://www.happyhardcore.com/",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "dj mixes,electronic,hardcore,oldskool hardcore",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 955,
+    "clickcount": 18
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c6486607-cf60-4f47-8696-5e98ee2f5f36",
+    "name": "Heart Xmas",
+    "url": "http://icecast.thisisdax.com/HeartXmasMP3",
+    "url_resolved": "http://icecast.thisisdax.com/HeartXmasMP3",
+    "homepage": "https://www.heart.co.uk/christmas/",
+    "favicon": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 943,
+    "clickcount": 51
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "82efea44-423e-428e-8451-5b60dc33124a",
+    "name": "British Comedy 2",
+    "url": "http://streaming05.liveboxstream.uk:8009/stream",
+    "url_resolved": "http://streaming05.liveboxstream.uk:8009/stream",
+    "homepage": "https://rokitradio.com/",
+    "favicon": "https://rokitradio.com/favicon.ico",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "comeduy",
+    "codec": "MP3",
+    "bitrate": 48,
+    "votes": 940,
+    "clickcount": 10
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "961bffaf-0601-11e8-ae97-52543be04c81",
+    "name": "Heart Essex 96.3 & 102.6",
+    "url": "http://ice-sov.musicradio.com/HeartEssexMP3",
+    "url_resolved": "http://ice-sov.musicradio.com/HeartEssexMP3",
+    "homepage": "http://heart.co.uk/essex",
+    "favicon": "http://heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+    "countrycode": "GB",
+    "state": "Essex",
+    "language": "english",
+    "tags": "hot adult contemporary",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 933,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "ace1f44f-51b8-4e1d-9492-819436044f60",
+    "name": "BBC Radio 2",
+    "url": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.m3u8",
+    "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.m3u8",
+    "homepage": "https://www.bbc.co.uk/radio2",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s24940q.png",
+    "countrycode": "GB",
+    "state": "",
+    "language": "",
+    "tags": "",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "votes": 933,
+    "clickcount": 27
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "822b1291-d6c9-4493-a008-6e87c2e943da",
+    "name": "Sonatica Classical Radio",
+    "url": "http://orion.shoutca.st:8742/160",
+    "url_resolved": "http://orion.shoutca.st:8742/160",
+    "homepage": "http://sonatica.fm/",
+    "favicon": "http://sonatica.fm/favicon.png",
+    "countrycode": "GB",
+    "state": "",
+    "language": "",
+    "tags": "classical,classical music",
+    "codec": "MP3",
+    "bitrate": 160,
+    "votes": 926,
     "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "1d18fe6a-2110-4903-9f11-cffaf95b3c06",
+    "name": "Paranormal UK Radio",
+    "url": "http://s6.citrus3.com:8014/stream",
+    "url_resolved": "http://s6.citrus3.com:8014/stream",
+    "homepage": "http://www.paukradio.com/",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "",
+    "codec": "AAC",
+    "bitrate": 128,
+    "votes": 917,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "19621204-3051-48ea-ba58-1de4e02d034f",
+    "name": "BBC Radio 4",
+    "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.norewind.m3u8",
+    "url_resolved": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.norewind.m3u8",
+    "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm",
+    "favicon": "https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_four/colour_default.svg",
+    "countrycode": "GB",
+    "state": "",
+    "language": "",
+    "tags": "comedy,drama,news,talk",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "votes": 913,
+    "clickcount": 185
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "fba2054a-0812-4a8f-b9bf-ab0546c5cccd",
+    "name": "Kniteforce Radio",
+    "url": "https://kniteforce.out.airtime.pro/kniteforce_a",
+    "url_resolved": "https://kniteforce.out.airtime.pro/kniteforce_a",
+    "homepage": "https://kniteforce-radio.com/",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "",
+    "language": "",
+    "tags": "drum & bass,hardcore,jungle",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 901,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "b87ddc6a-b153-4275-94dc-18cb612138d6",
+    "name": "Radio X 90s",
+    "url": "http://media-ice.musicradio.com/RadioX90sMP3",
+    "url_resolved": "http://media-ice.musicradio.com/RadioX90sMP3",
+    "homepage": "https://www.radiox.co.uk/90s/",
+    "favicon": "https://assets.radiox.co.uk/2024/36/radio-x-90s-1726064624-editorial-short-form-0.jpg",
+    "countrycode": "GB",
+    "state": "London, England",
+    "language": "english",
+    "tags": "alternative,alternative rock,global,indie,indie rock,rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 887,
+    "clickcount": 21
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9f5d0645-ae1e-4e9f-9b2f-91fa63d5b1fa",
+    "name": "talkSPORT",
+    "url": "https://radio.talksport.com/stream",
+    "url_resolved": "https://radio.talksport.com/stream",
+    "homepage": "https://talksport.com/",
+    "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAcdmwRcs4FcWk_OQqxq4EyZH5YA7ixM2dvQ&usqp=CAU",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "news",
+    "codec": "AAC",
+    "bitrate": 64,
+    "votes": 837,
+    "clickcount": 120
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "2babf29a-811c-4a51-93c3-9f3531ef2e97",
+    "name": "Classic FM Calm",
+    "url": "https://media-ice.musicradio.com/ClassicFMCalmMP3",
+    "url_resolved": "https://media-ice.musicradio.com/ClassicFMCalmMP3",
+    "homepage": "https://www.classicfm.com/calm/",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "classical,romantic",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 832,
+    "clickcount": 56
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "39e49a9c-c692-4642-8a84-1201680bb566",
+    "name": "The Sound Of Trance",
+    "url": "http://s1.thesoundoftrance.co.uk:8000/",
+    "url_resolved": "http://s1.thesoundoftrance.co.uk:8000/",
+    "homepage": "https://thesoundoftrance.co.uk/",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "",
+    "language": "",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "votes": 825,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "dd0e86d3-b9b4-11e9-acb2-52543be04c81",
+    "name": "Heart Dance",
+    "url": "https://media-ssl.musicradio.com/HeartDance",
+    "url_resolved": "https://media-ssl.musicradio.com/HeartDance",
+    "homepage": "https://www.heart.co.uk/dance/",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "2000s,90s,club,dance",
+    "codec": "AAC",
+    "bitrate": 48,
+    "votes": 803,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "29dc48c6-adf5-49bf-a9d7-dfde3e9cfc6d",
+    "name": "UK Bass Radio",
+    "url": "https://www.ukbassradio.com/stream",
+    "url_resolved": "https://www.ukbassradio.com/stream",
+    "homepage": "https://www.ukbassradio.com/",
+    "favicon": "https://www.ukbassradio.com/wp-content/uploads/2021/03/cropped-thumbnail_ukbass-radio5.png",
+    "countrycode": "GB",
+    "state": "",
+    "language": "british english",
+    "tags": "breakbeat hardcore,drum and bass,drumfunk,dubstep,garage,hardcore,house,jump-up,jungle,liquid funk,neurofunk,old skool,rollers,techno,techstep,trance,uk bass,uk funky,uk garage,ukedm,ukg",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 770,
+    "clickcount": 39
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "6925c7e9-116b-42ab-9126-4c13c1b65baf",
+    "name": "Now 70s",
+    "url": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
+    "url_resolved": "https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8",
+    "homepage": "https://nowmusic.com/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/c/cd/NOW_70s.png",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "1970s,70s,classic hits,retro",
+    "codec": "AAC,H.264",
+    "bitrate": 1020,
+    "votes": 766,
+    "clickcount": 15
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9626fd02-0601-11e8-ae97-52543be04c81",
+    "name": "DubTerrain",
+    "url": "http://ic2255.c471.fast-serv.com/listen",
+    "url_resolved": "http://ic2255.c471.fast-serv.com/listen",
+    "homepage": "http://www.dubterrain.net/",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "dub,dubstep",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 747,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "bd1c441c-132a-4d48-a3f3-bdb386f4b09a",
+    "name": "Classic FM HD",
+    "url": "https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80",
+    "url_resolved": "https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80",
+    "homepage": "https://www.classicfm.com/",
+    "favicon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/a7/bf/bda7bf4f-16e9-6b60-0d87-a39d432b505e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.webp",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "classical",
+    "codec": "AAC",
+    "bitrate": 192,
+    "votes": 739,
+    "clickcount": 107
   }
 ]

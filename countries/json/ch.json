@@ -2,24 +2,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "961ac56b-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Swiss Jazz",
-    "url": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
-    "url_resolved": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
-    "homepage": "http://www.radioswissjazz.ch/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "Bern",
-    "language": "",
-    "tags": "jazz,public radio,srg ssr",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 27615,
-    "clickcount": 92
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "962a748b-0601-11e8-ae97-52543be04c81",
     "name": "1.FM - Deep House Radio",
     "url": "http://strm112.1.fm/deephouse_mobile_mp3",
@@ -32,8 +14,8 @@
     "tags": "deep house,techno",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 19609,
-    "clickcount": 63
+    "votes": 19641,
+    "clickcount": 82
   },
   {
     "id": null,
@@ -50,44 +32,8 @@
     "tags": "trance",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 19555,
-    "clickcount": 53
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "962a6637-0601-11e8-ae97-52543be04c81",
-    "name": "1.FM - Classic Rock Replay Radio",
-    "url": "http://strm112.1.fm/crock_mobile_mp3",
-    "url_resolved": "http://strm112.1.fm/crock_mobile_mp3",
-    "homepage": "http://www.1.fm/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "english",
-    "tags": "classic rock",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 17835,
-    "clickcount": 27
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "962a63f2-0601-11e8-ae97-52543be04c81",
-    "name": "1.FM - Absolute Country Hits Radio",
-    "url": "http://strm112.1.fm/acountry_mobile_mp3",
-    "url_resolved": "http://strm112.1.fm/acountry_mobile_mp3",
-    "homepage": "http://www.1.fm/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "english",
-    "tags": "country",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 16853,
-    "clickcount": 21
+    "votes": 19583,
+    "clickcount": 72
   },
   {
     "id": null,
@@ -104,26 +50,8 @@
     "tags": "classic country",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 14546,
-    "clickcount": 23
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961fb4b2-0601-11e8-ae97-52543be04c81",
-    "name": "1.FM - Chillout Lounge Radio",
-    "url": "http://strm112.1.fm/chilloutlounge_mobile_mp3",
-    "url_resolved": "http://strm112.1.fm/chilloutlounge_mobile_mp3",
-    "homepage": "https://www.1.fm/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "english",
-    "tags": "chillout,lounge",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 12201,
-    "clickcount": 72
+    "votes": 14576,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -140,26 +68,8 @@
     "tags": "blues",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 11933,
-    "clickcount": 30
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96077079-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Swiss Classic German",
-    "url": "http://stream.srg-ssr.ch/m/rsc_de/mp3_128",
-    "url_resolved": "http://stream.srg-ssr.ch/m/rsc_de/mp3_128",
-    "homepage": "http://www.radioswissclassic.ch/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "Bern",
-    "language": "german",
-    "tags": "classical,public radio,srg ssr",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 9514,
-    "clickcount": 32
+    "votes": 11976,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -176,8 +86,8 @@
     "tags": "latin,pop,world music",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 8644,
-    "clickcount": 13
+    "votes": 8669,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -194,8 +104,8 @@
     "tags": "classic rock",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 8623,
-    "clickcount": 24
+    "votes": 8645,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -212,8 +122,8 @@
     "tags": "bollywood",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 8085,
-    "clickcount": 9
+    "votes": 8095,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -230,8 +140,8 @@
     "tags": "deep house,techno",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 7881,
-    "clickcount": 44
+    "votes": 7907,
+    "clickcount": 59
   },
   {
     "id": null,
@@ -248,26 +158,8 @@
     "tags": "alternative rock,metal,rock",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 7866,
-    "clickcount": 24
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961ac635-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Swiss Pop",
-    "url": "http://stream.srg-ssr.ch/m/rsp/mp3_128",
-    "url_resolved": "http://stream.srg-ssr.ch/m/rsp/mp3_128",
-    "homepage": "http://www.radioswisspop.ch/",
-    "favicon": "http://www.radioswisspop.ch/favicon.ico",
-    "countrycode": "CH",
-    "state": "Bern",
-    "language": "",
-    "tags": "pop,public radio,srg ssr",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 7555,
-    "clickcount": 58
+    "votes": 7898,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -284,26 +176,8 @@
     "tags": "alternative rock",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 6770,
-    "clickcount": 30
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961f1da4-0601-11e8-ae97-52543be04c81",
-    "name": "SRF 3",
-    "url": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
-    "url_resolved": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
-    "homepage": "http://www.srf.ch/radio-srf-3",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Radio_SRF_3.svg/200px-Radio_SRF_3.svg.png",
-    "countrycode": "CH",
-    "state": "",
-    "language": "german",
-    "tags": "pop,public radio,srg ssr",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 5667,
-    "clickcount": 55
+    "votes": 6786,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -320,8 +194,8 @@
     "tags": "full-on,progressive psytrance,psytrance",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 5643,
-    "clickcount": 21
+    "votes": 5652,
+    "clickcount": 34
   },
   {
     "id": null,
@@ -338,44 +212,8 @@
     "tags": "smooth jazz",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 5499,
-    "clickcount": 25
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9608efd5-0601-11e8-ae97-52543be04c81",
-    "name": "RTS La Première",
-    "url": "http://stream.srg-ssr.ch/m/la-1ere/mp3_128",
-    "url_resolved": "http://stream.srg-ssr.ch/m/la-1ere/mp3_128",
-    "homepage": "http://www.rts.ch/la-1ere/",
-    "favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
-    "countrycode": "CH",
-    "state": "",
-    "language": "french",
-    "tags": "public radio,srg ssr",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4907,
-    "clickcount": 37
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960ed987-0601-11e8-ae97-52543be04c81",
-    "name": "SRF 4 News",
-    "url": "http://stream.srg-ssr.ch/m/drs4news/mp3_128",
-    "url_resolved": "http://stream.srg-ssr.ch/m/drs4news/mp3_128",
-    "homepage": "http://www.srf.ch/radio-srf-4-news",
-    "favicon": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
-    "countrycode": "CH",
-    "state": "",
-    "language": "german",
-    "tags": "news,public radio,srg ssr",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4515,
-    "clickcount": 31
+    "votes": 5512,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -392,26 +230,8 @@
     "tags": "alternative rock,indie rock,progressive rock",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 4437,
-    "clickcount": 16
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "962a68ef-0601-11e8-ae97-52543be04c81",
-    "name": "1.FM - Absolute TOP 40 Radio",
-    "url": "http://strm112.1.fm/top40_mobile_mp3",
-    "url_resolved": "http://strm112.1.fm/top40_mobile_mp3",
-    "homepage": "http://www.1.fm/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "english",
-    "tags": "pop,top 40",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 4432,
-    "clickcount": 5
+    "votes": 4448,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -428,8 +248,8 @@
     "tags": "70s,80s,disco",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 4327,
-    "clickcount": 10
+    "votes": 4337,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -446,8 +266,8 @@
     "tags": "ballads",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3939,
-    "clickcount": 4
+    "votes": 3952,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -464,26 +284,8 @@
     "tags": "baroque,classical",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3738,
-    "clickcount": 39
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960f2d97-0601-11e8-ae97-52543be04c81",
-    "name": "1.FM - ReggaeTrade Radio",
-    "url": "http://strm112.1.fm/reggae_mobile_mp3",
-    "url_resolved": "http://strm112.1.fm/reggae_mobile_mp3",
-    "homepage": "http://www.1.fm/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "english",
-    "tags": "reggae",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 3661,
-    "clickcount": 16
+    "votes": 3750,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -500,8 +302,8 @@
     "tags": "acid-house,experimental,hiphop,indie rock,nu-jazz,trip hop",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3393,
-    "clickcount": 17
+    "votes": 3406,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -518,8 +320,8 @@
     "tags": "mainstream,news,pop,swiss",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3312,
-    "clickcount": 36
+    "votes": 3318,
+    "clickcount": 31
   },
   {
     "id": null,
@@ -536,26 +338,8 @@
     "tags": "downtempo,psychedelic chillout grooves,slow trance",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3176,
-    "clickcount": 67
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "962a69c7-0601-11e8-ae97-52543be04c81",
-    "name": "1.FM - A List 80s",
-    "url": "http://strm112.1.fm/back280s_mobile_mp3",
-    "url_resolved": "http://strm112.1.fm/back280s_mobile_mp3",
-    "homepage": "http://www.1.fm/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "english",
-    "tags": "80s",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 3141,
-    "clickcount": 5
+    "votes": 3189,
+    "clickcount": 42
   },
   {
     "id": null,
@@ -572,8 +356,8 @@
     "tags": "electronica",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3095,
-    "clickcount": 17
+    "votes": 3098,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -590,8 +374,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3054,
-    "clickcount": 4
+    "votes": 3057,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -608,8 +392,8 @@
     "tags": "1.fm,chillout,ibiza,tropical,tropical music",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3048,
-    "clickcount": 9
+    "votes": 3052,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -625,9 +409,9 @@
     "language": "italian",
     "tags": "aac+,pop,srg ssr",
     "codec": "AAC",
-    "bitrate": 96,
-    "votes": 3024,
-    "clickcount": 20
+    "bitrate": 88,
+    "votes": 3036,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -644,8 +428,8 @@
     "tags": "trance",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3004,
-    "clickcount": 15
+    "votes": 3010,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -662,26 +446,8 @@
     "tags": "love songs",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 2784,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9625d631-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Swiss Jazz",
-    "url": "http://www.radioswissjazz.ch/live/aacp32.m3u",
-    "url_resolved": "http://stream.srg-ssr.ch/srgssr/rsj/aac/96",
-    "homepage": "http://www.radioswissjazz.ch/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "Bern",
-    "language": "",
-    "tags": "jazz,public radio,srg ssr",
-    "codec": "AAC",
-    "bitrate": 88,
-    "votes": 2700,
-    "clickcount": 5
+    "votes": 2795,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -698,8 +464,26 @@
     "tags": "latin,pop",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 2700,
-    "clickcount": 12
+    "votes": 2704,
+    "clickcount": 10
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9625d631-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Swiss Jazz",
+    "url": "http://www.radioswissjazz.ch/live/aacp32.m3u",
+    "url_resolved": "http://stream.srg-ssr.ch/srgssr/rsj/aac/96",
+    "homepage": "http://www.radioswissjazz.ch/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "Bern",
+    "language": "",
+    "tags": "jazz,public radio,srg ssr",
+    "codec": "AAC",
+    "bitrate": 88,
+    "votes": 2703,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -716,8 +500,8 @@
     "tags": "80s,alternative rock,eighties,gothic,indie,indie pop,manchester rave,new wave,power pop,rare 80s,rock,synthpop",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 2556,
-    "clickcount": 28
+    "votes": 2569,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -734,44 +518,8 @@
     "tags": "commercial-free,electronic,minimal,minimal techno,no ads,tech minimal,techno",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2522,
-    "clickcount": 15
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9607cdda-0601-11e8-ae97-52543be04c81",
-    "name": "RTS Couleur 3",
-    "url": "http://stream.srg-ssr.ch/m/couleur3/mp3_128",
-    "url_resolved": "http://stream.srg-ssr.ch/m/couleur3/mp3_128",
-    "homepage": "http://www.couleur3.ch/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "french",
-    "tags": "public radio,rock,srg ssr",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2506,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "962a7d59-0601-11e8-ae97-52543be04c81",
-    "name": "1.FM - Movie Soundtrack",
-    "url": "http://strm112.1.fm/moviesoundtracks_mobile_mp3",
-    "url_resolved": "http://strm112.1.fm/moviesoundtracks_mobile_mp3",
-    "homepage": "http://www.1.fm/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "english",
-    "tags": "movie soundtracks",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 2437,
-    "clickcount": 10
+    "votes": 2531,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -788,8 +536,26 @@
     "tags": "latin",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 2432,
-    "clickcount": 15
+    "votes": 2450,
+    "clickcount": 14
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "962a7d59-0601-11e8-ae97-52543be04c81",
+    "name": "1.FM - Movie Soundtrack",
+    "url": "http://strm112.1.fm/moviesoundtracks_mobile_mp3",
+    "url_resolved": "http://strm112.1.fm/moviesoundtracks_mobile_mp3",
+    "homepage": "http://www.1.fm/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "english",
+    "tags": "movie soundtracks",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 2441,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -805,9 +571,9 @@
     "language": "french,german,italian",
     "tags": "",
     "codec": "AAC",
-    "bitrate": 128,
-    "votes": 2317,
-    "clickcount": 8
+    "bitrate": 96,
+    "votes": 2330,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -824,62 +590,8 @@
     "tags": "electronic",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2257,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96466f91-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Swiss Jazz",
-    "url": "http://stream.srg-ssr.ch/m/rsj/aacp_96",
-    "url_resolved": "http://stream.srg-ssr.ch/m/rsj/aacp_96",
-    "homepage": "http://www.radioswissjazz.ch/",
-    "favicon": "http://www.radioswissjazz.ch/favicon.ico",
-    "countrycode": "CH",
-    "state": "Bern",
-    "language": "",
-    "tags": "jazz,public radio,srg ssr",
-    "codec": "AAC",
-    "bitrate": 88,
-    "votes": 2244,
-    "clickcount": 15
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "962a6335-0601-11e8-ae97-52543be04c81",
-    "name": "1.FM - Adore Jazz Radio",
-    "url": "http://strm112.1.fm/ajazz_mobile_mp3",
-    "url_resolved": "http://strm112.1.fm/ajazz_mobile_mp3",
-    "homepage": "http://www.1.fm/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "english",
-    "tags": "jazz",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 2134,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "35e8de69-3013-44f1-aafa-4dedf08f948e",
-    "name": "Kontrafunk",
-    "url": "https://s5.radio.co/sca4082ebb/listen",
-    "url_resolved": "https://s5.radio.co/sca4082ebb/listen",
-    "homepage": "https://www.kontrafunk.radio/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "german",
-    "tags": "news",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2040,
-    "clickcount": 9
+    "votes": 2260,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -895,9 +607,9 @@
     "language": "",
     "tags": "pop,public radio,srg ssr",
     "codec": "AAC",
-    "bitrate": 96,
-    "votes": 1972,
-    "clickcount": 17
+    "bitrate": 88,
+    "votes": 1975,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -914,44 +626,8 @@
     "tags": "opera",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1938,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "962af9b5-0601-11e8-ae97-52543be04c81",
-    "name": "Vintage Radio",
-    "url": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
-    "url_resolved": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
-    "homepage": "https://vintageradio.ch/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "german",
-    "tags": "music",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1922,
-    "clickcount": 29
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "1c5674b0-2cfe-48e2-b859-2f3718c74598",
-    "name": "Radio Swiss Classic",
-    "url": "http://stream.srg-ssr.ch/m/rsc_it/mp3_128",
-    "url_resolved": "http://stream.srg-ssr.ch/m/rsc_it/mp3_128",
-    "homepage": "https://www.radioswissclassic.ch/it",
-    "favicon": "https://www.radioswissclassic.ch/favicon.ico",
-    "countrycode": "CH",
-    "state": "",
-    "language": "italian",
-    "tags": "classical,musica classica,srg ssr",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1859,
-    "clickcount": 32
+    "votes": 1941,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -968,26 +644,8 @@
     "tags": "classical,public radio,srg ssr",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1846,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "eec3a93a-744e-4c7a-b6fa-0b07e803b942",
-    "name": "Radio Swiss Jazz",
-    "url": "https://stream.srg-ssr.ch/rsj/aacp_96.m3u",
-    "url_resolved": "http://stream.srg-ssr.ch/srgssr/rsj/aac/96",
-    "homepage": "https://www.radioswissjazz.ch/it",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Radio_Swiss_Jazz_Logo_2018.svg/2048px-Radio_Swiss_Jazz_Logo_2018.svg.png",
-    "countrycode": "CH",
-    "state": "",
-    "language": "italian",
-    "tags": "aac+,jazz,srg ssr",
-    "codec": "AAC",
-    "bitrate": 88,
-    "votes": 1821,
-    "clickcount": 9
+    "votes": 1852,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1004,44 +662,8 @@
     "tags": "50s,60s",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1764,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960bbed9-0601-11e8-ae97-52543be04c81",
-    "name": "SRF 2",
-    "url": "http://stream.srg-ssr.ch/drs2/mp3_128.m3u",
-    "url_resolved": "http://stream.srg-ssr.ch/srgssr/srf2/mp3/128",
-    "homepage": "http://www.srf.ch/radio-srf-2-kultur",
-    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Radio_SRF_2_Kultur.svg/155px-Radio_SRF_2_Kultur.svg.png",
-    "countrycode": "CH",
-    "state": "",
-    "language": "german",
-    "tags": "culture,kultur,public radio,srg ssr",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1511,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "962a7ec6-0601-11e8-ae97-52543be04c81",
-    "name": "1.FM - Sax4Love",
-    "url": "http://strm112.1.fm/sax4ever_mobile_mp3",
-    "url_resolved": "http://strm112.1.fm/sax4ever_mobile_mp3",
-    "homepage": "http://www.1.fm/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "english",
-    "tags": "jazz",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 1503,
-    "clickcount": 8
+    "votes": 1772,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1058,8 +680,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1491,
-    "clickcount": 8
+    "votes": 1512,
+    "clickcount": 15
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "962a7ec6-0601-11e8-ae97-52543be04c81",
+    "name": "1.FM - Sax4Love",
+    "url": "http://strm112.1.fm/sax4ever_mobile_mp3",
+    "url_resolved": "http://strm112.1.fm/sax4ever_mobile_mp3",
+    "homepage": "http://www.1.fm/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "english",
+    "tags": "jazz",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 1505,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1076,8 +716,8 @@
     "tags": "70s",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1474,
-    "clickcount": 6
+    "votes": 1479,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1094,26 +734,8 @@
     "tags": "1970s,1980's,1980s,70s,80s,commercial-free,golden oldies,no ads,oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1472,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "92c3f2bd-d985-4998-9632-2e16fbfcab0e",
-    "name": "Kontrafunk (MP3 192)",
-    "url": "https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3",
-    "url_resolved": "https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3",
-    "homepage": "https://kontrafunk.radio/de/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "german",
-    "tags": "conservative,news,politics,talk",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 1454,
-    "clickcount": 8
+    "votes": 1474,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1130,8 +752,8 @@
     "tags": "electronica",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1454,
-    "clickcount": 3
+    "votes": 1457,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1148,8 +770,8 @@
     "tags": "field recording,nature,sounds of nature",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1408,
-    "clickcount": 17
+    "votes": 1414,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1166,8 +788,8 @@
     "tags": "indie,pop,rock",
     "codec": "AAC",
     "bitrate": 96,
-    "votes": 1369,
-    "clickcount": 16
+    "votes": 1387,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -1184,8 +806,8 @@
     "tags": "dj sets",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1345,
-    "clickcount": 5
+    "votes": 1349,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1202,26 +824,8 @@
     "tags": "suisse",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1311,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9607cc5d-0601-11e8-ae97-52543be04c81",
-    "name": "RTS Option Musique",
-    "url": "http://stream.srg-ssr.ch/option-musique/mp3_128.m3u",
-    "url_resolved": "http://stream.srg-ssr.ch/srgssr/option-musique/mp3/128",
-    "homepage": "http://www.rts.ch/option-musique/",
-    "favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
-    "countrycode": "CH",
-    "state": "",
-    "language": "french",
-    "tags": "public radio,srg ssr",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1298,
-    "clickcount": 7
+    "votes": 1326,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1238,7 +842,7 @@
     "tags": "rnb,soul",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1277,
+    "votes": 1283,
     "clickcount": 5
   },
   {
@@ -1256,8 +860,8 @@
     "tags": "90s,party",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1268,
-    "clickcount": 5
+    "votes": 1272,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1274,8 +878,8 @@
     "tags": "baroque,classical baroque,classical music",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1194,
-    "clickcount": 11
+    "votes": 1204,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -1292,7 +896,7 @@
     "tags": "public radio,srg ssr",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1166,
+    "votes": 1174,
     "clickcount": 12
   },
   {
@@ -1310,8 +914,8 @@
     "tags": "ambient,ambient and relaxation music,chill,chillout,commercial-free,no ads,relax,relaxation,relaxation music,relaxing",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1107,
-    "clickcount": 17
+    "votes": 1109,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1328,8 +932,8 @@
     "tags": "christmas music",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1085,
-    "clickcount": 9
+    "votes": 1091,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1346,26 +950,8 @@
     "tags": "christian contemporary,christmas music,classical,country,rnb,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1082,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "40ca8034-5373-11e8-a4d1-52543be04c81",
-    "name": "Rock The Blues",
-    "url": "http://stream.laut.fm/rock-the-blues",
-    "url_resolved": "http://stream.laut.fm/rock-the-blues",
-    "homepage": "http://laut.fm/rock-the-blues",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "Zurich",
-    "language": "german",
-    "tags": "blues,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1070,
-    "clickcount": 5
+    "votes": 1087,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1382,7 +968,7 @@
     "tags": "80s",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 981,
+    "votes": 985,
     "clickcount": 7
   },
   {
@@ -1400,8 +986,8 @@
     "tags": "world music",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 959,
-    "clickcount": 2
+    "votes": 960,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1418,8 +1004,8 @@
     "tags": "samba",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 911,
-    "clickcount": 1
+    "votes": 913,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1436,26 +1022,8 @@
     "tags": "chillout",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 908,
-    "clickcount": 10
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "86b20e25-6719-4017-9592-e7f92de95dea",
-    "name": "1.FM - Classic Rock Replay Radio",
-    "url": "http://strm112.1.fm/crock_mobile_mp3",
-    "url_resolved": "http://strm112.1.fm/crock_mobile_mp3",
-    "homepage": "http://www.1.fm/",
-    "favicon": "http://i.imgur.com/Jmvwqen.jpg",
-    "countrycode": "CH",
-    "state": "",
-    "language": "english",
-    "tags": "classic rock",
-    "codec": "MP3",
-    "bitrate": 256,
-    "votes": 872,
-    "clickcount": 11
+    "votes": 910,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1472,8 +1040,8 @@
     "tags": "folklore,public radio,srg ssr,volksmusik",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 871,
-    "clickcount": 11
+    "votes": 881,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1490,7 +1058,7 @@
     "tags": "chillout",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 853,
+    "votes": 856,
     "clickcount": 11
   },
   {
@@ -1509,25 +1077,25 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 841,
-    "clickcount": 7
+    "clickcount": 4
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "4beb535e-6bf4-4535-84f9-d4a5698c2f8f",
-    "name": "ip music 320",
-    "url": "http://live7.avf.ch:8000/ipmusic320",
-    "url_resolved": "http://live7.avf.ch:8000/ipmusic320",
-    "homepage": "",
-    "favicon": "",
+    "stationuuid": "be0048b7-70c2-4cc1-85dc-e6d0e00bba83",
+    "name": "Radio SRF 3",
+    "url": "https://stream.srg-ssr.ch/m/drs3/aacp_32",
+    "url_resolved": "https://stream.srg-ssr.ch/m/drs3/aacp_32",
+    "homepage": "https://www.srf.ch/radio-srf-3",
+    "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
     "countrycode": "CH",
     "state": "",
-    "language": "",
-    "tags": "pop",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 830,
-    "clickcount": 2
+    "language": "german,swiss german",
+    "tags": "entertainment,pop,rock",
+    "codec": "AAC",
+    "bitrate": 88,
+    "votes": 833,
+    "clickcount": 44
   },
   {
     "id": null,
@@ -1544,26 +1112,8 @@
     "tags": "80s,european music",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 804,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "be0048b7-70c2-4cc1-85dc-e6d0e00bba83",
-    "name": "Radio SRF 3",
-    "url": "https://stream.srg-ssr.ch/m/drs3/aacp_32",
-    "url_resolved": "https://stream.srg-ssr.ch/m/drs3/aacp_32",
-    "homepage": "https://www.srf.ch/radio-srf-3",
-    "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
-    "countrycode": "CH",
-    "state": "",
-    "language": "german,swiss german",
-    "tags": "entertainment,pop,rock",
-    "codec": "AAC",
-    "bitrate": 112,
-    "votes": 803,
-    "clickcount": 23
+    "votes": 806,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1580,26 +1130,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 785,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a879facb-7b92-4210-a1d3-578de4662736",
-    "name": "Spoon Radio - Classic Rock",
-    "url": "https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac",
-    "url_resolved": "https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac",
-    "homepage": "https://www.spoonradio.com/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "",
-    "tags": "classic rock,commercial-free,no ads,rock",
-    "codec": "AAC+",
-    "bitrate": 128,
-    "votes": 776,
-    "clickcount": 7
+    "votes": 789,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1616,8 +1148,8 @@
     "tags": "ballads,commercial-free,no ads,rock,rock ballads",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 775,
-    "clickcount": 2
+    "votes": 783,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1634,8 +1166,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 757,
-    "clickcount": 9
+    "votes": 769,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -1652,8 +1184,8 @@
     "tags": "house",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 738,
-    "clickcount": 3
+    "votes": 740,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1670,8 +1202,8 @@
     "tags": "latin music",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 726,
-    "clickcount": 2
+    "votes": 727,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1688,8 +1220,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 717,
-    "clickcount": 6
+    "votes": 722,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1706,8 +1238,8 @@
     "tags": "rnb,soul,urban adult contemporary",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 712,
-    "clickcount": 2
+    "votes": 719,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1724,26 +1256,8 @@
     "tags": "classic hits,hits,top40",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 701,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960babf9-0601-11e8-ae97-52543be04c81",
-    "name": "Electro Radio",
-    "url": "https://www.electroradio.fm/stream.m3u",
-    "url_resolved": "http://stream.radiojar.com/fkyxx4q35k0uv",
-    "homepage": "https://www.electroradio.fm/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "",
-    "language": "german",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 698,
-    "clickcount": 2
+    "votes": 710,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1760,8 +1274,26 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 692,
-    "clickcount": 7
+    "votes": 704,
+    "clickcount": 14
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960babf9-0601-11e8-ae97-52543be04c81",
+    "name": "Electro Radio",
+    "url": "https://www.electroradio.fm/stream.m3u",
+    "url_resolved": "http://stream.radiojar.com/fkyxx4q35k0uv",
+    "homepage": "https://www.electroradio.fm/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "german",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 699,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1778,8 +1310,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 691,
-    "clickcount": 10
+    "votes": 693,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1795,8 +1327,476 @@
     "language": "",
     "tags": "",
     "codec": "AAC",
+    "bitrate": 88,
+    "votes": 680,
+    "clickcount": 12
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "4488dc76-a690-4e51-a46c-3600be8195c4",
+    "name": "Spoon Radio - Hard Rock",
+    "url": "https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac",
+    "url_resolved": "https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac",
+    "homepage": "https://www.spoonradio.com/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "",
+    "tags": "commercial-free,hard rock,melodic hard rock,no ads,rock",
+    "codec": "AAC+",
     "bitrate": 128,
-    "votes": 672,
-    "clickcount": 5
+    "votes": 657,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "963d9e8f-0601-11e8-ae97-52543be04c81",
+    "name": "Radio SRF Virus - Indie Rock",
+    "url": "http://streaming.swisstxt.ch/m/drsvirus/mp3_128",
+    "url_resolved": "http://streaming.swisstxt.ch/m/drsvirus/mp3_128",
+    "homepage": "http://virus.ch/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "german",
+    "tags": "indie rock,public radio,srf",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 656,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "962a8d6a-0601-11e8-ae97-52543be04c81",
+    "name": "1.FM - Dubstep Forward Radio",
+    "url": "http://strm112.1.fm/dubstep_mobile_mp3",
+    "url_resolved": "http://strm112.1.fm/dubstep_mobile_mp3",
+    "homepage": "http://www.1.fm/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "english",
+    "tags": "dubstep",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 647,
+    "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "962a7874-0601-11e8-ae97-52543be04c81",
+    "name": "1.FM - Eternal Praise & Worship Radio",
+    "url": "http://strm112.1.fm/praise_mobile_mp3",
+    "url_resolved": "http://strm112.1.fm/praise_mobile_mp3",
+    "homepage": "http://www.1.fm/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "english",
+    "tags": "christian contemporary",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 645,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9612f341-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Tell",
+    "url": "http://stream.radiotell.ch/radiotell.mp3",
+    "url_resolved": "http://stream.radiotell.ch/radiotell.mp3",
+    "homepage": "http://www.radiotell.ch/",
+    "favicon": "https://radiotell.ch/wp-content/uploads/2021/01/cropped-apfel-180x180.png",
+    "countrycode": "CH",
+    "state": "",
+    "language": "german",
+    "tags": "folklore,volksmusik",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 636,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "961cfeff-0601-11e8-ae97-52543be04c81",
+    "name": "1.FM - All Times & Urban Gospel Radio",
+    "url": "http://strm112.1.fm/gospel_mobile_mp3",
+    "url_resolved": "http://strm112.1.fm/gospel_mobile_mp3",
+    "homepage": "http://www.1.fm/",
+    "favicon": "http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg",
+    "countrycode": "CH",
+    "state": "",
+    "language": "english",
+    "tags": "gospel",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 631,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "971cedc6-f328-11e9-a96c-52543be04c81",
+    "name": "Traxx FM - Deep",
+    "url": "http://traxx013.ice.infomaniak.ch/traxx013-low.mp3",
+    "url_resolved": "http://traxx013.ice.infomaniak.ch/traxx013-low.mp3",
+    "homepage": "http://www.traxx.fm/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "Geneva",
+    "language": "",
+    "tags": "commercial-free,deep,deep house,electronic,house,no ads",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 622,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96394fed-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Svizzera Classica",
+    "url": "http://stream.srg-ssr.ch/m/rsc_it/mp3_128",
+    "url_resolved": "http://stream.srg-ssr.ch/m/rsc_it/mp3_128",
+    "homepage": "http://www.radioswissclassic.ch/it",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "Bern",
+    "language": "italian",
+    "tags": "classical,public radio,srg ssr",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 611,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960b6cd6-0601-11e8-ae97-52543be04c81",
+    "name": "SRF Virus",
+    "url": "http://stream.srg-ssr.ch/drsvirus/mp3_128.m3u",
+    "url_resolved": "http://stream.srg-ssr.ch/srgssr/srfvirus/mp3/128",
+    "homepage": "http://www.srf.ch/radio-srf-virus",
+    "favicon": "http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+    "countrycode": "CH",
+    "state": "",
+    "language": "german",
+    "tags": "alternative,alternative rock,public radio,srg ssr,youth",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 589,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "03c10779-5087-11e8-a4d1-52543be04c81",
+    "name": "Radio SRF 4 News",
+    "url": "http://stream.srg-ssr.ch/drs4news/aacp_32.m3u",
+    "url_resolved": "http://stream.srg-ssr.ch/srgssr/srf4news/aac/96",
+    "homepage": "https://www.srf.ch/radio-srf-4-news",
+    "favicon": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+    "countrycode": "CH",
+    "state": "Basel",
+    "language": "",
+    "tags": "",
+    "codec": "AAC",
+    "bitrate": 88,
+    "votes": 584,
+    "clickcount": 18
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96410337-0601-11e8-ae97-52543be04c81",
+    "name": "my105 - Ritmo Latino",
+    "url": "http://stream01.my105.ch/my105ritmolatino.mp3",
+    "url_resolved": "http://stream01.my105.ch/my105ritmolatino.mp3",
+    "homepage": "http://www.my105.ch/ritmolatino",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "german",
+    "tags": "latin",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 577,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960648f3-0601-11e8-ae97-52543be04c81",
+    "name": "IP music slow (128 kbps AAC)",
+    "url": "http://live7.avf.ch:8000/ipmusicslowaacp128",
+    "url_resolved": "http://live7.avf.ch:8000/ipmusicslowaacp128",
+    "homepage": "http://www.ipmusicslow.ch/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "Suisse Romande",
+    "language": "french",
+    "tags": "pop",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "votes": 574,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "e4eb6895-e06a-4f7f-aa0d-68a8d5ae0181",
+    "name": "Radio Swiss Jazz",
+    "url": "http://stream.srg-ssr.ch/m/rsj/aacp_96",
+    "url_resolved": "http://stream.srg-ssr.ch/m/rsj/aacp_96",
+    "homepage": "https://www.radioswissjazz.ch/de/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "",
+    "tags": "jazz",
+    "codec": "AAC",
+    "bitrate": 88,
+    "votes": 563,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96210fa4-0601-11e8-ae97-52543be04c81",
+    "name": "New Clear Radio",
+    "url": "http://live.ncradio.fm/320",
+    "url_resolved": "http://live.ncradio.fm/320",
+    "homepage": "http://ncradio.fm/",
+    "favicon": "http://ncradio.fm/favicons/apple-touch-icon.png",
+    "countrycode": "CH",
+    "state": "Zürich",
+    "language": "english",
+    "tags": "brit pop,classic rock,indie",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 559,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "b6202b76-06b4-11e8-ae97-52543be04c81",
+    "name": "Radio Swiss Classic Italian",
+    "url": "http://www.radioswissclassic.ch/it/live/aacp32.m3u",
+    "url_resolved": "http://stream.srg-ssr.ch/srgssr/rsc_it/aac/96",
+    "homepage": "http://www.radioswissclassic.ch/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "Bern",
+    "language": "italian",
+    "tags": "classical,italian",
+    "codec": "AAC",
+    "bitrate": 88,
+    "votes": 557,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9645be61-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Swiss Classic French",
+    "url": "http://www.radioswissclassic.ch/fr/live/aacp.m3u",
+    "url_resolved": "http://stream.srg-ssr.ch/srgssr/rsc_fr/aac/96",
+    "homepage": "http://www.radioswissclassic.ch/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "Bern",
+    "language": "french",
+    "tags": "classical,french,public radio,srg ssr",
+    "codec": "AAC",
+    "bitrate": 88,
+    "votes": 549,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9643b169-0601-11e8-ae97-52543be04c81",
+    "name": "my105 - Deep",
+    "url": "http://stream01.my105.ch/my105deep.mp3",
+    "url_resolved": "http://stream01.my105.ch/my105deep.mp3",
+    "homepage": "http://www.my105.ch/deep",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "german",
+    "tags": "deep house",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 546,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9607cf45-0601-11e8-ae97-52543be04c81",
+    "name": "RTS Espace 2",
+    "url": "http://stream.srg-ssr.ch/espace-2/mp3_128.m3u",
+    "url_resolved": "http://stream.srg-ssr.ch/srgssr/espace-2/mp3/128",
+    "homepage": "http://www.rts.ch/espace-2/",
+    "favicon": "https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png",
+    "countrycode": "CH",
+    "state": "",
+    "language": "french",
+    "tags": "classic,jazz,public radio,srg ssr",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 533,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960b6d95-0601-11e8-ae97-52543be04c81",
+    "name": "Radio X Basel (MP3 Stream)",
+    "url": "http://mp3.radiox.ch:8000/standard.mp3.m3u",
+    "url_resolved": "http://mp3.radiox.ch:8000/standard.mp3",
+    "homepage": "http://www.radiox.ch/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "Basel",
+    "language": "",
+    "tags": "drum and bass,electronica,hiphop,house,indie,reggae,trance",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 505,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96460526-0601-11e8-ae97-52543be04c81",
+    "name": "True House Chill",
+    "url": "http://www.truehouse.net/chill.m3u",
+    "url_resolved": "https://stream.truehouse.net:8443/chill",
+    "homepage": "http://www.truehouse.net/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "english",
+    "tags": "chillout",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 505,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9608c6fe-0601-11e8-ae97-52543be04c81",
+    "name": "IP music slow (96 kbps AAC)",
+    "url": "http://live7.avf.ch:8000/ipmusicslowaacp96",
+    "url_resolved": "http://live7.avf.ch:8000/ipmusicslowaacp96",
+    "homepage": "http://www.ipmusicslow.ch/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "Suisse Romande",
+    "language": "french",
+    "tags": "pop",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "votes": 502,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "b9660eb9-34f9-11e9-8f31-52543be04c81",
+    "name": "One Dance Ticino",
+    "url": "https://ice15.fluidstream.net/onedancech.aac",
+    "url_resolved": "https://ice15.fluidstream.net/onedancech.aac",
+    "homepage": "https://onedancefm.ch/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "Ticino",
+    "language": "italian",
+    "tags": "dance,electronic,pop,top 40",
+    "codec": "AAC",
+    "bitrate": 128,
+    "votes": 494,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96091d4c-0601-11e8-ae97-52543be04c81",
+    "name": "One FM",
+    "url": "http://onefm.ice.infomaniak.ch/onefm-high.mp3",
+    "url_resolved": "http://onefm.ice.infomaniak.ch/onefm-high.mp3",
+    "homepage": "http://www.onefm.ch/",
+    "favicon": "https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png",
+    "countrycode": "CH",
+    "state": "Suisse Romande",
+    "language": "french",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 478,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "962a1f95-0601-11e8-ae97-52543be04c81",
+    "name": "1.FM - Total Hits En Español Radio",
+    "url": "http://strm112.1.fm/spanishtophits_mobile_mp3",
+    "url_resolved": "http://strm112.1.fm/spanishtophits_mobile_mp3",
+    "homepage": "http://www.1.fm/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "english",
+    "tags": "spanish",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 468,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "4ed0f636-3c0d-409b-ae2d-7f0289128414",
+    "name": "Radio Television Suisse 1",
+    "url": "http://stream.srg-ssr.ch/la-1ere/mp3_128.m3u",
+    "url_resolved": "http://stream.srg-ssr.ch/srgssr/la-1ere/mp3/128",
+    "homepage": "https://www.rts.ch/audio-podcast/livepopup/rts-premiere/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "french",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 462,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9632ae87-0601-11e8-ae97-52543be04c81",
+    "name": "Rouge FM Latino",
+    "url": "http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3",
+    "url_resolved": "http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3",
+    "homepage": "http://www.rougefm.com/webradios-latino/",
+    "favicon": "http://www.rougefm.com/imgs/webradios/latino.png",
+    "countrycode": "CH",
+    "state": "Suisse Romande",
+    "language": "french",
+    "tags": "latin",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 452,
+    "clickcount": 0
   }
 ]

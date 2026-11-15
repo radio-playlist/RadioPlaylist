@@ -2,24 +2,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "96057c18-0601-11e8-ae97-52543be04c81",
-    "name": "Austrian Rock Radio",
-    "url": "http://live.antenne.at/arr",
-    "url_resolved": "http://live.antenne.at/arr",
-    "homepage": "http://www.austrianrockradio.at/",
-    "favicon": "https://austrianrockradio.at/wp-content/uploads/2023/02/liferadio-150x150.png",
-    "countrycode": "AT",
-    "state": "",
-    "language": "",
-    "tags": "rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3009,
-    "clickcount": 14
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "8a3685e2-711e-4764-9080-6fa143c33014",
     "name": "ORF Radio Wien",
     "url": "http://orf-live.ors-shoutcast.at/wie-q1a",
@@ -32,8 +14,8 @@
     "tags": "orf",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2934,
-    "clickcount": 34
+    "votes": 2946,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -50,8 +32,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2584,
-    "clickcount": 25
+    "votes": 2592,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -68,8 +50,8 @@
     "tags": "orf,alternative mainstream,electronic,pop,rock,public radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2525,
-    "clickcount": 45
+    "votes": 2538,
+    "clickcount": 57
   },
   {
     "id": null,
@@ -86,26 +68,8 @@
     "tags": "adult contemporary",
     "codec": "AAC",
     "bitrate": 163,
-    "votes": 2279,
-    "clickcount": 24
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "e682fba7-e9ed-4797-af81-eab5658fe2e5",
-    "name": "ORF Slovenski spored",
-    "url": "http://orf-live.ors-shoutcast.at/wie-q1a",
-    "url_resolved": "http://orf-live.ors-shoutcast.at/wie-q1a",
-    "homepage": "https://slovenci.orf.at/",
-    "favicon": "https://orf.at/favicon.ico",
-    "countrycode": "AT",
-    "state": "Kärnten",
-    "language": "english,german,slovenian",
-    "tags": "orf,ethnic programming,minority",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2238,
-    "clickcount": 1
+    "votes": 2299,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -122,8 +86,8 @@
     "tags": "orf,pop",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2189,
-    "clickcount": 181
+    "votes": 2266,
+    "clickcount": 232
   },
   {
     "id": null,
@@ -140,8 +104,8 @@
     "tags": "hard rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2065,
-    "clickcount": 31
+    "votes": 2074,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -158,8 +122,8 @@
     "tags": "downtempo,easy listening,lounge,smooth jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1991,
-    "clickcount": 26
+    "votes": 2003,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -176,8 +140,8 @@
     "tags": "orf,alternative mainstream,electronic,pop,rock,public radio",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1734,
-    "clickcount": 137
+    "votes": 1752,
+    "clickcount": 147
   },
   {
     "id": null,
@@ -194,8 +158,8 @@
     "tags": "children,dab+,kids",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1585,
-    "clickcount": 31
+    "votes": 1591,
+    "clickcount": 30
   },
   {
     "id": null,
@@ -212,8 +176,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1583,
-    "clickcount": 38
+    "votes": 1589,
+    "clickcount": 29
   },
   {
     "id": null,
@@ -230,8 +194,8 @@
     "tags": "rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1548,
-    "clickcount": 43
+    "votes": 1558,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -248,8 +212,8 @@
     "tags": "80s,darkwave,electronic,electropop,gothic,industrial,minimal wave,synthpop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1414,
-    "clickcount": 17
+    "votes": 1420,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -266,8 +230,8 @@
     "tags": "dab+,easy listening",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1391,
-    "clickcount": 3
+    "votes": 1392,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -284,8 +248,8 @@
     "tags": "dance & electronic,edm,hardstyle",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1336,
-    "clickcount": 9
+    "votes": 1344,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -302,8 +266,8 @@
     "tags": "orf",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1248,
-    "clickcount": 18
+    "votes": 1258,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -320,8 +284,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1240,
-    "clickcount": 18
+    "votes": 1251,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -338,8 +302,8 @@
     "tags": "orf",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1120,
-    "clickcount": 44
+    "votes": 1145,
+    "clickcount": 61
   },
   {
     "id": null,
@@ -356,8 +320,8 @@
     "tags": "relaxation",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 1024,
-    "clickcount": 7
+    "votes": 1030,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -374,8 +338,8 @@
     "tags": "classic rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 934,
-    "clickcount": 26
+    "votes": 943,
+    "clickcount": 35
   },
   {
     "id": null,
@@ -383,7 +347,7 @@
     "stationuuid": "6707e3d5-8416-11e8-aa66-52543be04c81",
     "name": "Rock Antenne Österreich",
     "url": "http://mp3channels.webradio.de/rockantenne-oesterreich",
-    "url_resolved": "http://s1-webradio.webradio.de/rockantenne-oesterreich",
+    "url_resolved": "http://s6-webradio.webradio.de/rockantenne-oesterreich",
     "homepage": "https://www.rockantenne.at/",
     "favicon": "",
     "countrycode": "AT",
@@ -392,8 +356,8 @@
     "tags": "classic rock,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 874,
-    "clickcount": 6
+    "votes": 880,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -410,8 +374,8 @@
     "tags": "orf",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 874,
-    "clickcount": 8
+    "votes": 877,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -428,8 +392,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 840,
-    "clickcount": 3
+    "votes": 842,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -446,8 +410,8 @@
     "tags": "90s,dance,eurodance,top40",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 829,
-    "clickcount": 11
+    "votes": 835,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -464,8 +428,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 818,
-    "clickcount": 5
+    "votes": 830,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -482,8 +446,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 812,
-    "clickcount": 3
+    "votes": 815,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -500,8 +464,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 788,
-    "clickcount": 5
+    "votes": 790,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -518,8 +482,8 @@
     "tags": "hardcore,hardstyle",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 753,
-    "clickcount": 1
+    "votes": 757,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -536,8 +500,8 @@
     "tags": "orf,local radio,volkstümlich",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 726,
-    "clickcount": 22
+    "votes": 728,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -554,8 +518,8 @@
     "tags": "hip-hop,reggae",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 650,
-    "clickcount": 3
+    "votes": 655,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -572,8 +536,8 @@
     "tags": "dance,party",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 629,
-    "clickcount": 6
+    "votes": 638,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -590,8 +554,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 604,
-    "clickcount": 12
+    "votes": 609,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -608,26 +572,8 @@
     "tags": "austrian music,austropop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 577,
-    "clickcount": 10
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "7bf200d7-c1fd-4f0d-a33c-be799cd4dfb4",
-    "name": "Kronehit",
-    "url": "http://onair.krone.at/kronehit.mp3",
-    "url_resolved": "http://onair.krone.at/kronehit.mp3",
-    "homepage": "https://www.kronehit.at/",
-    "favicon": "https://i.imgur.com/Z3rkNFc.png",
-    "countrycode": "AT",
-    "state": "Austria",
-    "language": "german",
-    "tags": "rock pop dance",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 553,
-    "clickcount": 23
+    "votes": 582,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -644,8 +590,8 @@
     "tags": "pop",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 547,
-    "clickcount": 5
+    "votes": 551,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -662,8 +608,8 @@
     "tags": "orf",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 488,
-    "clickcount": 20
+    "votes": 497,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -680,8 +626,8 @@
     "tags": "orf,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 462,
-    "clickcount": 51
+    "votes": 471,
+    "clickcount": 70
   },
   {
     "id": null,
@@ -698,26 +644,8 @@
     "tags": "golden oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 455,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9e3034a1-a33a-4663-9802-979c9535b16b",
-    "name": "Antenne Vorarlberg Oldies but Goldies",
-    "url": "https://web.radio.antennevorarlberg.at/av-oldies",
-    "url_resolved": "https://web.radio.antennevorarlberg.at/av-oldies",
-    "homepage": "https://www.antennevorarlberg.at/",
-    "favicon": "https://www.antennevorarlberg.at/wp-content/uploads//2013/02/webradio_Icons_1000x1000-NEU_oldies-but-goldies-144x144.png",
-    "countrycode": "AT",
-    "state": "Vorarlberg",
-    "language": "",
-    "tags": "classic,classic hits,oldies",
-    "codec": "AAC",
-    "bitrate": 0,
-    "votes": 453,
-    "clickcount": 3
+    "votes": 463,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -734,8 +662,26 @@
     "tags": "club,dance,edm,electronic,partymix",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 450,
-    "clickcount": 3
+    "votes": 458,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9e3034a1-a33a-4663-9802-979c9535b16b",
+    "name": "Antenne Vorarlberg Oldies but Goldies",
+    "url": "https://web.radio.antennevorarlberg.at/av-oldies",
+    "url_resolved": "https://web.radio.antennevorarlberg.at/av-oldies",
+    "homepage": "https://www.antennevorarlberg.at/",
+    "favicon": "https://www.antennevorarlberg.at/wp-content/uploads//2013/02/webradio_Icons_1000x1000-NEU_oldies-but-goldies-144x144.png",
+    "countrycode": "AT",
+    "state": "Vorarlberg",
+    "language": "",
+    "tags": "classic,classic hits,oldies",
+    "codec": "AAC",
+    "bitrate": 0,
+    "votes": 458,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -752,8 +698,8 @@
     "tags": "orf,orf,public radio,regional radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 444,
-    "clickcount": 11
+    "votes": 455,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -770,8 +716,8 @@
     "tags": "freies radio salzkammergut",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 422,
-    "clickcount": 9
+    "votes": 423,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -788,8 +734,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 417,
-    "clickcount": 6
+    "votes": 421,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -806,8 +752,8 @@
     "tags": "2000s,80s,90s,austrian music,austropop,smooth",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 392,
-    "clickcount": 9
+    "votes": 396,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -824,8 +770,8 @@
     "tags": "christmas music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 367,
-    "clickcount": 10
+    "votes": 376,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -842,8 +788,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 348,
-    "clickcount": 5
+    "votes": 352,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -860,7 +806,7 @@
     "tags": "schlager,volksmusik",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 345,
+    "votes": 346,
     "clickcount": 4
   },
   {
@@ -884,38 +830,20 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "e0d81bc0-3523-495e-b7a9-797ab955260d",
-    "name": "Antenne Vorarlberg Classic Rock",
-    "url": "https://web.radio.antennevorarlberg.at/av-classicrock/stream/mp3",
-    "url_resolved": "https://web.radio.antennevorarlberg.at/av-classicrock/stream/mp3",
-    "homepage": "https://www.antennevorarlberg.at/",
-    "favicon": "",
+    "stationuuid": "77bb2bea-2de1-4909-bf9f-25021e173092",
+    "name": "Radio Burgenland HQ",
+    "url": "http://orf-live.ors-shoutcast.at/bgl-q2a",
+    "url_resolved": "http://orf-live.ors-shoutcast.at/bgl-q2a",
+    "homepage": "https://burgenland.orf.at/player",
+    "favicon": "https://orfodon.org/system/accounts/avatars/111/374/581/969/931/266/original/4e38a6ea240646e2.png",
     "countrycode": "AT",
-    "state": "Vorarlberg",
-    "language": "",
-    "tags": "classic,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 338,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "65d4ae6a-eda2-4d2c-bc68-7b8ee6310bde",
-    "name": "WELLE 1 - Oberösterreich - HQ",
-    "url": "https://live.welle1.at:17256/stream",
-    "url_resolved": "https://live.welle1.at:17256/stream",
-    "homepage": "https://welle1.at/",
-    "favicon": "https://welle1.at/wp-content/uploads/2020/06/cropped-radiopro_theme_icon_1080x1080_2020-180x180.png",
-    "countrycode": "AT",
-    "state": "Oberösterreich",
+    "state": "Burgenland",
     "language": "german",
-    "tags": "at_welle1",
+    "tags": "orf",
     "codec": "MP3",
-    "bitrate": 256,
+    "bitrate": 192,
     "votes": 318,
-    "clickcount": 4
+    "clickcount": 2
   },
   {
     "id": null,
@@ -938,42 +866,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "77bb2bea-2de1-4909-bf9f-25021e173092",
-    "name": "Radio Burgenland HQ",
-    "url": "http://orf-live.ors-shoutcast.at/bgl-q2a",
-    "url_resolved": "http://orf-live.ors-shoutcast.at/bgl-q2a",
-    "homepage": "https://burgenland.orf.at/player",
-    "favicon": "https://orfodon.org/system/accounts/avatars/111/374/581/969/931/266/original/4e38a6ea240646e2.png",
-    "countrycode": "AT",
-    "state": "Burgenland",
-    "language": "german",
-    "tags": "orf",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 316,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "62e78417-563d-11ea-be63-52543be04c81",
-    "name": "Orange 94.0 secure",
-    "url": "https://securestream.o94.at/live.mp3",
-    "url_resolved": "https://securestream.o94.at/live.mp3",
-    "homepage": "https://o94.at/",
-    "favicon": "https://o94.at/themes/custom/radio_orange/images/icons/apple/apple-touch-icon-120x120.png",
-    "countrycode": "AT",
-    "state": "Vienna",
-    "language": "german",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 307,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "154fc4d3-4584-4b59-b2ed-e8656e0420e8",
     "name": "ORF Radio Wien | HQ",
     "url": "http://orf-live.ors-shoutcast.at/wie-q2a",
@@ -986,8 +878,8 @@
     "tags": "orf",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 305,
-    "clickcount": 11
+    "votes": 311,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1004,8 +896,8 @@
     "tags": "orf",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 299,
-    "clickcount": 14
+    "votes": 305,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -1022,8 +914,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 291,
-    "clickcount": 9
+    "votes": 293,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1058,7 +950,7 @@
     "tags": "80's",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 279,
+    "votes": 282,
     "clickcount": 1
   },
   {
@@ -1077,7 +969,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 277,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1095,7 +987,7 @@
     "codec": "AAC",
     "bitrate": 0,
     "votes": 276,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1112,8 +1004,8 @@
     "tags": "schlager",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 259,
-    "clickcount": 4
+    "votes": 263,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1130,8 +1022,26 @@
     "tags": "pop,rock",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 256,
-    "clickcount": 1
+    "votes": 262,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "1e1513bb-f951-43ca-960d-bcbc26ff0bfe",
+    "name": "ORF Radio Oberösterreich",
+    "url": "https://orf-live.ors-shoutcast.at/ooe-q1a",
+    "url_resolved": "https://orf-live.ors-shoutcast.at/ooe-q1a",
+    "homepage": "https://ooe.orf.at/player/",
+    "favicon": "https://orfodon.org/system/accounts/avatars/111/374/484/561/807/260/original/04efe58e0bc4d119.png",
+    "countrycode": "AT",
+    "state": "Oberösterreich",
+    "language": "german",
+    "tags": "orf",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 261,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1149,24 +1059,6 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 256,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "1e1513bb-f951-43ca-960d-bcbc26ff0bfe",
-    "name": "ORF Radio Oberösterreich",
-    "url": "https://orf-live.ors-shoutcast.at/ooe-q1a",
-    "url_resolved": "https://orf-live.ors-shoutcast.at/ooe-q1a",
-    "homepage": "https://ooe.orf.at/player/",
-    "favicon": "https://orfodon.org/system/accounts/avatars/111/374/484/561/807/260/original/04efe58e0bc4d119.png",
-    "countrycode": "AT",
-    "state": "Oberösterreich",
-    "language": "german",
-    "tags": "orf",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 254,
     "clickcount": 3
   },
   {
@@ -1185,7 +1077,7 @@
     "codec": "AAC",
     "bitrate": 0,
     "votes": 248,
-    "clickcount": 0
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1202,8 +1094,8 @@
     "tags": "orf",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 240,
-    "clickcount": 30
+    "votes": 244,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -1220,8 +1112,8 @@
     "tags": "orf,local radio,volkstümlich",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 232,
-    "clickcount": 3
+    "votes": 234,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1239,7 +1131,25 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 231,
-    "clickcount": 1
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "2953dfbe-64f1-40c3-9ff8-90ba0f2449b2",
+    "name": "Antenne Austro Hits",
+    "url": "https://live.antenne.at/auh",
+    "url_resolved": "https://live.antenne.at/auh",
+    "homepage": "https://www.antenne.at/radioplayer/austrohits/",
+    "favicon": "",
+    "countrycode": "AT",
+    "state": "Kärnten",
+    "language": "german",
+    "tags": "austrian music,austrohits,austropop",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 222,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1257,7 +1167,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 222,
-    "clickcount": 6
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1274,8 +1184,8 @@
     "tags": "brass",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 220,
-    "clickcount": 10
+    "votes": 221,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1292,44 +1202,8 @@
     "tags": "classic hits,oldies,schlager,volksmusik",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 215,
+    "votes": 216,
     "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "32f62475-8900-4364-9fee-d1909f06ae2d",
-    "name": "Gamesboro Radio - Video Game Music 24/7",
-    "url": "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3",
-    "url_resolved": "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3",
-    "homepage": "https://radio.gamesboro.org/public/gamesboro_radio",
-    "favicon": "https://radio.gamesboro.org/static/uploads/browser_icon/original.1693066595.png",
-    "countrycode": "AT",
-    "state": "Burgenland",
-    "language": "english",
-    "tags": "chiptune,game,nintendo,playstation,sega,video game music,xbox",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 215,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "2953dfbe-64f1-40c3-9ff8-90ba0f2449b2",
-    "name": "Antenne Austro Hits",
-    "url": "https://live.antenne.at/auh",
-    "url_resolved": "https://live.antenne.at/auh",
-    "homepage": "https://www.antenne.at/radioplayer/austrohits/",
-    "favicon": "",
-    "countrycode": "AT",
-    "state": "Kärnten",
-    "language": "german",
-    "tags": "austrian music,austrohits,austropop",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 214,
-    "clickcount": 6
   },
   {
     "id": null,
@@ -1346,8 +1220,8 @@
     "tags": "90s",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 210,
-    "clickcount": 1
+    "votes": 211,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1364,8 +1238,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 207,
-    "clickcount": 0
+    "votes": 208,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1382,7 +1256,7 @@
     "tags": "90er",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 202,
+    "votes": 203,
     "clickcount": 3
   },
   {
@@ -1400,8 +1274,8 @@
     "tags": "gothic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 189,
-    "clickcount": 5
+    "votes": 194,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1418,26 +1292,8 @@
     "tags": "orf",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 186,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "99d39cb5-0106-42d9-a656-3071ec3b4738",
-    "name": "Antenne Vorarlberg Chillout Lounge",
-    "url": "https://web.radio.antennevorarlberg.at/av-chillout",
-    "url_resolved": "https://web.radio.antennevorarlberg.at/av-chillout",
-    "homepage": "https://www.antennevorarlberg.at/",
-    "favicon": "https://www.antennevorarlberg.at/favicon.ico",
-    "countrycode": "AT",
-    "state": "",
-    "language": "german",
-    "tags": "chillout,dance,edm,pop",
-    "codec": "AAC",
-    "bitrate": 0,
-    "votes": 185,
-    "clickcount": 2
+    "votes": 191,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1454,26 +1310,8 @@
     "tags": "orf",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 185,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "7fa6b16b-65b5-447f-ae48-ecb92a91e0bf",
-    "name": "Antenna Österreich",
-    "url": "https://frontend.streamonkey.net/antoesterreich-live",
-    "url_resolved": "https://edge60.streamonkey.net/antoesterreich-live",
-    "homepage": "https://antenneoesterreich.oe24.at/",
-    "favicon": "https://antenneoesterreich.oe24.at/apple-touch-icon.png",
-    "countrycode": "AT",
-    "state": "",
-    "language": "",
-    "tags": "pop",
-    "codec": "AAC",
-    "bitrate": 0,
-    "votes": 183,
-    "clickcount": 2
+    "votes": 187,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1491,7 +1329,7 @@
     "codec": "AAC+",
     "bitrate": 63,
     "votes": 180,
-    "clickcount": 4
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1509,7 +1347,25 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 178,
-    "clickcount": 0
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "d6baa0a3-feb1-422f-86af-42375f5e7c0a",
+    "name": "ORF Radio Niederösterreich",
+    "url": "https://orf-live.ors-shoutcast.at/noe-q1a",
+    "url_resolved": "https://orf-live.ors-shoutcast.at/noe-q1a",
+    "homepage": "https://noe.orf.at/player",
+    "favicon": "https://orfodon.org/system/accounts/avatars/111/374/434/334/698/982/original/aad9486c4d8e92f2.png",
+    "countrycode": "AT",
+    "state": "Niederösterreich",
+    "language": "german",
+    "tags": "orf",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 175,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1527,25 +1383,7 @@
     "codec": "AAC",
     "bitrate": 0,
     "votes": 173,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "d6baa0a3-feb1-422f-86af-42375f5e7c0a",
-    "name": "ORF Radio Niederösterreich",
-    "url": "https://orf-live.ors-shoutcast.at/noe-q1a",
-    "url_resolved": "https://orf-live.ors-shoutcast.at/noe-q1a",
-    "homepage": "https://noe.orf.at/player",
-    "favicon": "https://orfodon.org/system/accounts/avatars/111/374/434/334/698/982/original/aad9486c4d8e92f2.png",
-    "countrycode": "AT",
-    "state": "Niederösterreich",
-    "language": "german",
-    "tags": "orf",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 173,
-    "clickcount": 11
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1563,7 +1401,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 172,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1598,8 +1436,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 165,
-    "clickcount": 2
+    "votes": 166,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1616,8 +1454,8 @@
     "tags": "italian",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 162,
-    "clickcount": 5
+    "votes": 163,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1635,7 +1473,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 160,
-    "clickcount": 6
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1653,25 +1491,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 152,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "6fc0397a-efc5-4ad7-921f-5df20374d0c1",
-    "name": "oe1 surround",
-    "url": "https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8",
-    "url_resolved": "https://oe1dd.mdn.ors.at/out/u/oe1dd/manifest.m3u8",
-    "homepage": "https://oe1.orf.at/artikel/583273/Oesterreich-1-neu-hoeren",
-    "favicon": "https://oe1.orf.at/favicon.ico",
-    "countrycode": "AT",
-    "state": "",
-    "language": "german",
-    "tags": "classique",
-    "codec": "UNKNOWN",
-    "bitrate": 406,
-    "votes": 146,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1689,7 +1509,7 @@
     "codec": "AAC",
     "bitrate": 0,
     "votes": 139,
-    "clickcount": 2
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1707,25 +1527,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 138,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "56dc6c22-6060-11ea-be63-52543be04c81",
-    "name": "Freies Radio Freistadt",
-    "url": "http://212.89.182.114:8008/frf",
-    "url_resolved": "http://212.89.182.114:8008/frf",
-    "homepage": "https://www.frf.at/",
-    "favicon": "",
-    "countrycode": "AT",
-    "state": "",
-    "language": "german",
-    "tags": "freistadt",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 136,
-    "clickcount": 3
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1742,8 +1544,44 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
+    "votes": 137,
+    "clickcount": 11
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "ee637e36-55c7-4049-b730-40c339d53721",
+    "name": "ORF Hitradio Ö3 (290k HLS)",
+    "url": "https://orf-live-oe3.mdn.ors.at/out/u/oe3/q4a/manifest.m3u8",
+    "url_resolved": "https://orf-live-oe3.mdn.ors.at/out/u/oe3/q4a/manifest.m3u8",
+    "homepage": "https://oe3.orf.at/m/",
+    "favicon": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+    "countrycode": "AT",
+    "state": "",
+    "language": "german",
+    "tags": "at_orf,pop",
+    "codec": "AAC",
+    "bitrate": 297,
+    "votes": 137,
+    "clickcount": 11
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "56dc6c22-6060-11ea-be63-52543be04c81",
+    "name": "Freies Radio Freistadt",
+    "url": "http://212.89.182.114:8008/frf",
+    "url_resolved": "http://212.89.182.114:8008/frf",
+    "homepage": "https://www.frf.at/",
+    "favicon": "",
+    "countrycode": "AT",
+    "state": "",
+    "language": "german",
+    "tags": "freistadt",
+    "codec": "AAC",
+    "bitrate": 192,
     "votes": 136,
-    "clickcount": 6
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1761,7 +1599,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 135,
-    "clickcount": 4
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1784,19 +1622,181 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "ee637e36-55c7-4049-b730-40c339d53721",
-    "name": "ORF Hitradio Ö3 (290k HLS)",
-    "url": "https://orf-live-oe3.mdn.ors.at/out/u/oe3/q4a/manifest.m3u8",
-    "url_resolved": "https://orf-live-oe3.mdn.ors.at/out/u/oe3/q4a/manifest.m3u8",
-    "homepage": "https://oe3.orf.at/m/",
-    "favicon": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+    "stationuuid": "d18e4111-eb0f-11e9-a96c-52543be04c81",
+    "name": "Chromatique-Sky",
+    "url": "http://stream.laut.fm/chromatique-sky",
+    "url_resolved": "http://stream.laut.fm/chromatique-sky",
+    "homepage": "https://laut.fm/chromatique-sky",
+    "favicon": "",
+    "countrycode": "AT",
+    "state": "Vienna",
+    "language": "",
+    "tags": "epic,soundtracks",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 130,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "5cb4b85d-2719-418d-91d8-6dfa2be02329",
+    "name": "Radio886",
+    "url": "https://frontend.streamonkey.net/radio886-onair/stream/mp3",
+    "url_resolved": "https://frontend.streamonkey.net/radio886-onair/stream/mp3",
+    "homepage": "https://www.radio886.at/",
+    "favicon": "",
+    "countrycode": "AT",
+    "state": "",
+    "language": "deutsch fränkisch",
+    "tags": "rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 129,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "5bb5a826-0579-44f2-9987-149d5bb018a9",
+    "name": "UP THE IRONS",
+    "url": "https://stream.laut.fm/up_the_irons.m3u",
+    "url_resolved": "https://uptheirons.stream.laut.fm/up_the_irons",
+    "homepage": "https://laut.fm/up_the_irons",
+    "favicon": "",
+    "countrycode": "AT",
+    "state": "",
+    "language": "",
+    "tags": "hard rock,heavy metal,metal",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 127,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "7bc269ae-4509-11ea-a860-52543be04c81",
+    "name": "Life Radio 90er",
+    "url": "http://stream3.liferadio.at/;",
+    "url_resolved": "http://stream3.liferadio.at/;",
+    "homepage": "http://www.liferadio.at/",
+    "favicon": "",
     "countrycode": "AT",
     "state": "",
     "language": "german",
-    "tags": "at_orf,pop",
+    "tags": "90s",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 126,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "a67edd92-177b-4ec1-9f74-58980fe89a80",
+    "name": "Life Radio Classic Rock",
+    "url": "https://stream11.liferadio.at/",
+    "url_resolved": "https://stream11.liferadio.at/",
+    "homepage": "https://radioplayer.liferadio.at/classicrock/",
+    "favicon": "",
+    "countrycode": "AT",
+    "state": "Oberösterreich",
+    "language": "german",
+    "tags": "classic rock",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 126,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "be47349b-0b60-4f84-bea5-8ff225942ca6",
+    "name": "Arabella 80 r",
+    "url": "https://static.arabella.at/streamadressen/arabella-80er.m3u",
+    "url_resolved": "https://frontend.streams.arabella.at/arabella-80er?aggregator=arabella-playlistfile",
+    "homepage": "https://arabella.at/",
+    "favicon": "https://arabella.at/static/base/img/apple-touch-icon.a3ce28a2756f.png",
+    "countrycode": "AT",
+    "state": "",
+    "language": "",
+    "tags": "80er",
     "codec": "AAC",
-    "bitrate": 297,
-    "votes": 132,
-    "clickcount": 5
+    "bitrate": 0,
+    "votes": 124,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "a2d33e69-b9c6-11e9-acb2-52543be04c81",
+    "name": "Radiofabrik",
+    "url": "https://radiofabrik.at/rafab_stream_low.m3u",
+    "url_resolved": "http://stream.radiofabrik.at/rf_low.mp3",
+    "homepage": "https://radiofabrik.at/",
+    "favicon": "https://radiofabrik.at/favicon.ico",
+    "countrycode": "AT",
+    "state": "Salzburg",
+    "language": "",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 124,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9f09ca2a-4af4-417d-8545-f74d5dd16eea",
+    "name": "Arabella Lovesongs",
+    "url": "https://static.arabella.at/streamadressen/arabella-lovesongs.m3u",
+    "url_resolved": "https://frontend.streams.arabella.at/arabella-lovesongs/stream/mp3?aggregator=arabella-playlistfile",
+    "homepage": "https://arabella.at/",
+    "favicon": "",
+    "countrycode": "AT",
+    "state": "",
+    "language": "",
+    "tags": "lovesongs",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 121,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "84c68a22-584c-453e-8ce5-58589be48f43",
+    "name": "Antenne Vorarlberg Coffee Hits",
+    "url": "https://web.radio.antennevorarlberg.at/av-coffee",
+    "url_resolved": "https://web.radio.antennevorarlberg.at/av-coffee",
+    "homepage": "https://www.antennevorarlberg.at/",
+    "favicon": "",
+    "countrycode": "AT",
+    "state": "Vorarlberg",
+    "language": "",
+    "tags": "hits",
+    "codec": "AAC",
+    "bitrate": 0,
+    "votes": 121,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "87b24f29-39f3-44f1-b22e-b722bfc747c1",
+    "name": "City Jazz",
+    "url": "https://stream.radiotechnikum.at/CITYJAZZ",
+    "url_resolved": "https://stream.radiotechnikum.at/CITYJAZZ",
+    "homepage": "https://cityjazz.at/",
+    "favicon": "https://cityjazz.at/wp-content/uploads/2024/04/city_jazz_x40.jpg",
+    "countrycode": "AT",
+    "state": "",
+    "language": "",
+    "tags": "jazz",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 120,
+    "clickcount": 3
   }
 ]

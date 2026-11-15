@@ -2,20 +2,11 @@
 #EXTENC:UTF-8
 #PLAYLIST:RadioCatalog - POP
 
-#EXTINF:-1 tvg-logo="https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png" group-title="UA",Hit FM (UKraine) - 128kb/s
-http://195.95.206.17/HitFM
-
-#EXTINF:-1 tvg-logo="http://liveam.tv/img/2494.jpg" group-title="RU",Europa Plus
-http://ep256.hostingradio.ru:8052/europaplus256.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="RU",РАДИО ВАНЯ
 https://icecast-radiovanya.cdnvideo.ru/radiovanya
 
 #EXTINF:-1 tvg-logo="http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3" group-title="PL",RMF FM
 http://195.150.20.9/RMFFM48
-
-#EXTINF:-1 tvg-logo="" group-title="RU",Ретро FM
-http://retroserver.streamr.ru:8043/retro256.mp3
 
 #EXTINF:-1 tvg-logo="https://www.navahang.com/apple-touch-icon.png" group-title="IR",Radio Navahang
 https://navairan.com/;stream.nsv
@@ -23,26 +14,17 @@ https://navairan.com/;stream.nsv
 #EXTINF:-1 tvg-logo="http://www.radiocaroline.co.uk/favicon.ico" group-title="GB",Radio Caroline
 http://78.129.202.200:8040/;
 
-#EXTINF:-1 tvg-logo="https://armisa.it/assets/favicon/android-chrome-512x512.png" group-title="IT",Radio Armisa
-https://onair.armisa.it/listen/armisa/radio.mp3
-
 #EXTINF:-1 tvg-logo="http://assets6.capitalfm.com/2016/11/capital-3d-network-logo-large-canvas-1458228638-herowidev4-0.jpg" group-title="GB",Capital FM London
 http://media-ice.musicradio.com/CapitalMP3
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Радио Шансон - Radio Shanson
 http://chanson.hostingradio.ru:8041/chanson256.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="UA",Хіт FM Сучасні хіти
-http://online.hitfm.ua/HitFM_Top
-
 #EXTINF:-1 tvg-logo="" group-title="DZ",Hits 1 Algérie
 https://radio12.pro-fhi.net/listen/whmnrlow/stream
 
 #EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="GB",Heart 80s
 https://media-ssl.musicradio.com/Heart80sMP3
-
-#EXTINF:-1 tvg-logo="https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png" group-title="ES",LOS 40 Principales España
-https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/01/105.png" group-title="IT",Radio 105 Network
 http://icecast.unitedradio.it/Radio105.mp3
@@ -53,9 +35,6 @@ http://antena1.newradio.it/stream?ext=.mp3
 #EXTINF:-1 tvg-logo="https://www.chocolatefm.com/__ovh/common/img/favicon.ico" group-title="ES",Chocolate FM
 http://streaming5.elitecomunicacion.es:8082/live.mp3
 
-#EXTINF:-1 tvg-logo="https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2c180&#038;quality=75" group-title="FR",Radio Nova
-http://novazz.ice.infomaniak.ch/novazz-128.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="DE",90s90s Hits
 http://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/
 
@@ -65,41 +44,20 @@ http://89.238.227.6:8006/;
 #EXTINF:-1 tvg-logo="https://swr3.de/assets/swr3/icons/apple-touch-icon.png" group-title="DE",SWR3
 https://liveradio.swr.de/sw282p3/swr3/play.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="IT",RMC Radio Monte Carlo
-http://icecast.unitedradio.it/RMC.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="GB",Heart 70s
-https://media-ssl.musicradio.com/Heart70sMP3
-
 #EXTINF:-1 tvg-logo="" group-title="RU",РЕТРО ХИТ - RETRO HIT
 http://retro.volna.top/Retro
-
-#EXTINF:-1 tvg-logo="https://los40es00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png" group-title="ES",Los 40 Urban
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="ID",I-Radio Jakarta
 http://stream.radiojar.com/4ywdgup3bnzuv
 
-#EXTINF:-1 tvg-logo="" group-title="UA",Хіт ФМ Найбільші хіти
-http://online.hitfm.ua/HitFM_Best
-
-#EXTINF:-1 tvg-logo="http://mirchi.in/favicon-196x196.png" group-title="IN",Mirchi Top 20
-https://drive.uber.radio/uber/bollywoodnow/icecast.audio
-
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s6417q.png" group-title="TZ",Clouds FM
-http://eu6.fastcast4u.com:5306/;
-
 #EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="GB",Heart Dance
 https://media-ssl.musicradio.com/HeartDanceMP3
 
+#EXTINF:-1 tvg-logo="http://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="DE",Radio Eins
+http://d111.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3LzF51QCJvJkj8dzyLgjkAZjwCz&token=WV2uyy0VeybisEptVfQNzsYlYIBUFUmXhS_GTo7j6DM&tvf=1mgo0VI95xhkMTExLnJuZGZuay5jb20
+
 #EXTINF:-1 tvg-logo="https://chocolatefm.com/radio-browser.png" group-title="ES",Chocolate FM [calidad móvil-low bandwidth]
 http://streaming5.elitecomunicacion.es:8082/live32.aac
-
-#EXTINF:-1 tvg-logo="http://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="DE",Radio Eins
-http://d131.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3Li6lmtp6FeDy95IcdDUgJmBfiH&token=i7iuch7DiyqhjzZmy7gYtgnf4j2v17tUUAGltjjClZc&tvf=TNuRVaZg5RhkMTMxLnJuZGZuay5jb20
-
-#EXTINF:-1 tvg-logo="http://cdn.funradio.sk/img/logo/apple-icon-120x120.png?v=2022-05-26-1422" group-title="SK",Fun Radio
-http://stream.funradio.sk:8000/fun128.mp3
 
 #EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="GB",Heart 90s
 https://media-ssl.musicradio.com/Heart90sMP3
@@ -119,23 +77,14 @@ http://live.radiokiss.gr/kissfm1006hq.mp3
 #EXTINF:-1 tvg-logo="" group-title="HU",Petőfi Rádió
 http://mr-stream.mediaconnect.hu/4737/mr2.aac
 
-#EXTINF:-1 tvg-logo="http://www.profm.ro/static/theme-repo/apple-touch-icon.png?v=2.0&cache=rel-20240507-11-22" group-title="RO",Pro FM
-http://edge126.rdsnet.ro:84/profm/profm.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-70s_600x600.jpg" group-title="DE",- 0 N - 70s on Radio
 https://0n-70s.radionetz.de/0n-70s.mp3
 
 #EXTINF:-1 tvg-logo="https://retroradio.hu/wp-content/themes/retroradio/assets/dist/img/favicon/android-icon-192x192.png" group-title="HU",Retro Rádió
 https://icast.connectmedia.hu/5001/live.mp3
 
-#EXTINF:-1 tvg-logo="http://mirchi.in/favicon-196x196.png" group-title="IN",Mirchi Love
-https://drive.uber.radio/uber/bollywoodlove/icecast.audio
-
 #EXTINF:-1 tvg-logo="" group-title="ID",Suara Giri 98.4 FM
 http://streaming.girifm.com:8010/
-
-#EXTINF:-1 tvg-logo="https://www.kiss929.gr/sites/default/files/kiss.ico" group-title="GR",Kiss 92.9
-http://netradio.live24.gr/kissfmathens
 
 #EXTINF:-1 tvg-logo="" group-title="EG",Amr Diab Radio
 https://stream-40.zeno.fm/xa4yhh4k838uv?zs=gojgaFRaRrK1wgGIwdv6xA
@@ -147,22 +96,13 @@ http://radio.autoliferadio.com:8090/radio
 https://free.rcast.net/230792
 
 #EXTINF:-1 tvg-logo="" group-title="US",181.FM - Kickin' Country
-https://listen.181fm.com/181-kickincountry_128k.mp3
-
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/5uLKDLksVe.png" group-title="HR",Radio Dalmacija
-http://shoutcast.pondi.hr:8000/;
+http://listen.181fm.com/181-kickincountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Cafe Radio
 http://strm112.1.fm/caferadio_mobile_mp3
 
 #EXTINF:-1 tvg-logo="https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/landingpages/fatcai/faviconcai.webp" group-title="US",Nostalgie New York
 http://c32.radioboss.fm:8139/stream
-
-#EXTINF:-1 tvg-logo="http://www.funradio.sk/favicon.ico" group-title="SK",Fun Radio Dance
-http://stream.funradio.sk:8000/dance128.mp3
-
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-80s_600x600.jpg" group-title="DE",- 0 N - 80s on Radio
-https://0n-80s.radionetz.de/0n-80s.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Kiss Kiss Napoli
 http://wma08.fluidstream.net:3612/;listen.pls
@@ -171,16 +111,10 @@ http://wma08.fluidstream.net:3612/;listen.pls
 http://wma06.fluidstream.net:3614/;listen.pls
 
 #EXTINF:-1 tvg-logo="https://www.megastar.fm/estaticos/apple-touch-icon-192x192.png" group-title="ES",MegaStarFM
-http://flucast11-h-cloud.flumotion.com/cope/megastar.mp3
+http://flucast-bl02.flumotion.com/cope/megastar.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="GR",Sfera 102.2
 http://sfera.live24.gr/sfera4132
-
-#EXTINF:-1 tvg-logo="http://www.radioswisspop.ch/favicon.ico" group-title="CH",Radio Swiss Pop
-http://stream.srg-ssr.ch/m/rsp/mp3_128
-
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/77b18faf-00b4-483d-bb24-377cdd4b4998?ops=fit(240%2C240)" group-title="MX",MIX Ciudad de México - 106.5 FM - XHDFM-FM - Grupo ACIR - Ciudad de México
-https://19253.live.streamtheworld.com:443/XHDFMFMAAC.aac
 
 #EXTINF:-1 tvg-logo="http://www.r101.it/favicon_7.ico?v=1722509814243" group-title="IT",R101 FM
 http://icecast.unitedradio.it/r101
@@ -197,35 +131,26 @@ https://26283.live.streamtheworld.com:443/XEJP_AM_SC
 #EXTINF:-1 tvg-logo="" group-title="BR",Antena 1 Rio de Janeiro, RJ (ZYD 463, 103,7 MHz FM)
 http://a1rj.streams.com.br:7801/sm
 
+#EXTINF:-1 tvg-logo="https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png" group-title="DE",80s80s Radio
+http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6ns5599q%230%236q8s7o7o3p7411o9n0871834qs5r90so%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1794464157
+
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s87554q.png" group-title="MX",XHEXA "Exa FM" 104.9 FM Mexico City, DF
-http://26433.live.streamtheworld.com:3690/XHEXA_SC
+http://17573.live.streamtheworld.com:3690/XHEXA_SC
 
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s6745q.png" group-title="PT",Mega Hits
-http://22353.live.streamtheworld.com:3690/MEGA_HITS_SC
+http://22713.live.streamtheworld.com:3690/MEGA_HITS_SC
 
 #EXTINF:-1 tvg-logo="https://www.ffh.de/android-icon.png" group-title="DE",Hit Radio FFH
 http://mp3.ffh.de/radioffh/hqlivestream.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png" group-title="DE",80s80s Radio
-http://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=6nrqs067%230%236q8s7o7o3p7411o9n0871834qs5r90so%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1793978471
-
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef0ca067ec97a064f3322c9" group-title="MX",ALFA 91.3 (Ciudad de México) - 91.3 FM - XHFAJ-FM - Grupo Radio Centro - Ciudad de México
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FMAAC.aac
-
 #EXTINF:-1 tvg-logo="" group-title="RO",Virgin Radio Romania
 http://astreaming.virginradio.ro:8000/virgin_aacp_64k
-
-#EXTINF:-1 tvg-logo="https://www.radioplay.bg/assets/logos/bgestrada.png" group-title="BG",BG Estrada
-https://play.global.audio/bgestrada
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioOxigenoFM/picture?width=200&height=200" group-title="PE",Radio Oxígeno
 https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CO",La Mega (Medellín) 92.9 FM
 https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/632cb48f613bac0856b931ab
-
-#EXTINF:-1 tvg-logo="https://turntable.kagiso.io/core/images/jacaranda/apple-touch-icon.png" group-title="ZA",Jacaranda FM
-https://edge.iono.fm/xice/jacarandafm_live_medium.aac
 
 #EXTINF:-1 tvg-logo="" group-title="GB",Heart UK
 http://media-ice.musicradio.com/HeartUKMP3
@@ -234,10 +159,7 @@ http://media-ice.musicradio.com/HeartUKMP3
 https://stream-34.zeno.fm/rf64mx02qa0uv?zs=-xjlLLwRS8uKrffFxK4vLA
 
 #EXTINF:-1 tvg-logo="" group-title="TR",Süper FM
-http://29023.live.streamtheworld.com:3690/SUPER_FMAAC_SC
-
-#EXTINF:-1 tvg-logo="https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png" group-title="BE",RTBF Classic 21
-https://radios.rtbf.be/classic21-128.mp3
+http://22343.live.streamtheworld.com:3690/SUPER_FMAAC_SC
 
 #EXTINF:-1 tvg-logo="https://www.phonostar.de/images/auto_created/Otvoreni_Radio2184x184.png" group-title="HR",Otvoreni radio - Uživo
 http://stream.otvoreni.hr/otvoreni
@@ -248,26 +170,23 @@ http://1000oldies.stream.laut.fm/1000oldies?t302=2018-01-16_15-40-29&uuid=37780f
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-90s_600x600.jpg" group-title="DE",- 0 N - 90s on Radio
 https://0n-90s.radionetz.de/0n-90s.mp3
 
+#EXTINF:-1 tvg-logo="https://armisa.it/assets/favicon/android-chrome-512x512.png" group-title="IT",Radio Armisa
+https://onair.armisa.it/listen/armisa/radio.mp3
+
 #EXTINF:-1 tvg-logo="" group-title="RS",TDI Radio
 http://streaming.tdiradio.com:8000/tdiradio
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Radio_SRF_3.svg/200px-Radio_SRF_3.svg.png" group-title="CH",SRF 3
-http://stream.srg-ssr.ch/m/drs3/mp3_128
-
 #EXTINF:-1 tvg-logo="https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png" group-title="IT",Radio Kiss Kiss
-http://wma08.fluidstream.net:4610/
+http://wma07.fluidstream.net:4610/
 
 #EXTINF:-1 tvg-logo="" group-title="CO",Vibra Bogotá 104.9 FM
-http://26643.live.streamtheworld.com/VIBRAAAC_SC
-
-#EXTINF:-1 tvg-logo="http://hitfm.ru/apple-icon.png?b1d3d31b1e6c8f8f" group-title="RU",HIT FM
-https://hitfm.hostingradio.ru/hitfm96.aacp
-
-#EXTINF:-1 tvg-logo="https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png" group-title="CO",Bésame (Medellín) 94.9 FM
-https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MEDELLINAAC.aac
+http://26453.live.streamtheworld.com:3690/VIBRAAAC_SC
 
 #EXTINF:-1 tvg-logo="https://api.ardmediathek.de/image-service/images/urn:ard:image:52fd25fc45de7c6a?w=512" group-title="DE",Bayern 3
 https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
+
+#EXTINF:-1 tvg-logo="https://www.besame.fm/wp-content/uploads/2020/11/cropped-favicon-besame-32x32.png" group-title="CO",Bésame (Medellín) 94.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_MEDELLINAAC.aac
 
 #EXTINF:-1 tvg-logo="https://upload.kissfm.de/production/static/1699276434696/icons/icon_64.be8y2280000.png" group-title="DE",98.8 Kiss FM
 http://stream.kissfm.de/kissfm/mp3-128/internetradio/
@@ -275,30 +194,111 @@ http://stream.kissfm.de/kissfm/mp3-128/internetradio/
 #EXTINF:-1 tvg-logo="https://radiogdansk.pl/wp-content/uploads/2020/12/cropped-favicon-180x180.png" group-title="PL",Radio Gdansk
 http://stream.task.gda.pl:8000/rg1
 
-#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="AE",Exclusively ABBA
-https://streaming.exclusive.radio/er/abba/icecast.audio
-
 #EXTINF:-1 tvg-logo="http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png" group-title="GB",Radio X
 http://media-the.musicradio.com/RadioXUK
 
-#EXTINF:-1 tvg-logo="" group-title="HK",RTHK Radio 2
-http://stm2.rthk.hk/radio2
-
-#EXTINF:-1 tvg-logo="" group-title="PL",Radio RMF24.pl
-https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="AE",Exclusively ABBA
+https://streaming.exclusive.radio/er/abba/icecast.audio
 
 #EXTINF:-1 tvg-logo="https://www.ndr.de//apple-touch-icon-57x57.png" group-title="DE",NDR 2
 https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
 
+#EXTINF:-1 tvg-logo="" group-title="PL",Radio RMF24.pl
+https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true
+
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/RRjd3up6aH.png" group-title="ZA",Bosveld Stereo
 http://capeant.antfarm.co.za:8000/Bosveld
-
-#EXTINF:-1 tvg-logo="https://superfm.com.tr/favicon.ico" group-title="TR",Super Fm
-https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC
 
 #EXTINF:-1 tvg-logo="" group-title="CZ",Kiss Hady
 http://icecast8.play.cz/kisshady128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="TZ",East Africa Radio FM
 https://eatv.radioca.st/stream
+
+#EXTINF:-1 tvg-logo="" group-title="UA",Мелодія FM Romantic
+http://online.melodiafm.ua/MelodiaFM_Romantic_Live
+
+#EXTINF:-1 tvg-logo="http://lr2.lsm.lv/favicon/lr2-favicon-180x180.png" group-title="LV",Latvijas Radio 2
+http://lr2mp1.latvijasradio.lv:8002/;
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/87390.v8.png" group-title="RO",Radio Tequila Dance Romania
+http://dance.radiotequila.ro:7000/;stream.nsv
+
+#EXTINF:-1 tvg-logo="" group-title="US",PulseEDM Dance Music Radio
+http://pulseedm.cdnstream1.com:8124/1373_128
+
+#EXTINF:-1 tvg-logo="https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png" group-title="UA",Хіт ФМ Українські хіти
+http://online.hitfm.ua/HitFM_Ukr
+
+#EXTINF:-1 tvg-logo="https://www.slam.nl/favicon.ico" group-title="NL",SLAM!
+http://stream.slam.nl/slam
+
+#EXTINF:-1 tvg-logo="https://relaxfm.lt/wp-content/uploads/2018/12/cropped-r-relax-fm-copy-1-192x192.png" group-title="LT",RELAX FM Lietuva
+https://stream1.relaxfm.lt/relaxfm128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="RO",RFI Romania
+http://asculta.rfi.ro:9128/live.aac
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/VRT_Radio_1_logo.svg" group-title="BE",VRT Radio 1
+http://icecast.vrtcdn.be/radio1-high.mp3
+
+#EXTINF:-1 tvg-logo="http://www.radionovaera.pt/resources/img/favicon/apple-icon-120x120.png" group-title="PT",Rádio Nova Era
+http://centova.radio.com.pt:9478/
+
+#EXTINF:-1 tvg-logo="" group-title="ZA",94.7
+http://22343.live.streamtheworld.com/FM947AAC_SC
+
+#EXTINF:-1 tvg-logo="https://upload.berliner-rundfunk.de/production/static/1693298496587/icons/icon_64.a80y02808w0.png" group-title="DE",Berliner Rundfunk 91.4
+http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/
+
+#EXTINF:-1 tvg-logo="https://radia.cz/media/images/0001/01/thumb_492_images_w200.png" group-title="CZ",Hitrádio Devadesátka
+http://ice.abradio.cz/hit90128.mp3
+
+#EXTINF:-1 tvg-logo="http://www.ehrhiti.lv/favicons/apple-touch-icon-120x120.png" group-title="LV",European Hit Radio - SuperHits
+http://stream.europeanhitradio.com:8000/Stream_21.aac
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/26.v35.png" group-title="UA",Мелодія FM
+https://online.melodiafm.ua/MelodiaFM
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio10358_1526480428.jpg" group-title="BR",Rádio Band FM 96.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC
+
+#EXTINF:-1 tvg-logo="" group-title="BG",Авторадио
+http://play.global.audio/avtoradio.opus
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Radio Kiss
+http://icecast4.play.cz/kiss128.mp3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jMmvLjz/TOP100-DJ-CHARTS-RADIO.png" group-title="DE",# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS
+https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts
+
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-2000s_600x600.jpg" group-title="DE",- 0 N - 2000s on Radio
+https://0n-2000s.radionetz.de/0n-2000s.mp3
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsvhuPMFD_2DOKsTyBEUtR2KoFa56Xk0FU_Q&usqp=CAU" group-title="ID",SB FM tembang kenangan
+https://stream.zeno.fm/d16n50mkzhhvv
+
+#EXTINF:-1 tvg-logo="" group-title="HR",Radio Kaj
+https://s8.iqstreaming.com:2020/stream/radio-kaj2/stream
+
+#EXTINF:-1 tvg-logo="https://www.chocolatefm.com/apple-touch-icon.png" group-title="ES",Chocolate FM HD
+http://streaming5.elitecomunicacion.es:8030/live.mp3
+
+#EXTINF:-1 tvg-logo="https://www1.wdr.de/radio/1live-diggi/resources-v5.122.3/img/favicon/apple-touch-icon.png" group-title="DE",WDR 1Live Diggi
+http://wdr-1live-diggi.icecast.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="BR",Clube FM 99.1
+https://radio.saopaulo01.com.br:10913/stream
+
+#EXTINF:-1 tvg-logo="https://media.metacast.eu/pictures/05_2016/1u3XLwvIqfH9hrgS24iT-12813.png" group-title="BG",Energy NRJ Bulgaria 90s Only (ogg)
+http://play.global.audio/energy-90s.ogg
+
+#EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
+http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="https://superfm.rs/wp-content/uploads/2021/03/super-loading-100x100.png" group-title="RS",Super FM
+http://onair.superfm.rs/superfm.mp3
+
+#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F996bWxQ_VQRrXNPXFc0G4r6Y12RBOiwMSdcID72FM0g%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzBkNmYyNjMxLTZmMGItNDc2Ni1iMThmLThkMGMwNmQxMWQ4MC9pbWFnZS8_dXBkYXRlZD0xNjk4MzkyOTk3MDAw.webp&w=750&q=100" group-title="ID",M-Stream Indo
+https://stream.zeno.fm/iln4upodbvuuv
 

@@ -14,26 +14,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 73713,
-    "clickcount": 84
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96063f25-0601-11e8-ae97-52543be04c81",
-    "name": "Classic FM UK",
-    "url": "http://ice-the.musicradio.com/ClassicFMMP3",
-    "url_resolved": "http://ice-the.musicradio.com/ClassicFMMP3",
-    "homepage": "http://www.classicfm.com/",
-    "favicon": "http://www.classicfm.com/assets_v4r/classic/img/favicon-196x196.png",
-    "countrycode": "GB",
-    "state": "London",
-    "language": "english",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 58187,
-    "clickcount": 260
+    "votes": 73973,
+    "clickcount": 135
   },
   {
     "id": null,
@@ -50,26 +32,8 @@
     "tags": "classical,relax",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 56375,
-    "clickcount": 175
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ea78e3db-26bd-4ffd-b236-94f69ad2d59d",
-    "name": "Mosaique FM",
-    "url": "https://radio.mosaiquefm.net/mosalive",
-    "url_resolved": "https://radio.mosaiquefm.net/mosalive",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "TN",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 90,
-    "votes": 34716,
-    "clickcount": 25
+    "votes": 56541,
+    "clickcount": 253
   },
   {
     "id": null,
@@ -86,26 +50,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 34317,
-    "clickcount": 32
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96136071-0601-11e8-ae97-52543be04c81",
-    "name": "Jazz Radio Classic Jazz",
-    "url": "http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3",
-    "url_resolved": "http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3",
-    "homepage": "http://www.jazzradio.fr/radio/webradio/7/classic-jazz",
-    "favicon": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "classical,jazz",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 28665,
-    "clickcount": 80
+    "votes": 34429,
+    "clickcount": 47
   },
   {
     "id": null,
@@ -122,26 +68,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 25179,
-    "clickcount": 49
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a853f228-0e27-4461-8657-5b10f2fd79d7",
-    "name": "Новое радио",
-    "url": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
-    "url_resolved": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
-    "homepage": "https://novoeradio.by/",
-    "favicon": "",
-    "countrycode": "BY",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "AAC+",
-    "bitrate": 0,
-    "votes": 23977,
-    "clickcount": 59
+    "votes": 25249,
+    "clickcount": 72
   },
   {
     "id": null,
@@ -158,8 +86,8 @@
     "tags": "classical,culture,public radio,rai",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 23774,
-    "clickcount": 130
+    "votes": 23860,
+    "clickcount": 148
   },
   {
     "id": null,
@@ -176,26 +104,8 @@
     "tags": "classical,jazz,music,public radio,radio france",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 22467,
-    "clickcount": 58
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "902ea231-d537-4dc8-8708-6819418086d0",
-    "name": "Vivid Bharti",
-    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
-    "url_resolved": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "IN",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "AAC",
-    "bitrate": 93,
-    "votes": 18767,
-    "clickcount": 253
+    "votes": 22571,
+    "clickcount": 72
   },
   {
     "id": null,
@@ -212,8 +122,8 @@
     "tags": "classical",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 14543,
-    "clickcount": 14
+    "votes": 14605,
+    "clickcount": 34
   },
   {
     "id": null,
@@ -230,8 +140,8 @@
     "tags": "classic fm,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 14006,
-    "clickcount": 42
+    "votes": 14063,
+    "clickcount": 66
   },
   {
     "id": null,
@@ -248,26 +158,8 @@
     "tags": "classical,classical music,orchestral",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 13736,
-    "clickcount": 28
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "b129bdd2-65bc-4363-8f74-14b474bc0500",
-    "name": "Radio Marca",
-    "url": "https://sonic.mediatelekom.net/9316/stream",
-    "url_resolved": "https://sonic.mediatelekom.net/9316/stream",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "ES",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 12258,
-    "clickcount": 12
+    "votes": 13788,
+    "clickcount": 40
   },
   {
     "id": null,
@@ -284,8 +176,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11156,
-    "clickcount": 41
+    "votes": 11192,
+    "clickcount": 77
   },
   {
     "id": null,
@@ -302,8 +194,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 10987,
-    "clickcount": 27
+    "votes": 11106,
+    "clickcount": 35
   },
   {
     "id": null,
@@ -320,26 +212,8 @@
     "tags": "classical",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 9985,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96077079-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Swiss Classic German",
-    "url": "http://stream.srg-ssr.ch/m/rsc_de/mp3_128",
-    "url_resolved": "http://stream.srg-ssr.ch/m/rsc_de/mp3_128",
-    "homepage": "http://www.radioswissclassic.ch/",
-    "favicon": "",
-    "countrycode": "CH",
-    "state": "Bern",
-    "language": "german",
-    "tags": "classical,public radio,srg ssr",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 9514,
-    "clickcount": 32
+    "votes": 9995,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -356,8 +230,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8816,
-    "clickcount": 23
+    "votes": 8840,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -374,8 +248,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 8070,
-    "clickcount": 25
+    "votes": 8112,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -392,8 +266,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 7907,
-    "clickcount": 21
+    "votes": 7925,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -410,8 +284,8 @@
     "tags": "classic,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7404,
-    "clickcount": 12
+    "votes": 7424,
+    "clickcount": 35
   },
   {
     "id": null,
@@ -428,26 +302,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7188,
-    "clickcount": 38
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "eb0e95f5-5c36-48dc-9ed0-954039186465",
-    "name": "France Musique La Baroque",
-    "url": "http://icecast.radiofrance.fr/francemusiquebaroque-hifi.aac",
-    "url_resolved": "http://icecast.radiofrance.fr/francemusiquebaroque-hifi.aac",
-    "homepage": "https://www.francemusique.fr/radios-thematiques/la-baroque",
-    "favicon": "",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "aac,classical,public radio,radio france",
-    "codec": "AAC",
-    "bitrate": 192,
-    "votes": 6838,
-    "clickcount": 19
+    "votes": 7237,
+    "clickcount": 42
   },
   {
     "id": null,
@@ -464,8 +320,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 6755,
-    "clickcount": 46
+    "votes": 6817,
+    "clickcount": 79
   },
   {
     "id": null,
@@ -482,26 +338,8 @@
     "tags": "classical",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 6608,
-    "clickcount": 15
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "23a9dbd1-575f-423f-a244-98ace5e1e603",
-    "name": ".صور من حياة الصحابة",
-    "url": "https://qurango.net/radio/sahabah",
-    "url_resolved": "https://qurango.net/radio/sahabah",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "DZ",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 6599,
-    "clickcount": 29
+    "votes": 6618,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -518,8 +356,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6316,
-    "clickcount": 22
+    "votes": 6340,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -536,44 +374,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6191,
+    "votes": 6235,
     "clickcount": 15
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960536e6-0601-11e8-ae97-52543be04c81",
-    "name": "MDR Klassik",
-    "url": "http://avw.mdr.de/streams/284350-0_mp3_high.m3u",
-    "url_resolved": "http://mdr-284350-0.sslcast.mdr.de/mdr/284350/0/mp3/high/stream.mp3",
-    "homepage": "http://mdrklassik.de/",
-    "favicon": "https://cdn.mdr.de/resources/global/img/mdrde/favicons/apple-icon-120x120.png",
-    "countrycode": "DE",
-    "state": "",
-    "language": "german",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 5621,
-    "clickcount": 17
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "4c0d525b-62e2-46d7-929b-dd829b5c9b4c",
-    "name": "Michael Jackson music star",
-    "url": "https://icy.unitedradio.it/um2908.mp3",
-    "url_resolved": "https://icy.unitedradio.it/um2908.mp3",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "AF",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 5386,
-    "clickcount": 13
   },
   {
     "id": null,
@@ -590,8 +392,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 5313,
-    "clickcount": 56
+    "votes": 5324,
+    "clickcount": 61
   },
   {
     "id": null,
@@ -608,8 +410,8 @@
     "tags": "classical,classical music,rai",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 4801,
-    "clickcount": 27
+    "votes": 4813,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -626,26 +428,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 4753,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ae185e7b-b269-4cc7-a3a4-93fd46334145",
-    "name": "Radio Amra",
-    "url": "https://streamer.radio.co/s34b5469e0/listen",
-    "url_resolved": "https://streamer.radio.co/s34b5469e0/listen",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "GE",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4545,
-    "clickcount": 11
+    "votes": 4780,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -662,8 +446,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4501,
-    "clickcount": 6
+    "votes": 4516,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -680,44 +464,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 4308,
-    "clickcount": 10
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "6d7bb86d-65bc-4b84-9202-0fc79d2e203c",
-    "name": "قراءات متنوعة",
-    "url": "https://qurango.net/radio/mix",
-    "url_resolved": "https://qurango.net/radio/mix",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "TN",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 4000,
-    "clickcount": 11
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "0e0d15ed-2e2f-4b81-ac37-d20172966959",
-    "name": "Radio Lola - Domaca",
-    "url": "https://streaming.tdiradio.com/radiolola.mp3",
-    "url_resolved": "https://streaming.tdiradio.com/radiolola.mp3",
-    "homepage": "http://radiolola.rs/",
-    "favicon": "",
-    "countrycode": "RS",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 3968,
-    "clickcount": 15
+    "votes": 4316,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -734,44 +482,8 @@
     "tags": "classic,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3929,
-    "clickcount": 27
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960c55e4-0601-11e8-ae97-52543be04c81",
-    "name": "Whisperings Solo Piano Radio",
-    "url": "http://pianosolo.streamguys.net/live",
-    "url_resolved": "http://pianosolo.streamguys.net/live",
-    "homepage": "http://www.solopianoradio.com/",
-    "favicon": "",
-    "countrycode": "US",
-    "state": "Oregon",
-    "language": "english",
-    "tags": "classical,junction city",
-    "codec": "MP3",
-    "bitrate": 96,
-    "votes": 3868,
-    "clickcount": 18
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ad29eb2c-a9e4-4c5f-a1e2-73a4f0c15027",
-    "name": ".مختصر السيرة",
-    "url": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
-    "url_resolved": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "DZ",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3832,
-    "clickcount": 21
+    "votes": 3942,
+    "clickcount": 29
   },
   {
     "id": null,
@@ -788,8 +500,8 @@
     "tags": "baroque,classical",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3738,
-    "clickcount": 39
+    "votes": 3750,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -806,26 +518,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3676,
-    "clickcount": 70
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f41af1e0-4b16-4760-ae85-232c3b1a8fce",
-    "name": "РАДИО ДЛЯ ВЗРОСЛЫХ",
-    "url": "http://listen6.myradio24.com:9000/alex542888",
-    "url_resolved": "http://listen6.myradio24.com:9000/alex542888",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "RU",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 3552,
-    "clickcount": 12
+    "votes": 3719,
+    "clickcount": 66
   },
   {
     "id": null,
@@ -842,8 +536,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3550,
-    "clickcount": 20
+    "votes": 3565,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -860,8 +554,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3467,
-    "clickcount": 16
+    "votes": 3482,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -878,26 +572,8 @@
     "tags": "classical,piano",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 3347,
-    "clickcount": 16
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "aa6ee95d-e208-4592-a121-047056106596",
-    "name": "Ancient FM",
-    "url": "https://mediaserv73.live-streams.nl:18058/stream",
-    "url_resolved": "https://mediaserv73.live-streams.nl:18058/stream",
-    "homepage": "https://www.ancientfm.com/",
-    "favicon": "",
-    "countrycode": "CA",
-    "state": "Ontario",
-    "language": "english,french",
-    "tags": "ancient music,classical,folk,medieval,mittelalter,renaissance",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3323,
-    "clickcount": 20
+    "votes": 3365,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -914,8 +590,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3307,
-    "clickcount": 10
+    "votes": 3311,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -932,26 +608,8 @@
     "tags": "classical,cultural,duna média,jazz,public radio",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3274,
-    "clickcount": 17
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961326aa-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Trinitas",
-    "url": "http://81.196.25.70:8000/",
-    "url_resolved": "http://81.196.25.70:8000/",
-    "homepage": "http://www.radiotrinitas.ro/",
-    "favicon": "",
-    "countrycode": "RO",
-    "state": "",
-    "language": "romanian",
-    "tags": "classical,religion",
-    "codec": "AAC+",
-    "bitrate": 32,
-    "votes": 3245,
-    "clickcount": 11
+    "votes": 3292,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -968,26 +626,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3224,
-    "clickcount": 30
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ca77fe5c-3a5c-47f6-b643-587e7c045374",
-    "name": "Rádió 1",
-    "url": "https://icast.connectmedia.hu/5201/live.mp3",
-    "url_resolved": "https://icast.connectmedia.hu/5201/live.mp3",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "HU",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3156,
-    "clickcount": 4
+    "votes": 3235,
+    "clickcount": 49
   },
   {
     "id": null,
@@ -1004,8 +644,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3077,
-    "clickcount": 20
+    "votes": 3084,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -1022,8 +662,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3035,
-    "clickcount": 14
+    "votes": 3050,
+    "clickcount": 31
   },
   {
     "id": null,
@@ -1040,8 +680,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3028,
-    "clickcount": 12
+    "votes": 3041,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1058,26 +698,8 @@
     "tags": "classical",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 2810,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "07bf63f2-5ffe-4865-a571-7b1b0f6e6e05",
-    "name": "Klasszik Rádió 92.1",
-    "url": "http://www.klasszikradio.hu/klasszik.mp3",
-    "url_resolved": "https://radio.musorok.org/listen/klasszik/radio.mp3",
-    "homepage": "http://klasszikradio.hu/hu/",
-    "favicon": "",
-    "countrycode": "HU",
-    "state": "",
-    "language": "hungarian",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 2667,
-    "clickcount": 12
+    "votes": 2814,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1094,44 +716,8 @@
     "tags": "classical",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 2570,
-    "clickcount": 78
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "306e9bec-a532-11e8-abb8-52543be04c81",
-    "name": "Klassikradio - Pure Bach",
-    "url": "http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/",
-    "url_resolved": "http://stream.klassikradio.de/purebach/mp3-192/www.klassikradio.de/",
-    "homepage": "http://www.klassikradio.de/",
-    "favicon": "https://static-assets.iamrad.io/klassikradio/1647251836219/icons/icon_64.a00w80w0000.png",
-    "countrycode": "DE",
-    "state": "",
-    "language": "german",
-    "tags": "baroque,classical",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 2560,
-    "clickcount": 20
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "267b9ba1-fc4f-4877-8cca-baa06c04d371",
-    "name": "beautiful recitation",
-    "url": "https://qurango.net/radio/salma",
-    "url_resolved": "https://qurango.net/radio/salma",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "DZ",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2539,
-    "clickcount": 17
+    "votes": 2615,
+    "clickcount": 99
   },
   {
     "id": null,
@@ -1148,8 +734,8 @@
     "tags": "classical,cultural,jazz,vrt",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2434,
-    "clickcount": 28
+    "votes": 2450,
+    "clickcount": 29
   },
   {
     "id": null,
@@ -1166,8 +752,8 @@
     "tags": "classical,public radio,český rozhlas",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2394,
-    "clickcount": 18
+    "votes": 2398,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -1185,7 +771,7 @@
     "codec": "MP3",
     "bitrate": 256,
     "votes": 2332,
-    "clickcount": 4
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1201,9 +787,9 @@
     "language": "",
     "tags": "classical",
     "codec": "AAC",
-    "bitrate": 0,
-    "votes": 2271,
-    "clickcount": 66
+    "bitrate": 128,
+    "votes": 2285,
+    "clickcount": 202
   },
   {
     "id": null,
@@ -1220,44 +806,8 @@
     "tags": "baroque,classical,early music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2257,
-    "clickcount": 10
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "2575e5e6-bf7c-11e9-8502-52543be04c81",
-    "name": "Radio Caprice - Classical Baroque",
-    "url": "http://79.111.14.76:8002/baroque",
-    "url_resolved": "http://79.111.14.76:8002/baroque",
-    "homepage": "http://radcap.ru/baroque.html",
-    "favicon": "",
-    "countrycode": "RU",
-    "state": "",
-    "language": "",
-    "tags": "baroque,classical",
-    "codec": "AAC+",
-    "bitrate": 48,
-    "votes": 2254,
-    "clickcount": 18
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "367578fd-4670-4956-8699-4d12c962b292",
-    "name": ". مختصر السيرة",
-    "url": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
-    "url_resolved": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "SA",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2233,
-    "clickcount": 9
+    "votes": 2269,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1265,7 +815,7 @@
     "stationuuid": "c038a859-7be1-11e9-aa30-52543be04c81",
     "name": "KBS Classic FM",
     "url": "http://serpent0.duckdns.org:8088/kbsfm.pls",
-    "url_resolved": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQxMTAzODN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Q-6D8qKpBUZwUyDRv43aZSdAtZayES-JV07vz1zTBLAV9dG3e0VdwDTNPZ55~89~BCgMI0QK4ATbYQ8ZjcWm~0UW3uGX0wQtF4Iz87qYmg77u7BWv6qs3F1BAcVEc0-I2nCcrDF9vYoRnVf973jped9TWmi66Wc9Eg1r6ZgiK2-hin5Ked0~bxg~hEwuiqYuOXl~-I2EClps2JG1o9Yru6oD1vLoTBubFYsLcdJIqpga0jUJW3idgxR7uakuJiO01grtN0KAvIJdhaYXV7HdTtU2rPf~TEUoi3QykXo7QRYOhPaiPdOFZR8mF4dpmLJGINa~dkL40~~nKv1sdQSbgw__",
+    "url_resolved": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQ2MTc5NTl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Hhs86UwUW8hoS2zjw8e2cpekNhZvIOgSOFUzmKXEtan8zxJ2EMLUs~ugZ-tXajqj-H8bJ4t9xczeUf5IWuo5jich5fNLaLnn-5y5j~JLgZWiLKnCewOIyk3-kzu0h13gUtB49P3AXqnE-RzFhQ1aoECyECKfmrWBPeQe5~SIxpjC24RjvdlFmmYrtK7F8r-C1kEXzDtDQFhiD-4Htxv93e6YDnsbT8Il7jI~sjpoXQwtGyJbPVK5kIL3NDgi-tJc0inFWAwTxzhU59JlSc38SfKMvBbFn7keO6JaCEGbXz5As5yIrv2XuShYkeDWoAuKGcqHZ283SYV1HhxxeNeOSA__",
     "homepage": "http://www.kbs.co.kr/",
     "favicon": "http://www.kbs.co.kr//resources/images/favorite/favorite.png",
     "countrycode": "KR",
@@ -1274,62 +824,8 @@
     "tags": "classical",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 2228,
-    "clickcount": 161
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "da683ec8-2878-4783-827a-60ae2353016b",
-    "name": ".صور من حياة الصحابة",
-    "url": "https://qurango.net/radio/sahabah",
-    "url_resolved": "https://qurango.net/radio/sahabah",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "SA",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2184,
-    "clickcount": 16
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "8c8be036-e206-462f-9ed9-65d36b214319",
-    "name": "radio maria iraq",
-    "url": "http://dreamsiteradiocp4.com:8046/stream",
-    "url_resolved": "http://dreamsiteradiocp4.com:8046/stream",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "IQ",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 64,
-    "votes": 2140,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "644f021d-19b2-4320-9354-94d449df2b73",
-    "name": "ШАНСОН БЕЗ ЦЕНЗУРЫ [CHANSONUNCENSORED]",
-    "url": "http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3",
-    "url_resolved": "http://chanson.hostingradio.ru:8041/chanson-uncensored128.mp3",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "RU",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 2121,
-    "clickcount": 10
+    "votes": 2252,
+    "clickcount": 86
   },
   {
     "id": null,
@@ -1346,8 +842,8 @@
     "tags": "classical",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 2107,
-    "clickcount": 2
+    "votes": 2110,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1364,8 +860,8 @@
     "tags": "bach,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2098,
-    "clickcount": 7
+    "votes": 2106,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1378,12 +874,12 @@
     "favicon": "",
     "countrycode": "DE",
     "state": "north rhine westphalia",
-    "language": "american english,british english,deutsch fränkisch,english,english uk,german",
+    "language": "american english,british english,deutsch fränkisch,english,german",
     "tags": "ambient,ambient and relaxation music,chillout,classic,classical,klassik,relax,relaxing",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2084,
-    "clickcount": 20
+    "votes": 2092,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -1400,8 +896,8 @@
     "tags": "alternative,arts,classical,cultural,litera,public radio,rtvs",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2060,
-    "clickcount": 11
+    "votes": 2061,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1418,8 +914,26 @@
     "tags": "classical,opera",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2045,
+    "votes": 2057,
     "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "97b1aec1-dad3-4551-8cc5-07965bbcb93f",
+    "name": "Radio RMF FM",
+    "url": "http://www.rmfon.pl/n/rmffm.pls",
+    "url_resolved": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_fm",
+    "homepage": "http://www.rmf.fm/",
+    "favicon": "http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
+    "countrycode": "PL",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 2032,
+    "clickcount": 150
   },
   {
     "id": null,
@@ -1436,26 +950,8 @@
     "tags": "baroque,classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 2011,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "97b1aec1-dad3-4551-8cc5-07965bbcb93f",
-    "name": "Radio RMF FM",
-    "url": "http://www.rmfon.pl/n/rmffm.pls",
-    "url_resolved": "http://31.192.216.4/rmf_fm",
-    "homepage": "http://www.rmf.fm/",
-    "favicon": "http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
-    "countrycode": "PL",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1979,
-    "clickcount": 43
+    "votes": 2014,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1472,8 +968,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1969,
-    "clickcount": 6
+    "votes": 1977,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1490,26 +986,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1931,
-    "clickcount": 18
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "0909bad3-a977-400c-89a1-50d8e2117775",
-    "name": ". beautiful recitation",
-    "url": "https://qurango.net/radio/salma",
-    "url_resolved": "https://qurango.net/radio/salma",
-    "homepage": "",
-    "favicon": "",
-    "countrycode": "EG",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1914,
-    "clickcount": 9
+    "votes": 1936,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1526,26 +1004,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1860,
-    "clickcount": 19
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "1c5674b0-2cfe-48e2-b859-2f3718c74598",
-    "name": "Radio Swiss Classic",
-    "url": "http://stream.srg-ssr.ch/m/rsc_it/mp3_128",
-    "url_resolved": "http://stream.srg-ssr.ch/m/rsc_it/mp3_128",
-    "homepage": "https://www.radioswissclassic.ch/it",
-    "favicon": "https://www.radioswissclassic.ch/favicon.ico",
-    "countrycode": "CH",
-    "state": "",
-    "language": "italian",
-    "tags": "classical,musica classica,srg ssr",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1859,
-    "clickcount": 32
+    "votes": 1876,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -1562,8 +1022,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1848,
-    "clickcount": 18
+    "votes": 1854,
+    "clickcount": 29
   },
   {
     "id": null,
@@ -1580,8 +1040,8 @@
     "tags": "classical,public radio,srg ssr",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1846,
-    "clickcount": 5
+    "votes": 1852,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1598,8 +1058,8 @@
     "tags": "classic,classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1823,
-    "clickcount": 3
+    "votes": 1827,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1616,8 +1076,8 @@
     "tags": "classical,piano,sleep",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 1803,
-    "clickcount": 12
+    "votes": 1807,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1634,26 +1094,8 @@
     "tags": "classic,classical",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 1794,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "e2fe33ad-87a6-4bca-bb2a-f051212c82c2",
-    "name": "Chinese Music World",
-    "url": "http://radio.chinesemusicworld.com/chinesemusic.ogg",
-    "url_resolved": "http://radio.chinesemusicworld.com/chinesemusic.ogg",
-    "homepage": "https://chinesemusicworld.com/",
-    "favicon": "",
-    "countrycode": "CN",
-    "state": "",
-    "language": "chinese",
-    "tags": "chinese,classical,folk,teaditional",
-    "codec": "OGG",
-    "bitrate": 0,
-    "votes": 1793,
-    "clickcount": 13
+    "votes": 1797,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1670,8 +1112,8 @@
     "tags": "classic,classical,jazz,world music",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1781,
-    "clickcount": 13
+    "votes": 1792,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1688,8 +1130,8 @@
     "tags": "classical",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 1715,
-    "clickcount": 1
+    "votes": 1723,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1706,8 +1148,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1687,
-    "clickcount": 4
+    "votes": 1689,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1724,26 +1166,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 1675,
-    "clickcount": 18
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "262c5929-b34f-4440-886f-9adcaa480c1f",
-    "name": "REGGAE ROOTS",
-    "url": "http://relay5.181.fm:8096/",
-    "url_resolved": "http://relay5.181.fm:8096/",
-    "homepage": "http://relay5.181.fm:8096/",
-    "favicon": "",
-    "countrycode": "KE",
-    "state": "",
-    "language": "",
-    "tags": "classical",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1675,
-    "clickcount": 10
+    "votes": 1681,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -1760,43 +1184,619 @@
     "tags": "classical,vrt",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1675,
-    "clickcount": 16
+    "votes": 1680,
+    "clickcount": 13
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "6b4d2d9d-1435-44aa-b5ee-1db50f833ddc",
-    "name": "Venice Classic Radio",
-    "url": "https://uk2.streamingpulse.com/ssl/vcr1",
-    "url_resolved": "https://uk2.streamingpulse.com/ssl/vcr1",
-    "homepage": "https://www.veniceclassicradio.eu/",
-    "favicon": "",
-    "countrycode": "IT",
+    "stationuuid": "4be9df7d-6314-480f-9967-469ae11f094f",
+    "name": "Radio Rodja 756 AM",
+    "url": "https://radioislamindonesia.com/rodja.mp3?_=2",
+    "url_resolved": "https://radioislamindonesia.com/rodja.mp3?_=2",
+    "homepage": "https://www.radiorodja.com/",
+    "favicon": "https://www.radiorodja.com/wp-content/uploads/cropped-radio-rodja-512px-emblem-1-192x192.png",
+    "countrycode": "ID",
     "state": "",
-    "language": "english,italian",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 1658,
+    "clickcount": 17
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "44bb6b74-7d40-422e-aaa4-2da831d58a17",
+    "name": "KBC",
+    "url": "http://stream.zeno.fm/ud2u96xst5quv",
+    "url_resolved": "http://stream.zeno.fm/ud2u96xst5quv",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "KE",
+    "state": "",
+    "language": "",
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1654,
+    "votes": 1651,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "e7e418ef-a7c1-48d1-a1ac-64010dcb7fa4",
+    "name": "seba",
+    "url": "http://213.6.93.254:8000/sebafm",
+    "url_resolved": "http://213.6.93.254:8000/sebafm",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "PS",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1566,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "5143bb9a-3c5e-4c53-a6ec-0108435caf5a",
+    "name": "CHILLOUT PIANO by Epic Piano",
+    "url": "https://stream.epic-piano.com/chillout-piano?ref=radiobrowser",
+    "url_resolved": "https://stream.epic-piano.com/chillout-piano?ref=radiobrowser",
+    "homepage": "https://epic-piano.com/",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "NRW",
+    "language": "american english,deutsch fränkisch,english,german",
+    "tags": "chillout,chillout radio,classic,classical,classical music,classical piano,instrumental,new age piano,piano,piano jazz",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 1544,
     "clickcount": 21
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "103f450b-e578-414c-ab14-f44a222ecd74",
-    "name": "Air Tamil",
-    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8",
-    "url_resolved": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8",
-    "homepage": "https://newsonair.com/live/",
+    "stationuuid": "96250be4-0601-11e8-ae97-52543be04c81",
+    "name": "Calm Radio - Mozart",
+    "url": "http://streams.calmradio.com:7328/stream",
+    "url_resolved": "http://streams.calmradio.com:7328/stream",
+    "homepage": "https://www.calmradio.com/",
+    "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
+    "countrycode": "CA",
+    "state": "Ontario",
+    "language": "english",
+    "tags": "classical,mozart",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1541,
+    "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "65579ebd-da1b-412f-8da6-7a82853e5cc3",
+    "name": "إذاعة السنة",
+    "url": "http://andromeda.shoutca.st:8189/live",
+    "url_resolved": "http://andromeda.shoutca.st:8189/live",
+    "homepage": "",
     "favicon": "",
-    "countrycode": "IN",
+    "countrycode": "TN",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 32,
+    "votes": 1435,
+    "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9308c2a6-6efe-4f45-bb9d-806f69dee4e0",
+    "name": "Bhakti World",
+    "url": "http://gurbani.out.airtime.pro:8000/gurbani_a",
+    "url_resolved": "http://gurbani.out.airtime.pro:8000/gurbani_a",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "AF",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 48,
+    "votes": 1393,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "bae2c91c-f529-4d05-b8ed-d82c5c791c4d",
+    "name": "RADIO NORA OLDIES",
+    "url": "https://streams.norawebstreams.de/nora-oldies/mp3-192/homepage/?mode=preroll&aw_0_req.gdpr=true&aw_0_1st.kuid=vhyh95oqv&aw_0_1st.ksg=[%22tsrazhtr3%22,%22tow60dxfp%22,%22s7lqc5jxe%22,%22upxsvbudn%22,%22uphudti45%22,%22tz4swml9u%22,%22s697d7eir%22,%22s7ljhri17%22,%22s7lo2do21%22,%22s7lqvksor%22,%22s7ltd00sq%22,%22s7lul8vls%22,%22s7lvpn712%22,%22s7lwsqck7%22,%22s78nn0wkd%22,%22s71hrmzou%22,%22s8cm9eyzj%22,%22s8siicaeb%22,%22takaaes6u%22,%22ti505y9ml%22,%22tan9djjrm%22,%22ti54veycf%22,%22tow80eky2%22,%22uchw4pz1v%22]&listenerid=05ee3bdeb60ce97b7b5a8d8261306b0b&awparams=companionAds%3Atrue",
+    "url_resolved": "https://streams.norawebstreams.de/nora-oldies/mp3-192/homepage/?mode=preroll&aw_0_req.gdpr=true&aw_0_1st.kuid=vhyh95oqv&aw_0_1st.ksg=[%22tsrazhtr3%22,%22tow60dxfp%22,%22s7lqc5jxe%22,%22upxsvbudn%22,%22uphudti45%22,%22tz4swml9u%22,%22s697d7eir%22,%22s7ljhri17%22,%22s7lo2do21%22,%22s7lqvksor%22,%22s7ltd00sq%22,%22s7lul8vls%22,%22s7lvpn712%22,%22s7lwsqck7%22,%22s78nn0wkd%22,%22s71hrmzou%22,%22s8cm9eyzj%22,%22s8siicaeb%22,%22takaaes6u%22,%22ti505y9ml%22,%22tan9djjrm%22,%22ti54veycf%22,%22tow80eky2%22,%22uchw4pz1v%22]&listenerid=05ee3bdeb60ce97b7b5a8d8261306b0b&awparams=companionAds%3Atrue",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "AF",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 1363,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "cfc734ad-6e1b-4e04-9a4b-6932f2f78ca7",
+    "name": "في ضلال السيرة النبوية",
+    "url": "https://qurango.net/radio/fi_zilal_alsiyra",
+    "url_resolved": "https://qurango.net/radio/fi_zilal_alsiyra",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "TN",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1362,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "5d9e440c-d634-4473-b56c-8f505ed33302",
+    "name": "aljazeera",
+    "url": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+    "url_resolved": "https://live-hls-web-aja.getaj.net/AJA/index.m3u8",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "QA",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "AAC,H.264",
+    "bitrate": 6324,
+    "votes": 1340,
+    "clickcount": 11
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c06ef146-a5b0-485f-a6e3-1df09514a5bf",
+    "name": "Kurd1",
+    "url": "https://www.radioking.com/play/kurd1-radyo",
+    "url_resolved": "https://listen.radioking.com/radio/119251/stream/158701",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "TR",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1332,
+    "clickcount": 55
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "89d3f76d-0c2f-46b7-9b5d-48b0c8eaeb65",
+    "name": "deutschrap TRAP",
+    "url": "http://stream.laut.fm/deutscherrap",
+    "url_resolved": "http://stream.laut.fm/deutscherrap",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "AF",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1296,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "29010f42-faef-4a9e-b15c-3ad1613b45cb",
+    "name": "BR-Klassik",
+    "url": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high",
+    "url_resolved": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high",
+    "homepage": "https://www.br-klassik.de/index.html",
+    "favicon": "https://api.ardmediathek.de/image-service/images/urn:ard:image:476e47d76c4bbf78?w=512",
+    "countrycode": "DE",
+    "state": "Bayern",
+    "language": "german",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 256,
+    "votes": 1249,
+    "clickcount": 52
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "fa055899-0cc7-41a5-beeb-5276f5d39851",
+    "name": "RTVS",
+    "url": "http://icecast.stv.livebox.sk/slovensko_128.mp3",
+    "url_resolved": "http://icecast.stv.livebox.sk/slovensko_128.mp3",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "AF",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1228,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "963d047f-0601-11e8-ae97-52543be04c81",
+    "name": "Klassik Radio - Pure Beethoven",
+    "url": "http://stream.klassikradio.de/beethoven/mp3-128/",
+    "url_resolved": "http://stream.klassikradio.de/beethoven/mp3-128/",
+    "homepage": "http://www.klassikradio.de/",
+    "favicon": "http://cdn-radiotime-logos.tunein.com/s25028q.png",
+    "countrycode": "DE",
+    "state": "Hamburg",
+    "language": "german",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 1221,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "4abe67bd-cd14-418e-88c3-284f1ef8c487",
+    "name": "Forest Green Radio",
+    "url": "http://s1.streamaudio.de:8000/forest-green",
+    "url_resolved": "http://s1.streamaudio.de:8000/forest-green",
+    "homepage": "http://www.forestgreenradio.ca/",
+    "favicon": "https://liveonlineradio.net/wp-content/uploads/2017/02/Forest-Green-Radio-100x47.jpg",
+    "countrycode": "CA",
+    "state": "New Brunswick",
+    "language": "english",
+    "tags": "celtic,classical,hits,music,pop",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1174,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "3250a8a8-8697-4aa7-9710-ea1141e846bd",
+    "name": "National Public Radio",
+    "url": "https://npr-ice.streamguys1.com/live.mp3",
+    "url_resolved": "https://npr-ice.streamguys1.com/live.mp3",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "AS",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 96,
+    "votes": 1129,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c8e3fb11-e665-4486-98fd-9cf2e58c4991",
+    "name": "Melody Radio Telugu",
+    "url": "https://a1.asurahosting.com:9580/radio.mp3",
+    "url_resolved": "https://a1.asurahosting.com:9580/radio.mp3",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "AF",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 1124,
+    "clickcount": 25
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9647a986-0601-11e8-ae97-52543be04c81",
+    "name": "Polskie Radio - Chopin (Radio Chopin) (AAC+)",
+    "url": "http://stream3.polskieradio.pl:8960/;",
+    "url_resolved": "http://stream3.polskieradio.pl:8960/;",
+    "homepage": "http://chopin.polskieradio.pl/",
+    "favicon": "http://chopin.polskieradio.pl/images/favicon-32x32.png",
+    "countrycode": "PL",
+    "state": "",
+    "language": "polish",
+    "tags": "chopin,classical",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "votes": 1109,
+    "clickcount": 20
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9aab2dd5-ec19-469a-a048-e3f7c63f8585",
+    "name": "Radyo Ekin",
+    "url": "http://yayin.turkhosted.com:6006/",
+    "url_resolved": "http://yayin.turkhosted.com:6006/",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "TR",
     "state": "",
     "language": "",
     "tags": "classical",
     "codec": "AAC+",
-    "bitrate": 79,
-    "votes": 1646,
+    "bitrate": 160,
+    "votes": 1108,
+    "clickcount": 31
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96301845-0601-11e8-ae97-52543be04c81",
+    "name": "Calm Radio - Violin",
+    "url": "http://streams.calmradio.com:4528/stream",
+    "url_resolved": "http://streams.calmradio.com:4528/stream",
+    "homepage": "https://www.calmradio.com/",
+    "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
+    "countrycode": "CA",
+    "state": "Ontario",
+    "language": "english",
+    "tags": "baroque,classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1095,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96365abe-0601-11e8-ae97-52543be04c81",
+    "name": "Christmas Radio",
+    "url": "http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3",
+    "url_resolved": "http://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3",
+    "homepage": "http://www.christmasradio.fm/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "",
+    "language": "german",
+    "tags": "christian contemporary,christmas music,classical,country,rnb,soul",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1087,
+    "clickcount": 12
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "95025da9-a45b-4f8b-9cda-bdda4ee94051",
+    "name": "MeloRadio",
+    "url": "https://ml.cdn.eurozet.pl/mel-net.mp3",
+    "url_resolved": "https://ml.cdn.eurozet.pl/mel-net.mp3",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "AF",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1084,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "12a6599c-f8bf-47c6-9f92-19b2dd189ebb",
+    "name": "إذاعة ميراث الأنبياء",
+    "url": "https://radio.al7eah.net/8028/;",
+    "url_resolved": "https://radio.al7eah.net/8028/;",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "TN",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 32,
+    "votes": 1078,
+    "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "820d9afb-91c1-4c8d-bd93-e858741059b9",
+    "name": "Your Classical Chamber Music",
+    "url": "https://chambermusic.stream.publicradio.org/chambermusic.mp3",
+    "url_resolved": "https://chambermusic.stream.publicradio.org/chambermusic.mp3",
+    "homepage": "https://www.yourclassical.org/",
+    "favicon": "",
+    "countrycode": "US",
+    "state": "Minnesota",
+    "language": "",
+    "tags": "chamber music,classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1062,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "315f16b5-041b-4d95-8b58-74b13e393f20",
+    "name": "GHETTOO KENYA",
+    "url": "http://stream.zeno.fm/cs4q33arb2zuv",
+    "url_resolved": "http://stream.zeno.fm/cs4q33arb2zuv",
+    "homepage": "http://stream.zeno.fm/cs4q33arb2zuv",
+    "favicon": "",
+    "countrycode": "KE",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1027,
+    "clickcount": 11
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960c1c0e-0601-11e8-ae97-52543be04c81",
+    "name": "Kulturradio",
+    "url": "http://kulturradio.de/live.m3u",
+    "url_resolved": "http://dispatcher.rndfnk.com/rbb/rbbkultur/live/mp3/high",
+    "homepage": "http://www.kulturradio.de/",
+    "favicon": "http://www.kulturradio.de/content/dam/rbb/rbb/logos/touch/radio3-128.png",
+    "countrycode": "DE",
+    "state": "Berlin",
+    "language": "german",
+    "tags": "ard,classical,culture,features,information,public radio,rbb",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 1012,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "7ab25d55-40ef-4dcc-8e85-1dd99650d830",
+    "name": "Halk Radyo",
+    "url": "https://anadolu.liderhost.com.tr:10876/;",
+    "url_resolved": "https://anadolu.liderhost.com.tr:10876/;",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "TR",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "AAC+",
+    "bitrate": 104,
+    "votes": 1011,
+    "clickcount": 35
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "962ec7c6-0601-11e8-ae97-52543be04c81",
+    "name": "Calm Radio - Johann Strauss II",
+    "url": "http://streams.calmradio.com:8328/stream",
+    "url_resolved": "http://streams.calmradio.com:8328/stream",
+    "homepage": "https://www.calmradio.com/",
+    "favicon": "https://calmradio.com/templates/calmradio/favicons/apple-touch-icon.png",
+    "countrycode": "CA",
+    "state": "Ontario",
+    "language": "english",
+    "tags": "classical,strauss",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1010,
+    "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96153188-0601-11e8-ae97-52543be04c81",
+    "name": "WQXR New York Public Radio \"Operavore\" Stream",
+    "url": "http://opera-stream.wqxr.org/operavore-tunein",
+    "url_resolved": "http://opera-stream.wqxr.org/operavore-tunein",
+    "homepage": "http://www.wqxr.org/#!/blogs/operavore/",
+    "favicon": "",
+    "countrycode": "US",
+    "state": "New York",
+    "language": "english",
+    "tags": "classical,new york public radio,opera",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1006,
+    "clickcount": 11
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "961d4dec-0601-11e8-ae97-52543be04c81",
+    "name": "Minnesota Public Radio Classical Music Stream",
+    "url": "http://ycradio.stream.publicradio.org/ycradio.mp3",
+    "url_resolved": "http://ycradio.stream.publicradio.org/ycradio.mp3",
+    "homepage": "http://www.yourclassical.org/",
+    "favicon": "http://www.yourclassical.org/apple-touch-icon.png",
+    "countrycode": "US",
+    "state": "Minnesota",
+    "language": "english",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 985,
+    "clickcount": 10
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "564e60e1-ae3a-11e8-aa67-52543be04c81",
+    "name": "Radio Art - Classical for sleep",
+    "url": "http://live.radioart.com/fClassical_for_sleep.mp3",
+    "url_resolved": "http://live.radioart.com/fClassical_for_sleep.mp3",
+    "homepage": "http://www.radioart.com/",
+    "favicon": "https://cdn-radiotime-logos.tunein.com/s78276q.png",
+    "countrycode": "GR",
+    "state": "",
+    "language": "english",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 96,
+    "votes": 982,
     "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "b78fd386-08ec-4246-8372-d5f97c56a8ee",
+    "name": "ROMANTIC PIANO by Epic Piano",
+    "url": "https://stream.epic-piano.com/romantic-piano?ref=radiobrowser",
+    "url_resolved": "https://stream.epic-piano.com/romantic-piano?ref=radiobrowser",
+    "homepage": "https://epic-piano.com/",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "NRW",
+    "language": "american english,deutsch fränkisch,english,german",
+    "tags": "classic,classical,classical music,classical piano,classics,instrumental,piano,piano jazz,romantic,romantic music",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 967,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f2a846a8-f211-498b-a59e-dd2445e25fb7",
+    "name": "disco diamond 2",
+    "url": "http://discodiamond.radioca.st/stream",
+    "url_resolved": "http://discodiamond.radioca.st/stream",
+    "homepage": "",
+    "favicon": "",
+    "countrycode": "HU",
+    "state": "",
+    "language": "",
+    "tags": "classical",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 962,
+    "clickcount": 8
   }
 ]

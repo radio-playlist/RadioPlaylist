@@ -2,24 +2,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "9622cd46-0601-11e8-ae97-52543be04c81",
-    "name": "Europa Plus",
-    "url": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
-    "url_resolved": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
-    "homepage": "http://www.europaplus.ru/",
-    "favicon": "http://liveam.tv/img/2494.jpg",
-    "countrycode": "RU",
-    "state": "Moscow",
-    "language": "russian",
-    "tags": "dance,house,pop",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 60047,
-    "clickcount": 214
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "af6f51b1-0ca9-11ea-a87e-52543be04c81",
     "name": "Intense Radio - We love Dance 256K",
     "url": "https://secure.live-streams.nl/main",
@@ -32,8 +14,8 @@
     "tags": "clubhouse,dance,electronic,house,melodic,techno,trance",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 51658,
-    "clickcount": 142
+    "votes": 51755,
+    "clickcount": 181
   },
   {
     "id": null,
@@ -50,8 +32,8 @@
     "tags": "dance,electronic,house",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 37957,
-    "clickcount": 80
+    "votes": 38012,
+    "clickcount": 111
   },
   {
     "id": null,
@@ -68,8 +50,8 @@
     "tags": "dance,electronic,house",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 16481,
-    "clickcount": 19
+    "votes": 16503,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -86,8 +68,8 @@
     "tags": "dance,electro,electronic,house,music",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 16129,
-    "clickcount": 53
+    "votes": 16163,
+    "clickcount": 72
   },
   {
     "id": null,
@@ -104,26 +86,8 @@
     "tags": "dance,dance music,edm,electro,electronic,house",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 15746,
-    "clickcount": 67
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "0f902505-76c7-489b-8ddc-03b05b5867ae",
-    "name": "Generation Dance Radio",
-    "url": "http://generationdance.lu/radio/8030/hd",
-    "url_resolved": "http://generationdance.lu/radio/8030/hd",
-    "homepage": "https://generation.dance/",
-    "favicon": "https://generation.dance/logo_500x500.png",
-    "countrycode": "LU",
-    "state": "Luxembourg",
-    "language": "english,french",
-    "tags": "dance,dj,edm,eurodance,handsup,house,trance",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 8268,
-    "clickcount": 13
+    "votes": 15808,
+    "clickcount": 111
   },
   {
     "id": null,
@@ -140,8 +104,8 @@
     "tags": "beat,deep,deep house,electronic,house",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 6582,
-    "clickcount": 12
+    "votes": 6605,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -158,8 +122,8 @@
     "tags": "deep house,electro house,electronic,elektro,elektronik,house,progressive house,vocal house",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 5882,
-    "clickcount": 35
+    "votes": 5906,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -176,8 +140,8 @@
     "tags": "house",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5832,
-    "clickcount": 7
+    "votes": 5852,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -194,8 +158,8 @@
     "tags": "dance,electronica,genova,house",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 5047,
-    "clickcount": 13
+    "votes": 5060,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -212,26 +176,8 @@
     "tags": "electronic,house,naxi",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4855,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "5ea0c406-cc3e-4a36-9a32-37ed4d5a180e",
-    "name": "Technolovers EDM",
-    "url": "https://stream.technolovers.fm/edm?ref=radiobrowser",
-    "url_resolved": "https://stream.technolovers.fm/edm?ref=radiobrowser",
-    "homepage": "https://technolovers.fm/",
-    "favicon": "https://i.ibb.co/TmRLJsp/EDM-TL.jpg",
-    "countrycode": "DE",
-    "state": "NRW",
-    "language": "english,german",
-    "tags": "club house,dance,edm,electro,electro house,electronic,electronic dance music,electronica,electropop,house,pop dance",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 4791,
-    "clickcount": 60
+    "votes": 4865,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -248,26 +194,8 @@
     "tags": "electro,house,trance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4775,
-    "clickcount": 12
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "dd98c499-a0c4-4019-a35e-99caa6940407",
-    "name": "# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET",
-    "url": "https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts",
-    "url_resolved": "https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts",
-    "homepage": "https://rm.fm/breakz/team",
-    "favicon": "https://i.ibb.co/T1gH75m/rb-top100clubcharts.png",
-    "countrycode": "DE",
-    "state": "Deutschland (Germany)",
-    "language": "english,german",
-    "tags": "#,#charts,#club,#djmix,#mashup,#radio,#top100,00s,90s,beachclub,charts,chill house,chillout,chillout+lounge,club,club dance,club dance electronic house trance,club house,clubbing,dance house club  electronic techhouse,deejay,deep house,deep music,dj,dj mixes,dj remix,dj sets,edm,electro,electro techno,electronic,funky house,future house,hardstyle/handsup/edm,hip hop,hip-hop,hiphop,house,hypertechno,ibiza,latin,latin music,latin pop,lounge music,mashup,melodic house,minimal,minimal techno,moombahton,pop,progressive house,r&b,r&b/urban,rap hiphop rnb,rave,reggaeton,remixed,remixes,singlecharts,soulful house,sundowner,sunset,tech house,techno,top 40,top100,vocal deep",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 4676,
-    "clickcount": 341
+    "votes": 4783,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -284,8 +212,8 @@
     "tags": "dance,electro,house,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4483,
-    "clickcount": 75
+    "votes": 4500,
+    "clickcount": 54
   },
   {
     "id": null,
@@ -302,8 +230,8 @@
     "tags": "dance,electronic,house",
     "codec": "OGG",
     "bitrate": 0,
-    "votes": 4255,
-    "clickcount": 8
+    "votes": 4262,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -316,30 +244,12 @@
     "favicon": "https://i.ibb.co/jMmvLjz/TOP100-DJ-CHARTS-RADIO.png",
     "countrycode": "DE",
     "state": "Deutschland (Germany)",
-    "language": "american english,deutsch fränkisch,english,english uk,german,swiss german",
+    "language": "american english,british english,deutsch fränkisch,english,german,swiss german",
     "tags": "#90s,#charts,2000s,2010s,bass house,beachclub,charts,chillout,club,club dance electronic house trance,clubbing,dance music,dance top40,dancehall,deejay,deep house,deep techno,dj,dj mixes,dj remix,dj sets,edm,edm radioshows,electro house,electro techno,electronic dance music,funky house,hotel,house,house techno,house/soulful/deep house,houseparty,hypertechno,latin music,live dj,live music,liveset,lounge,mainstream,mainstream music,mainstream urban,mashup,minimal techno,música urbana,partymix,pop,progressive house,radio,radioshow,reggaeton,remix,remixed,rnb,singlecharts,soulful,soulful house,sundowner,techno,technology,top 40 hits,top charts,top hits,top100,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3829,
-    "clickcount": 132
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961f6cc4-0601-11e8-ae97-52543be04c81",
-    "name": "Free Rádio 107,0 FM Brno",
-    "url": "http://icecast8.play.cz/freeradio128.mp3",
-    "url_resolved": "http://icecast8.play.cz/freeradio128.mp3",
-    "homepage": "http://www.freeradio.cz/",
-    "favicon": "http://www.freeradio.cz/img/ico_vcelka_32_32_6.png",
-    "countrycode": "CZ",
-    "state": "",
-    "language": "czech",
-    "tags": "90s,dance,hiphop,house,pop,rnb,trance",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 3817,
-    "clickcount": 10
+    "votes": 3874,
+    "clickcount": 235
   },
   {
     "id": null,
@@ -356,26 +266,8 @@
     "tags": "electronic,events,house,live,techno",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3755,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "63dd5d75-855f-4e7e-9570-b8d3b338c016",
-    "name": "Perfect Deep House",
-    "url": "https://stream.radiojar.com/asngk2sg798uv?1659885393",
-    "url_resolved": "https://stream.radiojar.com/asngk2sg798uv?1659885393",
-    "homepage": "https://perfect-radio.com/perfect-deephouse.html",
-    "favicon": "https://perfect-radio.com/____impro/1/onewebmedia/Logo%20Perfect%20Deephouse.jpg?etag=W%2F%22847e5-619665ca%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=355%2B372&extract=0%2B0%2B354%2B372&quality=85",
-    "countrycode": "ES",
-    "state": "Palma de Mallorca",
-    "language": "german,spanish",
-    "tags": "deep house,house,tropical",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 3689,
-    "clickcount": 13
+    "votes": 3762,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -392,8 +284,8 @@
     "tags": "alternative,blues,dance,eclectic,electronic,experimental,funk,grime,hip hop,house,indie,jazz,metal,pop,punk,r&b,reggae,rock,ska,soul,techno,world",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 3478,
-    "clickcount": 135
+    "votes": 3536,
+    "clickcount": 160
   },
   {
     "id": null,
@@ -410,26 +302,8 @@
     "tags": "dance,house,trance",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 3402,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "bf1731ba-a1eb-11e8-abb8-52543be04c81",
-    "name": "C-Dance RETRO",
-    "url": "http://s45.myradiostream.com:18304/",
-    "url_resolved": "http://s45.myradiostream.com:18304/",
-    "homepage": "http://retro.c-dance.fm/",
-    "favicon": "",
-    "countrycode": "NL",
-    "state": "",
-    "language": "english",
-    "tags": "dance,house,retro,techno,trance",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 3341,
-    "clickcount": 7
+    "votes": 3416,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -446,26 +320,8 @@
     "tags": "house",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 3338,
+    "votes": 3348,
     "clickcount": 14
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9300b8d7-0953-48d8-82a2-fa69c3b3030b",
-    "name": "Generation Dance Radio",
-    "url": "http://generationdance.lu/radio/8030/mobile",
-    "url_resolved": "http://generationdance.lu/radio/8030/mobile",
-    "homepage": "https://generation.dance/",
-    "favicon": "https://generation.dance/logo_500x500.png",
-    "countrycode": "LU",
-    "state": "Luxembourg",
-    "language": "english,french",
-    "tags": "dance,dj,edm,eurodance,handsup,house,trance",
-    "codec": "AAC",
-    "bitrate": 64,
-    "votes": 3231,
-    "clickcount": 5
   },
   {
     "id": null,
@@ -482,44 +338,8 @@
     "tags": "club dance,dance,edm,electro,electro house,electronic,electronic dance music,electronic music,electronica,electropop,elektro,elektronik,house,houseparty",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 3176,
-    "clickcount": 39
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "fd92e72f-2cbe-11e8-91bf-52543be04c81",
-    "name": "dinamo.fm deep",
-    "url": "http://channels.dinamo.fm/deep-mp3",
-    "url_resolved": "http://channels.dinamo.fm/deep-mp3",
-    "homepage": "http://www.dinamo.fm/",
-    "favicon": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
-    "countrycode": "TR",
-    "state": "Istanbul",
-    "language": "english,turkish",
-    "tags": "deep house,house,nu disco",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 2755,
-    "clickcount": 40
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f5f3381b-e4b3-11e9-a8ba-52543be04c81",
-    "name": "Dance UK",
-    "url": "http://51.89.148.171:8022/stream/",
-    "url_resolved": "http://51.89.148.171:8022/stream/",
-    "homepage": "https://danceradiouk.com/",
-    "favicon": "https://danceradiouk.com/wp-content/uploads/2021/02/druk300-150x150.png",
-    "countrycode": "",
-    "state": "",
-    "language": "english",
-    "tags": "dance,house,trance",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2748,
-    "clickcount": 10
+    "votes": 3195,
+    "clickcount": 49
   },
   {
     "id": null,
@@ -536,8 +356,8 @@
     "tags": "#mashup,bass,beach music,breaks,breakz,breakzfm,charts,chill,chill house,chillout,club,club dance electronic house trance,clubbing,dance,deejay,deep house,dj mix,dj mixes,dj remix,dj sets,djmix,edm,electronic,electronic dance music,electronic music,electropop,hard techno,high energy,house,houseparty,hypertechno,latin pop,local radio,lounge,mashup,mixtape,music non stop,online,online radio,party,partymix,partymusik,pool beach bar,promodj,public radio,rap hiphop rnb,reggaeton,remix,remixed,remixes,rnb,smooth,techno,top 40,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2743,
-    "clickcount": 66
+    "votes": 2759,
+    "clickcount": 110
   },
   {
     "id": null,
@@ -554,8 +374,8 @@
     "tags": "dance,house,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2564,
-    "clickcount": 11
+    "votes": 2568,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -563,7 +383,7 @@
     "stationuuid": "960ed525-0601-11e8-ae97-52543be04c81",
     "name": "HouseTime.FM",
     "url": "https://listen.housetime.fm/aac-hd.pls",
-    "url_resolved": "https://listen.housetime.fm/tunein-aac-hd-pls",
+    "url_resolved": "http://listen.housetime.fm/tunein-aac-hd-pls",
     "homepage": "https://housetime.fm/",
     "favicon": "https://housetime.fm/media/icons/ht/apple-touch-icon.png",
     "countrycode": "DE",
@@ -572,26 +392,8 @@
     "tags": "deep house,drum and bass,dubstep,edm,electro,house,progressive,trap",
     "codec": "AAC",
     "bitrate": 256,
-    "votes": 2410,
+    "votes": 2419,
     "clickcount": 16
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "02569932-0b3c-4938-9d3e-b00b2158d40b",
-    "name": "AIRPORT LOUNGE RADIO",
-    "url": "https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3",
-    "url_resolved": "https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3",
-    "homepage": "https://radiosuitenetwork.torontocast.stream/airport-lounge-radio/",
-    "favicon": "https://favicon-generator.org/favicon-generator/htdocs/favicons/2023-12-16/9274e8a4803971186ff5c45359ab77a4.ico.png",
-    "countrycode": "CA",
-    "state": "Ontario",
-    "language": "english",
-    "tags": "aereoporto,airport,ambient,chill,chillout,easy listening,house,lounge,smooth,smooth jazz",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 2371,
-    "clickcount": 83
   },
   {
     "id": null,
@@ -608,8 +410,8 @@
     "tags": "dance,electro,house,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2287,
-    "clickcount": 13
+    "votes": 2303,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -626,26 +428,8 @@
     "tags": "deep house,electro deep,electronic,house,remix,vocal",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2237,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f8a910c3-fd87-4376-af20-1af5bfec6ab4",
-    "name": "Radio M2O",
-    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8",
-    "url_resolved": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8",
-    "homepage": "https://www.m2o.it/",
-    "favicon": "",
-    "countrycode": "IT",
-    "state": "",
-    "language": "italian",
-    "tags": "commercial,dance,electronic,house",
-    "codec": "AAC+",
-    "bitrate": 122,
-    "votes": 2210,
-    "clickcount": 61
+    "votes": 2252,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -662,8 +446,8 @@
     "tags": "#,#charts,#dj,#hits,#mixtapes,00s,90s,adult contemporary,charts,chill house,chillout,club,club dance,clubbing,dance,dance music,deejay,deejay remix,dj remix,dj sets,edm,electro house,electronic,hiphop,hits,house,houseparty,latin music,latin pop,livestream,madewithheart,moombahton,non-stop,pop,pop dance,pop music,popular,rave,reggaeton,remix,rnb,summer,summer hits,summer lounge,summer radio,summer tunes,techno,top 100,top 40,top 40 hits,top charts,top hits,urban,yearmix",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2194,
-    "clickcount": 72
+    "votes": 2221,
+    "clickcount": 86
   },
   {
     "id": null,
@@ -680,8 +464,8 @@
     "tags": "ambient,dance,deep house,downtempo,edm,house,nu-jazz,progressive,techno",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2131,
-    "clickcount": 28
+    "votes": 2137,
+    "clickcount": 30
   },
   {
     "id": null,
@@ -698,8 +482,8 @@
     "tags": "electronic,house,techno",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2002,
-    "clickcount": 3
+    "votes": 2005,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -716,8 +500,8 @@
     "tags": "club,dance,house,trance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1986,
-    "clickcount": 11
+    "votes": 1995,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -734,8 +518,8 @@
     "tags": "electronic,house,progressive house",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 1889,
-    "clickcount": 9
+    "votes": 1895,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -752,43 +536,7 @@
     "tags": "deep house,dream house,house,indie dance,nu disco,nu-disco,tech house,vocal house",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1873,
-    "clickcount": 12
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961e486e-0601-11e8-ae97-52543be04c81",
-    "name": "181.FM - Energy 98",
-    "url": "http://listen.181fm.com/181-energy98_128k.mp3",
-    "url_resolved": "http://listen.181fm.com/181-energy98_128k.mp3",
-    "homepage": "http://www.181.fm/",
-    "favicon": "http://www.181.fm/favicon.ico",
-    "countrycode": "US",
-    "state": "Virginia",
-    "language": "english",
-    "tags": "dance,house,waynesboro",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1829,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "6ad5e93f-869d-4165-a685-25e8363c1bf4",
-    "name": "Radio Planeta Costa del Sol",
-    "url": "https://radioplaneta.emitironline.com/radio",
-    "url_resolved": "https://radioplaneta.emitironline.com/radio",
-    "homepage": "https://www.radioplaneta.com/",
-    "favicon": "",
-    "countrycode": "ES",
-    "state": "",
-    "language": "spanish",
-    "tags": "dance,house,pop,r&b",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 1743,
+    "votes": 1878,
     "clickcount": 10
   },
   {
@@ -806,8 +554,8 @@
     "tags": "chillstep,dnb,drum & bass,drum and bass,dubstep,edm,electronic,future bass,house,synthwave",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1733,
-    "clickcount": 57
+    "votes": 1738,
+    "clickcount": 44
   },
   {
     "id": null,
@@ -824,8 +572,8 @@
     "tags": "#,#00s,#90,#dj,#partybreaks,#top100,charts,dance,dance house club  electronic techhouse,deep house,dj,dj mix,dj mixes,dj remix,electro house,electro techno,house,latin,latin music,latin pop,liveradio,mixtape,moombahton,partymix,pop,pop dance,r&b/urban,rap hiphop rnb,remix,remixed,remixes,techhouse,techno,top 40,top charts,top100,top40,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1705,
-    "clickcount": 38
+    "votes": 1714,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -842,26 +590,8 @@
     "tags": "dance,house,latin,reggaeton,urban",
     "codec": "AAC",
     "bitrate": 125,
-    "votes": 1643,
-    "clickcount": 17
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "64d74c72-025e-4cea-8a32-906812691731",
-    "name": "#100 BEST IBIZA DEEP HOUSE",
-    "url": "https://stream.zeno.fm/lwv6zqgtv1dtv",
-    "url_resolved": "https://stream.zeno.fm/lwv6zqgtv1dtv",
-    "homepage": "https://zeno.fm/radio/100-best-ibiza-deep-house-/",
-    "favicon": "https://static.wixstatic.com/media/f361b3_cf8747dc2b804de09c56359c324dd1f5~mv2.jpg",
-    "countrycode": "CA",
-    "state": "Ontario",
-    "language": "english",
-    "tags": "chill,chill house,chillout,chillout+lounge,club dance,club house,community radio,dance,deep,deep house,electronic,fm,high quality audio,hits,house,music,news,public radio,radio,soulful house",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1617,
-    "clickcount": 137
+    "votes": 1653,
+    "clickcount": 37
   },
   {
     "id": null,
@@ -878,7 +608,7 @@
     "tags": "dance,house,techno",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1584,
+    "votes": 1585,
     "clickcount": 2
   },
   {
@@ -896,26 +626,8 @@
     "tags": "dance,house,pop",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1516,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "83fd90c1-8810-4007-ab47-5a351ac41192",
-    "name": "Radio Record Deep",
-    "url": "http://radiorecord.hostingradio.ru/deep96.aacp",
-    "url_resolved": "http://radiorecord.hostingradio.ru/deep96.aacp",
-    "homepage": "https://www.radiorecord.ru/station/deep",
-    "favicon": "https://www.radiorecord.ru/icons/apple-touch-icon.png",
-    "countrycode": "RU",
-    "state": "",
-    "language": "russian",
-    "tags": "deep house,house",
-    "codec": "AAC",
-    "bitrate": 0,
-    "votes": 1486,
-    "clickcount": 17
+    "votes": 1521,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -932,8 +644,8 @@
     "tags": "1970s,1980s,1990s,70's,70er,70s,70s disco,80's,80er,80s,90's,90er,90s,anni 70,anni 80,anni 90,classic hip hop,classic hits,classic hits 60s 70a 80s,club house,dance,dance music,dance pop,dancefloor,disco,disco funk,discomusic 70,discomusic 80,dj,dj mix,dj mixes,dj remix,dj sets,electronic,euro disco,eurodance,fm,funky,funky 70,goldies,high quality audio,hip-hop and rap oldies,hits,house,italo disco,music,music 70s 80s 90s,musica,musica anni 70,musica anni 80,oldies,oldschool,pop,pop music,public radio,radio,rap,studio 54,techno,vintage music,vintage radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1463,
-    "clickcount": 81
+    "votes": 1479,
+    "clickcount": 111
   },
   {
     "id": null,
@@ -950,8 +662,8 @@
     "tags": "dance,dance pop,house,pop,pop dance,pop music,romanian pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1454,
-    "clickcount": 15
+    "votes": 1468,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -968,8 +680,8 @@
     "tags": "electronic,house,progressive,techno,trance",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 1442,
-    "clickcount": 11
+    "votes": 1447,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -986,8 +698,8 @@
     "tags": "dance,dance pop,electronic,house,new music,pop",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 1426,
-    "clickcount": 10
+    "votes": 1441,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1004,7 +716,7 @@
     "tags": "edm,electro,house",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1423,
+    "votes": 1435,
     "clickcount": 8
   },
   {
@@ -1022,8 +734,8 @@
     "tags": "#minimal,deep house,house,minimal,tech minimal",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1420,
-    "clickcount": 26
+    "votes": 1424,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -1040,8 +752,8 @@
     "tags": "disco funk,funky,funky house,house,nu disco,nu funk,nu-disco",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1410,
-    "clickcount": 7
+    "votes": 1413,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1058,26 +770,8 @@
     "tags": "90s,club,deejay,dj,house,mix,party,party hits,remixes,tech house,techno",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1342,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a7b6e9b7-6d9d-476b-b07c-be676d6f6d87",
-    "name": "Radio ENTER",
-    "url": "https://stream.nextmedia.si/proxy/enter_1?mp=/enter",
-    "url_resolved": "https://stream.nextmedia.si/proxy/enter_1?mp=/enter",
-    "homepage": "https://enter.radio/",
-    "favicon": "https://enter.radio/images/icons/icon_192x192.png",
-    "countrycode": "SI",
-    "state": "",
-    "language": "english",
-    "tags": "disco,house,techno",
-    "codec": "AAC+",
-    "bitrate": 128,
-    "votes": 1319,
-    "clickcount": 8
+    "votes": 1346,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1094,8 +788,8 @@
     "tags": "dance,deep house,electro,electronica,house,iconyc,indie dance,melodic house,melodic house & techno,new york,polyptych,progressive house,techno,underground,werave music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1265,
-    "clickcount": 14
+    "votes": 1278,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1112,8 +806,8 @@
     "tags": "chillout,electro deep,electronic,house,vocal",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1223,
-    "clickcount": 4
+    "votes": 1229,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1130,8 +824,8 @@
     "tags": "electronic,house,techno",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1187,
-    "clickcount": 46
+    "votes": 1195,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -1147,9 +841,9 @@
     "language": "english,russian",
     "tags": "deep,house,techno,trance",
     "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1157,
-    "clickcount": 8
+    "bitrate": 0,
+    "votes": 1158,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1166,8 +860,8 @@
     "tags": "bass,club house,deep house,electro,electronic,elektro,house,progressive house",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1147,
-    "clickcount": 3
+    "votes": 1152,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1184,8 +878,8 @@
     "tags": "dance,house",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1135,
-    "clickcount": 16
+    "votes": 1147,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1202,8 +896,8 @@
     "tags": "house",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1114,
-    "clickcount": 42
+    "votes": 1127,
+    "clickcount": 53
   },
   {
     "id": null,
@@ -1220,8 +914,8 @@
     "tags": "dance,dj,edm,eurodance,handsup,house,trance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1106,
-    "clickcount": 3
+    "votes": 1123,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1229,7 +923,7 @@
     "stationuuid": "960bb325-0601-11e8-ae97-52543be04c81",
     "name": "I Love 2 Dance",
     "url": "http://stream02.iloveradio.de/iloveradio2.mp3",
-    "url_resolved": "http://ilm.stream12.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzkzOTQ3ODkyJmQ9YTFhZDkyNjYxMzBhMWEwZWIzYjI",
+    "url_resolved": "http://ilm.stream27.radiohost.de/ilm_ilove2dance_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzk0NDQyNzUxJmQ9OTFjODUzMDcxOTBkNzliN2JiNDM",
     "homepage": "http://www.iloveradio.de/",
     "favicon": "http://www.iloveradio.de/favicon.ico",
     "countrycode": "DE",
@@ -1238,7 +932,7 @@
     "tags": "dance,edm,house",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1012,
+    "votes": 1015,
     "clickcount": 3
   },
   {
@@ -1256,7 +950,7 @@
     "tags": "balearic house,chill house,chillout,deep house,house,ibiza,minimal",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1008,
+    "votes": 1013,
     "clickcount": 2
   },
   {
@@ -1274,8 +968,8 @@
     "tags": "edm,electro,house,no ads,progressive,trance",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 993,
-    "clickcount": 7
+    "votes": 1003,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1292,8 +986,8 @@
     "tags": "dj sets,dub,electronic,house,mix,nu disco,techno",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 985,
-    "clickcount": 12
+    "votes": 986,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -1311,7 +1005,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 983,
-    "clickcount": 10
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1328,8 +1022,8 @@
     "tags": "afrobeats,alternative,ambient,arts,beats,black,breakbeat,cinema,culture,dub,electronic,electropop,experimental,funk,house,indie pop,indie rock,jazz,local news,minimal,minimal wave,music,new wave,news,nu-jazz,post-punk,post-rock,reggae,soul,synth,synthwave,world,worldbeat",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 963,
-    "clickcount": 33
+    "votes": 965,
+    "clickcount": 80
   },
   {
     "id": null,
@@ -1346,26 +1040,8 @@
     "tags": "00's,00s,2000s,2010s,2020s,2024,2025s,2026s,2027s,80s,90s,chillout,chillout+lounge,club,club dance,deep house,dj,dj remix,dj sets,facebook,funk,hard techno,house,houseparty,instagram,klassik,klassik rock,liveradio,livestream,lounge music,minimal techno,mixed,moombahton,non-stop,non-stop music,palm springs,pop dance,promo,promodj,reggaeton,remixed,rnb,rock,soulful house,summer,summer tunes,techhouse,techno,tiktok,top 100,top 40,top charts,top hits,top100,top40,twitter,up to date,winter",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 952,
-    "clickcount": 10
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "57ccc89c-5665-411b-941b-46f41ca2bb93",
-    "name": "sunshine live - Classic & Vocal House",
-    "url": "https://stream.sunshine-live.de/vocalhouse/mp3-192/stream.sunshine-live.de/",
-    "url_resolved": "https://stream.sunshine-live.de/vocalhouse/mp3-192/stream.sunshine-live.de/",
-    "homepage": "https://sunshine-live.de/",
-    "favicon": "",
-    "countrycode": "DE",
-    "state": "",
-    "language": "german",
-    "tags": "192kbps,classic,house,live,sunshine,vocal",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 944,
-    "clickcount": 4
+    "votes": 956,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -1382,8 +1058,26 @@
     "tags": "club dance,community radio,dance music,deep house,deephouse,electronic,electronic dance music,fm,high quality audio,hits,house,house/soulful/deep house,music,public radio,radio,soulful house,vocal deep",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 941,
-    "clickcount": 16
+    "votes": 954,
+    "clickcount": 45
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "57ccc89c-5665-411b-941b-46f41ca2bb93",
+    "name": "sunshine live - Classic & Vocal House",
+    "url": "https://stream.sunshine-live.de/vocalhouse/mp3-192/stream.sunshine-live.de/",
+    "url_resolved": "https://stream.sunshine-live.de/vocalhouse/mp3-192/stream.sunshine-live.de/",
+    "homepage": "https://sunshine-live.de/",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "",
+    "language": "german",
+    "tags": "192kbps,classic,house,live,sunshine,vocal",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 949,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1400,8 +1094,8 @@
     "tags": "#00s,#80,#top200,90's,90s,bass,chillout,dance,deep house,discofox+schlager,dj,dj remix,electronic,electronica,festivals,hiphop,hot adult contemporary,house,liveradio,livestream,lounge,minimal,moombahton,pop,pop dance,pop music,reggae,reggaeton,remixes,rnb,schlager,techno,top 100,top 40,top 40 hits,top charts,top100,top200,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 877,
-    "clickcount": 30
+    "votes": 882,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -1418,8 +1112,8 @@
     "tags": "deep,house,techno",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 815,
-    "clickcount": 3
+    "votes": 817,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1436,8 +1130,8 @@
     "tags": "club,clubbing,dance,edm,house,party,party hits,turkey",
     "codec": "AAC+",
     "bitrate": 56,
-    "votes": 806,
-    "clickcount": 17
+    "votes": 807,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -1454,26 +1148,8 @@
     "tags": "dance,electronic dance music,house,techno",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 799,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "3d3fc522-0a50-11ea-a87e-52543be04c81",
-    "name": "- 0 N - Top 40 on Radio",
-    "url": "https://0n-top40.radionetz.de/0n-top40.mp3",
-    "url_resolved": "https://0n-top40.radionetz.de/0n-top40.mp3",
-    "homepage": "http://www.0nradio.com/",
-    "favicon": "https://www.0nradio.com/logos/0n-top-40_600x600.jpg",
-    "countrycode": "DE",
-    "state": "Bayern",
-    "language": "german",
-    "tags": "dance,hits,house,pop,rock,top40",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 792,
-    "clickcount": 1
+    "votes": 804,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1481,7 +1157,7 @@
     "stationuuid": "48d09371-ce3e-4278-a637-179bdba36cb7",
     "name": "radioeins-rbb-56 kbit/s",
     "url": "https://www.radioeins.de/live_s.m3u",
-    "url_resolved": "http://d131.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3Lj4VOHhOST2Qv3yksn14j9v1YT&token=ecMGWTvzdEUTcodzsmEvwuHbI12U8f78SHECTxUGrZ0&tvf=IoJfL3R75RhkMTMxLnJuZGZuay5jb20",
+    "url_resolved": "http://d121.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3LzWVdlv7uCpFRgL972wHDEUAIT&token=6h5l9dgfbHvcz6-17ouLaaply60kD_RuhGL9z5UNFbs&tvf=tvDb4CRF5xhkMTIxLnJuZGZuay5jb20",
     "homepage": "https://www.radioeins.de/homepage/",
     "favicon": "https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png",
     "countrycode": "DE",
@@ -1490,26 +1166,8 @@
     "tags": "alternative,disco,drum'n'bass,electro,house,jazz,pop,reggae,rock,soul",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 782,
-    "clickcount": 10
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "288fe97a-9b9f-4af1-814f-24eed6e264ae",
-    "name": "dinamo.fm deep",
-    "url": "http://channels.dinamo.fm/deep-mp3",
-    "url_resolved": "http://channels.dinamo.fm/deep-mp3",
-    "homepage": "http://www.dinamo.fm/",
-    "favicon": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
-    "countrycode": "TR",
-    "state": "",
-    "language": "english,turkish",
-    "tags": "deep house,house,nu disco",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 777,
-    "clickcount": 2
+    "votes": 788,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1526,26 +1184,8 @@
     "tags": "breakbeat hardcore,drum and bass,drumfunk,dubstep,garage,hardcore,house,jump-up,jungle,liquid funk,neurofunk,old skool,rollers,techno,techstep,trance,uk bass,uk funky,uk garage,ukedm,ukg",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 761,
-    "clickcount": 32
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "97991c3a-688a-48c8-afb5-56761ecd5ad5",
-    "name": "Dance FM",
-    "url": "http://edge126.rdsnet.ro:84/profm/dancefm.mp3",
-    "url_resolved": "http://edge126.rdsnet.ro:84/profm/dancefm.mp3",
-    "homepage": "https://www.dancefm.ro/",
-    "favicon": "https://www.dancefm.ro/static/theme-repo/bin/images/logo-dance-fm.png",
-    "countrycode": "RO",
-    "state": "Bucharest",
-    "language": "",
-    "tags": "club,dance,deep house,dj mix,house",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 754,
-    "clickcount": 5
+    "votes": 770,
+    "clickcount": 39
   },
   {
     "id": null,
@@ -1562,8 +1202,26 @@
     "tags": "house",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 738,
-    "clickcount": 3
+    "votes": 740,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "dab217e9-2fb1-4dee-ae95-00fece1688ad",
+    "name": "1Mix Radio - House (UK) 320kb mp3",
+    "url": "http://fr2.1mix.co.uk:9000/320hb",
+    "url_resolved": "http://fr2.1mix.co.uk:9000/320hb",
+    "homepage": "https://www.1mix.co.uk/",
+    "favicon": "https://www.1mix.co.uk/favicon.ico",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "house",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 732,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1581,61 +1239,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 731,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "4d98ac08-5f85-45ae-85b3-1ece9bad3fec",
-    "name": "Ibiza Stardust Radio",
-    "url": "https://www.radioking.com/play/ibiza-stardust-radio-1",
-    "url_resolved": "https://www.radioking.com/play/ibiza-stardust-radio-1",
-    "homepage": "https://www.ibizastardustradio.com/",
-    "favicon": "",
-    "countrycode": "ES",
-    "state": "Ibiza",
-    "language": "english,spanish",
-    "tags": "deep house,house,ibiza",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 731,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "dab217e9-2fb1-4dee-ae95-00fece1688ad",
-    "name": "1Mix Radio - House (UK) 320kb mp3",
-    "url": "http://fr2.1mix.co.uk:9000/320hb",
-    "url_resolved": "http://fr2.1mix.co.uk:9000/320hb",
-    "homepage": "https://www.1mix.co.uk/",
-    "favicon": "https://www.1mix.co.uk/favicon.ico",
-    "countrycode": "GB",
-    "state": "",
-    "language": "english",
-    "tags": "house",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 728,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "5c7a7785-6f77-4819-87c0-8776138fe996",
-    "name": "Kiss Fm",
-    "url": "https://live.kissfm.ro/kissfm.aacp",
-    "url_resolved": "https://live.kissfm.ro/kissfm.aacp",
-    "homepage": "https://www.kissfm.ro/",
-    "favicon": "https://www.kissfm.ro/apple-touch-icon.png",
-    "countrycode": "RO",
-    "state": "",
-    "language": "romanian",
-    "tags": "dance,dance pop,house,pop,pop music,top 40",
-    "codec": "AAC",
-    "bitrate": 80,
-    "votes": 727,
-    "clickcount": 53
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1652,7 +1256,7 @@
     "tags": "disco,house",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 721,
+    "votes": 723,
     "clickcount": 3
   },
   {
@@ -1688,8 +1292,26 @@
     "tags": "dance,edm,electro,electronic,elektro,elektronik,future house,house",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 679,
+    "votes": 683,
     "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c58c0009-ad0d-4ed5-a208-a8e797885a75",
+    "name": "House Music Radio",
+    "url": "https://uk4-vn.mixstream.net/8128/listen.mp3",
+    "url_resolved": "https://uk4-vn.mixstream.net/8128/listen.mp3",
+    "homepage": "https://www.housemusicradio.co.uk/",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "",
+    "language": "",
+    "tags": "deep house,house",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 679,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1707,25 +1329,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 673,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "c58c0009-ad0d-4ed5-a208-a8e797885a75",
-    "name": "House Music Radio",
-    "url": "https://uk4-vn.mixstream.net/8128/listen.mp3",
-    "url_resolved": "https://uk4-vn.mixstream.net/8128/listen.mp3",
-    "homepage": "https://www.housemusicradio.co.uk/",
-    "favicon": "",
-    "countrycode": "GB",
-    "state": "",
-    "language": "",
-    "tags": "deep house,house",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 670,
-    "clickcount": 16
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1742,26 +1346,26 @@
     "tags": "#,#00,#clubradio,#dj,#festival,#liveset,#partybreakz,#remix,#top100,afterhour,charts,club house,dance house club  electronic techhouse,deep house,deutschrap,dj remix,electro house,hiphop,house,latin,morning,rap,remixes,rnb,tech house,techno,top 40,top charts,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 667,
-    "clickcount": 18
+    "votes": 669,
+    "clickcount": 32
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "7de6f5c5-6937-11e9-af37-52543be04c81",
-    "name": "Dance Radio Amsterdam",
-    "url": "http://stream.danceradio.nl:9920/",
-    "url_resolved": "http://stream.danceradio.nl:9920/",
-    "homepage": "https://danceradio.in/",
-    "favicon": "https://danceradio.nl/wp-content/uploads/2023/10/cropped-faviconpng-180x180.png",
-    "countrycode": "NL",
-    "state": "Amsterdam",
-    "language": "dutch",
-    "tags": "dance,edm,funk,house,rnb,soul",
-    "codec": "MP3",
-    "bitrate": 185,
-    "votes": 644,
-    "clickcount": 10
+    "stationuuid": "92b99738-5c8f-4450-9f19-c8f0ca235559",
+    "name": "Radio Record Moldova",
+    "url": "http://212.56.220.74:8000/RecordMD",
+    "url_resolved": "http://212.56.220.74:8000/RecordMD",
+    "homepage": "https://radiorecord.md/",
+    "favicon": "",
+    "countrycode": "MD",
+    "state": "Chișinău",
+    "language": "moldovian,romanian,russian",
+    "tags": "dance,dance pop,electronic,house,new music",
+    "codec": "AAC",
+    "bitrate": 128,
+    "votes": 651,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1779,24 +1383,420 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 644,
-    "clickcount": 4
+    "clickcount": 3
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "92b99738-5c8f-4450-9f19-c8f0ca235559",
-    "name": "Radio Record Moldova",
-    "url": "http://212.56.220.74:8000/RecordMD",
-    "url_resolved": "http://212.56.220.74:8000/RecordMD",
-    "homepage": "https://radiorecord.md/",
+    "stationuuid": "d271b4e8-a298-4862-9f4b-025c110cedd9",
+    "name": "IBIZA CHILLOUT LOUNGE - Ambient, Deep House, Balearic, Smooth Jazz, Acoustic, Chill House, Lo-Fi, Chillwave, Dream Pop, Electro, Tropical House, Sunset Chill, Café del Mar, Soft Electronica, Slow House, Ambient, Relax, Easy Listening, Beach Vibes, Summer",
+    "url": "https://0nlineradio.radioho.st/lounge-ibiza-chillout-lounge?ref=rb26",
+    "url_resolved": "https://0nlineradio.radioho.st/lounge-ibiza-chillout-lounge?ref=rb26",
+    "homepage": "https://0nlineradio.com/",
+    "favicon": "https://i.ibb.co/jPkfdprq/rb-Ibiza.png",
+    "countrycode": "DE",
+    "state": "North Rhine-Westphalia",
+    "language": "english,german",
+    "tags": "ambient,balearic,balearic house,beach,club dance,dance,deep house,house,lounge,pool beach bar,relax,smooth,smooth jazz,smooth lounge",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 623,
+    "clickcount": 169
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "971cedc6-f328-11e9-a96c-52543be04c81",
+    "name": "Traxx FM - Deep",
+    "url": "http://traxx013.ice.infomaniak.ch/traxx013-low.mp3",
+    "url_resolved": "http://traxx013.ice.infomaniak.ch/traxx013-low.mp3",
+    "homepage": "http://www.traxx.fm/",
     "favicon": "",
-    "countrycode": "MD",
-    "state": "Chișinău",
-    "language": "moldovian,romanian,russian",
-    "tags": "dance,dance pop,electronic,house,new music",
+    "countrycode": "CH",
+    "state": "Geneva",
+    "language": "",
+    "tags": "commercial-free,deep,deep house,electronic,house,no ads",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 622,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "af915008-e9f1-4750-bf58-3f774ea5fc4a",
+    "name": "# Mainstage Charts - Your FESTIVAL Radio @ EDM - TECHNO - DJ MIXTAPES - RAVE -  LATIN - REGGAETON - MOOMBAHTON - RnB - DJ Charts - HIPHOP - ELECTRO - DEEP HOUSE -  DANCE - LOUNGE - CHILLOUT - SUMMER - IBIZA HOUSE - WEDDING - BACH - SOULFUL - BEACH - CLUB -  GERMANY DJ RADIO - PARTY - BREAKZ - POOL - POP - URBAN - HOT NEW MUSIC",
+    "url": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-mainstage",
+    "url_resolved": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-mainstage",
+    "homepage": "https://rm.fm/breakz/",
+    "favicon": "https://i.ibb.co/bbRPNdd/charts-mainstage.jpg",
+    "countrycode": "DE",
+    "state": "Deutschland und NRW",
+    "language": "english,german,swiss german",
+    "tags": "#,+,-,0,00s,bach,beach,black,chill house,chillout+lounge,clubbing,dance,dancehall,deejay,deep house,dj mixes,dj remix,dj sets,edm,electro,hard techno,house,ibiza,ibiza club,latin,lounge,lounge music,mashup,mix,mixed,moombahton,new,new rave,pool beach bar,pop,pop dance,pop music,promodj,rave,reggaeton,remix,rnb,soul,soulful house,summer,sunshine,techno,top charts,top40,urban",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 618,
+    "clickcount": 35
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "8972e2b7-5987-4937-9a5e-e56e8f3f0831",
+    "name": "Remix FM",
+    "url": "http://air4.amgradio.ru/RemixFM",
+    "url_resolved": "http://air4.amgradio.ru/RemixFM",
+    "homepage": "https://remixfm.ru/",
+    "favicon": "",
+    "countrycode": "RU",
+    "state": "",
+    "language": "russian",
+    "tags": "club dance,dance,dj mix,eurodance,house",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 601,
+    "clickcount": 14
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "631049dc-60cf-4e27-95c8-8593e03aee20",
+    "name": "Radio Record Bass House",
+    "url": "https://radiorecord.hostingradio.ru/jackin96.aacp",
+    "url_resolved": "https://radiorecord.hostingradio.ru/jackin96.aacp",
+    "homepage": "https://www.radiorecord.ru/",
+    "favicon": "https://www.radiorecord.ru/icons/apple-touch-icon.png",
+    "countrycode": "RU",
+    "state": "",
+    "language": "english",
+    "tags": "house",
+    "codec": "AAC",
+    "bitrate": 0,
+    "votes": 596,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "828dd71a-f952-11e8-a97a-52543be04c81",
+    "name": "SomaFM The Trip (128k AAC)",
+    "url": "https://somafm.com/thetrip130.pls",
+    "url_resolved": "https://ice5.somafm.com/thetrip-128-aac",
+    "homepage": "https://somafm.com/thetrip/",
+    "favicon": "https://somafm.com/img3/thetrip-400.jpg",
+    "countrycode": "US",
+    "state": "California",
+    "language": "english",
+    "tags": "house,progressive,trance",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 628,
+    "votes": 589,
+    "clickcount": 10
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "11bb3621-4e62-4143-a275-2303e1ae5ce6",
+    "name": "Technolovers - AFRO HOUSE",
+    "url": "https://stream.technolovers.fm/afro-house?ref=radiobrowser",
+    "url_resolved": "https://stream.technolovers.fm/afro-house?ref=radiobrowser",
+    "homepage": "https://technolovers.fm/",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "north-rhine-westphalia",
+    "language": "english,german",
+    "tags": "african music,afro vocal,afrobeats,club house,house,soulful house",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 572,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "cfa786ac-cd53-4576-9283-574440ffab71",
+    "name": "La X Medellín 103.9 FM",
+    "url": "https://tupanel.info:8000/stream",
+    "url_resolved": "https://tupanel.info:8000/stream",
+    "homepage": "https://laxmedellin.com/",
+    "favicon": "https://laxmedellin.com/static/images/LogoXMedellinFinal.144d8af15298.png",
+    "countrycode": "CO",
+    "state": "Medellin",
+    "language": "spanish",
+    "tags": "dance,electro,electro house,electronic,house,music,trance",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 571,
+    "clickcount": 12
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9e636b65-64ce-478c-b935-523def2c393d",
+    "name": "__BREAKZ.FM__ by rm.fm (rautemusik)",
+    "url": "https://breakz-high.rautemusik.fm/?ref=radiobrowserinfo",
+    "url_resolved": "https://breakz-high.rautemusik.fm/?ref=radiobrowserinfo",
+    "homepage": "https://breakz.fm/",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "North Rhine-Westphalia",
+    "language": "english,german",
+    "tags": "dance,deejay,dj,dj mixes,dj sets,edm,electro,electro house,electronic,hardstyle,hiphop,house,mixtapes,moombahton,reggaeton,rnb,urban",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 560,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "fed9a975-d67c-44d1-8591-f44208c196e3",
+    "name": "Doubleclap Radio",
+    "url": "https://s3.radio.co/scfd7273b2/listen",
+    "url_resolved": "https://s3.radio.co/scfd7273b2/listen",
+    "homepage": "https://doubleclap.dance/",
+    "favicon": "https://doubleclap.dance/wp-content/uploads/2020/05/logo.png",
+    "countrycode": "FI",
+    "state": "",
+    "language": "english,finnish",
+    "tags": "dance,electronic,hardstyle,house,lounge,psytrance,trance",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 546,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9623284b-0601-11e8-ae97-52543be04c81",
+    "name": "674FM",
+    "url": "http://audio.674.fm/stream",
+    "url_resolved": "http://audio.674.fm/stream",
+    "homepage": "http://674.fm/",
+    "favicon": "http://674.fm/favicon.ico",
+    "countrycode": "DE",
+    "state": "North Rhine-Westphalia",
+    "language": "german",
+    "tags": "alternative,breakbeat,deep house,disco,drum and bass,electronica,funk,hiphop,house,minimal techno,rap,soul,techno",
+    "codec": "MP3",
+    "bitrate": 320,
+    "votes": 529,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "07f2791f-98e9-4811-a47f-e0fe7833751b",
+    "name": "Club Charts -  DEEJAY & REMIX Radio @ NON-STOP MUSIC, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Charts, RnB, 90s, 90er, Eurodance, Urban, DJ Mixtapes",
+    "url": "https://breakz-office.rautemusik.fm/?ref=radiobrowser-club-charts",
+    "url_resolved": "https://breakz-office.rautemusik.fm/?ref=radiobrowser-club-charts",
+    "homepage": "https://breakz.fm/",
+    "favicon": "https://i.ibb.co/SB5kwmJ/Club-Charts-Logo.jpg",
+    "countrycode": "DE",
+    "state": "",
+    "language": "german",
+    "tags": "#charts,ambient lounge,beatport,club,club house,dance music,deep house,dj remix,electronic dance music,hits,house,mixtapes,moombahton,música urbana,reggaeton,remix,remixed,rnb,soulful house,tech house,top 40,top charts,top hits",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 527,
+    "clickcount": 16
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "52adc4eb-92c9-4214-ba8c-dff98d386b83",
+    "name": "Epic Lounge - SOFT HOUSE LOUNGE",
+    "url": "https://stream.epic-lounge.com/soft-house-lounge?ref=radiobrowser",
+    "url_resolved": "https://stream.epic-lounge.com/soft-house-lounge?ref=radiobrowser",
+    "homepage": "https://epic-lounge.com/",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "north-rhine-westphalia",
+    "language": "english,german",
+    "tags": "chillout,chillout+lounge,deep house,house,lounge,lounge music",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 522,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f1174669-b7ad-4668-8369-db995e6ecc8d",
+    "name": "- NEUERSCHEINUNGEN - Radio Charts - DJ Charts - Club Charts - Top 100 - Top 40 Club - Pop, Hip-Hop, Dance, EDM, House, Techno, R&B, Trap, Reggaeton, Afrobeat, Indie-Pop, Tropical House, Future Bass, Electro Swing, Synthwave, Deep House, Progressive House, Vocal House, DJ Sets, Remix, Mashup, Dancefloor, Festival-Hits, Club-Hits, Nightlife, Underground.",
+    "url": "https://breakz-high.rautemusik.fm/?ref=rb-neuerscheinungen",
+    "url_resolved": "https://breakz-high.rautemusik.fm/?ref=rb-neuerscheinungen",
+    "homepage": "https://www.breakz.fm/",
+    "favicon": "https://i.ibb.co/7J492pjD/neuersachein.jpg",
+    "countrycode": "DE",
+    "state": "North Rhine-Westphalia",
+    "language": "english,german",
+    "tags": "chillout,club,club dance,dj,dj sets,electro sets,electronic dance music,future bass,house,ibiza,mashup,non-stop music,pop,pop dance,pop music,promodj,radiocharts,remixes,soul,sunset,tech house,techhouse,top 100,top 40,top charts,top club,top hits,top100,top40",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 516,
+    "clickcount": 88
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "960b6d95-0601-11e8-ae97-52543be04c81",
+    "name": "Radio X Basel (MP3 Stream)",
+    "url": "http://mp3.radiox.ch:8000/standard.mp3.m3u",
+    "url_resolved": "http://mp3.radiox.ch:8000/standard.mp3",
+    "homepage": "http://www.radiox.ch/",
+    "favicon": "",
+    "countrycode": "CH",
+    "state": "Basel",
+    "language": "",
+    "tags": "drum and bass,electronica,hiphop,house,indie,reggae,trance",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 505,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "eb4bf121-27c1-11e9-a80b-52543be04c81",
+    "name": "laut.fm - clubhits",
+    "url": "http://stream.laut.fm/clubhits",
+    "url_resolved": "http://stream.laut.fm/clubhits",
+    "homepage": "http://laut.fm/clubhits",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "Nordrhein-Westfalen",
+    "language": "german",
+    "tags": "dance,edm,electro,house,techno,trance",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 497,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9623a3f5-0601-11e8-ae97-52543be04c81",
+    "name": "Radio Party Groove",
+    "url": "http://stream15.top-ix.org/partygroove",
+    "url_resolved": "http://stream15.top-ix.org/partygroove",
+    "homepage": "http://www.partygroove.it/",
+    "favicon": "",
+    "countrycode": "IT",
+    "state": "Piemonte",
+    "language": "italian",
+    "tags": "alpignano,chillout,funk,house",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 466,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9644e275-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - Sound Of Berlin",
+    "url": "http://streams.fluxfm.de/soundofberlin/mp3-320/audio/play.m3u",
+    "url_resolved": "http://fluxfm.streamabc.net/flx-soundofberlin-mp3-320-9689589?sABC=6ns53474%230%236q8s7o7o3p7411o9n0871834qs5r90so%23nhqvb&aw_0_1st.playerid=audio&amsparams=playerid:audio;skey:1794454644",
+    "homepage": "http://www.fluxfm.de/",
+    "favicon": "http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
+    "countrycode": "DE",
+    "state": "Berlin",
+    "language": "german",
+    "tags": "electro,house",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 460,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "6c4f7ec4-7ab4-4c98-901a-27a530df628f",
+    "name": "BreakZ HipHop & House",
+    "url": "https://breakz-high.rautemusik.fm/?ref=radio-browser-info",
+    "url_resolved": "https://breakz-high.rautemusik.fm/?ref=radio-browser-info",
+    "homepage": "https://superstreams.de/",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "Deutschland (Germany)",
+    "language": "american english,english,german",
+    "tags": "edm,elektro,elektronik,hiphop,hits,house,moombahton,pop,rap,reggaeton,rnb,techno,top40",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 453,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "1fe81c19-cdf5-4081-b749-bdc492755d55",
+    "name": "DjRemix Club",
+    "url": "http://curiosity.shoutca.st:8114/;",
+    "url_resolved": "http://curiosity.shoutca.st:8114/;",
+    "homepage": "https://djremixclub.co.uk/",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "",
+    "language": "english",
+    "tags": "club dance,dance,dj mix,house",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 447,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "eac7805e-e9e5-11e8-a471-52543be04c81",
+    "name": "Freak31",
+    "url": "http://stream.freak31.com:8322/",
+    "url_resolved": "http://stream.freak31.com:8322/",
+    "homepage": "http://www.freak31.com/",
+    "favicon": "https://static.wixstatic.com/media/f13c33_866969d6fd224cf59eb44f47a88fc300.png",
+    "countrycode": "NL",
+    "state": "Amsterdam",
+    "language": "dutch",
+    "tags": "house,soulful house",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 432,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c82a18f5-cd8e-475d-8c3e-9357693b5690",
+    "name": "B4B CLUB DANCE OFFICIAL",
+    "url": "https://www.b4bradio.com/flux/deep-house.m3u",
+    "url_resolved": "http://eu10.fastcast4u.com:8120/",
+    "homepage": "https://www.b4bradio.com/",
+    "favicon": "",
+    "countrycode": "FR",
+    "state": "Paris",
+    "language": "french",
+    "tags": "club,club dance,dance,deep house,house",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 429,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "cb9ebb6d-a3e4-11e8-abb8-52543be04c81",
+    "name": "Art Of Music",
+    "url": "http://sr6.inmystream.info:8024/stream",
+    "url_resolved": "http://sr6.inmystream.info:8024/stream",
+    "homepage": "https://artofmusic.fm/",
+    "favicon": "https://artofmusic.fm/resources/apple-touch-icon.png",
+    "countrycode": "IT",
+    "state": "",
+    "language": "english",
+    "tags": "disco,funk,house,nu-jazz,rare groove,soul,soulful",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 422,
     "clickcount": 5
   }
 ]

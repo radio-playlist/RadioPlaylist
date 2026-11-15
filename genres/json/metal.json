@@ -14,44 +14,8 @@
     "tags": "80s,aor,glam metal,hair metal,hard rock,heavy metal,metal",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 42037,
-    "clickcount": 72
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960cca40-0601-11e8-ae97-52543be04c81",
-    "name": "Rock Antenne - Heavy Metal",
-    "url": "http://mp3channels.webradio.rockantenne.de/heavy-metal",
-    "url_resolved": "http://mp3channels.webradio.rockantenne.de/heavy-metal",
-    "homepage": "http://www.rockantenne.de/",
-    "favicon": "http://www.rockantenne.de/logos/station-rock-antenne/favicon.ico",
-    "countrycode": "DE",
-    "state": "Bavaria",
-    "language": "german",
-    "tags": "heavy metal,metal",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 34450,
-    "clickcount": 142
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9617d67b-0601-11e8-ae97-52543be04c81",
-    "name": "Antyradio",
-    "url": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
-    "url_resolved": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
-    "homepage": "http://www.antyradio.pl/",
-    "favicon": "https://gfx.antyradio.pl/design/antyradio/src/images/favicon/favicon_180x180.png",
-    "countrycode": "PL",
-    "state": "",
-    "language": "polish",
-    "tags": "metal,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 27906,
-    "clickcount": 70
+    "votes": 42236,
+    "clickcount": 120
   },
   {
     "id": null,
@@ -68,26 +32,8 @@
     "tags": "metal,music",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 14273,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "961d7ccb-0601-11e8-ae97-52543be04c81",
-    "name": "Radio Beat",
-    "url": "http://icecast2.play.cz/radiobeat128.mp3",
-    "url_resolved": "http://icecast2.play.cz/radiobeat128.mp3",
-    "homepage": "http://www.radiobeat.cz/",
-    "favicon": "",
-    "countrycode": "CZ",
-    "state": "",
-    "language": "czech",
-    "tags": "classic rock,heavy metal,metal,rock",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 9925,
-    "clickcount": 15
+    "votes": 14307,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -104,8 +50,8 @@
     "tags": "classic rock,metal,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8120,
-    "clickcount": 56
+    "votes": 8164,
+    "clickcount": 77
   },
   {
     "id": null,
@@ -122,8 +68,8 @@
     "tags": "alternative rock,metal,rock",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 7866,
-    "clickcount": 24
+    "votes": 7898,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -140,8 +86,8 @@
     "tags": "electronic,metal,rock,spanish rock",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 7557,
-    "clickcount": 13
+    "votes": 7576,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -158,8 +104,8 @@
     "tags": "classic rock,hard rock,metal,requests",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 5593,
-    "clickcount": 19
+    "votes": 5616,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -167,7 +113,7 @@
     "stationuuid": "9637d635-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - 80's HairBand",
     "url": "http://www.181.fm/stream/pls/181-hairband.pls",
-    "url_resolved": "http://listen.181fm.com/181-hairband_128k.mp3",
+    "url_resolved": "https://listen.181fm.com/181-hairband_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "http://www.181.fm/favicon.ico",
     "countrycode": "US",
@@ -176,8 +122,8 @@
     "tags": "80s,hair metal,metal,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4391,
-    "clickcount": 21
+    "votes": 4406,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -194,8 +140,8 @@
     "tags": "80s,alternative rock,classic rock,hair metal,hard rock,heavy metal,indie rock,metal,power rock,punk rock,rock,rock ballads",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3718,
-    "clickcount": 10
+    "votes": 3734,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -212,8 +158,8 @@
     "tags": "alternative,blues,dance,eclectic,electronic,experimental,funk,grime,hip hop,house,indie,jazz,metal,pop,punk,r&b,reggae,rock,ska,soul,techno,world",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 3478,
-    "clickcount": 135
+    "votes": 3536,
+    "clickcount": 160
   },
   {
     "id": null,
@@ -230,8 +176,8 @@
     "tags": "60's,60s,70's,70er,70s,80's,80er,80s,90's,90er,90s,black metal,classic hits,classic metal,classic rock,entretenimiento,fm,hard rock,heavy metal,local radio,metal,music,musica,oldies,public radio,radio,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2963,
-    "clickcount": 71
+    "votes": 3003,
+    "clickcount": 123
   },
   {
     "id": null,
@@ -248,8 +194,8 @@
     "tags": "metal,power metal",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 2543,
-    "clickcount": 1
+    "votes": 2551,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -266,8 +212,8 @@
     "tags": "80s,alternative,crossover,darkwave,ebm,gothic,industrial,metal,new wave,newcomer,underground",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2428,
-    "clickcount": 15
+    "votes": 2437,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -284,8 +230,8 @@
     "tags": "classic metal,hard rock,hardcore,heavy metal,metal,thrash",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2380,
-    "clickcount": 11
+    "votes": 2381,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -302,8 +248,8 @@
     "tags": "metal,rock",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 2085,
-    "clickcount": 7
+    "votes": 2097,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -320,8 +266,8 @@
     "tags": "alternative rock,classic rock,indie rock,lossless,metal,pop rock,progressive rock,rock",
     "codec": "OGG",
     "bitrate": 0,
-    "votes": 2043,
-    "clickcount": 27
+    "votes": 2051,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -338,8 +284,8 @@
     "tags": "black metal,death metal,heavy metal,metal,symphonic metal,thrash metal",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 1839,
-    "clickcount": 8
+    "votes": 1848,
+    "clickcount": 29
   },
   {
     "id": null,
@@ -356,26 +302,8 @@
     "tags": "alternative rock,classic rock,hard rock,heavy metal,metal,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1787,
-    "clickcount": 43
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "77e606ea-bf7d-11e9-8502-52543be04c81",
-    "name": "Best Net Radio - 80s Metal",
-    "url": "http://bigrradio-edge1.cdnstream.com/5146_128",
-    "url_resolved": "http://bigrradio-edge1.cdnstream.com/5146_128",
-    "homepage": "http://www.bestnetradio.com/",
-    "favicon": "",
-    "countrycode": "US",
-    "state": "",
-    "language": "",
-    "tags": "80s,metal",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1758,
-    "clickcount": 3
+    "votes": 1798,
+    "clickcount": 52
   },
   {
     "id": null,
@@ -392,8 +320,8 @@
     "tags": "hard rock,metal,nu metal",
     "codec": "AAC",
     "bitrate": 24,
-    "votes": 1685,
-    "clickcount": 30
+    "votes": 1709,
+    "clickcount": 42
   },
   {
     "id": null,
@@ -410,26 +338,8 @@
     "tags": "metal,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1632,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ddf0a603-ed3a-4d52-8d1b-cc11357734f3",
-    "name": "Epic Rock Radio",
-    "url": "https://securestreams6.autopo.st:2222/stream",
-    "url_resolved": "https://securestreams6.autopo.st:2222/stream",
-    "homepage": "https://www.epicrockradio.com/",
-    "favicon": "",
-    "countrycode": "DE",
-    "state": "",
-    "language": "",
-    "tags": "epic,metal,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1606,
-    "clickcount": 1
+    "votes": 1637,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -446,8 +356,8 @@
     "tags": "gothic,metal,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1413,
-    "clickcount": 8
+    "votes": 1416,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -464,8 +374,8 @@
     "tags": "america's pure rock,hard rock,heavy metal,metal,new rock,purerock,the greaseman",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1398,
-    "clickcount": 5
+    "votes": 1408,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -482,8 +392,8 @@
     "tags": "metal,power metal",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1385,
-    "clickcount": 23
+    "votes": 1402,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -500,26 +410,8 @@
     "tags": "metal,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1270,
+    "votes": 1278,
     "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f99e4bda-71b9-11ea-b1cf-52543be04c81",
-    "name": "rockfm.ru heavy",
-    "url": "https://jfm1.hostingradio.ru:14536/metal.mp3",
-    "url_resolved": "https://jfm1.hostingradio.ru:14536/metal.mp3",
-    "homepage": "https://rockfm.ru/",
-    "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
-    "countrycode": "RU",
-    "state": "",
-    "language": "russian",
-    "tags": "heavy metal,metal",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1207,
-    "clickcount": 3
   },
   {
     "id": null,
@@ -536,8 +428,26 @@
     "tags": "black metal,metal",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1206,
-    "clickcount": 13
+    "votes": 1210,
+    "clickcount": 16
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f99e4bda-71b9-11ea-b1cf-52543be04c81",
+    "name": "rockfm.ru heavy",
+    "url": "https://jfm1.hostingradio.ru:14536/metal.mp3",
+    "url_resolved": "https://jfm1.hostingradio.ru:14536/metal.mp3",
+    "homepage": "https://rockfm.ru/",
+    "favicon": "https://www.rockfm.ru/favicons/apple-touch-icon.png",
+    "countrycode": "RU",
+    "state": "",
+    "language": "russian",
+    "tags": "heavy metal,metal",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1208,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -554,8 +464,8 @@
     "tags": "metal,nu metal",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 1192,
-    "clickcount": 3
+    "votes": 1194,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -572,8 +482,8 @@
     "tags": "classic rock,hard rock,metal,rok",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 1152,
-    "clickcount": 7
+    "votes": 1157,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -590,8 +500,26 @@
     "tags": "metal,progressive",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 1119,
-    "clickcount": 3
+    "votes": 1120,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9645197f-0601-11e8-ae97-52543be04c81",
+    "name": "FluxFM - MetalFM",
+    "url": "http://streams.fluxfm.de/metalfm/mp3-320/radiode/play.m3u",
+    "url_resolved": "http://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6ns5180s%230%236q8s7o7o3p7411o9n0871834qs5r90so%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1794447375",
+    "homepage": "http://www.fluxfm.de/",
+    "favicon": "http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
+    "countrycode": "DE",
+    "state": "Berlin",
+    "language": "german",
+    "tags": "metal",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 1088,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -608,26 +536,8 @@
     "tags": "heavy metal,metal,radio caprice",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 1083,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9645197f-0601-11e8-ae97-52543be04c81",
-    "name": "FluxFM - MetalFM",
-    "url": "http://streams.fluxfm.de/metalfm/mp3-320/radiode/play.m3u",
-    "url_resolved": "http://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6nrqq673%230%236q8s7o7o3p7411o9n0871834qs5r90so%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1793971827",
-    "homepage": "http://www.fluxfm.de/",
-    "favicon": "http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
-    "countrycode": "DE",
-    "state": "Berlin",
-    "language": "german",
-    "tags": "metal",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 1083,
-    "clickcount": 2
+    "votes": 1084,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -644,8 +554,8 @@
     "tags": "deathcore,djent,mathcore,metal,metalcore,post-hardcore",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1071,
-    "clickcount": 7
+    "votes": 1074,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -662,26 +572,8 @@
     "tags": "alternative,indie,metal,punk,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1069,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "a9e7148e-167b-11ea-a620-52543be04c81",
-    "name": "BOLLOCKS Rock & Metal Radio",
-    "url": "https://s44.myradiostream.com/6588/;?type=http&nocache=1571393528?0.9592127816686777",
-    "url_resolved": "https://s44.myradiostream.com/6588/;?type=http&nocache=1571393528?0.9592127816686777",
-    "homepage": "http://bollocksradio.com/",
-    "favicon": "https://u.jimcdn.com/cms/o/s924f1217ff669ab4/img/favicon.png?t=1504408222",
-    "countrycode": "MX",
-    "state": "",
-    "language": "english,spanish",
-    "tags": "classic rock,heavy metal,indie rock,metal,rock",
-    "codec": "MP3",
-    "bitrate": 80,
-    "votes": 1041,
-    "clickcount": 0
+    "votes": 1073,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -698,8 +590,26 @@
     "tags": "hard rock,metal,rock",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 1024,
-    "clickcount": 93
+    "votes": 1051,
+    "clickcount": 101
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "a9e7148e-167b-11ea-a620-52543be04c81",
+    "name": "BOLLOCKS Rock & Metal Radio",
+    "url": "https://s44.myradiostream.com/6588/;?type=http&nocache=1571393528?0.9592127816686777",
+    "url_resolved": "https://s44.myradiostream.com/6588/;?type=http&nocache=1571393528?0.9592127816686777",
+    "homepage": "http://bollocksradio.com/",
+    "favicon": "https://u.jimcdn.com/cms/o/s924f1217ff669ab4/img/favicon.png?t=1504408222",
+    "countrycode": "MX",
+    "state": "",
+    "language": "english,spanish",
+    "tags": "classic rock,heavy metal,indie rock,metal,rock",
+    "codec": "MP3",
+    "bitrate": 80,
+    "votes": 1043,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -716,8 +626,8 @@
     "tags": "1960s,1970s,1980s,1990s,2010s,2020s,21st century,artrock,blues rock,death metal,dream theater,drgnu,folk rock,genesis,hard rock,hardrock,heavy metal,jazz,jethro tull,jinjer,livestream,metal,metalcore,music,opeth,pink floyd,pop-rock,prog-rock,progressive metal,progressive rock,rock,tool",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 954,
-    "clickcount": 5
+    "votes": 956,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -734,8 +644,8 @@
     "tags": "1990s,20th century,ac/dc,acdc,alternative,anthrax,art rock,avant garde,classic,cream,danzig,dark knight,der dunkle parabelritter,drgnu,europe,experimental,festivals,folk rock,foo fighters,garage punk,gig,glam rock,gothic,grunge,hardcore,heavy metal,heavy rock,hendrix,hits,indie,influencer,iron maiden,james taylor,knight,korn,led zeppelin,linkin park,live,livestream,megadeth,metal,metalcore,metallica,motorhead,motörhead,musik,new age,new wave,nirvana,nu punk,open air,paul simon,pop,pop-rock,prog,psychedelia,punk rock,queen,rainorshine,rhythm and blues,rock,rolling stones,sex pistols,slow rock,soft rock,symphonic rock,system of a down,t-rex,talking heads,wacken,wacken open air,wacken radio,woa",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 937,
-    "clickcount": 10
+    "votes": 941,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -752,8 +662,8 @@
     "tags": "metal",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 896,
-    "clickcount": 4
+    "votes": 897,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -770,8 +680,8 @@
     "tags": "heavy metal,melodic heavy metal,metal,radio caprice,rock",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 852,
-    "clickcount": 2
+    "votes": 853,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -788,8 +698,8 @@
     "tags": "metal,symphonic",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 825,
-    "clickcount": 3
+    "votes": 827,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -806,8 +716,8 @@
     "tags": "heavy metal,metal,power metal,radio caprice",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 818,
-    "clickcount": 1
+    "votes": 821,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -824,7 +734,7 @@
     "tags": "1980s,2010s,2020s,21st century,alternative/indie,classic rock,classic/dance/pop-rock,classical music,cream,digitalradio,drgnu,europe,hardrock,heavy rock (e.g. led zeppelin,hendrix),james taylor),livestream,metal,metal (e.g. iron maiden),musik,opera metal,prog / symphonic rock (e.g. yes),punk rock (e.g. sex pistols),rock,singer/songwriter (e.g. paul simon,symphonic metal",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 791,
+    "votes": 797,
     "clickcount": 4
   },
   {
@@ -843,7 +753,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 765,
-    "clickcount": 4
+    "clickcount": 5
   },
   {
     "id": null,
@@ -860,8 +770,8 @@
     "tags": "classic rock,metal,rock",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 734,
-    "clickcount": 2
+    "votes": 735,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -878,8 +788,8 @@
     "tags": "hard rock,heavy metal,metal",
     "codec": "AAC",
     "bitrate": 96,
-    "votes": 722,
-    "clickcount": 1
+    "votes": 726,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -896,26 +806,8 @@
     "tags": "hardrock,heavy metal,metal",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 703,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "1bf09691-f362-11e8-a471-52543be04c81",
-    "name": "- 0 N - Rock on Radio",
-    "url": "https://0n-rock.radionetz.de/0n-rock.mp3",
-    "url_resolved": "https://0n-rock.radionetz.de/0n-rock.mp3",
-    "homepage": "http://www.0nradio.com/",
-    "favicon": "https://www.0nradio.com/logos/0n-rock_600x600.jpg",
-    "countrycode": "DE",
-    "state": "Bayern",
-    "language": "german",
-    "tags": "alternative,classic rock,hard rock,metal,rock,soft rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 699,
-    "clickcount": 2
+    "votes": 705,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -932,8 +824,8 @@
     "tags": "death metal,heavy metal,melodic death metal,melodic metal,metal,radio caprice",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 688,
-    "clickcount": 1
+    "votes": 691,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -950,7 +842,7 @@
     "tags": "alternative,darkwave,ebm,gothic,industrial,metal,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 666,
+    "votes": 667,
     "clickcount": 2
   },
   {
@@ -968,8 +860,8 @@
     "tags": "blues,gdansk,jazz,metal,poland,polish,politechnika gdanska,pop,rock,student,student radio,world music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 664,
-    "clickcount": 7
+    "votes": 666,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -986,8 +878,8 @@
     "tags": "heavy metal,metal,radio caprice,symphonic metal,symphonic power metal",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 663,
-    "clickcount": 5
+    "votes": 664,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1004,8 +896,8 @@
     "tags": "hard rock,metal,thrash",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 657,
-    "clickcount": 15
+    "votes": 661,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -1023,7 +915,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 640,
-    "clickcount": 8
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1040,26 +932,8 @@
     "tags": "gothic,gothic rock,metal",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 638,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "960ef299-0601-11e8-ae97-52543be04c81",
-    "name": "RTBF Classic 21 - Metal",
-    "url": "https://radios.rtbf.be/wr-c21-metal-128.mp3",
-    "url_resolved": "https://radios.rtbf.be/wr-c21-metal-128.mp3",
-    "homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-metal",
-    "favicon": "http://www.rtbf.be/favicon.ico",
-    "countrycode": "BE",
-    "state": "",
-    "language": "french",
-    "tags": "metal,rtbf",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 631,
-    "clickcount": 5
+    "votes": 640,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1077,7 +951,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 593,
-    "clickcount": 2
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1094,8 +968,8 @@
     "tags": "1980s,1990s,2010s,2020s,21st century,black metal,cream,death metal,deathcore,digital radio,drgnu,europe,gothic metal,hardrock,heavy rock (e.g. led zeppelin,hendrix),james taylor),livestream,metal,metal (e.g. iron maiden),metalcore,music,punk rock (e.g. sex pistols),rock,singer/songwriter (e.g. paul simon,thrash metal",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 584,
-    "clickcount": 5
+    "votes": 586,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1112,8 +986,8 @@
     "tags": "alternative rock,metal,progressive metal,progressive rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 573,
-    "clickcount": 2
+    "votes": 579,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1130,44 +1004,8 @@
     "tags": "blues,classic rock,metal,punk,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 557,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "d82775da-f080-44d2-8de0-0effb81db596",
-    "name": "Rock FM",
-    "url": "https://stream2.rockfm.lt/crf128.mp3",
-    "url_resolved": "https://stream2.rockfm.lt/crf128.mp3",
-    "homepage": "https://rockfm.lt/",
-    "favicon": "https://rockfm.lt/wp-content/uploads/2024/11/logo-fav-100x100.png",
-    "countrycode": "LT",
-    "state": "",
-    "language": "lithuanian",
-    "tags": "metal,punk,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 554,
-    "clickcount": 17
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "259e410c-b516-11e8-afe1-52543be04c81",
-    "name": "METAL ONLY - http://www.metal-only.de,METAL ONLY - http://www.metal-only.de - 24h Black Death Heavy Metal Rock und mehr!",
-    "url": "https://metal-only.sp.radio.fm/stream",
-    "url_resolved": "https://metal-only.sp.radio.fm/stream",
-    "homepage": "",
-    "favicon": "https://www.metal-only.de/fileadmin/tpl//fav.ico",
-    "countrycode": "DE",
-    "state": "",
-    "language": "german",
-    "tags": "metal",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 551,
-    "clickcount": 1
+    "votes": 559,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1175,7 +1013,7 @@
     "stationuuid": "96451a5e-0601-11e8-ae97-52543be04c81",
     "name": "FluxFM - MetalFM",
     "url": "http://streams.fluxfm.de/metalfm/aac-64/radiode/play.m3u",
-    "url_resolved": "http://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871?sABC=6nrr869r%230%236q8s7o7o3p7411o9n0871834qs5r90so%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1794016926",
+    "url_resolved": "http://fluxfm.streamabc.net/flx-metalfm-aacplus-64-8203871?sABC=6ns57r16%230%236q8s7o7o3p7411o9n0871834qs5r90so%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1794473494",
     "homepage": "http://www.fluxfm.de/",
     "favicon": "http://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
     "countrycode": "DE",
@@ -1185,7 +1023,25 @@
     "codec": "AAC",
     "bitrate": 0,
     "votes": 531,
-    "clickcount": 0
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "0e37ece1-7969-42d9-ac04-13bfdd3e8c10",
+    "name": "RADIO BOB! BOBs Wacken Nonstop (192kbit)",
+    "url": "http://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de/",
+    "url_resolved": "http://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de/",
+    "homepage": "http://player.radiobob.de/",
+    "favicon": "http://aggregatorservice.loverad.io/wp-content/uploads/2018/07/radiobob-streamicon_wacken.png",
+    "countrycode": "DE",
+    "state": "",
+    "language": "english,german",
+    "tags": "festival,heavy metal,megadeth,metal,metallica,motörhead,open air,radio bob,rainorshine,wacken,wacken open air,woa",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 523,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1208,24 +1064,6 @@
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "0e37ece1-7969-42d9-ac04-13bfdd3e8c10",
-    "name": "RADIO BOB! BOBs Wacken Nonstop (192kbit)",
-    "url": "http://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de/",
-    "url_resolved": "http://streams.radiobob.de/bob-wacken/mp3-192/streams.radiobob.de/",
-    "homepage": "http://player.radiobob.de/",
-    "favicon": "http://aggregatorservice.loverad.io/wp-content/uploads/2018/07/radiobob-streamicon_wacken.png",
-    "countrycode": "DE",
-    "state": "",
-    "language": "english,german",
-    "tags": "festival,heavy metal,megadeth,metal,metallica,motörhead,open air,radio bob,rainorshine,wacken,wacken open air,woa",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 521,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
     "stationuuid": "f957a66c-9ed9-4d96-8878-0f6ca24504ec",
     "name": "CRnet Hard Rock (128)",
     "url": "https://shoutcast.christianrock.net/stream/3/",
@@ -1239,7 +1077,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 514,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1256,7 +1094,7 @@
     "tags": "2000er,metal,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 477,
+    "votes": 478,
     "clickcount": 1
   },
   {
@@ -1293,7 +1131,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 463,
-    "clickcount": 2
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1311,7 +1149,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 462,
-    "clickcount": 6
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1328,26 +1166,8 @@
     "tags": "1990s,20th century,ac/dc,acdc,alternative,anthrax,art rock,avant garde,classic,cream,danzig,drgnu,europe,experimental,festivals,folk rock,foo fighters,garage punk,gig,glam rock,gothic,grunge,heavy metal,heavy rock,hendrix,hits,indie,iron maiden,james taylor,korn,led zeppelin,linkin park,live,livestream,megadeth,metal,metallica,motorhead,motörhead,new age,new wave,nirvana,nu punk,open air,paul simon,pop,pop-rock,prog,psychedelia,punk rock,queen,rainorshine,rhythm and blues,rock,rolling stones,sex pistols,slow rock,soft rock,symphonic rock,system of a down,t-rex,talking heads,wacken,wacken open air,wacken radio,woa",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 446,
-    "clickcount": 10
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "957eda2f-bb0b-4db4-b1fd-16d444dcf6fe",
-    "name": "irock24/7",
-    "url": "https://streamer.radio.co/s493283a7e/listen",
-    "url_resolved": "https://streamer.radio.co/s493283a7e/listen",
-    "homepage": "http://www.irock247.com/",
-    "favicon": "http://www.irock247.com/favicon.ico",
-    "countrycode": "CA",
-    "state": "",
-    "language": "english,french",
-    "tags": "classic rock,metal,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 445,
-    "clickcount": 3
+    "votes": 447,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1364,7 +1184,7 @@
     "tags": "metal,rock",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 438,
+    "votes": 440,
     "clickcount": 1
   },
   {
@@ -1382,8 +1202,8 @@
     "tags": "hardrock,metal,metallica",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 435,
-    "clickcount": 9
+    "votes": 439,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1400,8 +1220,8 @@
     "tags": "metal,nu metal,radio caprice",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 426,
-    "clickcount": 0
+    "votes": 429,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1419,25 +1239,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 425,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9e219cbd-9bd0-4950-997d-f17bd8fbe793",
-    "name": "Radio Metal",
-    "url": "https://radio3.pro-fhi.net/live/Radio%20Metal",
-    "url_resolved": "https://radio3.pro-fhi.net/live/Radio%20Metal",
-    "homepage": "http://www.radiometal.com/",
-    "favicon": "",
-    "countrycode": "FR",
-    "state": "",
-    "language": "",
-    "tags": "metal",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 403,
-    "clickcount": 3
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1454,8 +1256,8 @@
     "tags": "death metal,hard rock,heavy metal,metal,nu metal,rock",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 392,
-    "clickcount": 5
+    "votes": 393,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1478,6 +1280,24 @@
   {
     "id": null,
     "source": "radio_browser_github",
+    "stationuuid": "c2a05b77-3a27-48cb-9e39-6139c3045fd0",
+    "name": "Radio BOB - Nu Metal (mp3 192)",
+    "url": "https://streams.radiobob.de/numetal/mp3-192/",
+    "url_resolved": "https://streams.radiobob.de/numetal/mp3-192/",
+    "homepage": "https://www.radiobob.de/nu-metal-stream",
+    "favicon": "https://images.radiobob.de/files/2024-01/bob_stream-tile_nu-metal.jpg?fm=jpg&w=180&h=180&dpr=2",
+    "countrycode": "DE",
+    "state": "",
+    "language": "german",
+    "tags": "metal,nu metal",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 376,
+    "clickcount": 38
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
     "stationuuid": "3446b04f-839f-4367-b119-b85842787b97",
     "name": "__12PUNKS.FM__ by rautemusik (rm.fm)",
     "url": "https://12punks-high.rautemusik.fm/?ref=radiobrowser",
@@ -1491,43 +1311,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 375,
-    "clickcount": 12
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "c2a05b77-3a27-48cb-9e39-6139c3045fd0",
-    "name": "Radio BOB - Nu Metal (mp3 192)",
-    "url": "https://streams.radiobob.de/numetal/mp3-192/",
-    "url_resolved": "https://streams.radiobob.de/numetal/mp3-192/",
-    "homepage": "https://www.radiobob.de/nu-metal-stream",
-    "favicon": "https://images.radiobob.de/files/2024-01/bob_stream-tile_nu-metal.jpg?fm=jpg&w=180&h=180&dpr=2",
-    "countrycode": "DE",
-    "state": "",
-    "language": "german",
-    "tags": "metal,nu metal",
-    "codec": "MP3",
-    "bitrate": 0,
-    "votes": 367,
-    "clickcount": 17
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "b6c3612a-d0c3-4e0a-8e8b-9f50e74aa3f7",
-    "name": "UnderGRAND Radio",
-    "url": "http://stream.zeno.fm/rp1swb5pgzzuv",
-    "url_resolved": "http://stream.zeno.fm/rp1swb5pgzzuv",
-    "homepage": "https://undergrandradio.dotkomsite.com/",
-    "favicon": "https://img.sedoparking.com/templates/logos/sedo_logo.png",
-    "countrycode": "RS",
-    "state": "Vojvodina",
-    "language": "serbian",
-    "tags": "alternative,blues,funk,hard rock,jazz,metal,post rock,punk,underground",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 363,
-    "clickcount": 8
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1545,7 +1329,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 363,
-    "clickcount": 3
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1562,8 +1346,8 @@
     "tags": "hard rock,heavy metal,metal",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 354,
-    "clickcount": 0
+    "votes": 355,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1581,7 +1365,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 353,
-    "clickcount": 2
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1599,25 +1383,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 348,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "97ec5cf7-5423-4b76-952c-62e9e0c82762",
-    "name": "1055 Rock - Thessaloniki",
-    "url": "https://radio.1055rock.gr:31056/live",
-    "url_resolved": "https://radio.1055rock.gr:31056/live",
-    "homepage": "https://1055rock.gr/",
-    "favicon": "https://1055rock.gr/wp-content/uploads/2021/11/favicon2.jpg",
-    "countrycode": "GR",
-    "state": "",
-    "language": "english,greek",
-    "tags": "metal,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 326,
-    "clickcount": 30
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1634,8 +1400,8 @@
     "tags": "doom metal,funeral,metal",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 326,
-    "clickcount": 2
+    "votes": 327,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1653,7 +1419,7 @@
     "codec": "MP3",
     "bitrate": 160,
     "votes": 323,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1671,7 +1437,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 320,
-    "clickcount": 4
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1689,7 +1455,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 320,
-    "clickcount": 1
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1707,7 +1473,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 319,
-    "clickcount": 0
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1725,7 +1491,25 @@
     "codec": "AAC+",
     "bitrate": 64,
     "votes": 313,
-    "clickcount": 5
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c319a566-e9f1-4649-891b-adc324ab8e3d",
+    "name": "夜愿电台Nightwish Radio",
+    "url": "https://stream.zeno.fm/98wt67yfky8uv",
+    "url_resolved": "https://stream.zeno.fm/98wt67yfky8uv",
+    "homepage": "https://zeno.fm/radio/yeyuan/",
+    "favicon": "https://zeno.fm/favicon.ico",
+    "countrycode": "CN",
+    "state": "Dalian",
+    "language": "english",
+    "tags": "heavy metal,metal,music",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 302,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1743,25 +1527,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 301,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "c319a566-e9f1-4649-891b-adc324ab8e3d",
-    "name": "夜愿电台Nightwish Radio",
-    "url": "https://stream.zeno.fm/98wt67yfky8uv",
-    "url_resolved": "https://stream.zeno.fm/98wt67yfky8uv",
-    "homepage": "https://zeno.fm/radio/yeyuan/",
-    "favicon": "https://zeno.fm/favicon.ico",
-    "countrycode": "CN",
-    "state": "Dalian",
-    "language": "english",
-    "tags": "heavy metal,metal,music",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 300,
-    "clickcount": 5
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1779,7 +1545,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 299,
-    "clickcount": 5
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1797,6 +1563,240 @@
     "codec": "UNKNOWN",
     "bitrate": 0,
     "votes": 297,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "acd4d5fd-b4c9-4685-98d5-7d75309e5952",
+    "name": "80s Metal FM - BESTNETRADiO",
+    "url": "http://bigrradio-edge1.cdnstream.com/5146_128",
+    "url_resolved": "http://bigrradio-edge1.cdnstream.com/5146_128",
+    "homepage": "http://bestnetradio.com/",
+    "favicon": "https://i.ibb.co/WpxW9Nq/best80.png",
+    "countrycode": "US",
+    "state": "",
+    "language": "",
+    "tags": "80s,metal",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 286,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "961cbef9-0601-11e8-ae97-52543be04c81",
+    "name": "laut.fm Schwarze Szene",
+    "url": "http://stream.laut.fm/schwarzeszene",
+    "url_resolved": "http://stream.laut.fm/schwarzeszene",
+    "homepage": "http://laut.fm/schwarzeszene",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "",
+    "language": "german",
+    "tags": "dark wave,electro,gothic,industrial,medieval,metal,neofolk",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 285,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "40386f09-7c9b-470e-b6df-03b4a1f30f70",
+    "name": "De Tijdloze",
+    "url": "http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3",
+    "url_resolved": "http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3",
+    "homepage": "https://www.stubru.be/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/5/56/De_Tijdloze.png",
+    "countrycode": "BE",
+    "state": "Brussels",
+    "language": "dutch,flammish",
+    "tags": "alternative indie rock,metal,vrt",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 279,
+    "clickcount": 47
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "d220916c-2d5c-48de-a785-b4a466ec790b",
+    "name": "Virage Radio Metal",
+    "url": "https://virage-radio-metal.ice.infomaniak.ch/virage-radio-metal.aac?i=65804",
+    "url_resolved": "https://virage-radio-metal.ice.infomaniak.ch/virage-radio-metal.aac?i=65804",
+    "homepage": "https://www.virageradio.com/",
+    "favicon": "https://www.virageradio.com/apple-touch-icon-120x120.png",
+    "countrycode": "FR",
+    "state": "",
+    "language": "",
+    "tags": "metal",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 271,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "78563d75-79f2-4c67-a80d-291891e2fb88",
+    "name": "Bandit Metal",
+    "url": "https://wr03-ice.stream.khz.se/wr03_mp3",
+    "url_resolved": "https://wr03-ice.stream.khz.se/wr03_mp3",
+    "homepage": "https://www.viaplayradio.se/banditmetal/",
+    "favicon": "https://www.phonostar.de/images/auto_created/bandit_metal2184x184.png",
+    "countrycode": "SE",
+    "state": "",
+    "language": "",
+    "tags": "death metal,hard rock,metal",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 269,
+    "clickcount": 14
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9cabd2b9-50dd-4eda-b8ec-ea301cf2b5fb",
+    "name": "Radio Caprice - Symphonic Death Metal",
+    "url": "http://213.141.131.10:8000/symphodeath.m3u",
+    "url_resolved": "http://213.141.131.10:8000/symphodeath",
+    "homepage": "http://radcap.ru/",
+    "favicon": "",
+    "countrycode": "RU",
+    "state": "",
+    "language": "",
+    "tags": "death metal,metal,radcap,radio caprice; radcap,radion caprice,symphonic death metal",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "votes": 246,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9626c92b-0601-11e8-ae97-52543be04c81",
+    "name": "beatdownx",
+    "url": "http://stream.laut.fm/beatdownx",
+    "url_resolved": "http://stream.laut.fm/beatdownx",
+    "homepage": "http://laut.fm/beatdownx",
+    "favicon": "",
+    "countrycode": "DE",
+    "state": "",
+    "language": "german",
+    "tags": "deathcore,hardcore,metal,metalcore",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 241,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "949aec8c-2342-4f02-9312-e3f74cf840f6",
+    "name": "RadCap - Thrash Black Metal",
+    "url": "http://213.141.131.10:8004/thrashblack",
+    "url_resolved": "http://213.141.131.10:8004/thrashblack",
+    "homepage": "http://radcap.ru/thrashblack.html",
+    "favicon": "",
+    "countrycode": "RU",
+    "state": "Moscow (Russia)",
+    "language": "russian",
+    "tags": "metal,radio caprice,thrash black metal",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "votes": 240,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "31cd1741-fc0d-40a2-8f3a-5af71801dfc7",
+    "name": "El Fin del Silencio",
+    "url": "https://servidor24-1.brlogic.com:7302/live",
+    "url_resolved": "https://servidor24-1.brlogic.com:7302/live",
+    "homepage": "https://www.elfindelsilencio.com/",
+    "favicon": "",
+    "countrycode": "BO",
+    "state": "Cochabamba",
+    "language": "español internacional",
+    "tags": "hardcore,hiphop,metal,pop,punk,rap,rock",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 227,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "b659e9d3-861e-11e9-aa30-52543be04c81",
+    "name": "Radio DarkFire",
+    "url": "https://radio-darkfire.de/listen/radiodar.asx",
+    "url_resolved": "http://37.59.82.8:8344/",
+    "homepage": "https://radio-darkfire.de/",
+    "favicon": "",
+    "countrycode": "",
+    "state": "Germany",
+    "language": "german",
+    "tags": "gothic,metal,rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 220,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "0f129823-2b5b-4ea3-a4f9-d1e6eeddf1bf",
+    "name": "Radio Caprice - Epic Metal",
+    "url": "http://79.111.119.111:8000/epicmetal.m3u",
+    "url_resolved": "http://79.111.119.111:8000/epicmetal",
+    "homepage": "http://radcap.ru/",
+    "favicon": "http://radcap.ru/apple-touch-icon.png",
+    "countrycode": "RU",
+    "state": "",
+    "language": "",
+    "tags": "epic metal,hard rock,heavy metal,metal,radio caprice,rock",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "votes": 210,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "931af451-e02f-493d-a693-a1ea9d870419",
+    "name": "Gnu Radio - Metal FM",
+    "url": "https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=61s83r32%230%2389nqs1p1q8rrq2q126260sp7877or6oo%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1643658802",
+    "url_resolved": "https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=61s83r32%230%2389nqs1p1q8rrq2q126260sp7877or6oo%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1643658802",
+    "homepage": "https://www.gnuradio.org/",
+    "favicon": "https://www.gnuradio.org/favicon.ico",
+    "countrycode": "CH",
+    "state": "",
+    "language": "english",
+    "tags": "classic metal,drgnu,gnu,gnu radio,metal,metal fm,radio",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 209,
+    "clickcount": 0
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "38b0288f-79be-438f-8da8-ec7cfcd6cb2d",
+    "name": "DrGnu - 70th Rock",
+    "url": "http://fluxfm.streamabc.net/flx-70er-mp3-320-4383769?sABC=6202qr25%230%237osorqnn86p8nnp979o1124290qqo247%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355109",
+    "url_resolved": "http://fluxfm.streamabc.net/flx-70er-mp3-320-4383769?sABC=6202qr25%230%237osorqnn86p8nnp979o1124290qqo247%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355109",
+    "homepage": "https://www.fluxfm.de/",
+    "favicon": "https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
+    "countrycode": "DE",
+    "state": "",
+    "language": "english",
+    "tags": "1990s,20th century,ac/dc,acdc,alternative,anthrax,art rock,avant garde,classic,cream,danzig,europe,experimental,festivals,folk rock,foo fighters,garage punk,gig,glam rock,gothic,grunge,hardcore,heavy metal,heavy rock,hendrix,hits,indie,iron maiden,james taylor,korn,led zeppelin,linkin park,live,livestream,megadeth,metal,metalcore,metallica,motorhead,motörhead,musik,new age,new wave,nirvana,nu punk,open air,paul simon,pop,pop-rock,prog,psychedelia,punk rock,queen,rainorshine,rhythm and blues,rock,rolling stones,sex pistols,slow rock,soft rock,symphonic rock,system of a down,t-rex,talking heads,wacken,wacken open air,wacken radio,woa",
+    "codec": "MP3",
+    "bitrate": 0,
+    "votes": 204,
     "clickcount": 0
   }
 ]

@@ -14,8 +14,8 @@
     "tags": "adult contemporary,jazz,pop,smooth jazz",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 33488,
-    "clickcount": 62
+    "votes": 33524,
+    "clickcount": 83
   },
   {
     "id": null,
@@ -31,9 +31,9 @@
     "language": "brazilian portuguese",
     "tags": "brasil,flashback,internacionais,nacionais,recordações,saudades",
     "codec": "AAC+",
-    "bitrate": 52,
-    "votes": 22716,
-    "clickcount": 45
+    "bitrate": 48,
+    "votes": 22757,
+    "clickcount": 50
   },
   {
     "id": null,
@@ -50,62 +50,8 @@
     "tags": "adult contemporary,lite",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 21345,
-    "clickcount": 39
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "4534dd5f-b22a-11e8-afe1-52543be04c81",
-    "name": "Antena 1 FM 103.7 Rio de Janeiro",
-    "url": "http://a1rj.streams.com.br:7801/stream",
-    "url_resolved": "http://a1rj.streams.com.br:7801/stream",
-    "homepage": "https://www.antena1rio.com.br/",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "Rio de Janeiro",
-    "language": "portuguese",
-    "tags": "adult contemporary,lite",
-    "codec": "AAC+",
-    "bitrate": 96,
-    "votes": 16488,
-    "clickcount": 18
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "3c1d95a5-b477-11e8-afe1-52543be04c81",
-    "name": "Rádio Bossa Nova Brazil",
-    "url": "http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil",
-    "url_resolved": "http://54.38.43.201:8009/stream-128kmp3-BossaNovaBrazil",
-    "homepage": "http://www.vip-radios.fm/station/bossa-nova-brazil/",
-    "favicon": "http://www.vip-radios.fm/favicon.ico",
-    "countrycode": "BR",
-    "state": "",
-    "language": "portuguese",
-    "tags": "bossa nova,brazilian music",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 14092,
-    "clickcount": 40
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "5dcbb03d-423a-4f97-8af5-b95981094c69",
-    "name": "Rádio Saudade FM 99.7",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac",
-    "homepage": "https://www.saudadefm.com.br/",
-    "favicon": "https://img.radios.com.br/radio/lg/radio8_1626274312.png",
-    "countrycode": "BR",
-    "state": "Santos, Sao Paulo (Brazil)",
-    "language": "portuguese",
-    "tags": "adult,classic hits,flashback",
-    "codec": "AAC+",
-    "bitrate": 64,
-    "votes": 11792,
-    "clickcount": 72
+    "votes": 21426,
+    "clickcount": 75
   },
   {
     "id": null,
@@ -122,8 +68,8 @@
     "tags": "80s,90s,disco,disco funk,funk",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 10273,
-    "clickcount": 11
+    "votes": 10292,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -140,7 +86,7 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 9423,
+    "votes": 9460,
     "clickcount": 21
   },
   {
@@ -158,44 +104,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 9256,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "7ada8a81-5ae1-418c-8f18-51d2f38d86a4",
-    "name": "Bossa Jazz Brasil",
-    "url": "https://centova5.transmissaodigital.com:20104/live",
-    "url_resolved": "https://centova5.transmissaodigital.com:20104/live",
-    "homepage": "https://bossajazzbrasil.com/",
-    "favicon": "https://bossajazzbrasil.com/wp-content/uploads/2020/12/cropped-bjs-app-180x180.png",
-    "countrycode": "BR",
-    "state": "",
-    "language": "brazilian portuguese",
-    "tags": "bossa nova,jazz,mpb",
-    "codec": "AAC+",
-    "bitrate": 64,
-    "votes": 9078,
-    "clickcount": 137
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "8cf1083b-a326-11e8-abb8-52543be04c81",
-    "name": "JB FM",
-    "url": "http://provisioning.streamtheworld.com/pls/JBFMAAC.pls",
-    "url_resolved": "http://26683.live.streamtheworld.com:3690/JBFMAAC_SC",
-    "homepage": "https://jb.fm/",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "Rio de Janeiro",
-    "language": "portuguese",
-    "tags": "",
-    "codec": "AAC+",
-    "bitrate": 48,
-    "votes": 8773,
-    "clickcount": 10
+    "votes": 9268,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -212,26 +122,8 @@
     "tags": "nostalgia,nostalgic,rock,romantic",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 7977,
-    "clickcount": 16
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "65908a60-3a4c-4d8c-b66c-d8eb96faefc6",
-    "name": "89 A Radio Rock",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm",
-    "homepage": "https://www.radiorock.com.br/",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "São Paulo",
-    "language": "brazilian portuguese",
-    "tags": "alternative rock,rock",
-    "codec": "AAC+",
-    "bitrate": 128,
-    "votes": 7312,
-    "clickcount": 38
+    "votes": 8011,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -248,8 +140,8 @@
     "tags": "adult contemporary,brazilian music,jazz,pop,smooth jazz",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 7145,
-    "clickcount": 3
+    "votes": 7161,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -266,8 +158,8 @@
     "tags": "local news",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 5933,
-    "clickcount": 16
+    "votes": 5951,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -284,26 +176,8 @@
     "tags": "local news,news talk,variety",
     "codec": "AAC",
     "bitrate": 32,
-    "votes": 5615,
-    "clickcount": 24
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "06da0d92-28c2-11e9-a80b-52543be04c81",
-    "name": "Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac",
-    "homepage": "https://radiocidade.fm/",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "Rio de Janeiro",
-    "language": "portuguese",
-    "tags": "brazilian rock,classic rock,hot adult contemporary,soft rock",
-    "codec": "AAC+",
-    "bitrate": 48,
-    "votes": 5542,
-    "clickcount": 21
+    "votes": 5631,
+    "clickcount": 34
   },
   {
     "id": null,
@@ -320,8 +194,8 @@
     "tags": "jazz,smooth jazz,smooth lounge",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5061,
-    "clickcount": 54
+    "votes": 5104,
+    "clickcount": 105
   },
   {
     "id": null,
@@ -338,8 +212,8 @@
     "tags": "news,news talk",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 4608,
-    "clickcount": 31
+    "votes": 4639,
+    "clickcount": 51
   },
   {
     "id": null,
@@ -356,26 +230,8 @@
     "tags": "brazilian pop",
     "codec": "MP3",
     "bitrate": 48,
-    "votes": 4394,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "46d02cdb-49a6-11e9-a4d7-52543be04c81",
-    "name": "Gaúcha",
-    "url": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
-    "url_resolved": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
-    "homepage": "https://gauchazh.clicrbs.com.br/",
-    "favicon": "https://gauchazh.clicrbs.com.br/static/icons/mstile-70x70.png",
-    "countrycode": "BR",
-    "state": "Rio Grande do Sul",
-    "language": "portuguese",
-    "tags": "futebol,notícias",
-    "codec": "UNKNOWN",
-    "bitrate": 1000,
-    "votes": 4234,
-    "clickcount": 29
+    "votes": 4402,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -392,8 +248,8 @@
     "tags": "pop",
     "codec": "FLV",
     "bitrate": 0,
-    "votes": 3941,
-    "clickcount": 39
+    "votes": 3970,
+    "clickcount": 43
   },
   {
     "id": null,
@@ -410,8 +266,8 @@
     "tags": "m3u8",
     "codec": "UNKNOWN",
     "bitrate": 1000,
-    "votes": 3915,
-    "clickcount": 3
+    "votes": 3931,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -428,8 +284,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 3655,
-    "clickcount": 16
+    "votes": 3678,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -446,26 +302,8 @@
     "tags": "hits,pop,popular",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 3588,
-    "clickcount": 12
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "61156199-ece3-413e-ac39-7b2483513ab2",
-    "name": "Radio Mix FM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
-    "homepage": "https://radiomixfm.com.br/",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "São Paulo",
-    "language": "portuguese",
-    "tags": "pop,pop rock,teen pop",
-    "codec": "AAC+",
-    "bitrate": 64,
-    "votes": 3584,
-    "clickcount": 15
+    "votes": 3602,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -473,7 +311,7 @@
     "stationuuid": "96487106-0601-11e8-ae97-52543be04c81",
     "name": "Mix Rio 102.1 Rio de Janeiro, RJ",
     "url": "http://provisioning.streamtheworld.com/pls/MIXRIOAAC.pls",
-    "url_resolved": "http://27443.live.streamtheworld.com:3690/MIXRIOAAC_SC",
+    "url_resolved": "http://24233.live.streamtheworld.com:3690/MIXRIOAAC_SC",
     "homepage": "http://mixriofm.uol.com.br/",
     "favicon": "",
     "countrycode": "BR",
@@ -482,8 +320,8 @@
     "tags": "brazilian pop,rio de janeiro,top 40",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 3375,
-    "clickcount": 7
+    "votes": 3391,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -500,44 +338,8 @@
     "tags": "news,sports",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 3261,
-    "clickcount": 19
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "b6d2dba2-acfd-4add-ab3a-085527279f2e",
-    "name": "Rádio Grenal",
-    "url": "https://grenal.audiostream.com.br:20000/aac",
-    "url_resolved": "https://grenal.audiostream.com.br:20000/aac",
-    "homepage": "https://www.radiogrenal.com.br/",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "",
-    "language": "brazilian portuguese",
-    "tags": "sports",
-    "codec": "AAC+",
-    "bitrate": 48,
-    "votes": 3151,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "447a1a5f-aee6-4b21-b85f-10ceb1896ad3",
-    "name": "Alpha FM 101.7 MHz (São Paulo - SP)",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac",
-    "homepage": "https://www.alphafm.com.br/",
-    "favicon": "https://cdn-profiles.tunein.com/s8129/images/logod.jpg",
-    "countrycode": "BR",
-    "state": "São Paulo",
-    "language": "brazilian portuguese",
-    "tags": "light,misc,portuguese music",
-    "codec": "AAC+",
-    "bitrate": 128,
-    "votes": 3142,
-    "clickcount": 67
+    "votes": 3290,
+    "clickcount": 44
   },
   {
     "id": null,
@@ -554,8 +356,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3125,
-    "clickcount": 22
+    "votes": 3146,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -572,8 +374,8 @@
     "tags": "adult,adulta,flashback",
     "codec": "AAC",
     "bitrate": 48,
-    "votes": 3055,
-    "clickcount": 28
+    "votes": 3073,
+    "clickcount": 49
   },
   {
     "id": null,
@@ -590,8 +392,8 @@
     "tags": "misc",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 3013,
-    "clickcount": 5
+    "votes": 3023,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -608,62 +410,8 @@
     "tags": "news",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 2996,
-    "clickcount": 4
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "6da066a5-eddf-4640-8bfb-25070c52858d",
-    "name": "Rádio Transamérica 100.1 FM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac",
-    "homepage": "https://transamericafm.com.br/",
-    "favicon": "https://img.radios.com.br/radio/lg/radio8803_1578516680.png",
-    "countrycode": "BR",
-    "state": "Sao Paulo",
-    "language": "portuguese",
-    "tags": "adult,soccer",
-    "codec": "AAC+",
-    "bitrate": 32,
-    "votes": 2276,
-    "clickcount": 21
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ab764881-4afe-4436-9582-1339fe0357ef",
-    "name": "Rádio Metropolitana 98.5 FM Sertanejo",
-    "url": "https://ice.fabricahost.com.br/metrospsertanejo",
-    "url_resolved": "https://ice.fabricahost.com.br/metrospsertanejo",
-    "homepage": "https://metropolitanafm.com.br/",
-    "favicon": "https://metropolitanafm.com.br/wp-content/themes/metro/assets/imgs/favicon/favicon-96x96-2.png",
-    "countrycode": "BR",
-    "state": "São Paulo",
-    "language": "",
-    "tags": "",
-    "codec": "AAC+",
-    "bitrate": 48,
-    "votes": 2134,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f66f08c3-1616-4dd6-a54f-75aa29aa8249",
-    "name": "Rádio Itatiaia 95.7 FM",
-    "url": "https://8903.brasilstream.com.br/stream",
-    "url_resolved": "https://8903.brasilstream.com.br/stream",
-    "homepage": "https://www.itatiaia.com.br/",
-    "favicon": "https://img.radios.com.br/radio/lg/radio14_1646746883.jpeg",
-    "countrycode": "BR",
-    "state": "Minas Gerais",
-    "language": "portuguese",
-    "tags": "news,soccer,sports",
-    "codec": "AAC",
-    "bitrate": 64,
-    "votes": 2013,
-    "clickcount": 87
+    "votes": 3008,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -680,26 +428,8 @@
     "tags": "hits,international,local music,music,world music",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 1831,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "ce5aac6c-e499-4714-a28b-a1a94baa1b74",
-    "name": "Nova Brasil Fm São Paulo",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac",
-    "homepage": "https://novabrasilfm.com.br/",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "Sao Paulo (Brazil)",
-    "language": "",
-    "tags": "",
-    "codec": "AAC+",
-    "bitrate": 96,
-    "votes": 1786,
-    "clickcount": 17
+    "votes": 1844,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -716,8 +446,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 1720,
-    "clickcount": 14
+    "votes": 1740,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -735,7 +465,7 @@
     "codec": "AAC+",
     "bitrate": 96,
     "votes": 1658,
-    "clickcount": 7
+    "clickcount": 3
   },
   {
     "id": null,
@@ -752,8 +482,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 40,
-    "votes": 1610,
-    "clickcount": 15
+    "votes": 1624,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -770,44 +500,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 1546,
-    "clickcount": 2
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "cf11fdab-e7f9-4c0d-ac09-b55743510978",
-    "name": "Rádio 80FM",
-    "url": "http://104.247.221.130:9020/stream1",
-    "url_resolved": "http://104.247.221.130:9020/stream1",
-    "homepage": "https://www.radio80fm.com.br/",
-    "favicon": "https://www.radio80fm.com.br/favicon.ico",
-    "countrycode": "BR",
-    "state": "São Paulo",
-    "language": "portuguese",
-    "tags": "",
-    "codec": "AAC+",
-    "bitrate": 96,
-    "votes": 1501,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "901c92bd-a757-449a-b8ce-652b079fd38a",
-    "name": "Rádio Mix 106.3 FM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
-    "homepage": "https://aovivo.radiomixfm.com.br/",
-    "favicon": "https://img.radios.com.br/radio/lg/radio13955_1720711597.png",
-    "countrycode": "BR",
-    "state": "Sao Paulo",
-    "language": "portuguese",
-    "tags": "chr,pop-rock,youth",
-    "codec": "AAC+",
-    "bitrate": 64,
-    "votes": 1450,
-    "clickcount": 113
+    "votes": 1554,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -824,26 +518,8 @@
     "tags": "news,sports",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 1333,
-    "clickcount": 15
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "570cc99a-9159-4d91-9a8f-96ddb5b30797",
-    "name": "Rádio Antena 1 94.7 FM",
-    "url": "https://antenaone.crossradio.com.br/stream/1;",
-    "url_resolved": "https://antenaone.crossradio.com.br/stream/1;",
-    "homepage": "https://www.antena1.com.br/",
-    "favicon": "https://img.radios.com.br/radio/lg/radio9505_1574106966.jpg",
-    "countrycode": "BR",
-    "state": "Sao Paulo",
-    "language": "portuguese",
-    "tags": "adult,flashback",
-    "codec": "AAC+",
-    "bitrate": 96,
-    "votes": 1078,
-    "clickcount": 176
+    "votes": 1344,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -860,8 +536,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 1035,
-    "clickcount": 18
+    "votes": 1043,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -878,8 +554,8 @@
     "tags": "reggae",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 981,
-    "clickcount": 14
+    "votes": 994,
+    "clickcount": 35
   },
   {
     "id": null,
@@ -896,25 +572,7 @@
     "tags": "forró",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 944,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "29ca7136-4747-4dcf-92db-69ad65e2182b",
-    "name": "Rádio Buteco Sertanejo",
-    "url": "https://stream.zeno.fm/6kumndewqbruv",
-    "url_resolved": "https://stream.zeno.fm/6kumndewqbruv",
-    "homepage": "https://www.radiobutecosertanejo.com/",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "São Paulo",
-    "language": "brazilian portuguese,portugues do brasil,portuguese",
-    "tags": "country music,moda de viola,modao,musica romantica,radio online,sertaneja,sertanejo,sertanejo raiz",
-    "codec": "AAC",
-    "bitrate": 128,
-    "votes": 931,
+    "votes": 950,
     "clickcount": 13
   },
   {
@@ -932,8 +590,8 @@
     "tags": "",
     "codec": "UNKNOWN",
     "bitrate": 1000,
-    "votes": 893,
-    "clickcount": 16
+    "votes": 904,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -950,26 +608,8 @@
     "tags": "jazz,smooth jazz,suave",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 833,
-    "clickcount": 15
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "eda6bad4-8015-4494-b43e-b3d5b97a41c3",
-    "name": "Só Cacarecos - Classic Rock",
-    "url": "http://sokakarecos.ddns.net:9030/rock128",
-    "url_resolved": "http://sokakarecos.ddns.net:9030/rock128",
-    "homepage": "http://sokakarecos.com/",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "Rio de Janeiro",
-    "language": "",
-    "tags": "classic rock,progressive rock,soft rock",
-    "codec": "MP3",
-    "bitrate": 160,
-    "votes": 830,
-    "clickcount": 4
+    "votes": 841,
+    "clickcount": 47
   },
   {
     "id": null,
@@ -986,8 +626,8 @@
     "tags": "news,sports",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 826,
-    "clickcount": 9
+    "votes": 832,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1004,8 +644,8 @@
     "tags": "live sports,local news,news,news talk,sports,sports news",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 798,
-    "clickcount": 13
+    "votes": 804,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1022,8 +662,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 784,
-    "clickcount": 6
+    "votes": 794,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -1040,8 +680,8 @@
     "tags": "news,soccer",
     "codec": "UNKNOWN",
     "bitrate": 1000,
-    "votes": 760,
-    "clickcount": 24
+    "votes": 770,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -1058,8 +698,8 @@
     "tags": "anos 80,anos 90,brazilian music,moda de viola,romantica,sertaneja,sertanejo,sertanejo raiz",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 749,
-    "clickcount": 4
+    "votes": 756,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -1076,8 +716,8 @@
     "tags": "brasil,cristã,gospel,jesus",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 741,
-    "clickcount": 26
+    "votes": 746,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -1094,44 +734,8 @@
     "tags": "flashback",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 741,
-    "clickcount": 9
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "65a13604-d894-48dd-a240-e5611619c3e6",
-    "name": "Fay Só Forró das Antigas",
-    "url": "https://ssl.xcast.com.br:7132/stremig",
-    "url_resolved": "https://ssl.xcast.com.br:7132/stremig",
-    "homepage": "http://7602.site.stm-ip.com/",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "",
-    "language": "brazilian portuguese",
-    "tags": "forró",
-    "codec": "AAC+",
-    "bitrate": 128,
-    "votes": 732,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "456dae04-eaee-4dc3-bb8c-038412e24d04",
-    "name": "Rádio Máquina Instrumental",
-    "url": "https://servidor29-2.brlogic.com:8578/live",
-    "url_resolved": "https://servidor29-2.brlogic.com:8578/live",
-    "homepage": "http://radioinstrumental.com.br/",
-    "favicon": "https://public-rf-assets.minhawebradio.net/img/favicon.ico",
-    "countrycode": "BR",
-    "state": "",
-    "language": "brazilian portuguese",
-    "tags": "instrumental,orquesta",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 729,
-    "clickcount": 5
+    "votes": 744,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1148,44 +752,44 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 728,
-    "clickcount": 17
+    "votes": 735,
+    "clickcount": 18
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "70e5243b-507f-442b-a2d8-8137dacf97fc",
-    "name": "Radio Amigos da MPB",
-    "url": "http://stm4.voxhd.com.br:7086/",
-    "url_resolved": "http://stm4.voxhd.com.br:7086/",
-    "homepage": "https://leonelapantonellij.wixsite.com/website-3",
-    "favicon": "",
+    "stationuuid": "456dae04-eaee-4dc3-bb8c-038412e24d04",
+    "name": "Rádio Máquina Instrumental",
+    "url": "https://servidor29-2.brlogic.com:8578/live",
+    "url_resolved": "https://servidor29-2.brlogic.com:8578/live",
+    "homepage": "http://radioinstrumental.com.br/",
+    "favicon": "https://public-rf-assets.minhawebradio.net/img/favicon.ico",
     "countrycode": "BR",
-    "state": "SP",
-    "language": "português  brasil",
-    "tags": "mpb",
+    "state": "",
+    "language": "brazilian portuguese",
+    "tags": "instrumental,orquesta",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 708,
-    "clickcount": 2
+    "votes": 731,
+    "clickcount": 4
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "31ea3244-7685-423c-9e18-bad7acf950c7",
-    "name": "Radio Alvorada 94.9 FM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac",
-    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac",
-    "homepage": "http://www.alvoradafm.com.br/",
-    "favicon": "http://www.alvoradafm.com.br/assets/application/img/favicon/favicon_64.png",
+    "stationuuid": "bedcf517-f9a6-11e8-a97a-52543be04c81",
+    "name": "Jazz Medley Webradio",
+    "url": "http://server01.ouvir.radio.br:8006/stream",
+    "url_resolved": "http://server01.ouvir.radio.br:8006/stream",
+    "homepage": "http://www.umbertovettori.com/",
+    "favicon": "http://www.umbertovettori.com/images/layout/logo-novo_1542311908.jpg",
     "countrycode": "BR",
     "state": "Minas Gerais",
-    "language": "brazilian portuguese,portugues do brasil",
-    "tags": "adult,flashback",
+    "language": "portuguese",
+    "tags": "classic jazz,jazz",
     "codec": "AAC+",
-    "bitrate": 96,
-    "votes": 683,
-    "clickcount": 6
+    "bitrate": 64,
+    "votes": 679,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1202,26 +806,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 677,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "bedcf517-f9a6-11e8-a97a-52543be04c81",
-    "name": "Jazz Medley Webradio",
-    "url": "http://server01.ouvir.radio.br:8006/stream",
-    "url_resolved": "http://server01.ouvir.radio.br:8006/stream",
-    "homepage": "http://www.umbertovettori.com/",
-    "favicon": "http://www.umbertovettori.com/images/layout/logo-novo_1542311908.jpg",
-    "countrycode": "BR",
-    "state": "Minas Gerais",
-    "language": "portuguese",
-    "tags": "classic jazz,jazz",
-    "codec": "AAC",
-    "bitrate": 64,
-    "votes": 677,
-    "clickcount": 7
+    "votes": 678,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1229,7 +815,7 @@
     "stationuuid": "964704f6-0601-11e8-ae97-52543be04c81",
     "name": "Nova Brasil FM Brasília, DF (ZYC476, 97,5 MHz)",
     "url": "http://provisioning.streamtheworld.com/pls/NOVABRASIL_BSBAAC.pls",
-    "url_resolved": "http://27323.live.streamtheworld.com/NOVABRASIL_BSBAAC_SC",
+    "url_resolved": "http://27573.live.streamtheworld.com:3690/NOVABRASIL_BSBAAC_SC",
     "homepage": "http://brasilia.novabrasilfm.com.br/",
     "favicon": "http://brasilia.novabrasilfm.com.br/images/apple-touch-icon.png?1725267621",
     "countrycode": "BR",
@@ -1238,8 +824,8 @@
     "tags": "brasilia,brazilian music,brazilian pop,mpb",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 674,
-    "clickcount": 0
+    "votes": 675,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1255,27 +841,9 @@
     "language": "brazilian portuguese",
     "tags": "forró",
     "codec": "AAC+",
-    "bitrate": 128,
-    "votes": 666,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "9f0466be-b6b0-4f7c-baff-f64555494804",
-    "name": "Groove Wave Lounge",
-    "url": "https://stm1.srvif.com:7576/;",
-    "url_resolved": "https://stm1.srvif.com:7576/;",
-    "homepage": "https://www.groovewave.com/lounge/lounge.htm",
-    "favicon": "https://www.groovewave.com/favicon.ico",
-    "countrycode": "BR",
-    "state": "Sao Paulo (Brazil)",
-    "language": "english,portuguese,spanish",
-    "tags": "ambient lounge,jazz lounge,lounge",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 640,
-    "clickcount": 32
+    "bitrate": 144,
+    "votes": 671,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1292,8 +860,8 @@
     "tags": "",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 634,
-    "clickcount": 17
+    "votes": 647,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -1310,7 +878,7 @@
     "tags": "rock",
     "codec": "AAC",
     "bitrate": 96,
-    "votes": 633,
+    "votes": 636,
     "clickcount": 2
   },
   {
@@ -1328,26 +896,8 @@
     "tags": "misc",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 616,
+    "votes": 620,
     "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "247e4d32-39b8-48d7-a86a-ec6effea7723",
-    "name": "Radio Energia 97 FM",
-    "url": "https://streaming.inweb.com.br/energia",
-    "url_resolved": "https://streaming.inweb.com.br/energia",
-    "homepage": "https://www.97fm.com.br/",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "Sao Paulo (Brazil)",
-    "language": "brazilian portuguese",
-    "tags": "esportes futebol,futebol,musica,noticias",
-    "codec": "AAC",
-    "bitrate": 32,
-    "votes": 610,
-    "clickcount": 16
   },
   {
     "id": null,
@@ -1364,26 +914,8 @@
     "tags": "rap",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 605,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f50d93d5-590c-11e8-b0ce-52543be04c81",
-    "name": "Rádio Batuta MPB - A webradio do Instituto Moreira Salles",
-    "url": "http://radioims.out.airtime.pro:8000/radioims_a",
-    "url_resolved": "http://radioims.out.airtime.pro:8000/radioims_a",
-    "homepage": "http://radiobatuta.com.br/",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "",
-    "language": "portuguese",
-    "tags": "brazilian music,mpb,samba",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 592,
-    "clickcount": 3
+    "votes": 611,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -1400,8 +932,26 @@
     "tags": "chr,contemporary hits radio,dance,electronic dance music,jovem,jovem pan,pop,pop rock,top 40",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 590,
-    "clickcount": 41
+    "votes": 599,
+    "clickcount": 67
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f50d93d5-590c-11e8-b0ce-52543be04c81",
+    "name": "Rádio Batuta MPB - A webradio do Instituto Moreira Salles",
+    "url": "http://radioims.out.airtime.pro:8000/radioims_a",
+    "url_resolved": "http://radioims.out.airtime.pro:8000/radioims_a",
+    "homepage": "http://radiobatuta.com.br/",
+    "favicon": "",
+    "countrycode": "BR",
+    "state": "",
+    "language": "portuguese",
+    "tags": "brazilian music,mpb,samba",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 593,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1418,8 +968,8 @@
     "tags": "country,sertanejo",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 586,
-    "clickcount": 45
+    "votes": 591,
+    "clickcount": 101
   },
   {
     "id": null,
@@ -1436,26 +986,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 583,
+    "votes": 589,
     "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "e50968d3-e509-4630-bf17-93d70b471ba2",
-    "name": "Radio Amigos do Flashback",
-    "url": "http://stm4.voxhd.com.br:7086/",
-    "url_resolved": "http://stm4.voxhd.com.br:7086/",
-    "homepage": "http://amigosdoflashback.ga/",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "SP",
-    "language": "",
-    "tags": "",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 580,
-    "clickcount": 1
   },
   {
     "id": null,
@@ -1473,25 +1005,7 @@
     "codec": "AAC+",
     "bitrate": 128,
     "votes": 575,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "1dedfe49-c6fd-4105-a017-3857f5069d80",
-    "name": "Difusora Manaus 96,9",
-    "url": "http://69.16.236.247:9300/;mp3",
-    "url_resolved": "http://69.16.236.247:9300/;mp3",
-    "homepage": "http://www.difusora24h.com/",
-    "favicon": "",
-    "countrycode": "BR",
-    "state": "Amazonas",
-    "language": "brazilian portuguese",
-    "tags": "jornalismo",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 565,
-    "clickcount": 0
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1508,8 +1022,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 565,
-    "clickcount": 20
+    "votes": 574,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -1526,8 +1040,44 @@
     "tags": "alternative rock,anos 80,romantic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 563,
-    "clickcount": 8
+    "votes": 567,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "1dedfe49-c6fd-4105-a017-3857f5069d80",
+    "name": "Difusora Manaus 96,9",
+    "url": "http://69.16.236.247:9300/;mp3",
+    "url_resolved": "http://69.16.236.247:9300/;mp3",
+    "homepage": "http://www.difusora24h.com/",
+    "favicon": "",
+    "countrycode": "BR",
+    "state": "Amazonas",
+    "language": "brazilian portuguese",
+    "tags": "jornalismo",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 566,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "8e9b5ba4-dcc1-4dad-8ddf-e7cc04c33a00",
+    "name": "Rádio Jovem Pan 100.9 FM",
+    "url": "https://stream.zeno.fm/c45wbq2us3buv",
+    "url_resolved": "https://stream.zeno.fm/c45wbq2us3buv",
+    "homepage": "https://jovempan.com.br/",
+    "favicon": "https://img.radios.com.br/radio/lg/radio8829_1708517690.png",
+    "countrycode": "BR",
+    "state": "Sao Paulo",
+    "language": "portuguese",
+    "tags": "entertainment,journalism,music,sport",
+    "codec": "AAC",
+    "bitrate": 128,
+    "votes": 561,
+    "clickcount": 144
   },
   {
     "id": null,
@@ -1544,8 +1094,8 @@
     "tags": "00's,00s,2000's,2000s,70's,70s,80's,80s,90's,90s,adult contemporary,adult hits,classic hits,classic rock,classics,flash back,flashback,love songs,new classics,oldies,pop,romantic",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 555,
-    "clickcount": 50
+    "votes": 559,
+    "clickcount": 65
   },
   {
     "id": null,
@@ -1562,8 +1112,8 @@
     "tags": "brazilian rock,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 554,
-    "clickcount": 3
+    "votes": 556,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1581,25 +1131,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 551,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "8e9b5ba4-dcc1-4dad-8ddf-e7cc04c33a00",
-    "name": "Rádio Jovem Pan 100.9 FM",
-    "url": "https://stream.zeno.fm/c45wbq2us3buv",
-    "url_resolved": "https://stream.zeno.fm/c45wbq2us3buv",
-    "homepage": "https://jovempan.com.br/",
-    "favicon": "https://img.radios.com.br/radio/lg/radio8829_1708517690.png",
-    "countrycode": "BR",
-    "state": "Sao Paulo",
-    "language": "portuguese",
-    "tags": "entertainment,journalism,music,sport",
-    "codec": "AAC",
-    "bitrate": 128,
-    "votes": 544,
-    "clickcount": 75
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1617,7 +1149,7 @@
     "codec": "MP3",
     "bitrate": 96,
     "votes": 541,
-    "clickcount": 3
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1634,8 +1166,8 @@
     "tags": "",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 529,
-    "clickcount": 2
+    "votes": 532,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1652,8 +1184,8 @@
     "tags": "pagode,rap,samba",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 528,
-    "clickcount": 10
+    "votes": 530,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1670,8 +1202,8 @@
     "tags": "jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 524,
-    "clickcount": 1
+    "votes": 526,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1706,8 +1238,8 @@
     "tags": "entrevistas,notícias",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 509,
-    "clickcount": 0
+    "votes": 511,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1724,8 +1256,8 @@
     "tags": "progressive rock",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 498,
-    "clickcount": 2
+    "votes": 508,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1742,8 +1274,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 475,
-    "clickcount": 3
+    "votes": 476,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1760,7 +1292,7 @@
     "tags": "gospel",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 459,
+    "votes": 460,
     "clickcount": 4
   },
   {
@@ -1778,8 +1310,8 @@
     "tags": "entertainment,news,sports",
     "codec": "FLV",
     "bitrate": 0,
-    "votes": 454,
-    "clickcount": 12
+    "votes": 456,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1797,6 +1329,474 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 443,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f927b6f0-a041-4505-9cdd-3da91ff12ecc",
+    "name": "MGT ANOS 80",
+    "url": "https://cast.mgtradio.net/radio/8100/aac",
+    "url_resolved": "https://cast.mgtradio.net/radio/8100/aac",
+    "homepage": "https://www.mgtradio.net/",
+    "favicon": "https://www.mgtradio.net/favicon.ico",
+    "countrycode": "BR",
+    "state": "Brasil",
+    "language": "brazilian portuguese",
+    "tags": "80's,anos 80,mgt",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 441,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "e6daf94b-d5aa-11e9-a861-52543be04c81",
+    "name": "Caiçara (Porto Alegre)",
+    "url": "http://cast4.audiostream.com.br:8654/mp3",
+    "url_resolved": "http://cast4.audiostream.com.br:8654/mp3",
+    "homepage": "http://radiocaicara.com.br/",
+    "favicon": "",
+    "countrycode": "BR",
+    "state": "Rio Grande do Sul",
+    "language": "portuguese",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "votes": 433,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9643e575-0601-11e8-ae97-52543be04c81",
+    "name": "Nova Brasil FM Recife (ZYD241, 94,3 MHz FM)",
+    "url": "http://provisioning.streamtheworld.com/pls/NOVABRASIL_RECAAC.pls",
+    "url_resolved": "http://27573.live.streamtheworld.com:3690/NOVABRASIL_RECAAC_SC",
+    "homepage": "http://recife.novabrasilfm.com.br/",
+    "favicon": "http://recife.novabrasilfm.com.br/images/apple-touch-icon.png?1725267621",
+    "countrycode": "BR",
+    "state": "Pernambuco",
+    "language": "portuguese",
+    "tags": "brazilian music,local news,mpb,news,recife",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "votes": 431,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f4de8d39-0eec-4fc0-a95a-ca820864e39f",
+    "name": "Radio Tupi FM 96.5",
+    "url": "https://8923.brasilstream.com.br/stream?origem=site-tupi.fm",
+    "url_resolved": "https://8923.brasilstream.com.br/stream?origem=site-tupi.fm",
+    "homepage": "https://www.tupi.fm/",
+    "favicon": "",
+    "countrycode": "BR",
+    "state": "",
+    "language": "",
+    "tags": "",
+    "codec": "AAC",
+    "bitrate": 32,
+    "votes": 430,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "9bef4f1a-ac82-4f7f-98a4-3fd3dcceef63",
+    "name": "MGT BREGA E RETRÔ",
+    "url": "https://cast.mgtradio.net/radio/8060/aac",
+    "url_resolved": "https://cast.mgtradio.net/radio/8060/aac",
+    "homepage": "https://www.mgtradio.net/",
+    "favicon": "https://www.mgtradio.net/images/ouvir-radio-online.png",
+    "countrycode": "BR",
+    "state": "Brasil",
+    "language": "",
+    "tags": "brasil,brega,mgt,retrô",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 426,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f34d64aa-b0a8-4551-b65f-9bbf4b765b9b",
+    "name": "Elite Studio FM",
+    "url": "https://stream.zeno.fm/jjgtqyoqkpvuv",
+    "url_resolved": "https://stream.zeno.fm/jjgtqyoqkpvuv",
+    "homepage": "https://www.elitestudiofm.com.br/",
+    "favicon": "",
+    "countrycode": "BR",
+    "state": "Santa Catarina",
+    "language": "portuguese",
+    "tags": "flashback,pop,pop-rock,rock",
+    "codec": "AAC",
+    "bitrate": 128,
+    "votes": 421,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "b3a7491f-e14e-4c1e-83c2-f404e084207b",
+    "name": "Radio Leve - Santos",
+    "url": "https://s09.maxcast.com.br:8098/live",
+    "url_resolved": "https://s09.maxcast.com.br:8098/live",
+    "homepage": "https://www.radioleve.com/",
+    "favicon": "https://www.radioleve.com.br/favicon.ico",
+    "countrycode": "BR",
+    "state": "São Paulo",
+    "language": "portuguese",
+    "tags": "adulta,flashback,românticas,webradio",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "votes": 419,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "a071b291-88e7-46b9-ad93-c27e22efc3a9",
+    "name": "Jovem Pan Campinas",
+    "url": "https://ssl.srvstm.com:6808/;",
+    "url_resolved": "https://ssl.srvstm.com:6808/;",
+    "homepage": "https://jovempannewscampinas.com.br/",
+    "favicon": "https://jovempannewscampinas.com.br/wp-content/uploads/2020/10/JP-CAMPINAS-Logo-site-4.png",
+    "countrycode": "BR",
+    "state": "",
+    "language": "brazilian portuguese",
+    "tags": "rádio 1900 - ponte preta",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "votes": 412,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "354d8c7e-a490-4b67-bc23-dd719ea54c83",
+    "name": "Rádio Bandeirantes 90.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.m3u8?dist=radios.com.br",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.m3u8?dist=radios.com.br",
+    "homepage": "https://www.band.uol.com.br/radio-bandeirantes",
+    "favicon": "https://img.radios.com.br/radio/lg/radio10410_1722854885.png",
+    "countrycode": "BR",
+    "state": "Sao Paulo",
+    "language": "portuguese",
+    "tags": "news,soccer",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 411,
+    "clickcount": 10
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "22476f57-1d03-4718-a56e-c3d1f58f2e0f",
+    "name": "Rádio Alvorada",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac",
+    "homepage": "https://www.alvoradafm.com.br/",
+    "favicon": "https://www.alvoradafm.com.br/favicon.ico",
+    "countrycode": "BR",
+    "state": "Minas Gerais",
+    "language": "brazilian portuguese",
+    "tags": "",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "votes": 407,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "fe5c9a68-6957-4c90-b2db-9b6ede642890",
+    "name": "Amazon Gospel",
+    "url": "http://directradios.net:8197/;",
+    "url_resolved": "http://directradios.net:8197/;",
+    "homepage": "https://amazongospel.com/",
+    "favicon": "",
+    "countrycode": "BR",
+    "state": "",
+    "language": "",
+    "tags": "news",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 384,
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "cab8d5ed-4b9a-4fff-abde-a9d07032529d",
+    "name": "Liberdade 92.9 (Belo Horizonte - MG)",
+    "url": "http://8335.brasilstream.com.br/stream.m3u",
+    "url_resolved": "http://srv14.brasilstream.com.br:8335/stream",
+    "homepage": "https://radioliberdade.com.br/",
+    "favicon": "",
+    "countrycode": "BR",
+    "state": "Minas Gerais",
+    "language": "portuguese",
+    "tags": "sertanejo",
+    "codec": "AAC",
+    "bitrate": 128,
+    "votes": 379,
+    "clickcount": 4
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c7f6caca-5eb8-418e-a7f1-d52e7ff41926",
+    "name": "Jovem Pan News",
+    "url": "https://stream.zeno.fm/vlcraijc6yiuv",
+    "url_resolved": "https://stream.zeno.fm/vlcraijc6yiuv",
+    "homepage": "https://jovempan.com.br/",
+    "favicon": "",
+    "countrycode": "BR",
+    "state": "São Paulo (SP)",
+    "language": "",
+    "tags": "news,sports",
+    "codec": "AAC",
+    "bitrate": 128,
+    "votes": 364,
+    "clickcount": 23
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "06a4a5f8-5aec-11e9-a622-52543be04c81",
+    "name": "104 (Porto Alegre)",
+    "url": "http://cast4.audiostream.com.br:8651/mp3",
+    "url_resolved": "http://cast4.audiostream.com.br:8651/mp3",
+    "homepage": "http://radio104.com.br/",
+    "favicon": "",
+    "countrycode": "BR",
+    "state": "Rio Grande do Sul",
+    "language": "portuguese",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 96,
+    "votes": 336,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "c0cfd9d5-823d-4a96-be7f-5dedff5cff2c",
+    "name": "Rádio Alvorada (MP3)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADA.mp3",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADA.mp3",
+    "homepage": "https://www.alvoradafm.com.br/",
+    "favicon": "https://www.alvoradafm.com.br/favicon.ico",
+    "countrycode": "BR",
+    "state": "Minas Gerais",
+    "language": "brazilian portuguese",
+    "tags": "",
+    "codec": "MP3",
+    "bitrate": 64,
+    "votes": 330,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "5469196d-3ed8-4228-9d44-5dac3c6144f2",
+    "name": "Rádio Maroca",
+    "url": "https://server03.srvsh.com.br:6844/",
+    "url_resolved": "https://server03.srvsh.com.br:6844/",
+    "homepage": "https://www.facebook.com/GrupoVenceslau/",
+    "favicon": "https://www.facebook.com/GrupoVenceslau/",
+    "countrycode": "BR",
+    "state": "Rio Grande do Norte",
+    "language": "brasileiro",
+    "tags": "mpb",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 328,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "030efc7c-8bd0-4fd2-9b52-e5d4e5d72f96",
+    "name": "Rádio Bandeirantes 85.7 FM",
+    "url": "https://stm23.xcast.com.br:11284/stream",
+    "url_resolved": "https://stm23.xcast.com.br:11284/stream",
+    "homepage": "https://www.radiobandeirantescampinas.com.br/",
+    "favicon": "https://img.radios.com.br/radio/lg/radio10412_1630622638.png",
+    "countrycode": "BR",
+    "state": "Sao Paulo",
+    "language": "portuguese",
+    "tags": "journalism,soccer",
+    "codec": "AAC+",
+    "bitrate": 96,
+    "votes": 326,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "2ecd468b-523e-4f35-8f5b-251390b642f0",
+    "name": "Hunter FM - Hits Brasil",
+    "url": "https://live.hunter.fm/hitsbrasil_normal",
+    "url_resolved": "https://live.hunter.fm/hitsbrasil_normal",
+    "homepage": "https://hunter.fm/",
+    "favicon": "https://hunter.fm/_nuxt/icons/icon_64x64.5c2fd0.png",
+    "countrycode": "BR",
+    "state": "Distrito Federal",
+    "language": "brazilian portuguese,português  brasil",
+    "tags": "sertaneja,sertanejo",
+    "codec": "AAC",
+    "bitrate": 0,
+    "votes": 325,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "b0d6222c-8bf8-4fe9-8666-e4b66f7a9057",
+    "name": "Rádio Café Viola",
+    "url": "https://stm6.xcast.com.br:9328/;?1685284162874",
+    "url_resolved": "https://stm6.xcast.com.br:9328/;?1685284162874",
+    "homepage": "https://radiocafeviola.com.br/",
+    "favicon": "",
+    "countrycode": "BR",
+    "state": "Minas Gerais Brasil",
+    "language": "brazilian portuguese,portugues do brasil,portuguese",
+    "tags": "sertaneja,sertanejo,sertanejo raiz",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "votes": 324,
+    "clickcount": 35
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "59b79175-8524-45ad-ba89-bb6c16d7e2c0",
+    "name": "Mix FM - Porto Alegre",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_POAAAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_POAAAC.aac",
+    "homepage": "http://www.mixfmpoa.com.br/",
+    "favicon": "",
+    "countrycode": "BR",
+    "state": "Rio Grande do Sul",
+    "language": "brazilian portuguese",
+    "tags": "jovem,pop-rock",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 318,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "6612d505-3b6a-4917-873e-e483d2ac443d",
+    "name": "Rádio Mix FM Recife 97.1 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_RECIFE971AAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_RECIFE971AAC.aac",
+    "homepage": "https://radiomixfm.com.br/",
+    "favicon": "",
+    "countrycode": "BR",
+    "state": "Pernambuco",
+    "language": "português (br)",
+    "tags": "",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 314,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "4317dca3-9e67-4226-82a8-8f650ba50219",
+    "name": "Rádio FM O Dia 99.7 FM",
+    "url": "https://wz7.servidoresbrasil.com:8274/stream",
+    "url_resolved": "https://wz7.servidoresbrasil.com:8274/stream",
+    "homepage": "https://macae.fmodia.com.br/",
+    "favicon": "https://img.radios.com.br/radio/lg/radio229211_1706128532.jpeg",
+    "countrycode": "BR",
+    "state": "Rio de Janeiro",
+    "language": "português  brasil",
+    "tags": "popular,samba pagode",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "votes": 312,
+    "clickcount": 70
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "3998f9ae-ed80-4319-8109-0acb29efb256",
+    "name": "BH FM 102,1 MHz ZYC690 (Belo Horizonte - MG)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac",
+    "homepage": "https://bhfm.globo.com/",
+    "favicon": "https://i.postimg.cc/ncT9hqH6/04008003142.png",
+    "countrycode": "BR",
+    "state": "Minas Gerais",
+    "language": "brazilian portuguese",
+    "tags": "funk,internacional,nacional,pagode,pop,samba,sertanejo",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "votes": 306,
+    "clickcount": 55
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "523fdf97-a758-4ffc-88b9-e36614e943fd",
+    "name": "Eldorado FM - São Paulo",
+    "url": "https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8",
+    "url_resolved": "https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8",
+    "homepage": "https://eldorado.estadao.com.br/",
+    "favicon": "https://img.radios.com.br/radio/lg/radio13051_1439401448.jpg",
+    "countrycode": "BR",
+    "state": "São Paulo",
+    "language": "brazilian portuguese,português  brasil",
+    "tags": "adult contemporary,adulta,jazz,mpb",
+    "codec": "UNKNOWN",
+    "bitrate": 0,
+    "votes": 302,
+    "clickcount": 6
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "a862a27c-5a10-11e8-b0ce-52543be04c81",
+    "name": "Atlântida (Santa Maria)",
+    "url": "http://222747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_sma.sdp/playlist.m3u8",
+    "url_resolved": "http://222747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_sma.sdp/playlist.m3u8",
+    "homepage": "http://atl.clicrbs.com.br/",
+    "favicon": "http://atl.clicrbs.com.br/favicon.ico",
+    "countrycode": "BR",
+    "state": "Rio Grande do Sul",
+    "language": "portuguese",
+    "tags": "music",
+    "codec": "UNKNOWN",
+    "bitrate": 1000,
+    "votes": 300,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "77502e2f-6ac7-4489-9a8f-0b94eda12855",
+    "name": "Nova Brasil FM - Maceió",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_MACAAC.aac",
+    "url_resolved": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_MACAAC.aac",
+    "homepage": "https://novabrasilfm.com.br/",
+    "favicon": "",
+    "countrycode": "BR",
+    "state": "Alagoas",
+    "language": "",
+    "tags": "",
+    "codec": "AAC+",
+    "bitrate": 48,
+    "votes": 290,
     "clickcount": 4
   }
 ]

@@ -38,9 +38,6 @@ https://ice5.somafm.com/lush-128-mp3
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s155539/images/logod.png" group-title="GB",TMM 2
 https://listen-msmn.sharp-stream.com/nme2.mp3
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/7f073d_ed80ca4374ef48449f0a212faf03c149%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/7f073d_ed80ca4374ef48449f0a212faf03c149%7Emv2.jpg" group-title="GR",Trance Athena
-http://cast.streams.ovh:8008/stream
-
 #EXTINF:-1 tvg-logo="http://www.radionica.rocks/themes/custom/radionica_barrio/favicon.ico" group-title="CO",Radiónica (HJYM 99.1 Bogotá) RTVC
 http://shoutcast.rtvc.gov.co:8010/;
 
@@ -65,26 +62,20 @@ https://stream.technolovers.fm/deep-house?ref=radiobrowser
 #EXTINF:-1 tvg-logo="https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-120x120.png" group-title="ES",ElectroDanceWorld Radio
 http://stream.zeno.fm/s70bvdgqks8uv
 
-#EXTINF:-1 tvg-logo="" group-title="LV",European Hit Radio - Dance
-http://stream.europeanhitradio.com:8000/Stream_24.aac
-
 #EXTINF:-1 tvg-logo="" group-title="GR",Galaxy 92
 http://netradio.live24.gr/galaxy9292
+
+#EXTINF:-1 tvg-logo="" group-title="LV",European Hit Radio - Dance
+http://stream.europeanhitradio.com:8000/Stream_24.aac
 
 #EXTINF:-1 tvg-logo="" group-title="Global",naxi radio - house
 http://naxidigital-house128.streaming.rs:8000/;stream.nsv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TmRLJsp/EDM-TL.jpg" group-title="DE",Technolovers EDM
-https://stream.technolovers.fm/edm?ref=radiobrowser
-
-#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Retrowave
-http://79.120.39.202:9125/
-
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/32040.v12.png" group-title="DE",TechnoBase.FM
 https://listener3.mp3.tb-group.fm/tb.mp3
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T1gH75m/rb-top100clubcharts.png" group-title="DE",# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
-https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts
+#EXTINF:-1 tvg-logo="http://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Retrowave
+http://79.120.39.202:9125/
 
 #EXTINF:-1 tvg-logo="" group-title="US",PulseEDM Dance Music Radio
 http://pulseedm.cdnstream1.com:8124/1373_128
@@ -104,26 +95,17 @@ http://stream.sunshine-live.de/festival/mp3-192/stream.sunshine-live.de/
 #EXTINF:-1 tvg-logo="https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png" group-title="GB",BBC Radio 6 Music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/5c769b2fe7770a23546c3d7f" group-title="MX",90s Dance by Mix (iHeart Radio) - Online - ACIR Online / iHeart Radio - Ciudad de México
-https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR11_s01AAC.aac
-
 #EXTINF:-1 tvg-logo="https://www.pulsradio.com/apple-icon-120x120.png" group-title="Global",PulsRadio 90's
 http://213.251.190.165/puls90HD.mp3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B4R6kNj/Electrohouse-tl.jpg" group-title="DE",Technolovers ELECTRO HOUSE
 https://stream.technolovers.fm/electro-house?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="" group-title="RU",Radio Record Megamix
-https://radiorecord.hostingradio.ru/mix96.aacp
-
 #EXTINF:-1 tvg-logo="" group-title="ES",Loca FM Twchno
 http://s02.fjperezdj.com:8050/live
 
 #EXTINF:-1 tvg-logo="https://d1iyh67kzf6t3o.cloudfront.net/images/channels/25_Chillout.jpg" group-title="GR",Radio Art - Chillout
 http://air.radioart.com/fChillout.mp3
-
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/1/44061.v2.png" group-title="DE",Italo Disco
-https://italo-disco.stream.laut.fm/italo-disco
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Best Deep FM
 http://myradio24.org/5129_320
@@ -132,7 +114,7 @@ http://myradio24.org/5129_320
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio
 
 #EXTINF:-1 tvg-logo="http://somafm.com/img3/deepspaceone-400.jpg" group-title="US",SomaFM Deep Space One (32k AAC)
-https://ice2.somafm.com/deepspaceone-32-aac
+https://ice6.somafm.com/deepspaceone-32-aac
 
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio REMIX
 https://stream.0nlineradio.com/remix?ref=radiobrowser
@@ -146,17 +128,11 @@ http://traxx020.ice.infomaniak.ch/traxx020-low.mp3
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/media.friskyradio.com/favicon.png" group-title="US",Frisky Chill
 http://chill.friskyradio.com/friskychill_mp3_high
 
-#EXTINF:-1 tvg-logo="" group-title="MX",BEAT 100.9 FM - XHSON-FM - NRM Comunicaciones - Ciudad de México
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC.aac
-
 #EXTINF:-1 tvg-logo="" group-title="CH",electroradio.fm
 http://n05.radiojar.com/fkyxx4q35k0uv
 
 #EXTINF:-1 tvg-logo="" group-title="US",Thegooshradio Deep House
 http://eu2.fastcast4u.com:3732/stream/1/
-
-#EXTINF:-1 tvg-logo="" group-title="IT",Radio M2O
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mtCKLC/aktHits.jpg" group-title="DE",# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
 https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
@@ -186,7 +162,7 @@ https://listen-msmn.sharp-stream.com/nme2high.mp3
 http://79.111.119.111:9021/
 
 #EXTINF:-1 tvg-logo="" group-title="Global",HappyHardcore.com
-https://www.happyhardcore.com/livestreams/p/u1/
+https://www.happyhardcore.com/livestreams/p/u9/
 
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__CLUB__ by rautemusik (rm.fm)
 https://club-high.rautemusik.fm/?ref=radiobrowser
@@ -203,23 +179,14 @@ https://orf-live.ors-shoutcast.at/fm4-q2a
 #EXTINF:-1 tvg-logo="" group-title="US",DnB&EDM
 https://edmdnb.com:448/radio/8000/radio.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="RU",Sovietwave
-http://station.waveradio.org/soviet.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Drum 'n' Bass [2]
 http://79.111.14.76:8000/drumbass
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/defcon400.png" group-title="US",SomaFM DEF CON Radio (128k AAC)
-https://ice2.somafm.com/defcon-128-aac
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_cf8747dc2b804de09c56359c324dd1f5~mv2.jpg" group-title="CA",#100 BEST IBIZA DEEP HOUSE
-https://stream.zeno.fm/lwv6zqgtv1dtv
+https://ice5.somafm.com/defcon-128-aac
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ScwBQ49/TECHNO-TL.jpg" group-title="DE",Technolovers - TECHNO
 https://stream.technolovers.fm/techno?ref=radiobrowser
-
-#EXTINF:-1 tvg-logo="" group-title="DE",Technolovers - PSYTRANCE
-https://stream.technolovers.fm/psytrance?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_ee09b4fc28354c5287c3be2392e0b1e3~mv2.png" group-title="CA",# RdMix DJSET 70s 80s 90s
 https://cast1.torontocast.com:4560/stream
@@ -233,29 +200,17 @@ http://37.233.41.76:8000/dancefm
 #EXTINF:-1 tvg-logo="" group-title="AT",Darksynth Radio
 http://stream.laut.fm/darksynthradio
 
-#EXTINF:-1 tvg-logo="https://bestdeepfm.ru/favicon.ico" group-title="RU",BEST DEEP FM
-https://myradio24.org/5129
-
 #EXTINF:-1 tvg-logo="" group-title="ES",LOCAFM REMEMBER
 http://s02.fjperezdj.com:8035/live
-
-#EXTINF:-1 tvg-logo="https://nrj.ua/images/NRJ.png" group-title="UA",NRJ Ukraine
-https://cast.mediaonline.net.ua/nrj320
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg" group-title="CA",# RdMix Italo Disco 80s
 https://cast1.torontocast.com:2130/stream
 
-#EXTINF:-1 tvg-logo="" group-title="ES",LOS 40 DANCE
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
-
 #EXTINF:-1 tvg-logo="https://www.trancebase.fm/media/icons/trb/apple-touch-icon.png" group-title="DE",TranceBase.FM - AAC+ 40k
 http://listen.trancebase.fm/tunein-aacisdn-pls
 
-#EXTINF:-1 tvg-logo="https://radia.cz/static/favicon.ico" group-title="CZ",ABradio Chillout
-http://mp3stream4.abradio.cz/chillout128.mp3
-
-#EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Minimal Tech House [2]
-http://79.111.119.111:8000/mintechhouse
+#EXTINF:-1 tvg-logo="" group-title="ES",LOS 40 DANCE
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="ES",LOCA FM TechHouse
 http://s02.fjperezdj.com:8046/live
@@ -265,9 +220,6 @@ http://79.111.119.111:8004/mintechhouse
 
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="FR",Allzic Radio Chill Out
 http://allzic53.ice.infomaniak.ch/allzic53.mp3
-
-#EXTINF:-1 tvg-logo="https://noisefm.ru/thumbnail.jpg" group-title="RU",Noise FM - EDM Radio
-http://play.sas-media.ru/play_256
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sunshine_live_Logo_2022.svg/640px-Sunshine_live_Logo_2022.svg.png" group-title="DE",Sunshine Live
 http://sunsl.streamabc.net/sunsl-sslsimulcast-mp3-192-4434053?sABC=6557p1o3%230%236080533n48sp2nrq0o4389q6o67o3qps%23fgernz.fhafuvar-yvir.qr&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1700250035
@@ -281,17 +233,11 @@ http://stream.zeno.fm/rw6ckefezs8uv
 #EXTINF:-1 tvg-logo="" group-title="DE",Technolovers - BASS HOUSE
 https://stream.technolovers.fm/bass-house?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="https://d2f0ora2gkri0g.cloudfront.net/e3/34/e3349467-8202-41e1-9d8b-32c65faa943a.png" group-title="Global",C-Dance
-http://198.100.145.187:18304/;
-
 #EXTINF:-1 tvg-logo="" group-title="US",CHICAGO HOUSE
 https://stream.radio.co/sae989fe39/listen
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25987/images/logog.jpg" group-title="AR",Metro 95.1
 https://playerservices.streamtheworld.com/api/livestream-redirect/METRO.mp3
-
-#EXTINF:-1 tvg-logo="https://radiorecord.ru/icons/apple-touch-icon.png" group-title="RU",Radio Record 00's
-https://radiorecord.hostingradio.ru/200096.aacp
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mFjn8LB/TL-Melodic-House-Techno-png.jpg" group-title="DE",Melodic House & Techno @ Technolovers.FM (Chillout, Beach, Festival, Sundowner, Relax, Ibiza, Sea, Ocean Music, Beachclub, Cocktailbar, 2024, 2025, 2026 Future Rave 126, 128, 124 Beats per Minute , BPM)
 https://stream.technolovers.fm/melodic-house-techno?ref=radiobrowser-2
@@ -301,4 +247,58 @@ http://stream.zeno.fm/8d2pyzm5wp8uv
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Dream Trance
 http://79.120.39.202:8002/dreamtrance
+
+#EXTINF:-1 tvg-logo="" group-title="RU",Радио Сектор / Sector SPACE (flac)
+http://89.223.45.5:8000/space-flac
+
+#EXTINF:-1 tvg-logo="" group-title="RU",Radio Caprice - Drum 'n' Bass [1]
+http://79.111.14.76:8002/drumbass
+
+#EXTINF:-1 tvg-logo="https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg" group-title="TR",dinamo.fm locodyno
+http://channels.dinamo.fm/locodyno-mp3
+
+#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__HOUSE__ by rautemusik (rm.fm)
+https://house-high.rautemusik.fm/?ref=radiobrowser
+
+#EXTINF:-1 tvg-logo="" group-title="IT",NEU RADIO
+https://nr9.newradio.it/proxy/ebaruffa?mp=/stream
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Happy Hardcore
+https://audio-edge-3mayu.fra.h.radiomast.io/73055724-1141-41e2-a69b-24a6ca96c8e7
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/f361b3_cf8747dc2b804de09c56359c324dd1f5~mv2.jpg" group-title="CA",100 BEST IBIZA DEEP HOUSE
+https://stream.zeno.fm/lwv6zqgtv1dtv
+
+#EXTINF:-1 tvg-logo="" group-title="HU",RadiOzora Chill
+http://chill.out.airtime.pro:8000/chill_a
+
+#EXTINF:-1 tvg-logo="https://www.trancebase.fm/media/icons/trb/apple-touch-icon.png" group-title="DE",TranceBase.FM - AAC 96k
+http://listen.trancebase.fm/tunein-aacplus-pls
+
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s184131q.png" group-title="US",Chillstep.info
+http://chillstep.info:1984/listen.mp3
+
+#EXTINF:-1 tvg-logo="https://radiorecord.ru/icons/apple-touch-icon.png" group-title="RU",Radio Record Trancehouse
+https://radiorecord.hostingradio.ru/trancehouse96.aacp
+
+#EXTINF:-1 tvg-logo="https://djfm.ca/wp-content/uploads/2016/07/logo.png" group-title="CA",DJFM.ca Toronto, ON
+http://mux.mtl.djfmradio.com/djfm
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gc5TMjP/Top-200-Dj-Charts-breakz-logo.jpg" group-title="DE",#TOP 200 DJ CHARTS - JUST MUSIC - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS @ Festival Melodic House, Melodic Techno. Best 100 Lounge, Mixed Radio Station @ PartyHits / Schlager Remix Top 50
+https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
+
+#EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FI85PfNTxKBkqwBN-IxdnbMFEAJj0H5MgqH1xvCBgkPw%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3bHVPRnNBb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURJeWNINTFRc01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NzI1MDQxMDkwMDA.webp&w=1080&q=100" group-title="PH",Clubmix
+https://stream.zeno.fm/vztn8ux96zhvv
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Radio Amore One Dance Catania
+http://onair22.streaming.xdevel.com:10010/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GFBh5tm/rautemusik-partyhits.jpg" group-title="DE",# PartyHits - Dein Musikmix aus Ballermann, Apres Ski, Wiesn, Karneval, Silvesterparty, TOP 100 Party, Malle, Nonstop, DJ LIVE, Abriss, Feier, Bass, Feiermusik, Partymusik, Apres ski Party, Fussball Hits
+https://partyhits-high.rautemusik.fm/?ref=radio-browser-ph2
+
+#EXTINF:-1 tvg-logo="" group-title="RU",Радио Сектор / Sector SPACE
+http://89.223.45.5:8000/space-160
+
+#EXTINF:-1 tvg-logo="" group-title="ES",LOCA FM
+http://s3.we4stream.com:8045/live
 
