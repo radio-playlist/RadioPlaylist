@@ -194,11 +194,11 @@ http://mscp3.live-streams.nl:8360/high.aac
 #EXTINF:-1 tvg-logo="https://www.celsoazevedo.com/files/2025/magic.png" group-title="GB",Magic Radio UK
 https://stream-mz.hellorayo.co.uk/magicnational.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=mag
 
-#EXTINF:-1 tvg-logo="" group-title="GB",British Comedy 1
-http://streaming04.liveboxstream.uk:8077/stream
-
 #EXTINF:-1 tvg-logo="" group-title="GB",SOUL RADIO Only Classic Soul
 https://listen.soulradio.uk/uk
+
+#EXTINF:-1 tvg-logo="" group-title="GB",British Comedy 1
+http://streaming04.liveboxstream.uk:8077/stream
 
 #EXTINF:-1 tvg-logo="" group-title="GB",1Mix Radio - Trance #1 (UK) 320kb mp3
 http://fr2.1mix.co.uk:9000/320
@@ -224,20 +224,26 @@ https://media-ice.musicradio.com/RadioXClassicRockMP3
 #EXTINF:-1 tvg-logo="https://techno.fm/images/logos/logo_80px.png" group-title="GB",Techno.FM (320 kbit)
 http://stream.techno.fm/radio320.mp3
 
-#EXTINF:-1 tvg-logo="http://thegrooveradio.co.uk/upload/5d67aa7d3a8281.16670430.ico" group-title="GB",The Groove
-http://uk7.internet-radio.com:8352/
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s20277q.png" group-title="GB",BBC Radio 1Xtra (128k)
 http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d128000.norewind.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GB",HearMe - Classic Hard Rock
 https://radio.hearme.fm:8250/stream
 
+#EXTINF:-1 tvg-logo="http://thegrooveradio.co.uk/upload/5d67aa7d3a8281.16670430.ico" group-title="GB",The Groove
+http://uk7.internet-radio.com:8352/
+
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/9/33659.v9.png" group-title="GB",Dance Attack FM (danceattack.fm) 128k MP3
 http://streaming04.liveboxstream.uk:8045/1
 
+#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_four/colour_default.svg" group-title="GB",BBC Radio 4
+http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.norewind.m3u8
+
 #EXTINF:-1 tvg-logo="https://rokitradio.com/images/channels/scifi.jpg" group-title="GB",ROKit Radio Science Fiction
 https://streaming05.liveboxstream.uk/proxy/roksta12/stream
+
+#EXTINF:-1 tvg-logo="" group-title="GB",Boom Radio
+https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128
 
 #EXTINF:-1 tvg-logo="" group-title="GB",England - Heart London Radio
 http://ice-the.musicradio.com/HeartLondonMP3
@@ -245,20 +251,11 @@ http://ice-the.musicradio.com/HeartLondonMP3
 #EXTINF:-1 tvg-logo="https://rokitradio.com/images/rokit-radio-mic.png" group-title="GB",ROKiT Radio : Science Fiction
 http://streaming05.liveboxstream.uk:8110/stream
 
-#EXTINF:-1 tvg-logo="" group-title="GB",Boom Radio
-https://listen-boomradio.sharp-stream.com/65_boom_radio_live_128
-
 #EXTINF:-1 tvg-logo="" group-title="GB",Happy Hardcore
 https://audio-edge-3mayu.fra.h.radiomast.io/73055724-1141-41e2-a69b-24a6ca96c8e7
 
 #EXTINF:-1 tvg-logo="https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="GB",Heart Xmas
 http://icecast.thisisdax.com/HeartXmasMP3
-
-#EXTINF:-1 tvg-logo="https://rokitradio.com/favicon.ico" group-title="GB",British Comedy 2
-http://streaming05.liveboxstream.uk:8009/stream
-
-#EXTINF:-1 tvg-logo="http://heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="GB",Heart Essex 96.3 & 102.6
-http://ice-sov.musicradio.com/HeartEssexMP3
 
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24940q.png" group-title="GB",BBC Radio 2
 http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d96000.m3u8
@@ -266,11 +263,14 @@ http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radi
 #EXTINF:-1 tvg-logo="http://sonatica.fm/favicon.png" group-title="GB",Sonatica Classical Radio
 http://orion.shoutca.st:8742/160
 
+#EXTINF:-1 tvg-logo="https://rokitradio.com/favicon.ico" group-title="GB",British Comedy 2
+http://streaming05.liveboxstream.uk:8009/stream
+
+#EXTINF:-1 tvg-logo="http://heart.co.uk/assets_v4r/heart/img/favicon-196x196.png" group-title="GB",Heart Essex 96.3 & 102.6
+http://ice-sov.musicradio.com/HeartEssexMP3
+
 #EXTINF:-1 tvg-logo="" group-title="GB",Paranormal UK Radio
 http://s6.citrus3.com:8014/stream
-
-#EXTINF:-1 tvg-logo="https://sounds.files.bbci.co.uk/3.7.0/networks/bbc_radio_four/colour_default.svg" group-title="GB",BBC Radio 4
-http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.norewind.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GB",Kniteforce Radio
 https://kniteforce.out.airtime.pro/kniteforce_a
@@ -290,6 +290,9 @@ http://s1.thesoundoftrance.co.uk:8000/
 #EXTINF:-1 tvg-logo="" group-title="GB",Heart Dance
 https://media-ssl.musicradio.com/HeartDance
 
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/a7/bf/bda7bf4f-16e9-6b60-0d87-a39d432b505e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.webp" group-title="GB",Classic FM HD
+https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80
+
 #EXTINF:-1 tvg-logo="https://www.ukbassradio.com/wp-content/uploads/2021/03/cropped-thumbnail_ukbass-radio5.png" group-title="GB",UK Bass Radio
 https://www.ukbassradio.com/stream
 
@@ -298,7 +301,4 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="GB",DubTerrain
 http://ic2255.c471.fast-serv.com/listen
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/a7/bf/bda7bf4f-16e9-6b60-0d87-a39d432b505e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.webp" group-title="GB",Classic FM HD
-https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80
 

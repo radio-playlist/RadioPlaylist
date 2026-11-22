@@ -14,8 +14,8 @@
     "tags": "california,eclectic,free,internet,non-commercial,paradise,radio",
     "codec": "AAC",
     "bitrate": 320,
-    "votes": 323099,
-    "clickcount": 657
+    "votes": 323932,
+    "clickcount": 699
   },
   {
     "id": null,
@@ -27,13 +27,13 @@
     "homepage": "https://walmradio.com/classic",
     "favicon": "https://icecast.walmradio.com:8443/classic.jpg",
     "countrycode": "US",
-    "state": "New York NY",
+    "state": "New York",
     "language": "english",
     "tags": "1930,1940,1950,1960,beautiful music,big band,classic hits,crooners,easy,easy listening,hd,jazz,light orchestral,lounge,oldies,orchestral,otr,relaxation,strings,swing,unwind,walm",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 311762,
-    "clickcount": 1098
+    "votes": 312598,
+    "clickcount": 1208
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "choral,christian,christian music,classical music,hymns,orchestral,talk,talk radio,traditional christian",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 106077,
-    "clickcount": 350
+    "votes": 106397,
+    "clickcount": 301
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "easy listening,jazz,smooth jazz",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 91678,
-    "clickcount": 798
+    "votes": 91999,
+    "clickcount": 893
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "classical,relax",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 56541,
-    "clickcount": 253
+    "votes": 56709,
+    "clickcount": 283
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 56360,
-    "clickcount": 170
+    "votes": 56494,
+    "clickcount": 185
   },
   {
     "id": null,
@@ -113,7 +113,7 @@
     "stationuuid": "961b7325-0601-11e8-ae97-52543be04c81",
     "name": ".977 80s",
     "url": "http://playerservices.streamtheworld.com/pls/977_80.pls",
-    "url_resolved": "http://17573.live.streamtheworld.com:3690/977_80_SC",
+    "url_resolved": "http://29318.live.streamtheworld.com/977_80_SC",
     "homepage": "http://www.977music.com/",
     "favicon": "",
     "countrycode": "US",
@@ -122,8 +122,8 @@
     "tags": "80s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 55747,
-    "clickcount": 194
+    "votes": 55816,
+    "clickcount": 216
   },
   {
     "id": null,
@@ -131,7 +131,7 @@
     "stationuuid": "961d5c4e-0601-11e8-ae97-52543be04c81",
     "name": ".977 Hitz",
     "url": "http://playerservices.streamtheworld.com/pls/977_HITS.pls",
-    "url_resolved": "http://18853.live.streamtheworld.com/977_HITS_SC",
+    "url_resolved": "http://14123.live.streamtheworld.com/977_HITS_SC",
     "homepage": "http://www.977music.com/",
     "favicon": "",
     "countrycode": "US",
@@ -140,8 +140,8 @@
     "tags": "hits,top 40",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 55709,
-    "clickcount": 96
+    "votes": 55769,
+    "clickcount": 84
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "ambient,meditation,sleep",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 55072,
-    "clickcount": 200
+    "votes": 55149,
+    "clickcount": 174
   },
   {
     "id": null,
@@ -176,8 +176,8 @@
     "tags": "electronic,frisky,new york city,progressive",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 54774,
-    "clickcount": 123
+    "votes": 54946,
+    "clickcount": 128
   },
   {
     "id": null,
@@ -189,13 +189,13 @@
     "homepage": "https://walmradio.com/classic",
     "favicon": "https://icecast.walmradio.com:8443/classic.jpg",
     "countrycode": "US",
-    "state": "New York NY",
+    "state": "New York",
     "language": "english",
     "tags": "1930,1940,1950,1960,beautiful music,big band,classic hits,crooners,easy,easy listening,hd,jazz,light orchestral,lounge,oldies,opus,orchestral,otr,relaxation,strings,swing,unwind,walm",
     "codec": "OGG",
     "bitrate": 192,
-    "votes": 54405,
-    "clickcount": 171
+    "votes": 54514,
+    "clickcount": 203
   },
   {
     "id": null,
@@ -203,7 +203,7 @@
     "stationuuid": "960cf833-0601-11e8-ae97-52543be04c81",
     "name": "SomaFM Groove Salad (128k MP3)",
     "url": "https://somafm.com/groovesalad.pls",
-    "url_resolved": "https://ice6.somafm.com/groovesalad-128-mp3",
+    "url_resolved": "https://ice5.somafm.com/groovesalad-128-mp3",
     "homepage": "https://somafm.com/groovesalad/",
     "favicon": "https://somafm.com/img3/groovesalad-400.jpg",
     "countrycode": "US",
@@ -212,8 +212,8 @@
     "tags": "ambient,chillout,downtempo,groove,lounge,sleep",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 47813,
-    "clickcount": 261
+    "votes": 47858,
+    "clickcount": 354
   },
   {
     "id": null,
@@ -221,7 +221,7 @@
     "stationuuid": "961dbb40-0601-11e8-ae97-52543be04c81",
     "name": ".977 The Mix",
     "url": "http://playerservices.streamtheworld.com/pls/977_MIX.pls",
-    "url_resolved": "http://15113.live.streamtheworld.com/977_MIX_SC",
+    "url_resolved": "http://15113.live.streamtheworld.com:3690/977_MIX_SC",
     "homepage": "http://www.977music.com/",
     "favicon": "",
     "countrycode": "US",
@@ -230,8 +230,8 @@
     "tags": "80s,90s,hits,today",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 45240,
-    "clickcount": 66
+    "votes": 45298,
+    "clickcount": 75
   },
   {
     "id": null,
@@ -248,8 +248,8 @@
     "tags": "80s,aor,glam metal,hair metal,hard rock,heavy metal,metal",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 42236,
-    "clickcount": 120
+    "votes": 42417,
+    "clickcount": 115
   },
   {
     "id": null,
@@ -257,7 +257,7 @@
     "stationuuid": "960c7c81-0601-11e8-ae97-52543be04c81",
     "name": "SomaFM Secret Agent (128k MP3)",
     "url": "https://somafm.com/secretagent.pls",
-    "url_resolved": "https://ice2.somafm.com/secretagent-128-mp3",
+    "url_resolved": "https://ice6.somafm.com/secretagent-128-mp3",
     "homepage": "https://somafm.com/secretagent/",
     "favicon": "https://somafm.com/img3/secretagent-400.jpg",
     "countrycode": "US",
@@ -266,8 +266,8 @@
     "tags": "ambient,downtempo,jazz,lounge,samba,sixties",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 36078,
-    "clickcount": 139
+    "votes": 36117,
+    "clickcount": 141
   },
   {
     "id": null,
@@ -284,8 +284,8 @@
     "tags": "80s,glam metal,hair metal,hard rock,heavy metal,overland park",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 35119,
-    "clickcount": 101
+    "votes": 35223,
+    "clickcount": 79
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "news,news talk,political talk,politics,public radio,talk",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 30710,
-    "clickcount": 247
+    "votes": 30826,
+    "clickcount": 210
   },
   {
     "id": null,
@@ -320,8 +320,8 @@
     "tags": "70s,80s,90s,easy listening,love songs,romantic",
     "codec": "AAC+",
     "bitrate": 192,
-    "votes": 29730,
-    "clickcount": 100
+    "votes": 29838,
+    "clickcount": 96
   },
   {
     "id": null,
@@ -338,8 +338,8 @@
     "tags": "80s,new wave,uk synthpop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 28694,
-    "clickcount": 88
+    "votes": 28733,
+    "clickcount": 95
   },
   {
     "id": null,
@@ -356,8 +356,8 @@
     "tags": "drum and bass",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 25164,
-    "clickcount": 77
+    "votes": 25197,
+    "clickcount": 69
   },
   {
     "id": null,
@@ -365,7 +365,7 @@
     "stationuuid": "960d3f6f-0601-11e8-ae97-52543be04c81",
     "name": "SomaFM Space Station Soma (128k AAC)",
     "url": "https://somafm.com/spacestation130.pls",
-    "url_resolved": "https://ice5.somafm.com/spacestation-128-aac",
+    "url_resolved": "https://ice6.somafm.com/spacestation-128-aac",
     "homepage": "https://somafm.com/spacestation/",
     "favicon": "https://somafm.com/img3/spacestation-400.png",
     "countrycode": "US",
@@ -374,8 +374,8 @@
     "tags": "ambient,electronica,mid-tempo",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 24421,
-    "clickcount": 106
+    "votes": 24448,
+    "clickcount": 124
   },
   {
     "id": null,
@@ -392,8 +392,8 @@
     "tags": "news",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 23939,
-    "clickcount": 77
+    "votes": 24015,
+    "clickcount": 125
   },
   {
     "id": null,
@@ -401,7 +401,7 @@
     "stationuuid": "960e0117-0601-11e8-ae97-52543be04c81",
     "name": "SomaFM PopTron (128k MP3)",
     "url": "https://somafm.com/poptron.pls",
-    "url_resolved": "https://ice5.somafm.com/poptron-128-mp3",
+    "url_resolved": "https://ice6.somafm.com/poptron-128-mp3",
     "homepage": "https://somafm.com/poptron/",
     "favicon": "https://somafm.com/img3/poptron-400.png",
     "countrycode": "US",
@@ -410,8 +410,8 @@
     "tags": "electropop,indie,synthpop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 22581,
-    "clickcount": 35
+    "votes": 22597,
+    "clickcount": 47
   },
   {
     "id": null,
@@ -423,13 +423,13 @@
     "homepage": "https://walmradio.com/otr",
     "favicon": "https://icecast.walmradio.com:8443/otr.jpg",
     "countrycode": "US",
-    "state": "",
+    "state": "New York",
     "language": "english",
     "tags": "78,78-rpm,78rpm,classic,comedy,drama,easy listening,musical,mystery,old time radio,opus,otr,sci-fi,v-disc,vintage,walm",
     "codec": "OGG",
     "bitrate": 32,
-    "votes": 22489,
-    "clickcount": 56
+    "votes": 22516,
+    "clickcount": 52
   },
   {
     "id": null,
@@ -446,8 +446,8 @@
     "tags": "jazz,smooth jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 21876,
-    "clickcount": 33
+    "votes": 21911,
+    "clickcount": 45
   },
   {
     "id": null,
@@ -464,8 +464,8 @@
     "tags": "indie,indie pop,indie rock",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 21282,
-    "clickcount": 99
+    "votes": 21309,
+    "clickcount": 138
   },
   {
     "id": null,
@@ -473,7 +473,7 @@
     "stationuuid": "960d4889-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - Highway 181",
     "url": "http://www.181.fm/stream/pls/181-highway.pls",
-    "url_resolved": "http://listen.181fm.com/181-highway_128k.mp3",
+    "url_resolved": "https://listen.181fm.com/181-highway_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "http://www.181.fm/favicon.ico",
     "countrycode": "US",
@@ -482,8 +482,8 @@
     "tags": "classic country,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 20724,
-    "clickcount": 29
+    "votes": 20780,
+    "clickcount": 47
   },
   {
     "id": null,
@@ -491,7 +491,7 @@
     "stationuuid": "961e37ee-0601-11e8-ae97-52543be04c81",
     "name": "SomaFM Left Coast 70s (320k MP3)",
     "url": "https://somafm.com/seventies320.pls",
-    "url_resolved": "https://ice2.somafm.com/seventies-320-mp3",
+    "url_resolved": "https://ice4.somafm.com/seventies-320-mp3",
     "homepage": "https://somafm.com/seventies/",
     "favicon": "https://somafm.com/img3/seventies400.jpg",
     "countrycode": "US",
@@ -500,8 +500,8 @@
     "tags": "easy listening,mellow album rock,rock,yacht rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 19923,
-    "clickcount": 83
+    "votes": 19939,
+    "clickcount": 81
   },
   {
     "id": null,
@@ -509,7 +509,7 @@
     "stationuuid": "961e6ff1-0601-11e8-ae97-52543be04c81",
     "name": ".977 Oldies",
     "url": "http://playerservices.streamtheworld.com/pls/977_OLDIES.pls",
-    "url_resolved": "http://29318.live.streamtheworld.com/977_OLDIES_SC",
+    "url_resolved": "http://26433.live.streamtheworld.com:3690/977_OLDIES_SC",
     "homepage": "http://www.977music.com/",
     "favicon": "",
     "countrycode": "US",
@@ -518,8 +518,8 @@
     "tags": "oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 15898,
-    "clickcount": 43
+    "votes": 15945,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -531,13 +531,13 @@
     "homepage": "https://radioparadise.com/",
     "favicon": "https://radioparadise.com/apple-touch-icon.png",
     "countrycode": "US",
-    "state": "",
+    "state": "California",
     "language": "english",
     "tags": "california,alternative,eclectic,rock,free,internet,non-commercial",
     "codec": "AAC",
     "bitrate": 320,
-    "votes": 15843,
-    "clickcount": 122
+    "votes": 15934,
+    "clickcount": 87
   },
   {
     "id": null,
@@ -554,8 +554,8 @@
     "tags": "hits,ocean drive,rsl",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 15769,
-    "clickcount": 54
+    "votes": 15845,
+    "clickcount": 70
   },
   {
     "id": null,
@@ -572,8 +572,8 @@
     "tags": "hiphop,rnb",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12388,
-    "clickcount": 35
+    "votes": 12426,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -581,7 +581,7 @@
     "stationuuid": "961173b5-0601-11e8-ae97-52543be04c81",
     "name": "SomaFM Lush (128k MP3)",
     "url": "https://somafm.com/lush.pls",
-    "url_resolved": "https://ice5.somafm.com/lush-128-mp3",
+    "url_resolved": "https://ice4.somafm.com/lush-128-mp3",
     "homepage": "https://somafm.com/lush/",
     "favicon": "https://somafm.com/img3/lush-400.jpg",
     "countrycode": "US",
@@ -590,8 +590,8 @@
     "tags": "electronic,femalevocals,lounge,mellow,vocal",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 12294,
-    "clickcount": 46
+    "votes": 12303,
+    "clickcount": 31
   },
   {
     "id": null,
@@ -608,8 +608,8 @@
     "tags": "classic rock,soft rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 11444,
-    "clickcount": 42
+    "votes": 11504,
+    "clickcount": 58
   },
   {
     "id": null,
@@ -626,8 +626,8 @@
     "tags": "rock",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 10987,
-    "clickcount": 9
+    "votes": 11028,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -644,26 +644,8 @@
     "tags": "chillout",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 10254,
-    "clickcount": 54
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "934d1811-3412-4d2d-86c8-dd1d8fbb51a7",
-    "name": "101 SMOOTH JAZZ MELLOW MIX",
-    "url": "http://www.101smoothjazz.com/101-mellowmix.m3u",
-    "url_resolved": "http://streaming.live365.com/b48071_128mp3",
-    "homepage": "http://www.101smoothjazz.com/mellow.html",
-    "favicon": "",
-    "countrycode": "US",
-    "state": "California",
-    "language": "english",
-    "tags": "easy listening,mellow,smooth jazz",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 9185,
-    "clickcount": 50
+    "votes": 10283,
+    "clickcount": 49
   },
   {
     "id": null,
@@ -680,8 +662,26 @@
     "tags": "news",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 9131,
-    "clickcount": 340
+    "votes": 9263,
+    "clickcount": 393
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "934d1811-3412-4d2d-86c8-dd1d8fbb51a7",
+    "name": "101 SMOOTH JAZZ MELLOW MIX",
+    "url": "http://www.101smoothjazz.com/101-mellowmix.m3u",
+    "url_resolved": "http://streaming.live365.com/b48071_128mp3",
+    "homepage": "http://www.101smoothjazz.com/mellow.html",
+    "favicon": "",
+    "countrycode": "US",
+    "state": "California",
+    "language": "english",
+    "tags": "easy listening,mellow,smooth jazz",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 9224,
+    "clickcount": 59
   },
   {
     "id": null,
@@ -698,8 +698,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8986,
-    "clickcount": 7
+    "votes": 9003,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -707,7 +707,7 @@
     "stationuuid": "960d4bdc-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - Kickin' Country",
     "url": "http://www.181.fm/stream/pls/181-kickincountry.pls",
-    "url_resolved": "http://listen.181fm.com/181-kickincountry_128k.mp3",
+    "url_resolved": "https://listen.181fm.com/181-kickincountry_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "",
     "countrycode": "US",
@@ -716,8 +716,8 @@
     "tags": "country,pop,rock,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8806,
-    "clickcount": 38
+    "votes": 8839,
+    "clickcount": 47
   },
   {
     "id": null,
@@ -734,8 +734,8 @@
     "tags": "1970s,1980s,70's,70er,70s,70s disco,80,80's,80er,80s,boogie,funk",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 8737,
-    "clickcount": 84
+    "votes": 8791,
+    "clickcount": 93
   },
   {
     "id": null,
@@ -752,8 +752,8 @@
     "tags": "60s,70s,80s,90s,classic hits,classic rock,disco,music,nostalgie,pop,rock and roll,smooth jazz,world music,worlds best classic hits",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8636,
-    "clickcount": 79
+    "votes": 8698,
+    "clickcount": 93
   },
   {
     "id": null,
@@ -770,8 +770,8 @@
     "tags": "classic rock,metal,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8164,
-    "clickcount": 77
+    "votes": 8215,
+    "clickcount": 72
   },
   {
     "id": null,
@@ -788,8 +788,8 @@
     "tags": "california,alternative,eclectic,mellow,free,internet,non-commercial",
     "codec": "AAC",
     "bitrate": 320,
-    "votes": 8141,
-    "clickcount": 57
+    "votes": 8203,
+    "clickcount": 59
   },
   {
     "id": null,
@@ -806,8 +806,8 @@
     "tags": "black metal,doom metal,post-punk,progressive rock,sludge,stoner rock,trash",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 7745,
-    "clickcount": 33
+    "votes": 7757,
+    "clickcount": 31
   },
   {
     "id": null,
@@ -824,8 +824,8 @@
     "tags": "blues,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7707,
-    "clickcount": 52
+    "votes": 7754,
+    "clickcount": 35
   },
   {
     "id": null,
@@ -842,8 +842,8 @@
     "tags": "easy listening,jazz,smooth jazz",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 7535,
-    "clickcount": 75
+    "votes": 7581,
+    "clickcount": 77
   },
   {
     "id": null,
@@ -851,7 +851,7 @@
     "stationuuid": "960d2014-0601-11e8-ae97-52543be04c81",
     "name": ".977 Comedy",
     "url": "http://playerservices.streamtheworld.com/pls/977_COMEDY.pls",
-    "url_resolved": "http://26433.live.streamtheworld.com:3690/977_COMEDY_SC",
+    "url_resolved": "http://29318.live.streamtheworld.com:3690/977_COMEDY_SC",
     "homepage": "http://www.977music.com/",
     "favicon": "",
     "countrycode": "US",
@@ -860,8 +860,8 @@
     "tags": "comedy",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7322,
-    "clickcount": 19
+    "votes": 7330,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -878,8 +878,8 @@
     "tags": "new york city",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 7186,
-    "clickcount": 14
+    "votes": 7202,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -896,8 +896,8 @@
     "tags": "rap hiphop rnb",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 7092,
-    "clickcount": 13
+    "votes": 7101,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -909,13 +909,13 @@
     "homepage": "https://www.smoothjazz.com/",
     "favicon": "https://www.smoothjazz.com/sites/default/files/theme/sj-circle-logo.png",
     "countrycode": "US",
-    "state": "",
+    "state": "California",
     "language": "english",
     "tags": "monterey,smooth jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6779,
-    "clickcount": 35
+    "votes": 6803,
+    "clickcount": 46
   },
   {
     "id": null,
@@ -932,8 +932,8 @@
     "tags": "california,eclectic,free,internet,non-commercial,paradise,radio",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 6720,
-    "clickcount": 36
+    "votes": 6746,
+    "clickcount": 40
   },
   {
     "id": null,
@@ -950,8 +950,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 6412,
-    "clickcount": 9
+    "votes": 6436,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -968,8 +968,8 @@
     "tags": "70s,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6349,
-    "clickcount": 24
+    "votes": 6364,
+    "clickcount": 25
   },
   {
     "id": null,
@@ -986,8 +986,8 @@
     "tags": "top 40,us",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 6235,
-    "clickcount": 15
+    "votes": 6253,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -1004,8 +1004,8 @@
     "tags": "news",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 6060,
-    "clickcount": 168
+    "votes": 6139,
+    "clickcount": 176
   },
   {
     "id": null,
@@ -1013,7 +1013,7 @@
     "stationuuid": "9614e0a1-0601-11e8-ae97-52543be04c81",
     "name": "SomaFM Fluid (128k MP3)",
     "url": "https://somafm.com/fluid.pls",
-    "url_resolved": "https://ice6.somafm.com/fluid-128-mp3",
+    "url_resolved": "https://ice5.somafm.com/fluid-128-mp3",
     "homepage": "https://somafm.com/fluid/",
     "favicon": "https://somafm.com/img3/fluid-400.jpg",
     "countrycode": "US",
@@ -1022,8 +1022,8 @@
     "tags": "chilled trap,future soul,hiphop,woozy electronica",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5914,
-    "clickcount": 32
+    "votes": 5920,
+    "clickcount": 26
   },
   {
     "id": null,
@@ -1031,7 +1031,7 @@
     "stationuuid": "9638a3a5-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - 90's Country",
     "url": "http://www.181.fm/stream/pls/181-90scountry.pls",
-    "url_resolved": "http://listen.181fm.com/181-90scountry_128k.mp3",
+    "url_resolved": "https://listen.181fm.com/181-90scountry_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "http://www.181.fm/favicon.ico",
     "countrycode": "US",
@@ -1040,8 +1040,8 @@
     "tags": "90s,country,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5805,
-    "clickcount": 32
+    "votes": 5823,
+    "clickcount": 44
   },
   {
     "id": null,
@@ -1058,8 +1058,8 @@
     "tags": "country,new york city,rsl",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5754,
-    "clickcount": 25
+    "votes": 5781,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -1076,8 +1076,8 @@
     "tags": "classic rock,hard rock,metal,requests",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 5616,
-    "clickcount": 38
+    "votes": 5639,
+    "clickcount": 50
   },
   {
     "id": null,
@@ -1094,8 +1094,8 @@
     "tags": "classic country,grand rapids,new country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5511,
-    "clickcount": 14
+    "votes": 5521,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -1112,8 +1112,8 @@
     "tags": "country",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5493,
-    "clickcount": 25
+    "votes": 5502,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1125,13 +1125,13 @@
     "homepage": "https://somafm.com/reggae/",
     "favicon": "https://somafm.com/img3/reggae400.jpg",
     "countrycode": "US",
-    "state": "",
+    "state": "California",
     "language": "english",
     "tags": "reggae,rocksteady,roots reggae,ska",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 5310,
-    "clickcount": 72
+    "votes": 5323,
+    "clickcount": 59
   },
   {
     "id": null,
@@ -1148,8 +1148,8 @@
     "tags": "80s,90s,today's hits",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4995,
-    "clickcount": 31
+    "votes": 5019,
+    "clickcount": 38
   },
   {
     "id": null,
@@ -1166,8 +1166,8 @@
     "tags": "punk,reggae,rocksteady,ska",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 4907,
-    "clickcount": 5
+    "votes": 4919,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1184,8 +1184,8 @@
     "tags": "love songs,new york city,rsl",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4827,
-    "clickcount": 8
+    "votes": 4848,
+    "clickcount": 23
   },
   {
     "id": null,
@@ -1202,8 +1202,8 @@
     "tags": "70s,chicago,classic hits",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 4696,
-    "clickcount": 11
+    "votes": 4705,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1220,8 +1220,8 @@
     "tags": "dubstep,edm,electro,electronic,pop,techno,trance",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4586,
-    "clickcount": 21
+    "votes": 4600,
+    "clickcount": 31
   },
   {
     "id": null,
@@ -1238,8 +1238,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4495,
-    "clickcount": 14
+    "votes": 4520,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -1247,7 +1247,7 @@
     "stationuuid": "96224885-0601-11e8-ae97-52543be04c81",
     "name": "WBBR 1130 \"Bloomberg Radio\" New York, NY",
     "url": "http://provisioning.streamtheworld.com/pls/WBBRAMaac.pls",
-    "url_resolved": "http://18853.live.streamtheworld.com/WBBRAMAAC_SC",
+    "url_resolved": "http://18493.live.streamtheworld.com/WBBRAMAAC_SC",
     "homepage": "https://www.bloombergradio.com/",
     "favicon": "https://www.bloombergradio.com/content/plugins/bloomberg-favicon/dist/img/amber-120x120.png",
     "countrycode": "US",
@@ -1256,8 +1256,8 @@
     "tags": "business news,economic news",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 4412,
-    "clickcount": 30
+    "votes": 4432,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -1265,7 +1265,7 @@
     "stationuuid": "9637d635-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - 80's HairBand",
     "url": "http://www.181.fm/stream/pls/181-hairband.pls",
-    "url_resolved": "https://listen.181fm.com/181-hairband_128k.mp3",
+    "url_resolved": "http://listen.181fm.com/181-hairband_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "http://www.181.fm/favicon.ico",
     "countrycode": "US",
@@ -1274,8 +1274,8 @@
     "tags": "80s,hair metal,metal,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4406,
-    "clickcount": 24
+    "votes": 4419,
+    "clickcount": 31
   },
   {
     "id": null,
@@ -1292,8 +1292,8 @@
     "tags": "60s,70er,classic rock,rock",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 4336,
-    "clickcount": 8
+    "votes": 4356,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1310,8 +1310,8 @@
     "tags": "country,grand ole opry,nashville",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 3999,
-    "clickcount": 14
+    "votes": 4008,
+    "clickcount": 24
   },
   {
     "id": null,
@@ -1319,7 +1319,7 @@
     "stationuuid": "9638b168-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - Comedy Club",
     "url": "http://www.181.fm/stream/pls/181-comedy.pls",
-    "url_resolved": "http://listen.181fm.com/181-comedy_128k.mp3",
+    "url_resolved": "https://listen.181fm.com/181-comedy_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "http://www.181.fm/favicon.ico",
     "countrycode": "US",
@@ -1328,8 +1328,8 @@
     "tags": "comedy,talk,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3896,
-    "clickcount": 22
+    "votes": 3900,
+    "clickcount": 20
   },
   {
     "id": null,
@@ -1337,7 +1337,7 @@
     "stationuuid": "9638a4fb-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - 90's Alternative",
     "url": "http://www.181.fm/stream/pls/181-90salt.pls",
-    "url_resolved": "https://listen.181fm.com/181-90salt_128k.mp3",
+    "url_resolved": "http://listen.181fm.com/181-90salt_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "http://www.181.fm/favicon.ico",
     "countrycode": "US",
@@ -1346,8 +1346,8 @@
     "tags": "90s,alternative,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3876,
-    "clickcount": 22
+    "votes": 3884,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -1355,7 +1355,7 @@
     "stationuuid": "960eb2e9-0601-11e8-ae97-52543be04c81",
     "name": "SomaFM Drone Zone (128k MP3)",
     "url": "https://somafm.com/dronezone.pls",
-    "url_resolved": "https://ice6.somafm.com/dronezone-128-mp3",
+    "url_resolved": "https://ice5.somafm.com/dronezone-128-mp3",
     "homepage": "https://somafm.com/dronezone/",
     "favicon": "https://somafm.com/img3/dronezone-400.jpg",
     "countrycode": "US",
@@ -1364,8 +1364,8 @@
     "tags": "ambient,atmospheric,chillout,drone",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3851,
-    "clickcount": 59
+    "votes": 3859,
+    "clickcount": 44
   },
   {
     "id": null,
@@ -1373,7 +1373,7 @@
     "stationuuid": "960ddb70-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - Awesome 80's",
     "url": "http://www.181.fm/stream/pls/181-awesome80s.pls",
-    "url_resolved": "http://listen.181fm.com/181-awesome80s_128k.mp3",
+    "url_resolved": "https://listen.181fm.com/181-awesome80s_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "http://www.181.fm/favicon.ico",
     "countrycode": "US",
@@ -1382,8 +1382,8 @@
     "tags": "80s,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3776,
-    "clickcount": 11
+    "votes": 3788,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1400,8 +1400,8 @@
     "tags": "ambient,chillout,non-commercial,relaxation music,relaxing",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 3740,
-    "clickcount": 53
+    "votes": 3756,
+    "clickcount": 66
   },
   {
     "id": null,
@@ -1409,7 +1409,7 @@
     "stationuuid": "962af33f-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - The Rock! (HardRock)",
     "url": "http://www.181.fm/stream/pls/181-hardrock.pls",
-    "url_resolved": "https://listen.181fm.com/181-hardrock_128k.mp3",
+    "url_resolved": "http://listen.181fm.com/181-hardrock_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "http://www.181.fm/favicon.ico",
     "countrycode": "US",
@@ -1418,26 +1418,8 @@
     "tags": "hard rock,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3493,
-    "clickcount": 15
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "662f715d-0b0c-4986-84e2-0cfb465caaf2",
-    "name": "KPFA",
-    "url": "https://streams.kpfa.org:8443/kpfa",
-    "url_resolved": "https://streams.kpfa.org:8443/kpfa",
-    "homepage": "https://kpfa.org/",
-    "favicon": "https://kpfa.org/favicon.ico",
-    "countrycode": "US",
-    "state": "California",
-    "language": "english",
-    "tags": "berkeley,community supported radio station",
-    "codec": "MP3",
-    "bitrate": 120,
-    "votes": 3382,
-    "clickcount": 12
+    "votes": 3509,
+    "clickcount": 30
   },
   {
     "id": null,
@@ -1454,8 +1436,26 @@
     "tags": "trap",
     "codec": "AAC+",
     "bitrate": 131,
-    "votes": 3379,
-    "clickcount": 16
+    "votes": 3398,
+    "clickcount": 31
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "662f715d-0b0c-4986-84e2-0cfb465caaf2",
+    "name": "KPFA",
+    "url": "https://streams.kpfa.org:8443/kpfa",
+    "url_resolved": "https://streams.kpfa.org:8443/kpfa",
+    "homepage": "https://kpfa.org/",
+    "favicon": "https://kpfa.org/favicon.ico",
+    "countrycode": "US",
+    "state": "California",
+    "language": "english",
+    "tags": "berkeley,community supported radio station",
+    "codec": "MP3",
+    "bitrate": 120,
+    "votes": 3389,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1463,7 +1463,7 @@
     "stationuuid": "960cb16e-0601-11e8-ae97-52543be04c81",
     "name": "181.FM - Real Country",
     "url": "http://www.181.fm/stream/pls/181-realcountry.pls",
-    "url_resolved": "https://listen.181fm.com/181-realcountry_128k.mp3",
+    "url_resolved": "http://listen.181fm.com/181-realcountry_128k.mp3",
     "homepage": "http://www.181.fm/",
     "favicon": "",
     "countrycode": "US",
@@ -1472,8 +1472,8 @@
     "tags": "country,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3372,
-    "clickcount": 6
+    "votes": 3381,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1490,8 +1490,8 @@
     "tags": "classic country,country,news,talk,truck-driving country",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 3355,
-    "clickcount": 21
+    "votes": 3360,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -1508,8 +1508,8 @@
     "tags": "comedy",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 3345,
-    "clickcount": 14
+    "votes": 3352,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -1526,8 +1526,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3154,
-    "clickcount": 11
+    "votes": 3158,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -1544,8 +1544,8 @@
     "tags": "alternative rock,alternative wave,edm,indie,indie pop,indie rock",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 3101,
-    "clickcount": 5
+    "votes": 3103,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1562,8 +1562,8 @@
     "tags": "classical",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3084,
-    "clickcount": 25
+    "votes": 3098,
+    "clickcount": 32
   },
   {
     "id": null,
@@ -1580,8 +1580,8 @@
     "tags": "california,alternative,eclectic,rock,free,internet,non-commercial",
     "codec": "OGG",
     "bitrate": 1441,
-    "votes": 3018,
-    "clickcount": 49
+    "votes": 3035,
+    "clickcount": 41
   },
   {
     "id": null,
@@ -1598,8 +1598,8 @@
     "tags": "ambient,downtempo,jazz,lounge,samba,sixties",
     "codec": "AAC",
     "bitrate": 32,
-    "votes": 2982,
-    "clickcount": 9
+    "votes": 2985,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1616,8 +1616,8 @@
     "tags": "60s,70s,70s disco,80s,black,black music,disco,funk,funky,motown,music,oldies,p-funk,r&b,r'n'b,rare groove,rnb,soul,usa",
     "codec": "AAC+",
     "bitrate": 132,
-    "votes": 2862,
-    "clickcount": 44
+    "votes": 2877,
+    "clickcount": 68
   },
   {
     "id": null,
@@ -1634,8 +1634,8 @@
     "tags": "",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2781,
-    "clickcount": 2
+    "votes": 2783,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1643,7 +1643,7 @@
     "stationuuid": "6f73bc13-3c4b-11e8-b74d-52543be04c81",
     "name": "SomaFM Deep Space One (32k AAC)",
     "url": "https://somafm.com/deepspaceone32.pls",
-    "url_resolved": "https://ice6.somafm.com/deepspaceone-32-aac",
+    "url_resolved": "https://ice5.somafm.com/deepspaceone-32-aac",
     "homepage": "https://somafm.com/deepspaceone/",
     "favicon": "http://somafm.com/img3/deepspaceone-400.jpg",
     "countrycode": "US",
@@ -1652,8 +1652,8 @@
     "tags": "ambient,electronic,space",
     "codec": "AAC",
     "bitrate": 32,
-    "votes": 2739,
-    "clickcount": 14
+    "votes": 2752,
+    "clickcount": 28
   },
   {
     "id": null,
@@ -1670,8 +1670,8 @@
     "tags": "easy listening,mellow album rock,rock,yacht rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2661,
-    "clickcount": 8
+    "votes": 2669,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1688,8 +1688,8 @@
     "tags": "art bell,coast to coast am,conspiracies,conspiracy theories,paranormal",
     "codec": "MP3",
     "bitrate": 32,
-    "votes": 2642,
-    "clickcount": 35
+    "votes": 2666,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -1697,7 +1697,7 @@
     "stationuuid": "ffe33802-6417-11e9-a622-52543be04c81",
     "name": "SomaFM Boot Liquor (320k MP3)",
     "url": "https://somafm.com/bootliquor320.pls",
-    "url_resolved": "https://ice6.somafm.com/bootliquor-320-mp3",
+    "url_resolved": "https://ice4.somafm.com/bootliquor-320-mp3",
     "homepage": "https://somafm.com/bootliquor/",
     "favicon": "https://somafm.com/img3/bootliquor-400.jpg",
     "countrycode": "US",
@@ -1706,8 +1706,8 @@
     "tags": "americana,country",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 2609,
-    "clickcount": 21
+    "votes": 2611,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -1724,8 +1724,8 @@
     "tags": "hip hop,r&b,soul,urban",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 2574,
-    "clickcount": 51
+    "votes": 2585,
+    "clickcount": 72
   },
   {
     "id": null,
@@ -1742,8 +1742,8 @@
     "tags": "smooth jazz",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2569,
-    "clickcount": 5
+    "votes": 2576,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -1751,7 +1751,7 @@
     "stationuuid": "961249b2-0601-11e8-ae97-52543be04c81",
     "name": "SomaFM Sonic Universe (128k MP3)",
     "url": "https://somafm.com/sonicuniverse.pls",
-    "url_resolved": "https://ice6.somafm.com/sonicuniverse-128-mp3",
+    "url_resolved": "https://ice4.somafm.com/sonicuniverse-128-mp3",
     "homepage": "https://somafm.com/sonicuniverse/",
     "favicon": "https://somafm.com/img3/sonicuniverse-400.jpg",
     "countrycode": "US",
@@ -1760,8 +1760,8 @@
     "tags": "avant-garde,eclectic,jazz",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2556,
-    "clickcount": 13
+    "votes": 2561,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1769,7 +1769,7 @@
     "stationuuid": "960761d5-0601-11e8-ae97-52543be04c81",
     "name": ".977 90s",
     "url": "http://playerservices.streamtheworld.com/pls/977_90.pls",
-    "url_resolved": "http://26433.live.streamtheworld.com/977_90_SC",
+    "url_resolved": "http://29318.live.streamtheworld.com:3690/977_90_SC",
     "homepage": "http://www.977music.com/",
     "favicon": "",
     "countrycode": "US",
@@ -1778,8 +1778,8 @@
     "tags": "90s",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2501,
-    "clickcount": 12
+    "votes": 2508,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -1796,7 +1796,7 @@
     "tags": "california,alternative,eclectic,mellow,free,internet,non-commercial",
     "codec": "OGG",
     "bitrate": 1441,
-    "votes": 2461,
-    "clickcount": 20
+    "votes": 2478,
+    "clickcount": 33
   }
 ]

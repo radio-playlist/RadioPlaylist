@@ -12,7 +12,7 @@ http://icecast2.play.cz:8000/country128aac
 http://icecast2.play.cz:8000/kiss128aac
 
 #EXTINF:-1 tvg-logo="" group-title="CZ",Rádio Blaník živé
-http://ice.abradio.cz/blanikfm128.mp3
+https://ice.abradio.cz/blanikfm128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CZ",ČRo Radiožurnál
 http://icecast8.play.cz/cro1-128.mp3
@@ -98,11 +98,11 @@ http://ice.abradio.cz/rockzabava128.mp3
 #EXTINF:-1 tvg-logo="" group-title="CZ",Signál Rádio
 http://icecast1.play.cz/signal128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CZ",RADIO 1
-http://icecast2.play.cz/radio1.mp3
-
 #EXTINF:-1 tvg-logo="https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="CZ",Radio Svoboda Rus
 http://rfe04.akacast.akamaistream.net/7/509/437762/v1/ibb.akacast.akamaistream.net/rfe04
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",RADIO 1
+http://icecast2.play.cz/radio1.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CZ",Queenradio.net
 http://stream.radiojar.com/4gw72qm8u68uv
@@ -123,7 +123,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_1
 http://sc.ipip.cz:8206/;stream
 
 #EXTINF:-1 tvg-logo="http://hitradiocity.cz/design/favicons/apple-icon-120x120.png" group-title="CZ",hitradio City zona Lasky
-http://ice.abradio.cz/cityzl128.mp3
+https://ice.abradio.cz/cityzl128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CZ",Rádio Samson
 http://icecast8.play.cz/samsonfm128.mp3
@@ -149,11 +149,11 @@ http://svobodneradio.radioca.st:8859/stream
 #EXTINF:-1 tvg-logo="" group-title="CZ",Rádio humor 2
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac
 
-#EXTINF:-1 tvg-logo="" group-title="CZ",Svobodný vysílač
-http://stream.svobodny-vysilac.cz:8000/live.ogg
-
 #EXTINF:-1 tvg-logo="https://radiozurnal.rozhlas.cz/sites/default/files/favicon_radiozurnal.ico" group-title="CZ",CRo Radiozurnal
 https://rozhlas.stream/radiozurnal_aac_128.aac
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Svobodný vysílač
+http://stream.svobodny-vysilac.cz:8000/live.ogg
 
 #EXTINF:-1 tvg-logo="https://zeno.fm/static/icons/apple-icon-152x152.png" group-title="CZ",PHONK RADIO
 https://stream-43.zeno.fm/90fvpb27u18uv?zs=vRvgZYxuSUWsgBGCbKMLnA
@@ -167,11 +167,11 @@ https://icecast9.play.cz/netro-life-radio.mp3
 #EXTINF:-1 tvg-logo="" group-title="CZ",Rádio Jih
 http://icecast6.play.cz/jih128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CZ",ROCK MAX
-http://ice.abradio.cz/rockmax256.mp3
-
 #EXTINF:-1 tvg-logo="http://hitradiocitybrno.cz/design/favicons/apple-icon-120x120.png" group-title="CZ",Hitrádio City Brno
 http://ice.abradio.cz/magicbrno128.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",ROCK MAX
+http://ice.abradio.cz/rockmax256.mp3
 
 #EXTINF:-1 tvg-logo="https://www.frekvence1.cz/img/favicons/apple-touch-icon.png?v130" group-title="CZ",Frekvence 1 - Youradio Osmdesátky
 http://ice.actve.net/web-80
@@ -194,14 +194,14 @@ http://stream.svobodny-vysilac.cz:8000/live.mp3
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s10545/images/logog.jpg" group-title="CZ",Hitrádio Faktor
 https://ice.abradio.cz/faktor128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CZ",Pigy.cz – Pohádky
-http://ice.actve.net/web-pg-pohadky
-
 #EXTINF:-1 tvg-logo="" group-title="CZ",Haná
 http://icecast8.play.cz/hana128.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CZ",WeHouseRadio
 https://stream.zunradio.cz/zun3.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CZ",Pigy.cz – Pohádky
+http://ice.actve.net/web-pg-pohadky
 
 #EXTINF:-1 tvg-logo="http://hitradiovysocina.cz/design/favicons/favicon-32x32.png" group-title="CZ",Hitrádio Vysočina
 http://ice5.abradio.cz/hitvysocina128.mp3
@@ -215,14 +215,14 @@ http://icecast4.play.cz/country128.mp3
 #EXTINF:-1 tvg-logo="https://wave.rozhlas.cz/sites/default/files/favicon_wave.ico" group-title="CZ",ČRo Radio Wave
 http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg
 
+#EXTINF:-1 tvg-logo="" group-title="CZ",Signál Rádio Brno
+http://icecast6.play.cz/signal-brno128.mp3
+
 #EXTINF:-1 tvg-logo="https://www.radio1.cz/favicon.ico" group-title="CZ",RADIO1
-http://icecast6.play.cz/radio1-128.mp3
+http://icecast2.play.cz/radio1-192.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CZ",Kiss Publikum
 http://icecast1.play.cz:8000/kisspublikum128aac
-
-#EXTINF:-1 tvg-logo="" group-title="CZ",Signál Rádio Brno
-http://icecast6.play.cz/signal-brno128.mp3
 
 #EXTINF:-1 tvg-logo="https://www.shadowbox.cz/css/site/btn/radio_shadowbox.png" group-title="CZ",Rádio DNB TV
 https://ice3.abradio.cz/shadowbox128.mp3

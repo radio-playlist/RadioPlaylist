@@ -23,11 +23,11 @@ http://strm112.1.fm/rockclassics_mobile_mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Bombay Beats India Radio
 http://strm112.1.fm/bombaybeats_mobile_mp3
 
-#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Deep Techno & Deep House
-http://strm112.1.fm/deeptech_mobile_mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - High Voltage Radio
 http://strm112.1.fm/highvoltage_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Deep Techno & Deep House
+http://strm112.1.fm/deeptech_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Alternative Rock X Hits Radio
 http://strm112.1.fm/x_mobile_mp3
@@ -54,7 +54,7 @@ http://strm112.1.fm/baroque_mobile_mp3
 http://gdsfm.out.airtime.pro:8000/gdsfm_a
 
 #EXTINF:-1 tvg-logo="https://energy.ch/ech-new/images/ech/apple-touch-icon.png" group-title="CH",Energy Zürich (NRJ)
-http://broadcast.infomaniak.ch/energyzuerich-high.mp3
+http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Ambient Psychill
 http://strm112.1.fm/ambientpsy_mobile_mp3
@@ -176,23 +176,23 @@ http://strm112.1.fm/costadelmarchillout_mobile_mp3
 #EXTINF:-1 tvg-logo="http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",SRF Musikwelle
 http://stream.srg-ssr.ch/srgssr/srfmw/mp3/128
 
+#EXTINF:-1 tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",Radio SRF 3
+https://stream.srg-ssr.ch/m/drs3/aacp_32
+
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Afterbeat Electronica Radio
 http://strm112.1.fm/electronica_mobile_mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Radio Zürisee
 http://mp3.radio.ch/radiozuerisee128k
 
-#EXTINF:-1 tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",Radio SRF 3
-https://stream.srg-ssr.ch/m/drs3/aacp_32
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - All Euro 80's Radio
 http://strm112.1.fm/80s_90s_mobile_mp3
 
-#EXTINF:-1 tvg-logo="http://www.rhonefm.ch/favicon/4/120x120.png" group-title="CH",Rhône FM
-http://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",Spoon Radio - Rock Ballads
 https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
+
+#EXTINF:-1 tvg-logo="http://www.rhonefm.ch/favicon/4/120x120.png" group-title="CH",Rhône FM
+http://rhonefm.ice.infomaniak.ch/rhonefm-high.mp3
 
 #EXTINF:-1 tvg-logo="http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",Radio Suisse Classique
 https://stream.srg-ssr.ch/m/rsc_fr/mp3_128
@@ -248,17 +248,17 @@ http://traxx013.ice.infomaniak.ch/traxx013-low.mp3
 #EXTINF:-1 tvg-logo="" group-title="CH",Radio Svizzera Classica
 http://stream.srg-ssr.ch/m/rsc_it/mp3_128
 
-#EXTINF:-1 tvg-logo="http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",SRF Virus
-http://stream.srg-ssr.ch/srgssr/srfvirus/mp3/128
-
 #EXTINF:-1 tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",Radio SRF 4 News
 http://stream.srg-ssr.ch/srgssr/srf4news/aac/96
 
-#EXTINF:-1 tvg-logo="" group-title="CH",my105 - Ritmo Latino
-http://stream01.my105.ch/my105ritmolatino.mp3
+#EXTINF:-1 tvg-logo="http://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="CH",SRF Virus
+http://stream.srg-ssr.ch/srgssr/srfvirus/mp3/128
 
 #EXTINF:-1 tvg-logo="" group-title="CH",IP music slow (128 kbps AAC)
 http://live7.avf.ch:8000/ipmusicslowaacp128
+
+#EXTINF:-1 tvg-logo="" group-title="CH",my105 - Ritmo Latino
+http://stream01.my105.ch/my105ritmolatino.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",Radio Swiss Jazz
 http://stream.srg-ssr.ch/m/rsj/aacp_96
@@ -278,14 +278,14 @@ http://stream01.my105.ch/my105deep.mp3
 #EXTINF:-1 tvg-logo="https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png" group-title="CH",RTS Espace 2
 http://stream.srg-ssr.ch/srgssr/espace-2/mp3/128
 
-#EXTINF:-1 tvg-logo="" group-title="CH",Radio X Basel (MP3 Stream)
-http://mp3.radiox.ch:8000/standard.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="CH",True House Chill
 https://stream.truehouse.net:8443/chill
 
 #EXTINF:-1 tvg-logo="" group-title="CH",IP music slow (96 kbps AAC)
 http://live7.avf.ch:8000/ipmusicslowaacp96
+
+#EXTINF:-1 tvg-logo="" group-title="CH",Radio X Basel (MP3 Stream)
+http://mp3.radiox.ch:8000/standard.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",One Dance Ticino
 https://ice15.fluidstream.net/onedancech.aac

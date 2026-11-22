@@ -14,8 +14,8 @@
     "tags": "music,reggae",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 31714,
-    "clickcount": 75
+    "votes": 31821,
+    "clickcount": 63
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "reggae",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 7357,
-    "clickcount": 17
+    "votes": 7385,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "jazz,reggae,ska",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 5398,
-    "clickcount": 21
+    "votes": 5400,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -63,13 +63,13 @@
     "homepage": "https://somafm.com/reggae/",
     "favicon": "https://somafm.com/img3/reggae400.jpg",
     "countrycode": "US",
-    "state": "",
+    "state": "California",
     "language": "english",
     "tags": "reggae,rocksteady,roots reggae,ska",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 5310,
-    "clickcount": 72
+    "votes": 5323,
+    "clickcount": 59
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "aac,public radio,radio france,reggae",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 5079,
-    "clickcount": 31
+    "votes": 5103,
+    "clickcount": 35
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "punk,reggae,rocksteady,ska",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 4907,
-    "clickcount": 5
+    "votes": 4919,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "alternative,blues,dance,eclectic,electronic,experimental,funk,grime,hip hop,house,indie,jazz,metal,pop,punk,r&b,reggae,rock,ska,soul,techno,world",
     "codec": "UNKNOWN",
     "bitrate": 0,
-    "votes": 3536,
-    "clickcount": 160
+    "votes": 3603,
+    "clickcount": 197
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "reggae",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3158,
-    "clickcount": 7
+    "votes": 3162,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "dub,reggae",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 2745,
-    "clickcount": 38
+    "votes": 2758,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -176,8 +176,8 @@
     "tags": "dancehall,dubstep,ragga,raggamuffin,reggae,roots",
     "codec": "MP3",
     "bitrate": 160,
-    "votes": 2682,
-    "clickcount": 7
+    "votes": 2695,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -194,8 +194,8 @@
     "tags": "reggae",
     "codec": "AAC+",
     "bitrate": 52,
-    "votes": 2354,
-    "clickcount": 8
+    "votes": 2358,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -212,8 +212,8 @@
     "tags": "reggae,waynesboro",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1930,
-    "clickcount": 7
+    "votes": 1934,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -230,8 +230,8 @@
     "tags": "reggae",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1782,
-    "clickcount": 2
+    "votes": 1788,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -248,26 +248,8 @@
     "tags": "dub,reggae,roots",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1564,
-    "clickcount": 11
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "96128e69-0601-11e8-ae97-52543be04c81",
-    "name": "FIP autour du reggae",
-    "url": "http://direct.fipradio.fr/live/fip-webradio6.mp3",
-    "url_resolved": "http://direct.fipradio.fr/live/fip-webradio6.mp3",
-    "homepage": "http://www.fipradio.fr/",
-    "favicon": "http://www.fipradio.fr/dist/favicons/logo-120.png",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "reggae",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 1444,
-    "clickcount": 5
+    "votes": 1567,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -284,8 +266,26 @@
     "tags": "105.9 fm,américa,centroamérica,costa rica,dancehall,entretenimiento,español,estación,fm,hiphop,juvenil,latinoamérica,moi merino,music,música,música en español e inglés,música urbana,r&b,r&b/urban,radio,reggae,san josé,urban,urban contemporary,urban music,urbana,urbano,urbano 106",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 1431,
-    "clickcount": 26
+    "votes": 1449,
+    "clickcount": 17
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "96128e69-0601-11e8-ae97-52543be04c81",
+    "name": "FIP autour du reggae",
+    "url": "http://direct.fipradio.fr/live/fip-webradio6.mp3",
+    "url_resolved": "http://direct.fipradio.fr/live/fip-webradio6.mp3",
+    "homepage": "http://www.fipradio.fr/",
+    "favicon": "http://www.fipradio.fr/dist/favicons/logo-120.png",
+    "countrycode": "FR",
+    "state": "",
+    "language": "french",
+    "tags": "reggae",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1448,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -302,8 +302,8 @@
     "tags": "dub,reggae,roots reggae",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 1361,
-    "clickcount": 6
+    "votes": 1362,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -321,7 +321,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 1190,
-    "clickcount": 3
+    "clickcount": 6
   },
   {
     "id": null,
@@ -338,8 +338,8 @@
     "tags": "afropop,afrosoul,dancehall,folk,funk,hiphop,jazz,kwaito,latin,nu-jazz,reggae,rock,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1172,
-    "clickcount": 13
+    "votes": 1173,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -356,7 +356,7 @@
     "tags": "dancdhall,haphop,r&b,reggae,talk",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1027,
+    "votes": 1028,
     "clickcount": 4
   },
   {
@@ -374,8 +374,8 @@
     "tags": "reggae",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 994,
-    "clickcount": 35
+    "votes": 1001,
+    "clickcount": 22
   },
   {
     "id": null,
@@ -392,8 +392,8 @@
     "tags": "afrobeats,alternative,ambient,arts,beats,black,breakbeat,cinema,culture,dub,electronic,electropop,experimental,funk,house,indie pop,indie rock,jazz,local news,minimal,minimal wave,music,new wave,news,nu-jazz,post-punk,post-rock,reggae,soul,synth,synthwave,world,worldbeat",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 965,
-    "clickcount": 80
+    "votes": 969,
+    "clickcount": 73
   },
   {
     "id": null,
@@ -410,8 +410,8 @@
     "tags": "#00s,#80,#top200,90's,90s,bass,chillout,dance,deep house,discofox+schlager,dj,dj remix,electronic,electronica,festivals,hiphop,hot adult contemporary,house,liveradio,livestream,lounge,minimal,moombahton,pop,pop dance,pop music,reggae,reggaeton,remixes,rnb,schlager,techno,top 100,top 40,top 40 hits,top charts,top100,top200,urban",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 882,
-    "clickcount": 46
+    "votes": 889,
+    "clickcount": 52
   },
   {
     "id": null,
@@ -428,8 +428,8 @@
     "tags": "reggae,soca",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 811,
-    "clickcount": 5
+    "votes": 816,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -437,7 +437,7 @@
     "stationuuid": "48d09371-ce3e-4278-a637-179bdba36cb7",
     "name": "radioeins-rbb-56 kbit/s",
     "url": "https://www.radioeins.de/live_s.m3u",
-    "url_resolved": "http://d121.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3LzWVdlv7uCpFRgL972wHDEUAIT&token=6h5l9dgfbHvcz6-17ouLaaply60kD_RuhGL9z5UNFbs&tvf=tvDb4CRF5xhkMTIxLnJuZGZuay5jb20",
+    "url_resolved": "http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3MDeGTkShx6O7VNPGU35JflsBkG&token=u2fPXA51_6fPnuO0DPO6KzOw5NL2C92VbyGfMeizIl8&tvf=mnwDqxvO6BhmMTIxLnJuZGZuay5jb20",
     "homepage": "https://www.radioeins.de/homepage/",
     "favicon": "https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png",
     "countrycode": "DE",
@@ -446,8 +446,8 @@
     "tags": "alternative,disco,drum'n'bass,electro,house,jazz,pop,reggae,rock,soul",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 788,
-    "clickcount": 11
+    "votes": 794,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -465,7 +465,7 @@
     "codec": "AAC",
     "bitrate": 32,
     "votes": 783,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -482,8 +482,8 @@
     "tags": "hip-hop,reggae",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 655,
-    "clickcount": 7
+    "votes": 660,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -500,8 +500,8 @@
     "tags": "christiansted,reggae",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 638,
-    "clickcount": 2
+    "votes": 641,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -518,8 +518,8 @@
     "tags": "caribbean,reggae,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 604,
-    "clickcount": 4
+    "votes": 606,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -536,8 +536,8 @@
     "tags": "bass,drum and bass,hiphop,jungle,reggae,urban",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 562,
-    "clickcount": 1
+    "votes": 567,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -554,8 +554,8 @@
     "tags": "reggae",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 507,
-    "clickcount": 25
+    "votes": 516,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -573,7 +573,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 505,
-    "clickcount": 2
+    "clickcount": 6
   },
   {
     "id": null,
@@ -590,8 +590,8 @@
     "tags": "60s,70s,80s,90s,alternative,indie,music,new wave,punk,reggae,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 471,
-    "clickcount": 3
+    "votes": 473,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -608,8 +608,8 @@
     "tags": "reggae",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 456,
-    "clickcount": 8
+    "votes": 462,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -626,8 +626,8 @@
     "tags": "80s,90s,dance,drum and bass,electronic,funk,garage,jungle,mashup,old skool,reggae,vintage,world music",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 453,
-    "clickcount": 68
+    "votes": 456,
+    "clickcount": 65
   },
   {
     "id": null,
@@ -645,7 +645,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 444,
-    "clickcount": 1
+    "clickcount": 3
   },
   {
     "id": null,
@@ -662,7 +662,7 @@
     "tags": "reggae,roots reggae,rtbf",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 440,
+    "votes": 441,
     "clickcount": 4
   },
   {
@@ -681,7 +681,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 436,
-    "clickcount": 4
+    "clickcount": 6
   },
   {
     "id": null,
@@ -689,7 +689,7 @@
     "stationuuid": "eb1746ec-92bb-4d42-b87e-72b82f2e68b0",
     "name": "SomaFM Heavyweight Reggae (32k AAC)",
     "url": "https://somafm.com/reggae32.pls",
-    "url_resolved": "https://ice2.somafm.com/reggae-32-aac",
+    "url_resolved": "https://ice6.somafm.com/reggae-32-aac",
     "homepage": "https://somafm.com/reggae/",
     "favicon": "https://somafm.com/img3/reggae400.jpg",
     "countrycode": "US",
@@ -698,8 +698,8 @@
     "tags": "reggae,rocksteady,roots reggae,ska",
     "codec": "AAC",
     "bitrate": 32,
-    "votes": 428,
-    "clickcount": 4
+    "votes": 430,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -717,7 +717,7 @@
     "codec": "AAC+",
     "bitrate": 64,
     "votes": 410,
-    "clickcount": 3
+    "clickcount": 1
   },
   {
     "id": null,
@@ -734,8 +734,8 @@
     "tags": "music,ragga,reggae",
     "codec": "MP3",
     "bitrate": 96,
-    "votes": 399,
-    "clickcount": 3
+    "votes": 403,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -752,8 +752,8 @@
     "tags": "reggae,roots reggae",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 373,
-    "clickcount": 2
+    "votes": 374,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -770,8 +770,8 @@
     "tags": "african hip hop,afropop,azonto,coupé-decalé,dancehall,deep house,isicathamiya,ndombolo,r&b,reggae,soca",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 338,
-    "clickcount": 1
+    "votes": 339,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -789,7 +789,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 302,
-    "clickcount": 3
+    "clickcount": 1
   },
   {
     "id": null,
@@ -806,8 +806,8 @@
     "tags": "dub,reggae",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 291,
-    "clickcount": 1
+    "votes": 292,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -824,26 +824,8 @@
     "tags": "reggae",
     "codec": "AAC",
     "bitrate": 64,
-    "votes": 290,
-    "clickcount": 17
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "dbfd0142-0a08-4342-b66f-54838a6e1ea2",
-    "name": "Boss FM 104.1-104.9 - Grenada",
-    "url": "https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1",
-    "url_resolved": "https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1",
-    "homepage": "https://www.bossfmgrenada.net/",
-    "favicon": "",
-    "countrycode": "GD",
-    "state": "St. George's",
-    "language": "",
-    "tags": "caribbean,reggae,talk",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 278,
-    "clickcount": 4
+    "votes": 291,
+    "clickcount": 15
   },
   {
     "id": null,
@@ -860,8 +842,26 @@
     "tags": "alternative,dance,dancehall,hiphop,reggae,reggaeton,rock,soca,techno",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 277,
-    "clickcount": 14
+    "votes": 285,
+    "clickcount": 15
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "dbfd0142-0a08-4342-b66f-54838a6e1ea2",
+    "name": "Boss FM 104.1-104.9 - Grenada",
+    "url": "https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1",
+    "url_resolved": "https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1",
+    "homepage": "https://www.bossfmgrenada.net/",
+    "favicon": "",
+    "countrycode": "GD",
+    "state": "St. George's",
+    "language": "",
+    "tags": "caribbean,reggae,talk",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 282,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -878,7 +878,7 @@
     "tags": "reggae,soca,zouk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 248,
+    "votes": 250,
     "clickcount": 4
   },
   {
@@ -897,7 +897,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 248,
-    "clickcount": 10
+    "clickcount": 5
   },
   {
     "id": null,
@@ -915,25 +915,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 244,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "1e586ac9-e78b-4522-b7ad-5cbf483257d1",
-    "name": "Fabulosa Estéreo 100.5 FM",
-    "url": "https://www.streaming507.net:8130/stream",
-    "url_resolved": "https://www.streaming507.net:8130/stream",
-    "homepage": "https://fabulosaestereo.com/",
-    "favicon": "",
-    "countrycode": "PA",
-    "state": "",
-    "language": "spanish",
-    "tags": "bachata,dj,latino,mix,reggae,reggaeton,salsa,urbano",
-    "codec": "AAC+",
-    "bitrate": 128,
-    "votes": 227,
-    "clickcount": 1
+    "clickcount": 3
   },
   {
     "id": null,
@@ -950,8 +932,26 @@
     "tags": "blues,progressive rock,reggae,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 226,
-    "clickcount": 1
+    "votes": 232,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "1e586ac9-e78b-4522-b7ad-5cbf483257d1",
+    "name": "Fabulosa Estéreo 100.5 FM",
+    "url": "https://www.streaming507.net:8130/stream",
+    "url_resolved": "https://www.streaming507.net:8130/stream",
+    "homepage": "https://fabulosaestereo.com/",
+    "favicon": "",
+    "countrycode": "PA",
+    "state": "",
+    "language": "spanish",
+    "tags": "bachata,dj,latino,mix,reggae,reggaeton,salsa,urbano",
+    "codec": "AAC+",
+    "bitrate": 128,
+    "votes": 229,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -986,8 +986,8 @@
     "tags": "caribbean,popular,reggae",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 200,
-    "clickcount": 4
+    "votes": 201,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1004,8 +1004,8 @@
     "tags": "decades,health,hymns,music,obituaries,oldies,quality,reggae,soca,talk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 194,
-    "clickcount": 4
+    "votes": 199,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1022,8 +1022,8 @@
     "tags": "caribbean,dancehall,reggae,soca",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 193,
-    "clickcount": 2
+    "votes": 194,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1041,7 +1041,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 174,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1059,7 +1059,7 @@
     "codec": "AAC+",
     "bitrate": 192,
     "votes": 174,
-    "clickcount": 13
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1077,7 +1077,25 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 163,
-    "clickcount": 6
+    "clickcount": 3
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "2a2eeadb-3126-4048-b8f1-383c7f98c956",
+    "name": "Stylz FM",
+    "url": "https://stream.zeno.fm/0d1hpcmqqy5tv",
+    "url_resolved": "https://stream.zeno.fm/0d1hpcmqqy5tv",
+    "homepage": "http://www.stylzfm.com/",
+    "favicon": "https://stylzfm.com/sites/default/files/favicon.ico",
+    "countrycode": "JM",
+    "state": "",
+    "language": "english,jamaican",
+    "tags": "love,reggae",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 162,
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1095,25 +1113,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 161,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "2a2eeadb-3126-4048-b8f1-383c7f98c956",
-    "name": "Stylz FM",
-    "url": "https://stream.zeno.fm/0d1hpcmqqy5tv",
-    "url_resolved": "https://stream.zeno.fm/0d1hpcmqqy5tv",
-    "homepage": "http://www.stylzfm.com/",
-    "favicon": "https://stylzfm.com/sites/default/files/favicon.ico",
-    "countrycode": "JM",
-    "state": "",
-    "language": "english,jamaican",
-    "tags": "love,reggae",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 159,
-    "clickcount": 11
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1130,8 +1130,8 @@
     "tags": "afrobeat,beats,classical music,dream-pop,dubstep,electronic,folk,french chansons,hip-hop,indie,jazz,krautrock,music journalistic topics,no ads,pop,reggae,rock,shoegaze,singer/songwriter,song premieres,synth-pop,techno,the latest news from the national and international music scene,without computer generated music rotation",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 156,
-    "clickcount": 7
+    "votes": 159,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1148,8 +1148,8 @@
     "tags": "disco,eclectic,funk,jazz,reggae,rock,soul,soundtracks",
     "codec": "AAC+",
     "bitrate": 320,
-    "votes": 152,
-    "clickcount": 4
+    "votes": 155,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -1167,7 +1167,7 @@
     "codec": "AAC",
     "bitrate": 64,
     "votes": 149,
-    "clickcount": 9
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1185,7 +1185,7 @@
     "codec": "AAC+",
     "bitrate": 64,
     "votes": 137,
-    "clickcount": 7
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1203,7 +1203,7 @@
     "codec": "AAC+",
     "bitrate": 320,
     "votes": 135,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1221,7 +1221,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 130,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1239,7 +1239,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 128,
-    "clickcount": 3
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1257,7 +1257,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 125,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1275,7 +1275,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 119,
-    "clickcount": 1
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1292,7 +1292,7 @@
     "tags": "dance,drum & bass,dub,garage,house,reggae,urban",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 108,
+    "votes": 109,
     "clickcount": 2
   },
   {
@@ -1311,7 +1311,7 @@
     "codec": "OGG",
     "bitrate": 0,
     "votes": 104,
-    "clickcount": 4
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1347,7 +1347,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 92,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1365,7 +1365,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 91,
-    "clickcount": 1
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1400,8 +1400,8 @@
     "tags": "974,créole,reggae,réunion",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 82,
-    "clickcount": 7
+    "votes": 84,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1436,8 +1436,8 @@
     "tags": "hardcore,oi!,punk,reggae,rocksteady",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 74,
-    "clickcount": 4
+    "votes": 75,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1454,8 +1454,8 @@
     "tags": "pop,reggae",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 74,
-    "clickcount": 0
+    "votes": 75,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1472,8 +1472,8 @@
     "tags": "80s,90s,dance,disco,gospel,reggae",
     "codec": "AAC",
     "bitrate": 128,
-    "votes": 71,
-    "clickcount": 3
+    "votes": 74,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1491,7 +1491,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 68,
-    "clickcount": 3
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1509,7 +1509,7 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 66,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1545,7 +1545,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 63,
-    "clickcount": 1
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1562,26 +1562,8 @@
     "tags": "acoustic,alt country,classic rock,jam bands,jazz,progressive rock,reggae,rock,singer-songwriter",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 62,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "2022f2ab-ae5d-46a7-a6d1-d915cf153530",
-    "name": "Nova Reggae",
-    "url": "http://nova-reggae.ice.infomaniak.ch/nova-reggae-256.aac",
-    "url_resolved": "http://nova-reggae.ice.infomaniak.ch/nova-reggae-256.aac",
-    "homepage": "https://www.nova.fr/radios/nova-reggae/",
-    "favicon": "https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-reggea-400x496-1-t-1006x1006.png",
-    "countrycode": "FR",
-    "state": "France",
-    "language": "french",
-    "tags": "reggae",
-    "codec": "AAC",
-    "bitrate": 255,
-    "votes": 60,
-    "clickcount": 4
+    "votes": 63,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1598,8 +1580,26 @@
     "tags": "fip,reggae",
     "codec": "AAC",
     "bitrate": 192,
-    "votes": 59,
-    "clickcount": 5
+    "votes": 63,
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "2022f2ab-ae5d-46a7-a6d1-d915cf153530",
+    "name": "Nova Reggae",
+    "url": "http://nova-reggae.ice.infomaniak.ch/nova-reggae-256.aac",
+    "url_resolved": "http://nova-reggae.ice.infomaniak.ch/nova-reggae-256.aac",
+    "homepage": "https://www.nova.fr/radios/nova-reggae/",
+    "favicon": "https://www.nova.fr/wp-content/thumbnails/uploads/sites/2/2024/04/NOVA-reggea-400x496-1-t-1006x1006.png",
+    "countrycode": "FR",
+    "state": "France",
+    "language": "french",
+    "tags": "reggae",
+    "codec": "AAC",
+    "bitrate": 256,
+    "votes": 60,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1617,7 +1617,25 @@
     "codec": "MP3",
     "bitrate": 0,
     "votes": 59,
-    "clickcount": 4
+    "clickcount": 2
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "b5699b26-274e-4451-9c1f-cc307b642793",
+    "name": "Fresh Fm Radio London",
+    "url": "https://eu4.fastcast4u.com/proxy/blacka?mp=/1",
+    "url_resolved": "https://eu4.fastcast4u.com/proxy/blacka?mp=/1",
+    "homepage": "https://freshfmradiolondon.com/",
+    "favicon": "",
+    "countrycode": "GB",
+    "state": "London, England",
+    "language": "english",
+    "tags": "dub,lovers rock reggae,reggae,roots,uk",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 58,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -1635,7 +1653,7 @@
     "codec": "AAC",
     "bitrate": 32,
     "votes": 56,
-    "clickcount": 4
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1658,6 +1676,42 @@
   {
     "id": null,
     "source": "radio_browser_github",
+    "stationuuid": "78525119-ac0d-48ad-bd5d-bae5ed512dba",
+    "name": "Irie FM",
+    "url": "https://stream.iriefm.net:8008/stream",
+    "url_resolved": "https://stream.iriefm.net:8008/stream",
+    "homepage": "https://iriefm.net/",
+    "favicon": "https://iriefm-wp-upload.nyc3.digitaloceanspaces.com/uploads/Logo.png",
+    "countrycode": "JM",
+    "state": "Kingston, JM",
+    "language": "",
+    "tags": "reggae,talk show",
+    "codec": "MP3",
+    "bitrate": 64,
+    "votes": 54,
+    "clickcount": 44
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "3ade0f6c-dc3b-40d2-9eef-0417ae127c2a",
+    "name": "RCV 99 fm",
+    "url": "https://www.radioking.com/play/rcv99fm",
+    "url_resolved": "https://listen.radioking.com/radio/3086/stream/9476",
+    "homepage": "https://rcv-lille.radio-website.com/",
+    "favicon": "https://rcv-lille.radio-website.com/upload/5db063f7699121.01150875.ico",
+    "countrycode": "FR",
+    "state": "",
+    "language": "french",
+    "tags": "electro,jazz,punk,reggae,rock",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 53,
+    "clickcount": 1
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
     "stationuuid": "ddaf5eb3-67df-4e5d-954f-413d68bd8a6f",
     "name": "Radio Caprice - Dub (48 kbps)",
     "url": "http://79.111.14.76:8002/dub",
@@ -1671,25 +1725,7 @@
     "codec": "AAC+",
     "bitrate": 48,
     "votes": 53,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "b5699b26-274e-4451-9c1f-cc307b642793",
-    "name": "Fresh Fm Radio London",
-    "url": "https://eu4.fastcast4u.com/proxy/blacka?mp=/1",
-    "url_resolved": "https://eu4.fastcast4u.com/proxy/blacka?mp=/1",
-    "homepage": "https://freshfmradiolondon.com/",
-    "favicon": "",
-    "countrycode": "GB",
-    "state": "London, England",
-    "language": "english",
-    "tags": "dub,lovers rock reggae,reggae,roots,uk",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 53,
-    "clickcount": 9
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1707,25 +1743,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 52,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "3ade0f6c-dc3b-40d2-9eef-0417ae127c2a",
-    "name": "RCV 99 fm",
-    "url": "https://www.radioking.com/play/rcv99fm",
-    "url_resolved": "https://listen.radioking.com/radio/3086/stream/9476",
-    "homepage": "https://rcv-lille.radio-website.com/",
-    "favicon": "https://rcv-lille.radio-website.com/upload/5db063f7699121.01150875.ico",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "electro,jazz,punk,reggae,rock",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 52,
-    "clickcount": 0
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1742,6 +1760,24 @@
     "tags": "dancehall,reggae,roots reggae",
     "codec": "MP3",
     "bitrate": 128,
+    "votes": 51,
+    "clickcount": 7
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "3fb04841-0a0b-495e-a82c-7a48ab665354",
+    "name": "Power FM Zimbabwe",
+    "url": "https://backupradiostreaming.zbc.co.zw:8000/radio.mp3",
+    "url_resolved": "https://backupradiostreaming.zbc.co.zw:8000/radio.mp3",
+    "homepage": "https://www.powerfm.co.zw/",
+    "favicon": "",
+    "countrycode": "ZW",
+    "state": "Harare",
+    "language": "english",
+    "tags": "african music,dancehall,pop,reggae",
+    "codec": "MP3",
+    "bitrate": 192,
     "votes": 51,
     "clickcount": 10
   },
@@ -1760,43 +1796,7 @@
     "tags": "afrobeats,dance,dancehall,pop,reggae,reggaeton",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 48,
-    "clickcount": 6
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "78525119-ac0d-48ad-bd5d-bae5ed512dba",
-    "name": "Irie FM",
-    "url": "https://stream.iriefm.net:8008/stream",
-    "url_resolved": "https://stream.iriefm.net:8008/stream",
-    "homepage": "https://iriefm.net/",
-    "favicon": "https://iriefm-wp-upload.nyc3.digitaloceanspaces.com/uploads/Logo.png",
-    "countrycode": "JM",
-    "state": "Kingston, JM",
-    "language": "",
-    "tags": "reggae,talk show",
-    "codec": "MP3",
-    "bitrate": 64,
-    "votes": 48,
-    "clickcount": 50
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "326cf387-67e4-4ad4-9323-b1ae279c780f",
-    "name": "Radio Marketescu Reggae&Trip-Hop",
-    "url": "https://s37.radiolize.com/radio/8100/radio.mp3",
-    "url_resolved": "https://s37.radiolize.com/radio/8100/radio.mp3",
-    "homepage": "https://marketescu.ro/",
-    "favicon": "https://static.wixstatic.com/media/f12f63_0ab0258432624b98a8441eb577e4af55~mv2.png/v1/fill/w_504,h_512,al_c,lg_1,q_85,enc_auto/reggae%26trip-hop.png",
-    "countrycode": "RO",
-    "state": "Timisoara",
-    "language": "romanian",
-    "tags": "reggae,trip hop,trip-hop",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 45,
-    "clickcount": 2
+    "votes": 49,
+    "clickcount": 8
   }
 ]

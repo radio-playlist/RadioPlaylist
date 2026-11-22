@@ -14,11 +14,11 @@ http://shoutcast2.radio24.it:8000/;
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/01/105.png" group-title="IT",Radio 105 Network
 http://icecast.unitedradio.it/Radio105.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="IT",Radio Stereocittà
-http://onair11.xdevel.com:8134/;stream.mp3
-
 #EXTINF:-1 tvg-logo="https://www.raicom.rai.it/wp-content/uploads/2021/12/RADIO3-1024x1024.jpg" group-title="IT",Rai Radio 3
 http://icestreaming.rai.it/3.mp3
+
+#EXTINF:-1 tvg-logo="https://armisa.it/assets/favicon/android-chrome-512x512.png" group-title="IT",Radio Armisa
+https://onair.armisa.it/listen/armisa/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg" group-title="IT",Radio 80
 http://str01.fluidstream.net:7020/;stream.mp3
@@ -67,9 +67,6 @@ https://icy.unitedradio.it/um020.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Radicale
 http://live.radioradicale.it/live.mp3
-
-#EXTINF:-1 tvg-logo="https://armisa.it/assets/favicon/android-chrome-512x512.png" group-title="IT",Radio Armisa
-https://onair.armisa.it/listen/armisa/radio.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio 105 - HipHop & RnB
 http://icy.unitedradio.it/105HipHopRnB.mp3
@@ -128,11 +125,11 @@ http://edge.radiomontecarlo.net/rmcweb020
 #EXTINF:-1 tvg-logo="http://www.radioitaliaanni60.it/templates/enar/images/favicon/apple-touch-icon-120x120.png" group-title="IT",Radio Italia Anni 60 - Trentino Alto Adige
 http://ice10.fluidstream.net/anni60tn.aac
 
-#EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rock Party
-http://icy.unitedradio.it/VirginRockParty.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="IT",RAI 2
 https://icestreaming.rai.it/2.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",Virgin Radio Rock Party
+http://icy.unitedradio.it/VirginRockParty.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Popolare
 http://livex.radiopopolare.it/radiopop
@@ -212,11 +209,11 @@ http://icecast.unitedradio.it/r101_mp3
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Padova
 http://str01.fluidstream.net:6020/listen.pls
 
-#EXTINF:-1 tvg-logo="" group-title="IT",RMC Romantic Rock
-http://edge.radiomontecarlo.net/rmcweb015
-
 #EXTINF:-1 tvg-logo="https://www.rtr99.it/onair/CanalePooh/OnAir.jpg?x=9f2sj07zxxhpl2i1aocli" group-title="IT",RTR 99 Canale Pooh
 https://rtr99.fluidstream.eu/rtr99_pooh.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",RMC Romantic Rock
+http://edge.radiomontecarlo.net/rmcweb015
 
 #EXTINF:-1 tvg-logo="http://www.radiomontecarlo.net/favicon_1.ico?v=1722509813463" group-title="IT",RMC Marine
 http://edge.radiomontecarlo.net/rmcweb010
@@ -251,11 +248,11 @@ https://sportiva.inmystream.it/stream/sportiva
 #EXTINF:-1 tvg-logo="" group-title="IT",R101 Enjoy The Music
 http://icy.unitedradio.it/101Legend.aac
 
-#EXTINF:-1 tvg-logo="https://romanticaradio.it/wp-content/uploads/2022/05/cropped-favicon_romantica-180x180.png" group-title="IT",ROMANTICA-RADIO
-https://vetrina.multi-radio.com/romanticaradio
-
 #EXTINF:-1 tvg-logo="https://cloud.radiofreccia.it/assets/www.radiofreccia.it/1.0.43/img/logo/android-icon-192x192.png" group-title="IT",Radio Freccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8
+
+#EXTINF:-1 tvg-logo="https://romanticaradio.it/wp-content/uploads/2022/05/cropped-favicon_romantica-180x180.png" group-title="IT",ROMANTICA-RADIO
+https://vetrina.multi-radio.com/romanticaradio
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Rai 1 Friuli Venezia Giulia
 https://icestreaming.rai.it/1.mp3
@@ -301,4 +298,7 @@ https://sphera.fluidstream.eu/r80_afro.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Rai Radio Kids
 http://icestreaming.rai.it/11.mp3
+
+#EXTINF:-1 tvg-logo="" group-title="IT",MUSIC STAR Queen
+http://icecast.unitedradio.it/Virgin_05.mp3
 

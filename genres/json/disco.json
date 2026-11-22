@@ -14,8 +14,8 @@
     "tags": "80s,90s,disco,disco funk,funk",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 10292,
-    "clickcount": 15
+    "votes": 10312,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -32,8 +32,8 @@
     "tags": "60s,70s,80s,90s,classic hits,classic rock,disco,music,nostalgie,pop,rock and roll,smooth jazz,world music,worlds best classic hits",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 8636,
-    "clickcount": 79
+    "votes": 8698,
+    "clickcount": 93
   },
   {
     "id": null,
@@ -50,8 +50,8 @@
     "tags": "disco",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 7652,
-    "clickcount": 17
+    "votes": 7683,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -68,8 +68,8 @@
     "tags": "70s,80s,dance,disco,oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 4421,
-    "clickcount": 18
+    "votes": 4431,
+    "clickcount": 10
   },
   {
     "id": null,
@@ -86,8 +86,8 @@
     "tags": "70s,80s,disco",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 4337,
-    "clickcount": 7
+    "votes": 4355,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -104,8 +104,8 @@
     "tags": "disco,funk,mediaset",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 3745,
-    "clickcount": 3
+    "votes": 3752,
+    "clickcount": 7
   },
   {
     "id": null,
@@ -122,8 +122,8 @@
     "tags": "disco,dj",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 2919,
-    "clickcount": 10
+    "votes": 2933,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -140,8 +140,8 @@
     "tags": "60s,70s,70s disco,80s,black,black music,disco,funk,funky,motown,music,oldies,p-funk,r&b,r'n'b,rare groove,rnb,soul,usa",
     "codec": "AAC+",
     "bitrate": 132,
-    "votes": 2862,
-    "clickcount": 44
+    "votes": 2877,
+    "clickcount": 68
   },
   {
     "id": null,
@@ -158,8 +158,8 @@
     "tags": "dance,disco,funk,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 2822,
-    "clickcount": 9
+    "votes": 2832,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -176,8 +176,26 @@
     "tags": "disco,funk,r&b,soul",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1766,
-    "clickcount": 14
+    "votes": 1771,
+    "clickcount": 8
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "4a3bd909-1245-43bd-b77d-58053ad16f50",
+    "name": "__80 EXITOS",
+    "url": "https://80sexitos.stream.laut.fm/80sexitos",
+    "url_resolved": "https://80sexitos.stream.laut.fm/80sexitos",
+    "homepage": "https://musica80.radioclub.es/",
+    "favicon": "https://assets.laut.fm/51443b263d4b82dd4e7c24b811b8ddd7?t=_640x640",
+    "countrycode": "ES",
+    "state": "Madrid",
+    "language": "english,spanish",
+    "tags": "70s,80s,90s,dance,disco,musica romantica",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 1592,
+    "clickcount": 69
   },
   {
     "id": null,
@@ -195,7 +213,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 1573,
-    "clickcount": 0
+    "clickcount": 4
   },
   {
     "id": null,
@@ -212,8 +230,8 @@
     "tags": "70er,70s,80er,80s,disco,funk,oldies,pop,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1493,
-    "clickcount": 11
+    "votes": 1499,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -230,8 +248,8 @@
     "tags": "1970s,1980s,1990s,70's,70er,70s,70s disco,80's,80er,80s,90's,90er,90s,anni 70,anni 80,anni 90,classic hip hop,classic hits,classic hits 60s 70a 80s,club house,dance,dance music,dance pop,dancefloor,disco,disco funk,discomusic 70,discomusic 80,dj,dj mix,dj mixes,dj remix,dj sets,electronic,euro disco,eurodance,fm,funky,funky 70,goldies,high quality audio,hip-hop and rap oldies,hits,house,italo disco,music,music 70s 80s 90s,musica,musica anni 70,musica anni 80,oldies,oldschool,pop,pop music,public radio,radio,rap,studio 54,techno,vintage music,vintage radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1479,
-    "clickcount": 111
+    "votes": 1488,
+    "clickcount": 90
   },
   {
     "id": null,
@@ -248,8 +266,8 @@
     "tags": "70s disco,acir,acir online,disco,grupo acir,iheart,iheart radio,mix,mix fm,musica,música,música del recuerdo,nu disco,nu-disco,online,online only,radio online",
     "codec": "AAC+",
     "bitrate": 48,
-    "votes": 1460,
-    "clickcount": 7
+    "votes": 1472,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -266,7 +284,7 @@
     "tags": "disco",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1432,
+    "votes": 1439,
     "clickcount": 13
   },
   {
@@ -284,8 +302,8 @@
     "tags": "disco,funk,soul",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1372,
-    "clickcount": 6
+    "votes": 1374,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -302,8 +320,8 @@
     "tags": "70s,disco,disco funk,funk",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 1359,
-    "clickcount": 25
+    "votes": 1361,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -320,8 +338,8 @@
     "tags": "1980,1980s,1980s hits,80's,80er,80s,anni 80,classic hits,club dance,club hits,dance,dance music,dance pop,disco,dj,dj mix,dj mixes,dj remix,electronic,fm,hits,italo dance,italo disco,italo-disco,italy,local radio,mixed,music,musica,musica anni 80,oldies,pop,pop dance,pop music,public radio,radio,radio anni 80,the best of 80's",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1310,
-    "clickcount": 65
+    "votes": 1319,
+    "clickcount": 61
   },
   {
     "id": null,
@@ -338,8 +356,8 @@
     "tags": "70s disco,best,best music,charts,deutschland,disco,discofox,hits,schlager,schlagerhits",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 1085,
-    "clickcount": 25
+    "votes": 1094,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -356,7 +374,7 @@
     "tags": "70s,80s,90s,disco,pop,rock,romantic",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1070,
+    "votes": 1083,
     "clickcount": 27
   },
   {
@@ -374,26 +392,8 @@
     "tags": "70s,80s,disco,funk,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 1041,
-    "clickcount": 8
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "85a96041-5734-43de-a351-9edddc88afd0",
-    "name": "Radio 80 Afro",
-    "url": "https://sphera.fluidstream.eu/r80_afro.mp3",
-    "url_resolved": "https://sphera.fluidstream.eu/r80_afro.mp3",
-    "homepage": "https://www.radio80.it/",
-    "favicon": "https://www.radio80.it/wp-content/uploads/2015/02/logo-radio80-1.ico",
-    "countrycode": "IT",
-    "state": "Veneto",
-    "language": "italian",
-    "tags": "disco,funk,r&b,soul",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 1031,
-    "clickcount": 13
+    "votes": 1043,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -410,8 +410,26 @@
     "tags": "1970s,1980s,70s,80s,disco,funk,luxury jazz,soul",
     "codec": "OGG",
     "bitrate": 1411,
-    "votes": 1026,
-    "clickcount": 33
+    "votes": 1036,
+    "clickcount": 52
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "85a96041-5734-43de-a351-9edddc88afd0",
+    "name": "Radio 80 Afro",
+    "url": "https://sphera.fluidstream.eu/r80_afro.mp3",
+    "url_resolved": "https://sphera.fluidstream.eu/r80_afro.mp3",
+    "homepage": "https://www.radio80.it/",
+    "favicon": "https://www.radio80.it/wp-content/uploads/2015/02/logo-radio80-1.ico",
+    "countrycode": "IT",
+    "state": "Veneto",
+    "language": "italian",
+    "tags": "disco,funk,r&b,soul",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 1032,
+    "clickcount": 9
   },
   {
     "id": null,
@@ -428,26 +446,8 @@
     "tags": "disco,pop,retro",
     "codec": "AAC",
     "bitrate": 116,
-    "votes": 1003,
-    "clickcount": 26
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "e73254fa-6601-4cef-8b62-4aec024634bb",
-    "name": "__GOLDIES__ by rautemusik (rm.fm)",
-    "url": "https://goldies-high.rautemusik.fm/?ref=radiobrowser",
-    "url_resolved": "https://goldies-high.rautemusik.fm/?ref=radiobrowser",
-    "homepage": "https://www.rm.fm/goldies",
-    "favicon": "https://www.rm.fm/favicon.ico",
-    "countrycode": "DE",
-    "state": "North Rhine-Westphalia",
-    "language": "english,german",
-    "tags": "1960s,1970s,1980s,1990s,60er,60s,70er,70s,70s disco,80's,80er,80s,90's,90er,90s,classic hits,classic rock,dance,disco,eurodance,golden music,golden oldies,goldies,hits,music,oldies,oldschool,retro",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 966,
-    "clickcount": 21
+    "votes": 1007,
+    "clickcount": 27
   },
   {
     "id": null,
@@ -464,8 +464,26 @@
     "tags": "adult contemporary,am pop,baroque pop,disco,psychedelic pop,soft rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 960,
-    "clickcount": 8
+    "votes": 976,
+    "clickcount": 9
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "e73254fa-6601-4cef-8b62-4aec024634bb",
+    "name": "__GOLDIES__ by rautemusik (rm.fm)",
+    "url": "https://goldies-high.rautemusik.fm/?ref=radiobrowser",
+    "url_resolved": "https://goldies-high.rautemusik.fm/?ref=radiobrowser",
+    "homepage": "https://www.rm.fm/goldies",
+    "favicon": "https://www.rm.fm/favicon.ico",
+    "countrycode": "DE",
+    "state": "North Rhine-Westphalia",
+    "language": "english,german",
+    "tags": "1960s,1970s,1980s,1990s,60er,60s,70er,70s,70s disco,80's,80er,80s,90's,90er,90s,classic hits,classic rock,dance,disco,eurodance,golden music,golden oldies,goldies,hits,music,oldies,oldschool,retro",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 969,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -482,26 +500,8 @@
     "tags": "disco,pop,rock",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 946,
+    "votes": 954,
     "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "f280ec00-897a-4080-853b-4d7fa72acda6",
-    "name": "B4B DISCO FUNK OFFICIAL",
-    "url": "http://www.b4bradio.com/flux/dance-classics.m3u",
-    "url_resolved": "http://eu10.fastcast4u.com:8120/",
-    "homepage": "https://www.b4bradio.com/",
-    "favicon": "",
-    "countrycode": "FR",
-    "state": "Paris",
-    "language": "french",
-    "tags": "80s,80s live radio,disco,funk,funky",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 935,
-    "clickcount": 11
   },
   {
     "id": null,
@@ -518,8 +518,26 @@
     "tags": "disco,disco polo",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 921,
-    "clickcount": 9
+    "votes": 941,
+    "clickcount": 10
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "f280ec00-897a-4080-853b-4d7fa72acda6",
+    "name": "B4B DISCO FUNK OFFICIAL",
+    "url": "http://www.b4bradio.com/flux/dance-classics.m3u",
+    "url_resolved": "http://eu10.fastcast4u.com:8120/",
+    "homepage": "https://www.b4bradio.com/",
+    "favicon": "",
+    "countrycode": "FR",
+    "state": "Paris",
+    "language": "french",
+    "tags": "80s,80s live radio,disco,funk,funky",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 939,
+    "clickcount": 18
   },
   {
     "id": null,
@@ -536,8 +554,8 @@
     "tags": "club,dance,disco,electronic,party",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 870,
-    "clickcount": 34
+    "votes": 875,
+    "clickcount": 41
   },
   {
     "id": null,
@@ -554,8 +572,8 @@
     "tags": "chillout,disco,lounge,oldies",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 861,
-    "clickcount": 9
+    "votes": 865,
+    "clickcount": 11
   },
   {
     "id": null,
@@ -563,7 +581,7 @@
     "stationuuid": "48d09371-ce3e-4278-a637-179bdba36cb7",
     "name": "radioeins-rbb-56 kbit/s",
     "url": "https://www.radioeins.de/live_s.m3u",
-    "url_resolved": "http://d121.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3LzWVdlv7uCpFRgL972wHDEUAIT&token=6h5l9dgfbHvcz6-17ouLaaply60kD_RuhGL9z5UNFbs&tvf=tvDb4CRF5xhkMTIxLnJuZGZuay5jb20",
+    "url_resolved": "http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3MDeGTkShx6O7VNPGU35JflsBkG&token=u2fPXA51_6fPnuO0DPO6KzOw5NL2C92VbyGfMeizIl8&tvf=mnwDqxvO6BhmMTIxLnJuZGZuay5jb20",
     "homepage": "https://www.radioeins.de/homepage/",
     "favicon": "https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png",
     "countrycode": "DE",
@@ -572,8 +590,8 @@
     "tags": "alternative,disco,drum'n'bass,electro,house,jazz,pop,reggae,rock,soul",
     "codec": "MP3",
     "bitrate": 64,
-    "votes": 788,
-    "clickcount": 11
+    "votes": 794,
+    "clickcount": 17
   },
   {
     "id": null,
@@ -590,8 +608,8 @@
     "tags": "disco,funk,soul",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 775,
-    "clickcount": 14
+    "votes": 777,
+    "clickcount": 47
   },
   {
     "id": null,
@@ -608,8 +626,8 @@
     "tags": "deep,disco",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 764,
-    "clickcount": 3
+    "votes": 771,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -626,8 +644,8 @@
     "tags": "disco,house",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 723,
-    "clickcount": 3
+    "votes": 726,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -644,8 +662,8 @@
     "tags": "70s,80s,90s,classic hits,disco,pop,rock",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 711,
-    "clickcount": 24
+    "votes": 716,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -662,8 +680,8 @@
     "tags": "blues,disco,funk,funky,fusion,jazz,lounge,smooth jazz,soul",
     "codec": "MP3",
     "bitrate": 256,
-    "votes": 605,
-    "clickcount": 5
+    "votes": 610,
+    "clickcount": 13
   },
   {
     "id": null,
@@ -680,8 +698,8 @@
     "tags": "70s,70s disco,80s,black,black music,disco,funk,funky,motown,music,musica,oldies,p-funk,philadelphia,r&b,r'n'b,rare groove,rnb,soul,the sound of philadelphia",
     "codec": "AAC+",
     "bitrate": 96,
-    "votes": 596,
-    "clickcount": 18
+    "votes": 598,
+    "clickcount": 19
   },
   {
     "id": null,
@@ -698,8 +716,8 @@
     "tags": "disco,funky,rnb,soul,torino",
     "codec": "AAC+",
     "bitrate": 128,
-    "votes": 554,
-    "clickcount": 7
+    "votes": 557,
+    "clickcount": 4
   },
   {
     "id": null,
@@ -716,8 +734,8 @@
     "tags": "disco,europop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 548,
-    "clickcount": 4
+    "votes": 555,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -734,8 +752,8 @@
     "tags": "70,70s,80,80s,90,90s,disco,disco polo",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 547,
-    "clickcount": 17
+    "votes": 549,
+    "clickcount": 16
   },
   {
     "id": null,
@@ -752,8 +770,8 @@
     "tags": "alternative,breakbeat,deep house,disco,drum and bass,electronica,funk,hiphop,house,minimal techno,rap,soul,techno",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 529,
-    "clickcount": 3
+    "votes": 530,
+    "clickcount": 5
   },
   {
     "id": null,
@@ -770,8 +788,8 @@
     "tags": "1970s,1980s,70 80 hits,70s,70s disco,80s,classic hits 60s 70a 80s,dance pop,disco,pop dance,pop music",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 484,
-    "clickcount": 19
+    "votes": 488,
+    "clickcount": 36
   },
   {
     "id": null,
@@ -788,7 +806,7 @@
     "tags": "disco,funk,funk2disco,radio,station",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 475,
+    "votes": 477,
     "clickcount": 2
   },
   {
@@ -806,7 +824,7 @@
     "tags": "disco,funk,soul",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 470,
+    "votes": 472,
     "clickcount": 2
   },
   {
@@ -842,8 +860,8 @@
     "tags": "80s,classic disco,disco",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 452,
-    "clickcount": 0
+    "votes": 454,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -860,8 +878,8 @@
     "tags": "club dance,clubbing,community radio,dance,dance hits,disco,electronic,euro disco,fm,high quality audio,hits,italo disco,music,nu disco,public radio,radio",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 438,
-    "clickcount": 71
+    "votes": 445,
+    "clickcount": 75
   },
   {
     "id": null,
@@ -879,7 +897,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 438,
-    "clickcount": 2
+    "clickcount": 1
   },
   {
     "id": null,
@@ -902,6 +920,24 @@
   {
     "id": null,
     "source": "radio_browser_github",
+    "stationuuid": "af118154-fe5f-4911-a614-25617db23492",
+    "name": "__SCHLAGERRADIO.FM__ by rautemusik (rm.fm)",
+    "url": "https://schlager-high.rautemusik.fm/?ref=radiobrowser",
+    "url_resolved": "https://schlager-high.rautemusik.fm/?ref=radiobrowser",
+    "homepage": "https://www.rm.fm/schlager",
+    "favicon": "https://www.rm.fm/favicon.ico",
+    "countrycode": "DE",
+    "state": "North Rhine-Westphalia",
+    "language": "english,german",
+    "tags": "charts,dance,disco,discofox,discofox oldies,discofox+schlager,dj,hits,moderation,schlager,schlagerhits",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 422,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
     "stationuuid": "cb9ebb6d-a3e4-11e8-abb8-52543be04c81",
     "name": "Art Of Music",
     "url": "http://sr6.inmystream.info:8024/stream",
@@ -915,25 +951,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 422,
-    "clickcount": 5
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "af118154-fe5f-4911-a614-25617db23492",
-    "name": "__SCHLAGERRADIO.FM__ by rautemusik (rm.fm)",
-    "url": "https://schlager-high.rautemusik.fm/?ref=radiobrowser",
-    "url_resolved": "https://schlager-high.rautemusik.fm/?ref=radiobrowser",
-    "homepage": "https://www.rm.fm/schlager",
-    "favicon": "https://www.rm.fm/favicon.ico",
-    "countrycode": "DE",
-    "state": "North Rhine-Westphalia",
-    "language": "english,german",
-    "tags": "charts,dance,disco,discofox,discofox oldies,discofox+schlager,dj,hits,moderation,schlager,schlagerhits",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 419,
-    "clickcount": 5
+    "clickcount": 3
   },
   {
     "id": null,
@@ -950,8 +968,8 @@
     "tags": "disco,italian pop,m80 80s 70s 90s 00s,oldies",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 412,
-    "clickcount": 0
+    "votes": 413,
+    "clickcount": 1
   },
   {
     "id": null,
@@ -969,24 +987,6 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 394,
-    "clickcount": 1
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "46c7773d-34a7-4e7b-9e53-e3bc6e011934",
-    "name": "RMF 80s Disco + FAKTY",
-    "url": "http://195.150.20.9/80SDISCOF",
-    "url_resolved": "http://195.150.20.9/80SDISCOF",
-    "homepage": "http://www.rmfon.pl/play,109",
-    "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
-    "countrycode": "PL",
-    "state": "Krakow",
-    "language": "polish",
-    "tags": "disco",
-    "codec": "AAC+",
-    "bitrate": 64,
-    "votes": 372,
     "clickcount": 0
   },
   {
@@ -1004,26 +1004,26 @@
     "tags": "disco,pop",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 368,
-    "clickcount": 26
+    "votes": 375,
+    "clickcount": 11
   },
   {
     "id": null,
     "source": "radio_browser_github",
-    "stationuuid": "06481f54-f361-11e8-a471-52543be04c81",
-    "name": "- 0 N - Disco on Radio",
-    "url": "https://0n-disco.radionetz.de/0n-disco.aac",
-    "url_resolved": "https://0n-disco.radionetz.de/0n-disco.aac",
-    "homepage": "http://www.0nradio.com/",
-    "favicon": "https://www.0nradio.com/logos/0n-disco_600x600.jpg",
-    "countrycode": "DE",
-    "state": "Bayern",
-    "language": "german",
-    "tags": "70er,70s,80er,80s,disco,funk,oldies,pop,soul",
+    "stationuuid": "46c7773d-34a7-4e7b-9e53-e3bc6e011934",
+    "name": "RMF 80s Disco + FAKTY",
+    "url": "http://195.150.20.9/80SDISCOF",
+    "url_resolved": "http://195.150.20.9/80SDISCOF",
+    "homepage": "http://www.rmfon.pl/play,109",
+    "favicon": "http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png",
+    "countrycode": "PL",
+    "state": "Krakow",
+    "language": "polish",
+    "tags": "disco",
     "codec": "AAC+",
     "bitrate": 64,
-    "votes": 365,
-    "clickcount": 4
+    "votes": 372,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1040,8 +1040,26 @@
     "tags": "dance,disco,edm,party,powerbeats,remix",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 365,
-    "clickcount": 9
+    "votes": 370,
+    "clickcount": 12
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "06481f54-f361-11e8-a471-52543be04c81",
+    "name": "- 0 N - Disco on Radio",
+    "url": "https://0n-disco.radionetz.de/0n-disco.aac",
+    "url_resolved": "https://0n-disco.radionetz.de/0n-disco.aac",
+    "homepage": "http://www.0nradio.com/",
+    "favicon": "https://www.0nradio.com/logos/0n-disco_600x600.jpg",
+    "countrycode": "DE",
+    "state": "Bayern",
+    "language": "german",
+    "tags": "70er,70s,80er,80s,disco,funk,oldies,pop,soul",
+    "codec": "AAC+",
+    "bitrate": 64,
+    "votes": 366,
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1076,8 +1094,8 @@
     "tags": "disco,hits,pop,retro",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 333,
-    "clickcount": 19
+    "votes": 340,
+    "clickcount": 33
   },
   {
     "id": null,
@@ -1094,7 +1112,7 @@
     "tags": "disco,funk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 322,
+    "votes": 323,
     "clickcount": 1
   },
   {
@@ -1130,8 +1148,8 @@
     "tags": "deep house,disco,electric,funk",
     "codec": "MP3",
     "bitrate": 128,
-    "votes": 293,
-    "clickcount": 10
+    "votes": 298,
+    "clickcount": 14
   },
   {
     "id": null,
@@ -1148,8 +1166,8 @@
     "tags": "90s,dance,disco",
     "codec": "MP3",
     "bitrate": 320,
-    "votes": 286,
-    "clickcount": 11
+    "votes": 290,
+    "clickcount": 8
   },
   {
     "id": null,
@@ -1166,8 +1184,44 @@
     "tags": "1960s and 1970s,1970s,70er,70s,70s disco,disco,hits 70's,splash",
     "codec": "MP3",
     "bitrate": 128,
+    "votes": 287,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "8a6e95dc-2fc0-40f3-8df4-d31d64096c92",
+    "name": "Гуляй Радіо",
+    "url": "https://online.radioplayer.ua/GuliayRadio",
+    "url_resolved": "https://online.radioplayer.ua/GuliayRadio",
+    "homepage": "https://www.guliayradio.ua/",
+    "favicon": "https://www.guliayradio.ua/favicon.ico",
+    "countrycode": "UA",
+    "state": "",
+    "language": "ukranian",
+    "tags": "128 kbit/s,disco,https,internet radio,mp3",
+    "codec": "MP3",
+    "bitrate": 128,
     "votes": 286,
-    "clickcount": 2
+    "clickcount": 12
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "e0e2a64e-3ec4-4da4-8aec-a4aa7b502163",
+    "name": "Disco 54",
+    "url": "https://wr15-ice.stream.khz.se/wr15_mp3",
+    "url_resolved": "https://wr15-ice.stream.khz.se/wr15_mp3",
+    "homepage": "https://www.ilikeradio.se/disco54/",
+    "favicon": "https://cdn.khz.se/images/700x700/6b59e6982399fcdbc7f545c1e23d4896.png",
+    "countrycode": "SE",
+    "state": "",
+    "language": "swedish",
+    "tags": "disco,i like radio",
+    "codec": "MP3",
+    "bitrate": 128,
+    "votes": 283,
+    "clickcount": 21
   },
   {
     "id": null,
@@ -1185,43 +1239,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 282,
-    "clickcount": 7
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "8a6e95dc-2fc0-40f3-8df4-d31d64096c92",
-    "name": "Гуляй Радіо",
-    "url": "https://online.radioplayer.ua/GuliayRadio",
-    "url_resolved": "https://online.radioplayer.ua/GuliayRadio",
-    "homepage": "https://www.guliayradio.ua/",
-    "favicon": "https://www.guliayradio.ua/favicon.ico",
-    "countrycode": "UA",
-    "state": "",
-    "language": "ukranian",
-    "tags": "128 kbit/s,disco,https,internet radio,mp3",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 281,
-    "clickcount": 14
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "e0e2a64e-3ec4-4da4-8aec-a4aa7b502163",
-    "name": "Disco 54",
-    "url": "https://wr15-ice.stream.khz.se/wr15_mp3",
-    "url_resolved": "https://wr15-ice.stream.khz.se/wr15_mp3",
-    "homepage": "https://www.ilikeradio.se/disco54/",
-    "favicon": "https://cdn.khz.se/images/700x700/6b59e6982399fcdbc7f545c1e23d4896.png",
-    "countrycode": "SE",
-    "state": "",
-    "language": "swedish",
-    "tags": "disco,i like radio",
-    "codec": "MP3",
-    "bitrate": 128,
-    "votes": 278,
-    "clickcount": 13
+    "clickcount": 12
   },
   {
     "id": null,
@@ -1239,7 +1257,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 259,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1275,7 +1293,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 246,
-    "clickcount": 1
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1293,7 +1311,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 235,
-    "clickcount": 2
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1310,8 +1328,8 @@
     "tags": "dance,dance music,disco,discofox,discofox+schlager,schlager,schlagerhits",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 227,
-    "clickcount": 2
+    "votes": 228,
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1328,8 +1346,8 @@
     "tags": "disco",
     "codec": "AAC+",
     "bitrate": 32,
-    "votes": 224,
-    "clickcount": 5
+    "votes": 225,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1346,7 +1364,7 @@
     "tags": "disco,discofox,discofox+schlager,hits,oldies,schlager",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 221,
+    "votes": 222,
     "clickcount": 0
   },
   {
@@ -1365,7 +1383,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 216,
-    "clickcount": 0
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1375,7 +1393,7 @@
     "url": "http://www.radioking.com/play/supag",
     "url_resolved": "http://www.radioking.com/play/supag",
     "homepage": "http://www.comalaradio.com/",
-    "favicon": "",
+    "favicon": "https://www.radioking.com/api/track/cover/1067e676-147d-4af1-812e-7e1c92c059b1",
     "countrycode": "FR",
     "state": "",
     "language": "french",
@@ -1383,7 +1401,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 215,
-    "clickcount": 3
+    "clickcount": 5
   },
   {
     "id": null,
@@ -1401,7 +1419,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 212,
-    "clickcount": 4
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1419,7 +1437,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 210,
-    "clickcount": 7
+    "clickcount": 10
   },
   {
     "id": null,
@@ -1427,7 +1445,7 @@
     "stationuuid": "b8ba57a8-4642-4977-ab52-cc7e106effb7",
     "name": "RADIO PSR Pop Dance",
     "url": "https://streams.radiopsr.de/popdance/mp3-192/streams.radiopsr.de/play.m3u",
-    "url_resolved": "https://regiocast.streamabc.net/regc-psr2000er1212201-mp3-192-6313640?sABC=6ns5105r%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1794445406",
+    "url_resolved": "https://regiocast.streamabc.net/regc-psr2000er1212201-mp3-192-6313640?sABC=6o02424n%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1795310154",
     "homepage": "https://www.radiopsr.de/",
     "favicon": "https://upload.radiopsr.de/production/static/1699276561931/icons/icon_64.cawac0w0200.png",
     "countrycode": "DE",
@@ -1436,8 +1454,8 @@
     "tags": "alle farben,club,dance,dance-pop,dancefloor,disco,dj,edm,electro,felix jaehn,groove,pop,pop-dance,remix,rhythm,robin schulz",
     "codec": "MP3",
     "bitrate": 0,
-    "votes": 207,
-    "clickcount": 1
+    "votes": 208,
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1454,8 +1472,8 @@
     "tags": "70s,80s,90s,disco,discofox,discofox+schlager,golden oldies,goldies,oldies,schlager",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 205,
-    "clickcount": 0
+    "votes": 206,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1490,7 +1508,7 @@
     "tags": "brandnew,classic 90s,dance,disco,edm,edm radioshows,hothits,pop",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 203,
+    "votes": 204,
     "clickcount": 1
   },
   {
@@ -1527,7 +1545,7 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 190,
-    "clickcount": 12
+    "clickcount": 15
   },
   {
     "id": null,
@@ -1545,7 +1563,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 187,
-    "clickcount": 5
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1563,7 +1581,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 183,
-    "clickcount": 3
+    "clickcount": 4
   },
   {
     "id": null,
@@ -1581,7 +1599,7 @@
     "codec": "AAC+",
     "bitrate": 64,
     "votes": 176,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1598,8 +1616,26 @@
     "tags": "80s,90s,disco,italo,rock,slow",
     "codec": "MP3",
     "bitrate": 192,
-    "votes": 172,
-    "clickcount": 8
+    "votes": 174,
+    "clickcount": 5
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
+    "stationuuid": "80afd95c-3266-4907-9178-ebdd788d946c",
+    "name": "* TOP 100 CLUB CHARTS * | DJ TOP 100 | UP-TO-DATE | DJ CHARTS - CLUBBING HITS - - DEEP HOUSE - LOUNGE -  DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - LOUNGE - URBAN - HIP HOP - RNB - SUMMER IBIZA HOUSE - HARDSTYLE & HARDCORE - REMIX & MIXTAPE | FESTIVAL RADIO",
+    "url": "https://breakz-high.rautemusik.fm/?ref=rb26-t100clubcharts",
+    "url_resolved": "https://breakz-high.rautemusik.fm/?ref=rb26-t100clubcharts",
+    "homepage": "https://rm.fm/breakz/team",
+    "favicon": "https://i.ibb.co/TM3dkqqQ/top-100-CLUB-CHARTS-26.png",
+    "countrycode": "DE",
+    "state": "Hamburg",
+    "language": "english,german",
+    "tags": "#charts,#edm,#house,#techhouse,beachclub,charts,chillout,chillout+lounge,club,club dance,club dance electronic house trance,club house,clubbing,deep ambient,deep house,deep techno,disco,dj,dj mix,dj remix,dj sets,electro techno,hiphop,ibiza club,live,lounge,minimal,non-stop,party,party hits,partymix,radio,radiocharts,reggaeton,relax,schlager,tech house,techno,top 40,top hits,top40",
+    "codec": "MP3",
+    "bitrate": 192,
+    "votes": 165,
+    "clickcount": 43
   },
   {
     "id": null,
@@ -1617,7 +1653,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 164,
-    "clickcount": 1
+    "clickcount": 0
   },
   {
     "id": null,
@@ -1635,7 +1671,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 163,
-    "clickcount": 6
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1653,25 +1689,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 162,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "80afd95c-3266-4907-9178-ebdd788d946c",
-    "name": "* TOP 100 CLUB CHARTS * | DJ TOP 100 | UP-TO-DATE | DJ CHARTS - CLUBBING HITS - - DEEP HOUSE - LOUNGE -  DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - LOUNGE - URBAN - HIP HOP - RNB - SUMMER IBIZA HOUSE - HARDSTYLE & HARDCORE - REMIX & MIXTAPE | FESTIVAL RADIO",
-    "url": "https://breakz-high.rautemusik.fm/?ref=rb26-t100clubcharts",
-    "url_resolved": "https://breakz-high.rautemusik.fm/?ref=rb26-t100clubcharts",
-    "homepage": "https://rm.fm/breakz/team",
-    "favicon": "https://i.ibb.co/TM3dkqqQ/top-100-CLUB-CHARTS-26.png",
-    "countrycode": "DE",
-    "state": "Hamburg",
-    "language": "english,german",
-    "tags": "#charts,#edm,#house,#techhouse,beachclub,charts,chillout,chillout+lounge,club,club dance,club dance electronic house trance,club house,clubbing,deep ambient,deep house,deep techno,disco,dj,dj mix,dj remix,dj sets,electro techno,hiphop,ibiza club,live,lounge,minimal,non-stop,party,party hits,partymix,radio,radiocharts,reggaeton,relax,schlager,tech house,techno,top 40,top hits,top40",
-    "codec": "MP3",
-    "bitrate": 192,
-    "votes": 160,
-    "clickcount": 23
+    "clickcount": 2
   },
   {
     "id": null,
@@ -1694,6 +1712,24 @@
   {
     "id": null,
     "source": "radio_browser_github",
+    "stationuuid": "6ba6e544-0a12-4445-8f17-8f430a22ec0f",
+    "name": "Le Bon Mix - AAC320LC",
+    "url": "https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio",
+    "url_resolved": "https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio",
+    "homepage": "https://www.lebonmix.radio/",
+    "favicon": "https://static.wixstatic.com/media/8f2aad_2f0459e46d6642cebdb7f500dd35abc3~mv2.png",
+    "countrycode": "FR",
+    "state": "",
+    "language": "french",
+    "tags": "disco,eclectic,funk,jazz,reggae,rock,soul,soundtracks",
+    "codec": "AAC+",
+    "bitrate": 320,
+    "votes": 155,
+    "clickcount": 11
+  },
+  {
+    "id": null,
+    "source": "radio_browser_github",
     "stationuuid": "554bd5ec-2a71-4fe0-b74c-3deafaf22c64",
     "name": "Radio West End",
     "url": "https://broadcast.miami/proxy/westend?mp=/stream/;",
@@ -1707,25 +1743,7 @@
     "codec": "MP3",
     "bitrate": 320,
     "votes": 153,
-    "clickcount": 0
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "6ba6e544-0a12-4445-8f17-8f430a22ec0f",
-    "name": "Le Bon Mix - AAC320LC",
-    "url": "https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio",
-    "url_resolved": "https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio",
-    "homepage": "https://www.lebonmix.radio/",
-    "favicon": "https://static.wixstatic.com/media/8f2aad_2f0459e46d6642cebdb7f500dd35abc3~mv2.png",
-    "countrycode": "FR",
-    "state": "",
-    "language": "french",
-    "tags": "disco,eclectic,funk,jazz,reggae,rock,soul,soundtracks",
-    "codec": "AAC+",
-    "bitrate": 320,
-    "votes": 152,
-    "clickcount": 4
+    "clickcount": 1
   },
   {
     "id": null,
@@ -1742,8 +1760,8 @@
     "tags": "80s,90s,club,disco,eurodance,house",
     "codec": "AAC",
     "bitrate": 0,
-    "votes": 150,
-    "clickcount": 7
+    "votes": 151,
+    "clickcount": 3
   },
   {
     "id": null,
@@ -1761,7 +1779,7 @@
     "codec": "MP3",
     "bitrate": 128,
     "votes": 147,
-    "clickcount": 3
+    "clickcount": 6
   },
   {
     "id": null,
@@ -1779,24 +1797,6 @@
     "codec": "MP3",
     "bitrate": 192,
     "votes": 146,
-    "clickcount": 3
-  },
-  {
-    "id": null,
-    "source": "radio_browser_github",
-    "stationuuid": "4c6e20cd-c37a-4646-964b-11c866d9d772",
-    "name": "Radio Indie Disco",
-    "url": "https://broadcast.miami/proxy/indiedisco?mp=/stream/;",
-    "url_resolved": "https://broadcast.miami/proxy/indiedisco?mp=/stream/;",
-    "homepage": "https://www.radio-indiedisco.com/",
-    "favicon": "",
-    "countrycode": "US",
-    "state": "Florida",
-    "language": "english",
-    "tags": "disco,funk,soul",
-    "codec": "MP3",
-    "bitrate": 320,
-    "votes": 144,
-    "clickcount": 2
+    "clickcount": 1
   }
 ]

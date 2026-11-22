@@ -32,6 +32,9 @@ http://54-funk-soul-dance.stream.laut.fm/54-funk-soul-dance
 #EXTINF:-1 tvg-logo="https://thefunkychannel.com/wp-content/uploads/2022/06/TFC-favicon-1.png" group-title="BE",The Funky Channel
 http://cast3.my-control-panel.com:8170/stream
 
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/51443b263d4b82dd4e7c24b811b8ddd7?t=_640x640" group-title="ES",__80 EXITOS
+https://80sexitos.stream.laut.fm/80sexitos
+
 #EXTINF:-1 tvg-logo="" group-title="IT",RMC Party
 http://edge.radiomontecarlo.net/rmcweb018
 
@@ -65,29 +68,29 @@ http://stream.laut.fm/80sexitos
 #EXTINF:-1 tvg-logo="http://thegrooveradio.co.uk/upload/5d67aa7d3a8281.16670430.ico" group-title="GB",The Groove
 http://uk7.internet-radio.com:8352/
 
-#EXTINF:-1 tvg-logo="https://www.radio80.it/wp-content/uploads/2015/02/logo-radio80-1.ico" group-title="IT",Radio 80 Afro
-https://sphera.fluidstream.eu/r80_afro.mp3
-
 #EXTINF:-1 tvg-logo="https://www.pureloungeradio.com/images/Pureloungeradio-achtergrond.jpg" group-title="NL",Pure Lounge Radio FLAC
 https://mscp4.live-streams.nl:8142/lounge.ogg
+
+#EXTINF:-1 tvg-logo="https://www.radio80.it/wp-content/uploads/2015/02/logo-radio80-1.ico" group-title="IT",Radio 80 Afro
+https://sphera.fluidstream.eu/r80_afro.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Ретро FM — Вечеринка
 https://hls-01-retro-vecherinka.emgsound.ru/20/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__GOLDIES__ by rautemusik (rm.fm)
-https://goldies-high.rautemusik.fm/?ref=radiobrowser
-
 #EXTINF:-1 tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="AE",Exclusively Bee Gees
 https://streaming.exclusive.radio/er/beegees/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__GOLDIES__ by rautemusik (rm.fm)
+https://goldies-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Ретро FM Санкт-Петербург (128 kbps, mp3)
 http://emgspb.hostingradio.ru/retrofmspb128.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="FR",B4B DISCO FUNK OFFICIAL
-http://eu10.fastcast4u.com:8120/
-
 #EXTINF:-1 tvg-logo="https://radiombox.pl/MboxKwadr120x120.png" group-title="PL",Radio Mbox - Disco Polo
 http://s3.slotex.pl:7222/stream
+
+#EXTINF:-1 tvg-logo="" group-title="FR",B4B DISCO FUNK OFFICIAL
+http://eu10.fastcast4u.com:8120/
 
 #EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FI85PfNTxKBkqwBN-IxdnbMFEAJj0H5MgqH1xvCBgkPw%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3bHVPRnNBb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURJeWNINTFRc01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NzI1MDQxMDkwMDA.webp&w=1080&q=100" group-title="PH",Clubmix
 https://stream.zeno.fm/vztn8ux96zhvv
@@ -96,7 +99,7 @@ https://stream.zeno.fm/vztn8ux96zhvv
 https://azuracast.streams.ovh:8260/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://www.radioeins.de/content/dam/rbb/rbb/logos/touch/rad-128.png" group-title="DE",radioeins-rbb-56 kbit/s
-http://d121.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3LzWVdlv7uCpFRgL972wHDEUAIT&token=6h5l9dgfbHvcz6-17ouLaaply60kD_RuhGL9z5UNFbs&tvf=tvDb4CRF5xhkMTIxLnJuZGZuay5jb20
+http://f121.rndfnk.com/ard/rbb/radioeins/live/mp3/48/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=3MDeGTkShx6O7VNPGU35JflsBkG&token=u2fPXA51_6fPnuO0DPO6KzOw5NL2C92VbyGfMeizIl8&tvf=mnwDqxvO6BhmMTIxLnJuZGZuay5jb20
 
 #EXTINF:-1 tvg-logo="" group-title="US",Radio Motown
 https://broadcast.miami/proxy/motown?mp=/stream/;
@@ -152,11 +155,11 @@ https://broadcast.miami/proxy/salsoul?mp=/stream/;
 #EXTINF:-1 tvg-logo="" group-title="PL",Radio Misiek
 http://stream.zeno.fm/5hfdntgf8yzuv
 
-#EXTINF:-1 tvg-logo="https://artofmusic.fm/resources/apple-touch-icon.png" group-title="IT",Art Of Music
-http://sr6.inmystream.info:8024/stream
-
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__SCHLAGERRADIO.FM__ by rautemusik (rm.fm)
 https://schlager-high.rautemusik.fm/?ref=radiobrowser
+
+#EXTINF:-1 tvg-logo="https://artofmusic.fm/resources/apple-touch-icon.png" group-title="IT",Art Of Music
+http://sr6.inmystream.info:8024/stream
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Station Italy
 http://stream.laut.fm/stationitaly
@@ -164,17 +167,17 @@ http://stream.laut.fm/stationitaly
 #EXTINF:-1 tvg-logo="" group-title="NL",Coastline
 http://81.169.223.8/
 
-#EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF 80s Disco + FAKTY
-http://195.150.20.9/80SDISCOF
-
 #EXTINF:-1 tvg-logo="" group-title="UA",FM Disco Melody
 https://online.melodiafm.ua/MelodiaFM_Disco
 
-#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-disco_600x600.jpg" group-title="DE",- 0 N - Disco on Radio
-https://0n-disco.radionetz.de/0n-disco.aac
+#EXTINF:-1 tvg-logo="http://www.rmfon.pl/assets/images/favicon/apple-touch-icon.png" group-title="PL",RMF 80s Disco + FAKTY
+http://195.150.20.9/80SDISCOF
 
 #EXTINF:-1 tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FMU0aBy8KKuZnbUuKncqrOoOX2-YWodaubyqbIZa1qfI%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2NiNGY2ZTk1LTQyNGEtNDU0NS1hZGVlLWEzYTJlNzVjMTI0Mi9pbWFnZS8_dXBkYXRlZD0xNjc1MTM5NDI0MDAw.webp&w=1080&q=100" group-title="PH",iMix Radio
 https://stream.zeno.fm/sbmi7cx5z8buv
+
+#EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-disco_600x600.jpg" group-title="DE",- 0 N - Disco on Radio
+https://0n-disco.radionetz.de/0n-disco.aac
 
 #EXTINF:-1 tvg-logo="" group-title="DE",54house.fm Clubstream
 http://62.138.2.128:8003/stream
@@ -197,14 +200,14 @@ https://s3.slotex.pl/shoutcast/7046/stream
 #EXTINF:-1 tvg-logo="" group-title="DE",#1 Splash 70s
 https://c4.auracast.net/radio/8040/radio.mp3
 
-#EXTINF:-1 tvg-logo="" group-title="RO",Radio Tequila Oldies
-https://stream.zeno.fm/5a1utt11fkhvv
-
 #EXTINF:-1 tvg-logo="https://www.guliayradio.ua/favicon.ico" group-title="UA",Гуляй Радіо
 https://online.radioplayer.ua/GuliayRadio
 
 #EXTINF:-1 tvg-logo="https://cdn.khz.se/images/700x700/6b59e6982399fcdbc7f545c1e23d4896.png" group-title="SE",Disco 54
 https://wr15-ice.stream.khz.se/wr15_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="RO",Radio Tequila Oldies
+https://stream.zeno.fm/5a1utt11fkhvv
 
 #EXTINF:-1 tvg-logo="http://topfm.hu/favicon.ico" group-title="Global",TOP FM base
 http://live.topfm.hu:8000/base.mp3
@@ -230,7 +233,7 @@ https://stream.0nlineradio.com/schlager-evergreens?ref=radiobrowser
 #EXTINF:-1 tvg-logo="" group-title="US",Radio Casablanca
 https://broadcast.miami/proxy/casablanca?mp=/stream/;
 
-#EXTINF:-1 tvg-logo="" group-title="FR",COMALA Radio
+#EXTINF:-1 tvg-logo="https://www.radioking.com/api/track/cover/1067e676-147d-4af1-812e-7e1c92c059b1" group-title="FR",COMALA Radio
 http://www.radioking.com/play/supag
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-jukebox_600x600.jpg" group-title="DE",- 0 N - Jukebox on Radio
@@ -240,7 +243,7 @@ https://0n-jukebox.radionetz.de/0n-jukebox.mp3
 https://s3.slotex.pl:7170/stream
 
 #EXTINF:-1 tvg-logo="https://upload.radiopsr.de/production/static/1699276561931/icons/icon_64.cawac0w0200.png" group-title="DE",RADIO PSR Pop Dance
-https://regiocast.streamabc.net/regc-psr2000er1212201-mp3-192-6313640?sABC=6ns5105r%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1794445406
+https://regiocast.streamabc.net/regc-psr2000er1212201-mp3-192-6313640?sABC=6o02424n%230%23nq59s62359o2nr38nsp8150610pq18p9%23fgernzf.enqvbcfe.qr&aw_0_1st.playerid=streams.radiopsr.de&amsparams=playerid:streams.radiopsr.de;skey:1795310154
 
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio SCHLAGER OLDIES
 https://stream.0nlineradio.com/schlager-oldies?ref=radiobrowser
@@ -269,6 +272,9 @@ https://0n-jukebox.radionetz.de/0n-jukebox.aac
 #EXTINF:-1 tvg-logo="https://www.2000stafm.gr/favicon2.png" group-title="GR",2000staFM
 https://s3.unlimitedradiohosting.com/stream/two-thousand-on-fm
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TM3dkqqQ/top-100-CLUB-CHARTS-26.png" group-title="DE",* TOP 100 CLUB CHARTS * | DJ TOP 100 | UP-TO-DATE | DJ CHARTS - CLUBBING HITS - - DEEP HOUSE - LOUNGE -  DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - LOUNGE - URBAN - HIP HOP - RNB - SUMMER IBIZA HOUSE - HARDSTYLE & HARDCORE - REMIX & MIXTAPE | FESTIVAL RADIO
+https://breakz-high.rautemusik.fm/?ref=rb26-t100clubcharts
+
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Studio Dance Roma
 http://nr9.newradio.it:9630/stream
 
@@ -278,17 +284,14 @@ https://netilradio.out.airtime.pro/netilradio_a
 #EXTINF:-1 tvg-logo="" group-title="US",Radio RCA
 https://broadcast.miami/proxy/rca?mp=/stream/;
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TM3dkqqQ/top-100-CLUB-CHARTS-26.png" group-title="DE",* TOP 100 CLUB CHARTS * | DJ TOP 100 | UP-TO-DATE | DJ CHARTS - CLUBBING HITS - - DEEP HOUSE - LOUNGE -  DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - LOUNGE - URBAN - HIP HOP - RNB - SUMMER IBIZA HOUSE - HARDSTYLE & HARDCORE - REMIX & MIXTAPE | FESTIVAL RADIO
-https://breakz-high.rautemusik.fm/?ref=rb26-t100clubcharts
-
 #EXTINF:-1 tvg-logo="" group-title="US",Radio Atlantic
 https://broadcast.miami/proxy/atlantic?mp=/stream/;
 
-#EXTINF:-1 tvg-logo="" group-title="US",Radio West End
-https://broadcast.miami/proxy/westend?mp=/stream/;
-
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/8f2aad_2f0459e46d6642cebdb7f500dd35abc3~mv2.png" group-title="FR",Le Bon Mix - AAC320LC
 https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio
+
+#EXTINF:-1 tvg-logo="" group-title="US",Radio West End
+https://broadcast.miami/proxy/westend?mp=/stream/;
 
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/4f57fcdc-ddf8-4930-b689-78826f6dd074.jpg" group-title="GR",Athens Free Radio
 http://n12.radiojar.com/e206r95qsp8uv?rj-ttl=5&rj-tok=AAABhMPbz3sAf9_4FoIJiUmkoA
@@ -298,7 +301,4 @@ http://stream.zeno.fm/u08ymmrybg8uv
 
 #EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio PARTY
 https://stream.0nlineradio.com/party?ref=radiobrowser
-
-#EXTINF:-1 tvg-logo="" group-title="US",Radio Indie Disco
-https://broadcast.miami/proxy/indiedisco?mp=/stream/;
 

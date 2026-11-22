@@ -12,13 +12,13 @@ http://78.129.202.200:8040/;
 http://icecast2.play.cz:8000/country128aac
 
 #EXTINF:-1 tvg-logo="" group-title="US",181.FM - Kickin' Country
-http://listen.181fm.com/181-kickincountry_128k.mp3
+https://listen.181fm.com/181-kickincountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="http://www.country108.com/assets/images/logo.png" group-title="DE",Country 108
 http://tuner.country108.com/;
 
 #EXTINF:-1 tvg-logo="http://www.181.fm/favicon.ico" group-title="US",181.FM - 90's Country
-http://listen.181fm.com/181-90scountry_128k.mp3
+https://listen.181fm.com/181-90scountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico" group-title="US",Radio Country Live New York
 https://streaming.radiostreamlive.com/radiocountrylive_devices
@@ -36,7 +36,7 @@ http://173.203.133.187:9700/;stream/1
 http://stream01048.westreamradio.com/wsm-am-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",181.FM - Real Country
-https://listen.181fm.com/181-realcountry_128k.mp3
+http://listen.181fm.com/181-realcountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",Truckers Radio USA
 http://streamer.radio.co/s81d30349a/low
@@ -48,7 +48,7 @@ http://strm112.1.fm/country_mobile_mp3
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/bootliquor-400.jpg" group-title="US",SomaFM Boot Liquor (320k MP3)
-https://ice6.somafm.com/bootliquor-320-mp3
+https://ice4.somafm.com/bootliquor-320-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="MA",MRC:-Radio plus
 https://stream.radio.co/s8cc7a5da4/listen
@@ -117,7 +117,7 @@ http://bigrradio.cdnstream1.com/5196_128
 https://stream.zeno.fm/8wrs2bh0x1zuv
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/bootliquor-400.jpg" group-title="US",SomaFM Boot Liquor (128k AAC)
-https://ice2.somafm.com/bootliquor-128-aac
+https://ice5.somafm.com/bootliquor-128-aac
 
 #EXTINF:-1 tvg-logo="" group-title="US",Radio Free Texas
 https://server10.reliastream.com/proxy/damiller?mp=/stream
@@ -153,7 +153,7 @@ http://www.ophanim.net:9170/live
 http://icecast8.play.cz/samsonfm128.mp3
 
 #EXTINF:-1 tvg-logo="https://zeno.fm/favicon.ico" group-title="CO",La voz de Jesús
-https://stream-289.surfernetwork.com/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImprMkRfalJOUVBtaDdKWHU4V0JvN2ciLCJpYXQiOjE3OTQ0NDU0NTQsImV4cCI6MTc5NDQ0NTUxNH0.7lW3o2Xuh9BlCOFYZE9F2egiqkfk4QxKmXHsYOHVhpU
+https://stream-289.surfernetwork.com/phybdd3ph98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwaHliZGQzcGg5OHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImJ3V0pwTEtuVGNxSGQtNzRNMEpfWkEiLCJpYXQiOjE3OTUzMDk4MDcsImV4cCI6MTc5NTMwOTg2N30.3aReeE73pq0zlnc97W-qJzQnJsF5WvOrlsEz-T8dZvs
 
 #EXTINF:-1 tvg-logo="" group-title="AE",Exclusively The Eagles
 https://streaming.exclusive.radio/er/eagles/icecast.audio
@@ -215,11 +215,11 @@ https://ice41.securenetsystems.net/KVST
 #EXTINF:-1 tvg-logo="http://country929.com/favicon.ico" group-title="CA",CFCO "Country 92.9 & 630" - Chatham, ON
 http://live.leanstream.co/CFCOFM
 
-#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/fd6065ae-5f96-46fe-b70d-c3b2d791cb36" group-title="US",Country 90s Radio
-https://stream.revma.ihrhls.com/zc6870/hls.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.countryradio.cz/assets/favicon/apple-touch-icon.png" group-title="CZ",County
 http://icecast4.play.cz/country128.mp3
+
+#EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/new_assets/fd6065ae-5f96-46fe-b70d-c3b2d791cb36" group-title="US",Country 90s Radio
+https://stream.revma.ihrhls.com/zc6870/hls.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogunik.buzz/img/icon-unik02.png" group-title="RO",Radio Energy Cugir
 https://sonicssl.namehost.ro/8790/stream/;
@@ -233,6 +233,9 @@ https://wr14-ice.stream.khz.se/wr14_mp3
 #EXTINF:-1 tvg-logo="" group-title="US",Barnyard Radio
 http://s1.nexuscast.com:8147/;
 
+#EXTINF:-1 tvg-logo="" group-title="KR",kbs해피fm
+https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTE0ODQxMX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Kn42K-7fwX1RZ5mz7vPrQ5eNAN4I0CQjsuHXySF8EeelTvanOgIbU-NTXn3YS07yhwxpOKyoh3jK5jvO85E~mmFdx9D7w~tniOGYe74pzEocKjBxTcIWS338BK~18oFWYsReMDweI-4E45RsP8SGTkA3hL65ZA8jb1vbwE2j~~Lg59Odds-9CkWWPese0AgoOyDWhg0y-TO~FJCGll1YXr8hrQ5kF2fo-ckF3HjZ7Qx0DezaDgS9WuOK~LwQbzlmloVLlDg0l91LUS5Rg26xpDdaFLFsOdiAZmivHyNe4MIZoVd3303BZBz4NCPYW42YKCVcmvpOu5RmJIuR9L~doA__
+
 #EXTINF:-1 tvg-logo="https://www.991theranch.com/images/favicon/apple-touch-icon.png" group-title="US",99.1 The Ranch
 https://ice9.securenetsystems.net/KWSV
 
@@ -241,9 +244,6 @@ https://listen.181fm.com/181-xkkountry_128k.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="US",Texas Rebel Radio
 https://ice41.securenetsystems.net/KNAF?playSessionID=6CC4A665-B891-1B7E-1922BD6BD5D4109F
-
-#EXTINF:-1 tvg-logo="" group-title="KR",kbs해피fm
-https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcxNjM5MX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=jr9VycfTOKcE-JqPjCcXaq0Z~9UJeSGfyLSnU3K9GUrGLByw7zU~3GiQvfkz0UDti0bIM7z4Gdytvdu-M-T2Fa~~G4ZYWTLE8v-Yw2GNamTV8fc~gpdXomucbmTyLPBJJFhH~XYa7kKBpOwCQ9q1Mah7qwBYWwU6mwXP9LJatVpZCgDN~1N3CEy5bQkdBFo21qH6ms2UdQr874gr0m7nDfxwkEGKKbBQ2Y9w~agKzU9XnOzzzBAaKaiDcJijDfW2v4t6MwONe01qUd3R96rx-4N6c4urlIDaYPnPZBcE08EsSCB1XLbU0T2eNsRJ2SmQyBQKC2IoGP~MNqbTUx-h5w__
 
 #EXTINF:-1 tvg-logo="https://country105.com/wp-content/uploads/sites/29/2018/01/cropped-fm-logos_512x512_countr105.png?w=180" group-title="CA",CKRY 105.1 "Country 105" Calgary, AB
 http://live.leanstream.co/CKRYFM-MP3
@@ -254,32 +254,32 @@ http://stream.wort-fm.org:8000/high.mp3
 #EXTINF:-1 tvg-logo="https://theranchradio.org/favicon.ico" group-title="US",The Ranch
 http://loveradio.stream:8010/theranch/
 
-#EXTINF:-1 tvg-logo="" group-title="US",KVOX "Froggy 99.9"  Moorhead, MN
-http://17853.live.streamtheworld.com/KVOXFMAAC_SC
-
 #EXTINF:-1 tvg-logo="" group-title="SE",Dansbandskanalen.se*
 https://stream.dbmedia.se/dbkMP3
+
+#EXTINF:-1 tvg-logo="" group-title="US",KVOX "Froggy 99.9"  Moorhead, MN
+http://26303.live.streamtheworld.com:3690/KVOXFMAAC_SC
 
 #EXTINF:-1 tvg-logo="" group-title="IN",Air Telugu
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio141/hlspbaudio141_Auto.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MT",MALTIN BISS
-https://s4.voscast.com:8837/default
-
 #EXTINF:-1 tvg-logo="http://www.hpr.org/icon-normal.png" group-title="US",HPR1: Traditional Classic Country
 https://us2.maindigitalstream.com/ssl/7713
 
+#EXTINF:-1 tvg-logo="" group-title="MT",MALTIN BISS
+https://s4.voscast.com:8837/default
+
 #EXTINF:-1 tvg-logo="" group-title="US",WNCY 100.3 "Y100 Country" Neenah-Menasha, WI
-http://29319.live.streamtheworld.com:3690/WNCYFMAAC_SC
+http://17563.live.streamtheworld.com:3690/WNCYFMAAC_SC
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Laut.FM Teddyboys 1983
-http://radio-teddyboys-1983.stream.laut.fm/radio-teddyboys-1983?uuid=14e4b498-16e6-f840-745c-d7d717cfbaca&t302=2026-11-12_10-03-47
-
-#EXTINF:-1 tvg-logo="" group-title="CA",CFCW "New Country 98.1" Camrose, AB
-http://newcap.leanstream.co/CFCWFM
+http://radio-teddyboys-1983.stream.laut.fm/radio-teddyboys-1983?uuid=649dd85d-1c85-e3d7-dc4a-8bef01b0db29&t302=2026-11-17_10-23-46
 
 #EXTINF:-1 tvg-logo="" group-title="GG",Riduna-radio.com
 https://stream.radio.co/sa70b464db/listen
+
+#EXTINF:-1 tvg-logo="" group-title="CA",CFCW "New Country 98.1" Camrose, AB
+http://newcap.leanstream.co/CFCWFM
 
 #EXTINF:-1 tvg-logo="" group-title="US",Wild 94.3
 https://ice8.securenetsystems.net/KWDD
@@ -296,9 +296,9 @@ https://arn.leanstream.co/KOKEFM
 #EXTINF:-1 tvg-logo="" group-title="DE",RauteMusik Country
 http://country-high.rautemusik.fm/
 
+#EXTINF:-1 tvg-logo="https://statics.ccma.cat/img/favicons/catradio-favicon-96x96.png" group-title="ES",CatRàdio
+https://shoutcast.ccma.cat/ccma/catalunyaradioHD.mp3
+
 #EXTINF:-1 tvg-logo="" group-title="US",KTWB "Big Country 92.5" Sioux Falls, SD
 http://23263.live.streamtheworld.com:3690/KTWBFMAAC_SC
-
-#EXTINF:-1 tvg-logo="http://www.gotradio.com/favicon.ico" group-title="US",GotRadio - Today's Country
-http://pureplay.cdnstream1.com/6029_128.mp3
 

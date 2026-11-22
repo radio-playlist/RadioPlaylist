@@ -36,7 +36,7 @@ http://89.238.227.6:8006/;
 http://stream.revma.ihrhls.com/zc6043
 
 #EXTINF:-1 tvg-logo="http://www.bluradio.com/favicon.ico" group-title="CO",Blu Radio, señal nacional (HJCK, 89.9 MHz FM, Bogotá / HJN42, 96.3 MHz, San Martín, Meta / HJH87, 103.1 MHz, Paipa, Boyacá / HJOM, 1090 KHz, Cartagena de Indias / HJM47 103.1 MHz, Algeciras, Huila / HJQ43, 94.1 MHz, Bugalagrande, Valle del Cauca)
-http://23243.live.streamtheworld.com:3690/BLURADIO_SC
+http://26513.live.streamtheworld.com/BLURADIO_SC
 
 #EXTINF:-1 tvg-logo="https://swr3.de/assets/swr3/icons/apple-touch-icon.png" group-title="DE",SWR3
 https://liveradio.swr.de/sw282p3/swr3/play.mp3
@@ -93,7 +93,7 @@ http://server7.20comunicacion.com:8040/
 https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc?source=fnr.web
 
 #EXTINF:-1 tvg-logo="http://wradio.com.mx/pf/resources/wradiomx/favicon.ico?d=71" group-title="MX",W Radio Ciudad de México (XEW-AM 900 kHz, XEW-FM 96.9 MHz) Televisa Radio
-http://18103.live.streamtheworld.com/W_RADIOAAC_SC
+http://26443.live.streamtheworld.com:3690/W_RADIOAAC_SC
 
 #EXTINF:-1 tvg-logo="https://www.klubradio.hu/static/frontend/imgs/KR-clean-logo.png" group-title="HU",Klubrádió 95,3
 https://a7.asurahosting.com:8160/radio.mp3
@@ -119,11 +119,11 @@ http://dispatcher.rndfnk.com/br/br24/live/mp3/mid
 #EXTINF:-1 tvg-logo="https://pic.qtfm.cn/sso/48/1678171152584_a6BwhQSVz.png" group-title="CN",国际新闻
 https://lhttp.qtfm.cn/live/20500172/64k.mp3
 
-#EXTINF:-1 tvg-logo="https://www.rthk.hk/img/apple-icon-114x114.png" group-title="HK",RTHK Radio 1
-http://stm1.rthk.hk/radio1
-
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="DE",WDR 2 Rheinland
 http://wdr-wdr2-rheinland.icecast.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.rthk.hk/img/apple-icon-114x114.png" group-title="HK",RTHK Radio 1
+http://stm1.rthk.hk/radio1
 
 #EXTINF:-1 tvg-logo="null" group-title="BD",বাংলাদেশ বেতার ঢাকা ক
 http://as1.digitalsynapsebd.com:8582/;
@@ -143,7 +143,7 @@ http://stream.radioreklama.bg/radio164
 #EXTINF:-1 tvg-logo="http://lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="GB",LBC London News
 http://media-ice.musicradio.com/LBC1152
 
-#EXTINF:-1 tvg-logo="https://radiohrn.hn/favicon.ico" group-title="HN",Radio HRN La Voz de Honduras
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/b5/7c/b57cc9f082d754de8d1cbdec4ac2bde7.png" group-title="HN",Radio HRN 670 AM
 https://ice42.securenetsystems.net/HRN
 
 #EXTINF:-1 tvg-logo="https://cdn.mdr.de/resources/global/img/mdrde/favicons/apple-icon-120x120.png" group-title="DE",MDR Aktuell
@@ -173,11 +173,11 @@ https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
 #EXTINF:-1 tvg-logo="" group-title="NP",Radio Nepal
 https://stream1.radionepal.gov.np/live/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png" group-title="CA",CFRB News/Talk 1010 (Toronto, ON)
-http://18183.live.streamtheworld.com:3690/CFRBAMAAC_SC
-
 #EXTINF:-1 tvg-logo="http://www.lbc.co.uk/assets_v4r/lbc/img/favicon-196x196.png" group-title="GB",LBC London (London stream) MP3
 http://media-ice.musicradio.com/LBCLondonMP3Low
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Newstalk_1010.png/200px-Newstalk_1010.png" group-title="CA",CFRB News/Talk 1010 (Toronto, ON)
+http://29324.live.streamtheworld.com:3690/CFRBAMAAC_SC
 
 #EXTINF:-1 tvg-logo="https://www.ndr.de/apple-touch-icon-120x120.png" group-title="DE",NDR Info (Hamburg)
 http://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3
@@ -206,14 +206,14 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPA
 #EXTINF:-1 tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/arabic/images/icons/icon-128x128.png" group-title="GB",BBC Arabic Radio
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="LK",Sirasa FM
-http://live.trusl.com:1170/;
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/VRT_Radio_1_logo.svg" group-title="BE",VRT Radio 1
+http://icecast.vrtcdn.be/radio1-high.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="RO",RFI Romania
 http://asculta.rfi.ro:9128/live.aac
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/VRT_Radio_1_logo.svg" group-title="BE",VRT Radio 1
-http://icecast.vrtcdn.be/radio1-high.mp3
+#EXTINF:-1 tvg-logo="" group-title="LK",Sirasa FM
+http://live.trusl.com:1170/;
 
 #EXTINF:-1 tvg-logo="https://www.ndr.de/apple-touch-icon-120x120.png" group-title="DE",NDR Info (Niedersachsen)
 http://icecast.ndr.de/ndr/ndrinfo/live/mp3/128/stream.mp3
@@ -230,17 +230,17 @@ http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps
 #EXTINF:-1 tvg-logo="https://www.svoboda.org/content/responsive/rfe/img/webapp/ico-128x128.png" group-title="CZ",Свобода
 https://rfe-ingest.akamaized.net/hls/live/2035254/axia04/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="VE",Unión Radio 90.3 FM Caracas
-http://ur58.lorini.net:2080/stream
-
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s24943q.png" group-title="GB",BBC Radio 5 Live (128k)
 http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d128000.norewind.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VE",Unión Radio 90.3 FM Caracas
+http://ur58.lorini.net:2080/stream
 
 #EXTINF:-1 tvg-logo="https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png" group-title="DE",Deutschlandfunk Kultur | DLF | MP3 128k
 https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web
 
 #EXTINF:-1 tvg-logo="http://www.ctvnews.ca/pf/resources/images/ctvnews/favicon.ico?d=111" group-title="CA",CTV News Audio Channel
-http://26103.live.streamtheworld.com/TV_CTV_NEWSAAC_SC
+http://18183.live.streamtheworld.com:3690/TV_CTV_NEWSAAC_SC
 
 #EXTINF:-1 tvg-logo="https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png" group-title="NZ",RNZ National MP3
 http://radionz-ice.streamguys.com/national.mp3
@@ -255,7 +255,7 @@ http://lux.radio.tvstitch.com/kyiv/max_adv_sd
 http://streamer.radio.co/s81d30349a/low
 
 #EXTINF:-1 tvg-logo="https://energy.ch/ech-new/images/ech/apple-touch-icon.png" group-title="CH",Energy Zürich (NRJ)
-http://broadcast.infomaniak.ch/energyzuerich-high.mp3
+http://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
 
 #EXTINF:-1 tvg-logo="https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raprvi/icons/apple-touch-icon.png" group-title="SI",Radio Prvi
 http://mp3.rtvslo.si/ra1
@@ -269,11 +269,11 @@ http://sk.cri.cn/hyhq.m3u8
 #EXTINF:-1 tvg-logo="https://www1.wdr.de/resources-v5.139.1/img/favicon/apple-touch-icon.png" group-title="DE",WDR 2 Rhein und Ruhr
 http://wdr-wdr2-rheinruhr.icecast.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3
 
-#EXTINF:-1 tvg-logo="http://lr1.lsm.lv/favicon/lr1-favicon-180x180.png" group-title="LV",Latvijas Radio 1
-http://lr1mp1.latvijasradio.lv:8012/;
-
 #EXTINF:-1 tvg-logo="https://jak101fm.com/wp-content/uploads/2020/08/cropped-logo-jak-bar-1-180x180.png" group-title="ID",Jak 101 FM
 http://103.246.184.62:1935/noice_jakfm/jakfm/chunklist_w1246572933.m3u8
+
+#EXTINF:-1 tvg-logo="http://lr1.lsm.lv/favicon/lr1-favicon-180x180.png" group-title="LV",Latvijas Radio 1
+http://lr1mp1.latvijasradio.lv:8012/;
 
 #EXTINF:-1 tvg-logo="" group-title="AR",Radio Con Vos 89.9
 https://server1.stweb.tv/rcvos/live/playlist.m3u8

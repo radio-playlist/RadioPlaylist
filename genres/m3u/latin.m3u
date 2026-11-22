@@ -18,7 +18,7 @@ http://latinareggaeton.ice.infomaniak.ch/latinareggaeton.mp3
 http://strm112.1.fm/caferadio_mobile_mp3
 
 #EXTINF:-1 tvg-logo="https://uploads.candelaestereo.com/1/2019/06/cropped-logo-candela-llama-100x100.png" group-title="CO",Candela Estéreo Bogotá (HJPU 101.9)
-http://27423.live.streamtheworld.com/CANDELAESTEREO_SC
+http://24223.live.streamtheworld.com/CANDELAESTEREO_SC
 
 #EXTINF:-1 tvg-logo="http://radiobachata.net/favicon.ico" group-title="DO",Radio Bachata
 http://perseus.shoutca.st:8312/;stream/1
@@ -38,17 +38,17 @@ http://streaming5.elitecomunicacion.es:8030/live.mp3
 #EXTINF:-1 tvg-logo="" group-title="PT",ABC Portugal
 http://centova.radio.com.pt:8547/;
 
-#EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio REMIX
-https://stream.0nlineradio.com/remix?ref=radiobrowser
-
 #EXTINF:-1 tvg-logo="http://liveradio.de/media/cache/station_detail/18f08aee-f06b-4965-b607-3f25a581619c.jpg" group-title="CH",1.FM - Absolute Pop Latino Radio
 http://strm112.1.fm/latino_mobile_mp3
+
+#EXTINF:-1 tvg-logo="" group-title="DE",0nlineradio REMIX
+https://stream.0nlineradio.com/remix?ref=radiobrowser
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Bossa Nova Hits
 http://strm112.1.fm/bossanova_mobile_mp3
 
 #EXTINF:-1 tvg-logo="http://www.lamejor.com.mx/u/plantillas/p/la-mejor-fm/imgs/favicons//apple-touch-icon.png?v2" group-title="MX",XHTIM "La Mejor" 90.7 FM Tijuana, BN
-http://18303.live.streamtheworld.com/XHTIM_SC
+http://18303.live.streamtheworld.com:3690/XHTIM_SC
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1bdF482/REMIX-PARTYNBREAKS-LOGO-1.png" group-title="DE",# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - DJ Mixtape RADIO
 https://stream.breakz.fm/?ref=radiobrowser-remix-partybreaks-radio
@@ -140,11 +140,11 @@ https://stream-48.zeno.fm/gs4xg5s0csmtv?zs=fpe9FmGvSNuTKvhiQP2myQ
 #EXTINF:-1 tvg-logo="" group-title="CH",Traxx FM - Latino
 http://traxx008.ice.infomaniak.ch/traxx008-low.mp3
 
-#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/297/6544fa9112c3f.png" group-title="US",Viva FM Orlando 99.5 Orange County/103.7 Osceola County
-https://stream.broadcastserver.net:2020/stream/wvvo?_=23526
-
 #EXTINF:-1 tvg-logo="https://i.iheart.com/v3/re/assets.streams/6542c38fa019d6dc1648908c" group-title="MX",MEGA 96.3 (Los Ángeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los Ángeles, California, EUA
 https://liveaudio.lamusica.com/LA_KXOL_icy
+
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/297/6544fa9112c3f.png" group-title="US",Viva FM Orlando 99.5 Orange County/103.7 Osceola County
+https://stream.broadcastserver.net:2020/stream/wvvo?_=23526
 
 #EXTINF:-1 tvg-logo="https://www.radioplay.bg/assets/logos/citylatin.png" group-title="BG",City Latin
 https://play.global.audio/citylatin.aac
@@ -180,7 +180,7 @@ https://stream.0nlineradio.com/latin?ref=radiobrowser
 https://live.radioart.com/fRomantic_latin.mp3
 
 #EXTINF:-1 tvg-logo="https://www.iloveradio.de/favicon.ico" group-title="DE",i love radio - the sun
-http://ilm.stream27.radiohost.de/ilm_ilovethesun_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzk0NDcxMTE4JmQ9MjBlOTZhMzBlZDI3ODQ4OGI2YmM
+http://ilm.stream18.radiohost.de/ilm_ilovethesun_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzk0OTA0MzU4JmQ9OGFjYzhlMTFmOGUyN2RlN2VjOWI
 
 #EXTINF:-1 tvg-logo="" group-title="IT",Radio Mambo
 https://mambo.newradio.it/stream
@@ -212,14 +212,14 @@ http://streaming.cst98.com:8000/club.mp3
 #EXTINF:-1 tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/709df609-f0bb-4040-98ea-218713355f58.jpg" group-title="MX",+Exclusively Bad Bunny
 https://streaming.exclusive.radio/er-app/badbunny/icecast.audio
 
+#EXTINF:-1 tvg-logo="https://radio1550.com/wp-content/uploads/2025/01/cropped-cropped-PWA-512X512-192x192.png" group-title="PE",Radio 1550, La Radio Joven. Huancayo. 88.9 FM.
+https://streaming.virtugo.digital:8002/stream
+
 #EXTINF:-1 tvg-logo="https://radio.archipielago.uno/radio-sola.png" group-title="PR",Radio Costa
 https://radio.archipielago.uno/radiocosta
 
 #EXTINF:-1 tvg-logo="http://resources.live24.gr/resources/images/stations/028ef2a7-2447-44be-995c-221bc9e975be.png" group-title="GR",Nova 106
 http://novafm106.media.friktoria.net:8000/novafm106.mp3
-
-#EXTINF:-1 tvg-logo="https://radio1550.com/wp-content/uploads/2025/01/cropped-cropped-PWA-512X512-192x192.png" group-title="PE",Radio 1550, La Radio Joven. Huancayo. 88.9 FM.
-https://streaming.virtugo.digital:8002/stream
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Musicaplus Radio
 http://stream.laut.fm/musicaplus
@@ -269,11 +269,11 @@ http://kadushi.westream.cloud:8100/xstream
 #EXTINF:-1 tvg-logo="https://zeno.fm/_ipx/f_webp&q_85&fit_cover&s_144x144/https://images.zeno.fm/hcRV8CEGaG8Vk2Shiuxw5Jm7b76n90K6teDAzQz0QXA/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0FrT3Z6M3drTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1EtYWJINHdrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY3MTgzMTYyMTAwMA.webp" group-title="MX",Viva El Mariachi Radio
 https://stream.zenolive.com/sy87dubz5f5tv
 
-#EXTINF:-1 tvg-logo="https://radiowow.com/wp-content/uploads/2024/09/cropped-radio-wow-180x180.png" group-title="IT",Radio WoW Latin
-https://sphera.fluidstream.eu/rwow_latin.mp3
-
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-latin_600x600.jpg" group-title="DE",- 0 N - Latin on Radio
 https://0n-latin.radionetz.de/0n-latin.mp3
+
+#EXTINF:-1 tvg-logo="https://radiowow.com/wp-content/uploads/2024/09/cropped-radio-wow-180x180.png" group-title="IT",Radio WoW Latin
+https://sphera.fluidstream.eu/rwow_latin.mp3
 
 #EXTINF:-1 tvg-logo="" group-title="HU",CoolFm latin
 https://mediagw.e-tiger.net/stream/zc07
@@ -284,11 +284,11 @@ http://sr4.inmystream.info:8183/;stream.mp3
 #EXTINF:-1 tvg-logo="https://image.atsw.de/atsw/production/2024-06/rrsommerhits_600x600.jpg" group-title="DE",Radio Regenbogen Sommerhits
 https://stream.regenbogen.de/sommerhits/aac-128/radiobrowser
 
-#EXTINF:-1 tvg-logo="" group-title="DZ",Jow Radio - Jow Latino
-https://azuracast.dataplayapps.com/listen/jow_latino/radio.mp3
-
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/766/69c18f5b26674.png" group-title="PE",La Inolvidable 93.7 FM
 https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e24cf4eacd81ada4e6b4
+
+#EXTINF:-1 tvg-logo="" group-title="DZ",Jow Radio - Jow Latino
+https://azuracast.dataplayapps.com/listen/jow_latino/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/f044a098-02a6-4253-9380-63d0a4fe7184.jpg" group-title="AE",Gloria Estefan
 http://2.mystreaming.net/er/gloriaestefan/icecast.audio
@@ -296,9 +296,9 @@ http://2.mystreaming.net/er/gloriaestefan/icecast.audio
 #EXTINF:-1 tvg-logo="https://www.calimbre.com/wp-content/uploads/cropped-Picsart_24-02-27_21-59-33-938-scaled-1.jpg" group-title="ES",Calimbre Radio
 https://control.streaming-pro.com:6048/stream
 
-#EXTINF:-1 tvg-logo="" group-title="CO",DiscoRumba 95.4 FM
-https://virtual1.emisorasvirtuales.com:8050/live
-
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Reggaeton Heat
 http://strm112.1.fm/reggaeton_mobile_mp3
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/96/c3/96c30e7a59031307d30f29c426f20a37.png" group-title="PE",Radio Moda 97.3 FM
+https://us-b4-p-e-zs14-audio.cdn.mdstrm.com/live-audio-aw/6839e1c82cc4c480fcd318dd
 

@@ -3,7 +3,7 @@
 #PLAYLIST:RadioCatalog - CHILLOUT
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="US",SomaFM Groove Salad (128k MP3)
-https://ice6.somafm.com/groovesalad-128-mp3
+https://ice5.somafm.com/groovesalad-128-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Antenne Bayern - Chillout
 http://mp3channels.webradio.antenne.de/chillout
@@ -30,7 +30,7 @@ http://stream.cdm-chillout.com:8020/stream-mp3-Chill
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/dronezone-400.jpg" group-title="US",SomaFM Drone Zone (128k MP3)
-https://ice6.somafm.com/dronezone-128-mp3
+https://ice5.somafm.com/dronezone-128-mp3
 
 #EXTINF:-1 tvg-logo="https://ambientmodern.com/wp-content/uploads/2020/05/cropped-ambient-modern-3000-180x180.png" group-title="US",Ambient Modern
 http://radio.stereoscenic.com/mod-h
@@ -63,7 +63,7 @@ http://cast.magicstreams.gr:9125/stream
 http://chill.friskyradio.com/friskychill_mp3_high
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/beatblender-400.jpg" group-title="US",SomaFM Beat Blender (128k MP3)
-https://ice6.somafm.com/beatblender-128-mp3
+https://ice4.somafm.com/beatblender-128-mp3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mtCKLC/aktHits.jpg" group-title="DE",# Aktuelle HITS - 24H NON-STOP MUSIC - DANCE & DJ MIX RADIO @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET
 https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits
@@ -75,7 +75,7 @@ http://stream.cdm-smoothsax.com:8024/stream-mp3-Smooth
 https://stream.epic-classical.com/classical-music-for-sleep
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="US",SomaFM Groove Salad (128k AAC)
-https://ice6.somafm.com/groovesalad-128-aac
+https://ice5.somafm.com/groovesalad-128-aac
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Epic Lounge - SLEEP & MEDITATION
 https://stream.epic-lounge.com/sleep-meditation?ref=radiobrowser
@@ -110,11 +110,11 @@ http://usa9.fastcast4u.com/proxy/jamz?mp=/1
 #EXTINF:-1 tvg-logo="https://www.allzicradio.com/apple-touch-icon-120x120.png" group-title="FR",Allzic Radio Chill Out
 http://allzic53.ice.infomaniak.ch/allzic53.mp3
 
-#EXTINF:-1 tvg-logo="https://chillofi-radio.dez.ovh/img/clofi-logo.jpg" group-title="FR",Chillofi radio
-http://streams.dez.ovh:8000/radio.mp3
-
 #EXTINF:-1 tvg-logo="" group-title="US",EROTICA LOUNGE
 https://stream.zeno.fm/89asra0sfa0uv
+
+#EXTINF:-1 tvg-logo="https://chillofi-radio.dez.ovh/img/clofi-logo.jpg" group-title="FR",Chillofi radio
+http://streams.dez.ovh:8000/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://www.rm.fm/favicon.ico" group-title="DE",__LOUNGE__ by rautemusik (rm.fm)
 https://lounge-high.rautemusik.fm/?ref=radiobrowser
@@ -134,11 +134,11 @@ http://79.120.77.11:8002/newage
 #EXTINF:-1 tvg-logo="" group-title="DE",Technolovers - IBIZA HOUSE
 https://stream.technolovers.fm/ibiza-house?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="" group-title="GR",Chillout Tree Pines
-http://n0f.radiojar.com/n4dzb3znn3quv.mp3?rj-ttl=5&rj-tok=AAABeKi_TokAUTY4EzBEHHiJzQ
-
 #EXTINF:-1 tvg-logo="https://perfectmoods.nl/favicon.ico" group-title="NL",PerfectMoods – 24/7 Quality Lounge
 https://www.radioking.com/play/perfectmoods/104227
+
+#EXTINF:-1 tvg-logo="" group-title="GR",Chillout Tree Pines
+http://n0f.radiojar.com/n4dzb3znn3quv.mp3?rj-ttl=5&rj-tok=AAABeKi_TokAUTY4EzBEHHiJzQ
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DgTG33b/TOP100-b.png" group-title="DE",#TOP 100 - DJ CHARTS & REMIX RADIO @ TikTok PROMO Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, Moombahton, Reggaeton, HipHop, Funk, Club & Party Radio - & SUMMER TUNES - 2024 / 2025
 https://stream.breakz.fm/?ref=top100radio-browser
@@ -146,11 +146,11 @@ https://stream.breakz.fm/?ref=top100radio-browser
 #EXTINF:-1 tvg-logo="" group-title="DE",Epic Lounge - CHILLOUT LOUNGE
 https://stream.epic-lounge.com/chillout-lounge?ref=radiobrowser
 
+#EXTINF:-1 tvg-logo="https://somafm.com/img3/christmas-400.jpg" group-title="US",SomaFM Christmas Lounge 256k
+https://ice5.somafm.com/christmas-256-mp3
+
 #EXTINF:-1 tvg-logo="https://radcap.ru/apple-touch-icon.png" group-title="RU",Radio Caprice - Chill Out
 http://79.111.14.76:9067/
-
-#EXTINF:-1 tvg-logo="https://somafm.com/img3/christmas-400.jpg" group-title="US",SomaFM Christmas Lounge 256k
-https://ice6.somafm.com/christmas-256-mp3
 
 #EXTINF:-1 tvg-logo="" group-title="CH",1.FM - Costa Del Mar
 http://strm112.1.fm/costadelmarchillout_mobile_mp3
@@ -159,7 +159,7 @@ http://strm112.1.fm/costadelmarchillout_mobile_mp3
 https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/beatblender-400.jpg" group-title="US",SomaFM Beat Blender (128k AAC)
-https://ice2.somafm.com/beatblender-128-aac
+https://ice5.somafm.com/beatblender-128-aac
 
 #EXTINF:-1 tvg-logo="" group-title="GR",Disco Cafe
 https://azuracast.streams.ovh:8260/radio.mp3
@@ -216,7 +216,10 @@ https://1a-chillout.radionetz.de/1a-chillout.mp3
 https://listen.radioking.com/radio/49831/stream/86743
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/groovesalad-400.jpg" group-title="US",SomaFM Groove Salad (64k AAC)
-https://ice2.somafm.com/groovesalad-64-aac
+https://ice5.somafm.com/groovesalad-64-aac
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7J492pjD/neuersachein.jpg" group-title="DE",- NEUERSCHEINUNGEN - Radio Charts - DJ Charts - Club Charts - Top 100 - Top 40 Club - Pop, Hip-Hop, Dance, EDM, House, Techno, R&B, Trap, Reggaeton, Afrobeat, Indie-Pop, Tropical House, Future Bass, Electro Swing, Synthwave, Deep House, Progressive House, Vocal House, DJ Sets, Remix, Mashup, Dancefloor, Festival-Hits, Club-Hits, Nightlife, Underground.
+https://breakz-high.rautemusik.fm/?ref=rb-neuerscheinungen
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Atmosfera 128
 http://185.64.76.49:8000/128
@@ -224,14 +227,14 @@ http://185.64.76.49:8000/128
 #EXTINF:-1 tvg-logo="" group-title="DE",Epic Lounge - SOFT HOUSE LOUNGE
 https://stream.epic-lounge.com/soft-house-lounge?ref=radiobrowser
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7J492pjD/neuersachein.jpg" group-title="DE",- NEUERSCHEINUNGEN - Radio Charts - DJ Charts - Club Charts - Top 100 - Top 40 Club - Pop, Hip-Hop, Dance, EDM, House, Techno, R&B, Trap, Reggaeton, Afrobeat, Indie-Pop, Tropical House, Future Bass, Electro Swing, Synthwave, Deep House, Progressive House, Vocal House, DJ Sets, Remix, Mashup, Dancefloor, Festival-Hits, Club-Hits, Nightlife, Underground.
-https://breakz-high.rautemusik.fm/?ref=rb-neuerscheinungen
-
 #EXTINF:-1 tvg-logo="" group-title="CH",True House Chill
 https://stream.truehouse.net:8443/chill
 
 #EXTINF:-1 tvg-logo="" group-title="DE",Hirschmilch Radio
 https://hirschmilch.de:7001/chillout.mp3
+
+#EXTINF:-1 tvg-logo="https://sunsetchilloutlounge.com/wp-content/uploads/2023/04/sunrise_sunset_captions_puns_quotes_instagram-7-300x225.jpg" group-title="US",Sunset Chillout Lounge
+https://listen.radioking.com/radio/571682/stream/631712
 
 #EXTINF:-1 tvg-logo="" group-title="DE",RMNrelax
 http://stream.rmnrelax.de:8023/
@@ -241,9 +244,6 @@ http://stream15.top-ix.org/partygroove
 
 #EXTINF:-1 tvg-logo="" group-title="DE",POP LOUNGE CAFE
 http://stream.laut.fm/poploungecafe
-
-#EXTINF:-1 tvg-logo="https://sunsetchilloutlounge.com/wp-content/uploads/2023/04/sunrise_sunset_captions_puns_quotes_instagram-7-300x225.jpg" group-title="US",Sunset Chillout Lounge
-https://listen.radioking.com/radio/571682/stream/631712
 
 #EXTINF:-1 tvg-logo="" group-title="RU",Mixadance FM Relax
 https://stream.mixadance.fm/relax#.m4a
@@ -258,16 +258,16 @@ https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069
 https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
 
 #EXTINF:-1 tvg-logo="https://somafm.com/img3/dronezone-400.jpg" group-title="US",SomaFM Drone Zone (64k AAC)
-https://ice6.somafm.com/dronezone-64-aac
+https://ice5.somafm.com/dronezone-64-aac
+
+#EXTINF:-1 tvg-logo="https://werave.com.br/wp-content/uploads/2020/09/vinyl.png" group-title="US",WeRave Music Radio 02 - Study and Chillout
+https://stream.zeno.fm/cpnv07rjvp0vv
 
 #EXTINF:-1 tvg-logo="" group-title="HR",Otvoreni Radio - Chill
 https://stream.otvoreni.hr/chill
 
 #EXTINF:-1 tvg-logo="https://www.0nradio.com/logos/0n-lounge_600x600.jpg" group-title="DE",- 0 N - Lounge on Radio
 https://0n-lounge.radionetz.de/0n-lounge.mp3
-
-#EXTINF:-1 tvg-logo="https://werave.com.br/wp-content/uploads/2020/09/vinyl.png" group-title="US",WeRave Music Radio 02 - Study and Chillout
-https://stream.zeno.fm/cpnv07rjvp0vv
 
 #EXTINF:-1 tvg-logo="https://labr.online/labr.png" group-title="GB",LABR Love a Brother Radio
 http://23.81.33.82:24914/stream
@@ -278,11 +278,11 @@ https://1a-relax.radionetz.de/1a-relax.mp3
 #EXTINF:-1 tvg-logo="" group-title="FR",VIP-Radios - Relax Zone
 http://178.32.111.41:8045/stream-128kmp3-RelaxZone
 
-#EXTINF:-1 tvg-logo="" group-title="DE",EPIC CLASSICAL - Classical Relax
-https://stream.epic-classical.com/classical-relax
-
 #EXTINF:-1 tvg-logo="https://www.antenne.de/logos/station-antenne-bayern/apple-touch-icon.png" group-title="DE",ANTENNEBAYERN Chillout (64 kbps AAC)
 http://mp3channels.webradio.antenne.de/chillout.aac
+
+#EXTINF:-1 tvg-logo="" group-title="DE",EPIC CLASSICAL - Classical Relax
+https://stream.epic-classical.com/classical-relax
 
 #EXTINF:-1 tvg-logo="" group-title="ES",Radio Radio Network
 http://radioradio.es:8000/stream
@@ -290,11 +290,11 @@ http://radioradio.es:8000/stream
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GLkKPMc/Hotel-Lounge.png" group-title="DE",0R - HOTEL LOUNGE || Chill, Jazz, Smooth, Relax, Soft Music, Acoustic, Background, Dinner, Romantic, Evening, Calm, Cafe, Instrumental, Soft Pop
 https://0nlineradio.radioho.st/lounge-hotel-lounge?ref=radio-browser26
 
-#EXTINF:-1 tvg-logo="https://nordichilloutradio.com/wp-content/themes/nordichillout/media/apple-touch-icon.png" group-title="LV",Nordic Chillout Radio
-https://play.radioking.io/nordic-chillout-radio/736489
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whsdTsct/MUSIC-FOR-SLEEP.png" group-title="DE",0R - MUSIC FOR SLEEP || Sleep, Relax, Calm, Meditation, Nature, Ambient, Soft Music, Piano, Deep Sleep, Peaceful, Chill, Background, Slow, Gentle, Instrumental
 https://0nlineradio.radioho.st/classical-classical-music-for-sleep?ref=radio-browser26
+
+#EXTINF:-1 tvg-logo="https://nordichilloutradio.com/wp-content/themes/nordichillout/media/apple-touch-icon.png" group-title="LV",Nordic Chillout Radio
+https://play.radioking.io/nordic-chillout-radio/736489
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/251sfzx/Background-Music.jpg" group-title="DE",EPIC CLASSICAL - Classical Background Music
 https://stream.epic-classical.com/classical-background-music
